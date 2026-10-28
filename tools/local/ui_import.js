@@ -14,6 +14,6 @@ const { chromium } = require('playwright');
   if (!input) { console.log('NO UPLOAD FORM; title=', await p.title()); console.log((await p.content()).slice(0, 800)); await b.close(); process.exit(1); }
   await Promise.all([p.waitForNavigation({ timeout: 120000 }), input.setInputFiles(archive)]);
   const body = await p.content();
-  console.log('after upload:', p.url(), /UNZIP|DbRestore error|ZIP</.test(body) ? 'ERROR: ' + body.slice(0, 500) : 'ok');
+  console.log('after upload:', p.url(), /UNZIP|DbRestore error|ZIP<|aborted|System message/.test(body) ? 'ERROR: ' + body.replace(/\s+/g,' ').slice(0, 600) : 'ok');
   await b.close();
 })();
