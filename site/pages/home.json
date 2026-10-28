@@ -752,7 +752,7 @@
                     },
                     "index": 0,
                     "user_style": null,
-                    "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                    "more_classes": "",
                     "embedded_css_rules": {
                      "$text": [
                       ".id_Y3369cbd218bba74 {\r",
@@ -764,16 +764,16 @@
                       "}\r"
                      ]
                     },
-                    "value": "horaires-d481.png",
+                    "value": "icone-horaires.svg",
                     "caption": "",
                     "href": "",
                     "tooltip": "Horaires d’ouverture",
-                    "original_name": "horaires.PNG",
+                    "original_name": "icone-horaires.svg",
                     "in_gallery": "0",
-                    "uploaded_image": "horaires.png",
+                    "uploaded_image": "icone-horaires.svg",
                     "keep_format": "0",
-                    "width": "142",
-                    "height": "145",
+                    "width": "140",
+                    "height": "140",
                     "notFlexible": "0",
                     "name_in_model": "MY1265823075a419d8"
                    }
@@ -889,7 +889,7 @@
                     },
                     "index": 0,
                     "user_style": null,
-                    "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                    "more_classes": "",
                     "embedded_css_rules": {
                      "$text": [
                       ".id_Y236a1bff6c1a8c4 {\r",
@@ -901,16 +901,16 @@
                       "}\r"
                      ]
                     },
-                    "value": "contact-c048.png",
+                    "value": "icone-contact.svg",
                     "caption": "",
                     "href": "",
                     "tooltip": "Nous contacter",
-                    "original_name": "contact.PNG",
+                    "original_name": "icone-contact.svg",
                     "in_gallery": "0",
-                    "uploaded_image": "contact-87a1.png",
+                    "uploaded_image": "icone-contact.svg",
                     "keep_format": "0",
-                    "width": "141",
-                    "height": "145",
+                    "width": "140",
+                    "height": "140",
                     "notFlexible": "0"
                    }
                   ]
@@ -1053,7 +1053,7 @@
                     },
                     "index": 0,
                     "user_style": null,
-                    "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                    "more_classes": "",
                     "embedded_css_rules": {
                      "$text": [
                       ".id_Y3869cbd218bba7d {\r",
@@ -1062,20 +1062,20 @@
                       "\topacity: 1;\r",
                       "\tbackground-color: #F7F7F4;\r",
                       "\tcolor: #F7F7F4;\r",
-                      "\tpadding-top: 29px;\r",
+                      "\tpadding: 0px;\r",
                       "}\r"
                      ]
                     },
-                    "value": "conseil-90f0.png",
+                    "value": "icone-conseil.svg",
                     "caption": "",
                     "href": "",
                     "tooltip": "Conseil municipal",
-                    "original_name": "conseil.PNG",
+                    "original_name": "icone-conseil.svg",
                     "in_gallery": "0",
-                    "uploaded_image": "conseil.png",
+                    "uploaded_image": "icone-conseil.svg",
                     "keep_format": "0",
-                    "width": "85",
-                    "height": "105",
+                    "width": "140",
+                    "height": "140",
                     "notFlexible": "0",
                     "name_in_model": "MY1145823072739b87"
                    }
@@ -1208,7 +1208,7 @@
                     },
                     "index": 0,
                     "user_style": null,
-                    "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                    "more_classes": "",
                     "embedded_css_rules": {
                      "$text": [
                       ".id_Y4369cbd218bba85 {\r",
@@ -1220,16 +1220,16 @@
                       "}\r"
                      ]
                     },
-                    "value": "lecteur_puce-dd3e.png",
+                    "value": "icone-lecteur-puce.svg",
                     "caption": "",
                     "href": "",
                     "tooltip": "Lecteur de puce électronique",
-                    "original_name": "lecteur_puce.PNG",
+                    "original_name": "icone-lecteur-puce.svg",
                     "in_gallery": "0",
-                    "uploaded_image": "lecteur_puce.png",
+                    "uploaded_image": "icone-lecteur-puce.svg",
                     "keep_format": "0",
-                    "width": "153",
-                    "height": "136",
+                    "width": "140",
+                    "height": "140",
                     "notFlexible": "0",
                     "name_in_model": "MY122582307549b99e"
                    }

@@ -86,6 +86,9 @@ et le remplace par `__WS_PWD__` dans le dépôt. Le dépôt étant public, ce fi
 | `tools/preview_local.py` | charge `site/` (ou une archive) dans l'instance WebSiCo locale |
 | `tools/local/` | installation de l'instance locale, captures, import via l'admin (docs/LOCAL.md) |
 | `tools/urls.py` | réécriture des URL du site selon la cible |
+| `tools/check_css.py` | vérifie que `default.css` respecte la syntaxe de l'éditeur de styles WebSiCo |
+| `tools/icons/make_icons.py` | génère les icônes SVG des tuiles de l'accueil (libellé masqué en petit) |
+| `tools/local/edit_mode.js` | ouvre une page en mode édition et remonte les erreurs JavaScript |
 | `tools/sitelib.py` | édition des pages en Python : recherche, clonage avec ids neufs, index, sauvegarde |
 | `tools/oneoff/` | scripts de modifications datés (traçabilité de ce qui a été fait hors interface) |
 | `tools/local/responsive_check.js` | audit débordements / images cassées sur toutes les pages, 4 largeurs |
@@ -108,3 +111,17 @@ tous les événements à venir (ordre chronologique).
 Inter, Manrope et Playfair Display sont hébergées dans `data/fonts/` (licence SIL OFL,
 `data/fonts/OFL.txt`) et déclarées dans l'en-tête HTML de chaque page. Une nouvelle page créée
 dans WebSiCo doit reprendre cet en-tête (copier celui d'une page existante).
+
+## Feuille de style : contraintes de l'éditeur WebSiCo
+
+L'éditeur de styles de WebSiCo (`ws_style.js`) découpe la feuille avec des expressions
+régulières ; une syntaxe qu'il ne comprend pas **casse tout l'éditeur WYSIWYG** (incident du
+28/10/2026, causé par un commentaire CSS). Règles :
+
+- aucun commentaire `/* … */` ;
+- styles nommés (`.wstextarea_Xxx`…) : un sélecteur par règle, en début de ligne ;
+- tout le reste (`:has()`, sélecteurs multiples, `::-webkit-scrollbar`, media queries…) : **un bloc
+  `@media` par règle** (`@media all { … }` pour du CSS sans condition). L'éditeur conserve ces
+  blocs tels quels, sans les analyser, et les replace en fin de feuille quand on enregistre un style.
+
+`python3 tools/check_css.py` doit répondre « compatible » avant chaque build.

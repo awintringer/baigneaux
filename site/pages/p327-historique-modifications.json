@@ -727,6 +727,284 @@
                     "$class": "WssTitle",
                     "level": "2",
                     "href": "",
+                    "value": "28 octobre 2026",
+                    "id": "Y916ae22fc220cb9",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "FORMALITES",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY9069ea07f4dabcc"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsImage",
+                        "caption": "",
+                        "href": "",
+                        "tooltip": "Logo de Baigneaux",
+                        "original_name": "logosite.png",
+                        "in_gallery": "0",
+                        "uploaded_image": "logosite.png",
+                        "keep_format": "0",
+                        "width": "143",
+                        "height": "143",
+                        "notFlexible": "0",
+                        "value": "logosite-9436.png",
+                        "id": "Y946ae22fc220e55",
+                        "properties": 266240,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": {
+                         "$text": [
+                          ".id_Y946ae22fc220e55 {\r",
+                          "\tmargin-left: auto;\r",
+                          "\tmargin-right: auto;\r",
+                          "}\r"
+                         ]
+                        },
+                        "name_in_model": "MY9369ea07f4dabcf"
+                       }
+                      ],
+                      "id": "Z936ae22fc220dcb",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": "",
+                      "name_in_model": "MZ9269ea07f4dabce"
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p>- Accueil : actualit&eacute;s et &eacute;v&egrave;nements &agrave; venir pr&eacute;sent&eacute;s en rang&eacute;es d&eacute;filantes (10 derni&egrave;res actualit&eacute;s, tous les &eacute;v&egrave;nements &agrave; venir)</p>\r",
+                          "<p>- Ajout des &eacute;v&egrave;nements de novembre : b&eacute;n&eacute;diction des tombes (8/11), comm&eacute;moration du 11 novembre, marche solidaire Novembre bleu (15/11) ; page &Eacute;v&egrave;nements mise &agrave; jour</p>\r",
+                          "<p>- Adresse mail officielle mairie@baigneaux.fr sur tout le site, avec une actualit&eacute; d&eacute;di&eacute;e</p>\r",
+                          "<p>- Nouvel en-t&ecirc;te et nouveau menu pour smartphone</p>\r",
+                          "<p>- Affichage corrig&eacute; sur tablette et smartphone (en-t&ecirc;te, titres, menus, encadr&eacute;s)</p>\r",
+                          "<p>- Ic&ocirc;nes vectorielles des encadr&eacute;s de l'accueil</p>\r",
+                          "<p>- Polices de caract&egrave;res h&eacute;berg&eacute;es sur le site (plus de chargement depuis Google)</p>\r",
+                          "<p>- Textes alternatifs sur les images (accessibilit&eacute;)</p>\r",
+                          "<p>- Corrections de liens dans les actualit&eacute;s</p>"
+                         ]
+                        },
+                        "id": "Y966ae22fc220f67",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": "Texte_normal_align_gauche",
+                        "more_classes": "",
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY9569ea07f4dabd1"
+                       }
+                      ],
+                      "id": "Z956ae22fc220ede",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z956ae22fc220ede {\r\n\twidth: 75%;\r\n}\r",
+                      "name_in_model": "MZ9469ea07f4dabd0"
+                     }
+                    ],
+                    "id": "Z926ae22fc220d42",
+                    "properties": 8209,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ9169ea07f4dabcd"
+                   }
+                  ],
+                  "id": "Z906ae22fc220c30",
+                  "properties": 8448,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ8969ea07f4dabcb"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Fin septembre - octobre 2026",
+                    "id": "Y986ae22fc221079",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "FORMALITES",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY9069ea07f4dabcc"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsImage",
+                        "caption": "",
+                        "href": "",
+                        "tooltip": "Logo de Baigneaux",
+                        "original_name": "logosite.png",
+                        "in_gallery": "0",
+                        "uploaded_image": "logosite.png",
+                        "keep_format": "0",
+                        "width": "143",
+                        "height": "143",
+                        "notFlexible": "0",
+                        "value": "logosite-9436.png",
+                        "id": "Y1016ae22fc221214",
+                        "properties": 266240,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": {
+                         "$text": [
+                          ".id_Y1016ae22fc221214 {\r",
+                          "\tmargin-left: auto;\r",
+                          "\tmargin-right: auto;\r",
+                          "}\r"
+                         ]
+                        },
+                        "name_in_model": "MY9369ea07f4dabcf"
+                       }
+                      ],
+                      "id": "Z1006ae22fc22118b",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": "",
+                      "name_in_model": "MZ9269ea07f4dabce"
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p>- Actualit&eacute;s : tarifs de location de la salle des f&ecirc;tes, r&eacute;novation du cimeti&egrave;re, photos de la f&ecirc;te du village et de la Ma&iuml;ade</p>\r",
+                          "<p>- Mise &agrave; jour de la galerie photos, des m&eacute;decins de garde, des arr&ecirc;t&eacute;s pr&eacute;fectoraux, de la salle des f&ecirc;tes et des demandes d'autorisation d'urbanisme</p>\r",
+                          "<p>- Prochain conseil municipal (2 novembre) et sa convocation</p>"
+                         ]
+                        },
+                        "id": "Y1036ae22fc221326",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": "Texte_normal_align_gauche",
+                        "more_classes": "",
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY9569ea07f4dabd1"
+                       }
+                      ],
+                      "id": "Z1026ae22fc22129d",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z1026ae22fc22129d {\r\n\twidth: 75%;\r\n}\r",
+                      "name_in_model": "MZ9469ea07f4dabd0"
+                     }
+                    ],
+                    "id": "Z996ae22fc221102",
+                    "properties": 8209,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ9169ea07f4dabcd"
+                   }
+                  ],
+                  "id": "Z976ae22fc220ff0",
+                  "properties": 8448,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 2,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ8969ea07f4dabcb"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
                     "value": "22 septembre 2026",
                     "id": "Y426ab27792ab12e",
                     "properties": 1024,
@@ -846,7 +1124,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 1,
+                  "index": 3,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -982,7 +1260,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 2,
+                  "index": 4,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -1118,7 +1396,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 3,
+                  "index": 5,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -1253,7 +1531,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 4,
+                  "index": 6,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -1383,7 +1661,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 5,
+                  "index": 7,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -1521,7 +1799,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 6,
+                  "index": 8,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -1661,7 +1939,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 7,
+                  "index": 9,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",

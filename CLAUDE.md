@@ -23,3 +23,6 @@ et docs/FORMAT.md). Langue de travail : français.
 - Accueil : cartes `carte_actu` (10 dernières, plus récente en premier) et `carte_evenement`
   (toutes, ordre chronologique) ; chaque actu a aussi sa fiche sur la page Actualités (ancre unique).
 - Textes alternatifs = champ `tooltip` des WsImage (sinon WebSiCo affiche le nom de fichier).
+- CSS : `python3 tools/check_css.py` doit passer (pas de commentaires, styles nommés simples,
+  le reste en un bloc `@media` par règle) ; sinon l'éditeur WYSIWYG de WebSiCo est cassé.
+  Vérifier aussi `node tools/local/edit_mode.js` (0 erreur JS) avant de livrer.

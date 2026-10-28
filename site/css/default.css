@@ -1,5 +1,6 @@
 .wsspage_Arriere_plan {
 	background-color: #D1FFE3;
+	font-family: Inter, Arial, sans-serif;
 }
 .WS_PAGE_END {}
 .wssmenu_Main a {
@@ -150,7 +151,7 @@
 	background-color: #e7f1e8;
 }
 .wsimage_Elus {
-	font-family: Calibri, Inter, Arial, sans-serif;
+	font-family: Inter, Arial, sans-serif;
 	font-style: normal;
 	font-size: 1.5em;
 	clear: none;
@@ -251,7 +252,7 @@
 	background-color: #6baa7a;
 }
 .wstextarea_Nom-endroti {
-	font-family: Calibri, Inter, Arial, sans-serif;
+	font-family: Inter, Arial, sans-serif;
 	font-weight: bold;
 	font-style: normal;
 	border-right-color: #555555;
@@ -275,7 +276,7 @@
 	padding-top: 0px;
 	color: #555555;
 	text-align: center;
-	font-family: Calibri, Inter, Arial, sans-serif;
+	font-family: Inter, Arial, sans-serif;
 	font-size: 1.28em;
 }
 .wscontainer_Cadre-rose {
@@ -368,7 +369,7 @@
 	padding: 0px;
 }
 .wsstitle_SP33 {
-	font-family: Calibri, Inter, Arial, sans-serif;
+	font-family: Inter, Arial, sans-serif;
 	font-weight: normal;
 	font-variant: normal;
 	letter-spacing: 0em;
@@ -871,46 +872,54 @@ border-color: #000000;
 	font-family: Manrope, Arial, sans-serif;
 	padding-left: 7px;
 	color: #FF4DD5;
-}/* ===== Rangées défilantes de l'accueil (actus, événements) =====
-   Une rangée devient défilante dès qu'une de ses cartes porte la classe
-   "carte_actu" ou "carte_evenement" (champ "classes supplémentaires" du conteneur). */
-.wssystemcontainer.H:has(> div > .carte_actu),
-.wssystemcontainer.H:has(> div > .carte_evenement) {
-	display: flex !important;
-	contain: inline-size;	/* ne pas élargir la page (mise en page WebSiCo en tableaux) */
-	min-width: 0;
-	flex-wrap: nowrap;
-	gap: 16px;
-	overflow-x: auto;
-	overscroll-behavior-x: contain;
-	scroll-snap-type: x proximity;
-	scroll-padding-inline: 8px;
-	scroll-behavior: smooth;
-	padding: 6px 8px 18px;
-	box-sizing: border-box;
-	scrollbar-width: thin;
-	scrollbar-color: #6baa7a transparent;
 }
-.wssystemcontainer.H:has(> div > .carte_actu) > div:not(.defil_nav),
-.wssystemcontainer.H:has(> div > .carte_evenement) > div:not(.defil_nav) {
-	display: flex !important;
-	flex: 0 0 290px;
-	width: auto !important;
-	scroll-snap-align: start;
+@media all {
+	.wssystemcontainer.H:has(> div > .carte_actu),
+	.wssystemcontainer.H:has(> div > .carte_evenement) {
+		display: flex !important;
+		contain: inline-size;
+		min-width: 0;
+		flex-wrap: nowrap;
+		gap: 16px;
+		overflow-x: auto;
+		overscroll-behavior-x: contain;
+		scroll-snap-type: x proximity;
+		scroll-padding-inline: 8px;
+		scroll-behavior: smooth;
+		padding: 6px 8px 18px;
+		box-sizing: border-box;
+		scrollbar-width: thin;
+		scrollbar-color: #6baa7a transparent;
+	}
 }
-.wssystemcontainer.H > div > .carte_actu,
-.wssystemcontainer.H > div > .carte_evenement {
-	flex: 1 1 auto;
-	margin: 0;
+@media all {
+	.wssystemcontainer.H:has(> div > .carte_actu) > div:not(.defil_nav),
+	.wssystemcontainer.H:has(> div > .carte_evenement) > div:not(.defil_nav) {
+		display: flex !important;
+		flex: 0 0 290px;
+		width: auto !important;
+		scroll-snap-align: start;
+	}
 }
-.wssystemcontainer.H:has(> div > .carte_actu)::-webkit-scrollbar,
-.wssystemcontainer.H:has(> div > .carte_evenement)::-webkit-scrollbar {
-	height: 8px;
+@media all {
+	.wssystemcontainer.H > div > .carte_actu,
+	.wssystemcontainer.H > div > .carte_evenement {
+		flex: 1 1 auto;
+		margin: 0;
+	}
 }
-.wssystemcontainer.H:has(> div > .carte_actu)::-webkit-scrollbar-thumb,
-.wssystemcontainer.H:has(> div > .carte_evenement)::-webkit-scrollbar-thumb {
-	background: #6baa7a;
-	border-radius: 4px;
+@media all {
+	.wssystemcontainer.H:has(> div > .carte_actu)::-webkit-scrollbar,
+	.wssystemcontainer.H:has(> div > .carte_evenement)::-webkit-scrollbar {
+		height: 8px;
+	}
+}
+@media all {
+	.wssystemcontainer.H:has(> div > .carte_actu)::-webkit-scrollbar-thumb,
+	.wssystemcontainer.H:has(> div > .carte_evenement)::-webkit-scrollbar-thumb {
+		background: #6baa7a;
+		border-radius: 4px;
+	}
 }
 @media (max-width: 640px) {
 	.wssystemcontainer.H:has(> div > .carte_actu) > div:not(.defil_nav),
@@ -918,66 +927,109 @@ border-color: #000000;
 		flex-basis: 78vw;
 	}
 }
-/* Flèches ajoutées par le script de la page d'accueil (en-tête HTML de la page) */
-.wssystemcontainer.H > .defil_nav {
-	display: block !important;
-	position: sticky;
-	flex: 0 0 0 !important;
-	width: 0 !important;
-	align-self: center;
-	z-index: 2;
+@media all {
+	.wssystemcontainer.H > .defil_nav {
+		display: block !important;
+		position: sticky;
+		flex: 0 0 0 !important;
+		width: 0 !important;
+		align-self: center;
+		z-index: 2;
+	}
 }
-.wssystemcontainer.H > .defil_prev { left: 0; margin-right: -16px; }
-.wssystemcontainer.H > .defil_next { right: 0; margin-left: -16px; }
-.defil_nav button {
-	width: 42px;
-	height: 42px;
-	border-radius: 50%;
-	border: 1px solid #2f5e3e;
-	background: rgba(255, 255, 255, 0.95);
-	color: #2f5e3e;
-	font-size: 28px;
-	line-height: 38px;
-	padding: 0;
-	cursor: pointer;
-	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-	transition: background .2s ease, color .2s ease;
+@media all {
+	.wssystemcontainer.H > .defil_prev {
+		left: 0;
+		margin-right: -16px;
+	}
 }
-.defil_nav button:hover, .defil_nav button:focus-visible { background: #2f5e3e; color: #ffffff; }
-.defil_next button { margin-left: -46px; }
-.defil_prev button { margin-left: 4px; }
-.defil_debut > .defil_prev, .defil_fin > .defil_next { visibility: hidden; }
+@media all {
+	.wssystemcontainer.H > .defil_next {
+		right: 0;
+		margin-left: -16px;
+	}
+}
+@media all {
+	.defil_nav button {
+		font-family: Manrope, Arial, sans-serif;
+		width: 42px;
+		height: 42px;
+		border-radius: 50%;
+		border: 1px solid #2f5e3e;
+		background: rgba(255, 255, 255, 0.95);
+		color: #2f5e3e;
+		font-size: 28px;
+		line-height: 38px;
+		padding: 0;
+		cursor: pointer;
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+		transition: background .2s ease, color .2s ease;
+	}
+}
+@media all {
+	.defil_nav button:hover,
+	.defil_nav button:focus-visible {
+		background: #2f5e3e;
+		color: #ffffff;
+	}
+}
+@media all {
+	.defil_next button {
+		margin-left: -46px;
+	}
+}
+@media all {
+	.defil_prev button {
+		margin-left: 4px;
+	}
+}
+@media all {
+	.defil_debut > .defil_prev,
+	.defil_fin > .defil_next {
+		visibility: hidden;
+	}
+}
 @media (hover: none) {
-	.wssystemcontainer.H > .defil_nav { display: none !important; }
+	.wssystemcontainer.H > .defil_nav {
+		display: none !important;
+	}
 }
-/* ===== Corrections responsive (tablette / mobile), sans effet sur ordinateur ===== */
-/* Cartes intégrées (OpenStreetMap...) : jamais plus larges que leur bloc */
-.wscontainer iframe, .wscomponent iframe {
-	max-width: 100%;
+@media all {
+	.wscontainer iframe,
+	.wscomponent iframe {
+		max-width: 100%;
+	}
 }
-/* Boutons de l'en-tête et de l'accueil : peuvent rétrécir sous 140 px */
-.wstextarea_Lien_header, .wstextarea_liens_page_principale {
-	grid-template-columns: repeat(auto-fit, minmax(min(140px, 100%), 1fr));
+@media all {
+	.wstextarea_Lien_header,
+	.wstextarea_liens_page_principale {
+		grid-template-columns: repeat(auto-fit, minmax(min(140px, 100%), 1fr));
+	}
 }
 @media (max-width: 1180px) {
 	.wstextarea_Lien_header a {
 		font-size: 16px;
 		padding: 14px 4px;
 	}
+}
+@media (max-width: 1180px) {
 	.wstextarea_retour_accueil {
 		padding-left: 60px;
 		letter-spacing: 0;
 	}
+}
+@media (max-width: 1180px) {
 	.wstextarea_retour_accueil a {
 		font-size: 20px;
 	}
 }
-/* Blocs des élus : passent à la ligne au lieu de déborder */
 @media (max-width: 900px) {
 	.wssystemcontainer.H:has(> div > .wscontainer_bloc_conseil_perso) {
 		display: flex !important;
 		flex-wrap: wrap;
 	}
+}
+@media (max-width: 900px) {
 	.wssystemcontainer.H:has(> div > .wscontainer_bloc_conseil_perso) > div {
 		display: block !important;
 		flex: 1 1 240px;
@@ -990,116 +1042,220 @@ border-color: #000000;
 		padding: 15px;
 		overflow-wrap: anywhere;
 	}
+}
+@media (max-width: 640px) {
 	.wsstitle_Titre_main_page_sub {
 		font-size: 2.6em;
 		padding-left: 15px;
 	}
-	.wstextarea a, .wssdownload a {
-		overflow-wrap: anywhere;	/* adresses mail et liens longs */
+}
+@media (max-width: 640px) {
+	.wstextarea a,
+	.wssdownload a {
+		overflow-wrap: anywhere;
 	}
+}
+@media (max-width: 640px) {
 	.wssystemcontainer.H:has(> div > .wstextarea_titre_grosse_bulle_actu) > div > .wstextarea {
-		font-size: 1.2em;	/* catégorie et date des fiches d'actualité */
+		font-size: 1.2em;
 	}
+}
+@media (max-width: 640px) {
 	.wssmenu_menu_burger {
 		font-size: 1em;
 	}
-	/* Blocs côte à côte imbriqués (pharmacies...) : l'un sous l'autre */
+}
+@media (max-width: 640px) {
 	.wssystemcontainer.H.hDepth2:has(> div > .wscontainer_Subdivision),
 	.wssystemcontainer.H.hDepth3:has(> div > .wscontainer_Subdivision) {
 		display: flex !important;
 		flex-wrap: wrap;
 	}
+}
+@media (max-width: 640px) {
 	.wssystemcontainer.H.hDepth2:has(> div > .wscontainer_Subdivision) > div,
 	.wssystemcontainer.H.hDepth3:has(> div > .wscontainer_Subdivision) > div {
 		display: block !important;
 		flex: 1 1 260px;
 		width: auto !important;
 	}
-	.wscontainer_BodyHome, .wscontainer_Banniere, .wscontainer_fred1 {
+}
+@media (max-width: 640px) {
+	.wscontainer_BodyHome,
+	.wscontainer_Banniere,
+	.wscontainer_fred1 {
 		box-sizing: border-box;
 		max-width: 100%;
 	}
 }
 @media (max-width: 1180px) {
-	.wssmenu_Main a, .wssmenu_Sous-menus a, .wssmenu_Sous-menus .submenu a, .wstextarea_Path {
+	.wssmenu_Main a,
+	.wssmenu_Sous-menus a,
+	.wssmenu_Sous-menus .submenu a,
+	.wstextarea_Path {
 		white-space: normal;
 	}
+}
+@media (max-width: 1180px) {
 	.wstextarea_titre_grosse_bulle_actu {
 		font-size: 1.5em;
 	}
 }
-/* ===== En-tête mobile (modèle menu_burger) : armoiries | Baigneaux | bouton Menu ===== */
-.entete_mobile {
-	padding: 6px 10px;
+@media all {
+	.entete_mobile {
+		padding: 6px 10px;
+	}
 }
-.entete_mobile .wssystemcontainer.H > div {
-	vertical-align: middle;
+@media all {
+	.entete_mobile .wssystemcontainer.H > div {
+		vertical-align: middle;
+	}
 }
-.titre_mobile {
-	text-align: center;
-	font-family: "Playfair Display", Georgia, serif;
-	font-size: 1.9em;
-	font-weight: 700;
-	letter-spacing: 0.04em;
-	line-height: 1.2;
+@media all {
+	.titre_mobile {
+		text-align: center;
+		font-family: "Playfair Display", Georgia, serif;
+		font-size: 1.9em;
+		font-weight: 700;
+		letter-spacing: 0.04em;
+		line-height: 1.2;
+	}
 }
-.titre_mobile a {
-	color: #2f5e3e;
-	text-decoration: none;
+@media all {
+	.titre_mobile a {
+		color: #2f5e3e;
+		text-decoration: none;
+	}
 }
-.wssmenu.wssmenu_menu_burger {
-	text-align: right;
-	background: transparent;
-	line-height: normal;
-	font-size: 1em;
+@media all {
+	.wssmenu.wssmenu_menu_burger {
+		text-align: right;
+		background: transparent;
+		line-height: normal;
+		font-size: 1em;
+	}
 }
-.wssmenu.wssmenu_menu_burger .button {
-	float: right;
-	height: 42px;
-	line-height: 40px;
-	padding: 0 14px;
-	border: 1px solid #2f5e3e;
-	border-radius: 21px;
-	background: #ffffff;
-	color: #2f5e3e;
-	font-family: Manrope, Arial, sans-serif;
-	font-size: 22px;
-	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+@media all {
+	.wssmenu.wssmenu_menu_burger .button {
+		float: right;
+		height: 42px;
+		line-height: 40px;
+		padding: 0 14px;
+		border: 1px solid #2f5e3e;
+		border-radius: 21px;
+		background: #ffffff;
+		color: #2f5e3e;
+		font-family: Manrope, Arial, sans-serif;
+		font-size: 22px;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+	}
 }
-.wssmenu.wssmenu_menu_burger .button:before {
-	content: 'Menu ';
-	font-size: 15px;
-	font-weight: 700;
-	letter-spacing: 0.03em;
-	vertical-align: 2px;
+@media all {
+	.wssmenu.wssmenu_menu_burger .button:before {
+		content: 'Menu ';
+		font-size: 15px;
+		font-weight: 700;
+		letter-spacing: 0.03em;
+		vertical-align: 2px;
+	}
 }
-/* Panneau ouvert */
-.wssmenu_menu_burger > nav {
-	margin: 0 10px;
-	background: #ffffff;
-	border: 1px solid #d6e6d9;
-	border-radius: 14px;
-	box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
-	overflow: hidden;
-	transition: opacity .3s ease;
+@media all {
+	.wssmenu_menu_burger > nav {
+		margin: 0 10px;
+		background: #ffffff;
+		border: 1px solid #d6e6d9;
+		border-radius: 14px;
+		box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
+		overflow: hidden;
+		transition: opacity .3s ease;
+	}
 }
-.wssmenu_menu_burger > nav a {
-	margin: 0 !important;
-	padding: 13px 18px !important;
-	font-family: Manrope, Arial, sans-serif;
-	font-size: 1.1em;
-	font-variant: normal;
-	font-weight: 600;
-	text-align: left;
-	color: #1f2937;
-	background: #ffffff;
-	border-bottom: 1px solid #e7f1e8;
-	white-space: normal;
+@media all {
+	.wssmenu_menu_burger > nav a {
+		margin: 0 !important;
+		padding: 13px 18px !important;
+		font-family: Manrope, Arial, sans-serif;
+		font-size: 1.1em;
+		font-variant: normal;
+		font-weight: 600;
+		text-align: left;
+		color: #1f2937;
+		background: #ffffff;
+		border-bottom: 1px solid #e7f1e8;
+		white-space: normal;
+	}
 }
-.wssmenu_menu_burger > nav li:last-child a {
-	border-bottom: 0;
+@media all {
+	.wssmenu_menu_burger > nav li:last-child a {
+		border-bottom: 0;
+	}
 }
-.wssmenu_menu_burger > nav a.selected, .wssmenu_menu_burger > nav a:hover, .wssmenu_menu_burger > nav a.hover {
-	color: #2f5e3e;
-	background: #e7f1e8;
+@media all {
+	.wssmenu_menu_burger > nav a.selected,
+	.wssmenu_menu_burger > nav a:hover,
+	.wssmenu_menu_burger > nav a.hover {
+		color: #2f5e3e;
+		background: #e7f1e8;
+	}
+}
+@media all {
+	.wssystemcontainer.H > div > .carte_evenement {
+		display: flex;
+		flex-direction: column;
+	}
+}
+@media all {
+	.carte_evenement > .wsimage {
+		margin-top: auto !important;
+		max-width: none !important;
+		width: 100%;
+		padding: 10px 12px 14px;
+		box-sizing: border-box;
+	}
+}
+@media all {
+	.carte_evenement > .wsimage img {
+		display: block;
+		width: 100%;
+		height: 250px;
+		object-fit: contain;
+	}
+}
+@media (max-width: 640px) {
+	.wssystemcontainer.H:has(img[src*="icone-"]) > div {
+		vertical-align: middle;
+	}
+}
+@media (max-width: 640px) {
+	.wssystemcontainer.H:has(img[src*="icone-"]) > div:first-child {
+		width: 84px !important;
+		padding: 4px 0;
+	}
+}
+@media (max-width: 640px) {
+	.wsimage:has(> img[src*="icone-"]) {
+		max-width: 72px !important;
+		margin: 0 auto !important;
+		padding: 0 !important;
+	}
+}
+@media (max-width: 640px) {
+	.wssystemcontainer.H:has(img[src*="icone-"]) .wstextarea_Texte_important_centre {
+		font-size: 1.15em;
+	}
+}
+@media all {
+	.wstextarea a[href^="tel:"] {
+		white-space: nowrap;
+	}
+}
+@media (max-width: 1180px) {
+	.wssmenu_Main {
+		font-size: 1.25em;
+	}
+}
+@media (max-width: 1180px) {
+	.wssmenu.wssmenu_Main a {
+		padding: 14px 8px;
+	}
 }
