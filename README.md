@@ -86,7 +86,25 @@ et le remplace par `__WS_PWD__` dans le dépôt. Le dépôt étant public, ce fi
 | `tools/preview_local.py` | charge `site/` (ou une archive) dans l'instance WebSiCo locale |
 | `tools/local/` | installation de l'instance locale, captures, import via l'admin (docs/LOCAL.md) |
 | `tools/urls.py` | réécriture des URL du site selon la cible |
+| `tools/sitelib.py` | édition des pages en Python : recherche, clonage avec ids neufs, index, sauvegarde |
+| `tools/oneoff/` | scripts de modifications datés (traçabilité de ce qui a été fait hors interface) |
+| `tools/local/responsive_check.js` | audit débordements / images cassées sur toutes les pages, 4 largeurs |
 | `tools/outline.py` | plan lisible d'une page (`--css` pour le CSS embarqué) |
 | `tools/audit.py` | audit statique (styles, CSS, liens, images) |
 | `tools/check_dump.php` | vérifie un dump avec `unserialize()` de PHP |
 | `tools/wsdata.py`, `tools/codec.py` | bibliothèque : dump SQL, sérialisation PHP, codec JSON |
+
+## Rangées défilantes de l'accueil
+
+Les rangées « À la une » et « À venir » défilent horizontalement (flèches sur ordinateur, glisser
+sur mobile). Une rangée devient défilante dès que ses cartes portent la classe `carte_actu` ou
+`carte_evenement` (champ « classes supplémentaires » du conteneur dans WebSiCo) : dupliquer une
+carte existante dans l'éditeur conserve la classe. CSS en fin de `site/css/default.css`, flèches
+dans l'en-tête HTML de la page d'accueil. Convention : 10 dernières actus (plus récente à gauche),
+tous les événements à venir (ordre chronologique).
+
+## Polices
+
+Inter, Manrope et Playfair Display sont hébergées dans `data/fonts/` (licence SIL OFL,
+`data/fonts/OFL.txt`) et déclarées dans l'en-tête HTML de chaque page. Une nouvelle page créée
+dans WebSiCo doit reprendre cet en-tête (copier celui d'une page existante).

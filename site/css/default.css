@@ -3,7 +3,7 @@
 }
 .WS_PAGE_END {}
 .wssmenu_Main a {
-	font-family: "Manrope";
+	font-family: Manrope, Arial, sans-serif;
 	position: relative;
 	color: #2f5e3e;
 	font-weight: 600;
@@ -22,16 +22,6 @@
 	padding: 0 20px;
 	font-size: 1.5em;
 }
-.wscontainer_Main {
-	padding: 0px;
-	margin-bottom: 0px;
-	border-width: 0px;
-	color: #000091;
-	background-color: #000000;
-	clear: both;
-	float: none;
-	margin-right: auto;
-}
 .wsstitle_Title2 {
 	letter-spacing: 0em;
 	border-width: 0px;
@@ -42,23 +32,20 @@
 	text-transform: none;
 	color: #000000;
 	font-weight: bold;
-	font-family: Playfair Display;
+	font-family: "Playfair Display", Georgia, serif;
 	font-size: 2em;
 }
 .wsstitle_Title {
 	border-width: 0px;
 	text-decoration: none;
 	border-bottom-width: 2px;
-	border-color: aa8a8f;
 	border-radius: 11px/11px;
-	undefined: #950000;
-	text-shadow: #000000;
 	margin: 2px;
 	clear: none;
 	float: none;
 	margin-bottom: 10px;
 	letter-spacing: 0em;
-	font-family: Playfair Display;
+	font-family: "Playfair Display", Georgia, serif;
 	text-transform: lowercase;
 	font-variant: small-caps;
 	font-weight: bold;
@@ -68,7 +55,7 @@
 	font-size: 4em;
 }
 .wscontainer_Path {
-	color : #000091;
+	color: #000091;
 	border-color: #000091;
 	border-radius: 1px;
 	max-width: 1100px;
@@ -78,7 +65,7 @@
 }
 .wstextarea_Path a {
 	text-decoration: none;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 }
 .wstextarea_Path {
 	white-space: nowrap;
@@ -91,7 +78,7 @@
 	font-variant: normal;
 	text-transform: none;
 	font-weight: bold;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 }
 .wsspagepath_Path a {
 	background-image: url(data/images/background/1875_arrow.png);
@@ -99,10 +86,10 @@
 	background-position: 0% 50%;
 	padding-left: 15px;
 	text-decoration: none;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	font-weight: normal;
 	font-size: 1.1em;
-	color : #000091;
+	color: #000091;
 }
 .wsspagepath_Path a:hover, .wsspagepath_Path a.hover {
 	background-position: 0% 50%;
@@ -120,7 +107,7 @@
 .wssmenu_Main .submenu a {
 	font-weight: normal;
 	text-transform: uppercase;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 }
 .wssmenu_Main .submenu a:hover, .wssmenu_Main .submenu a.hover {
 	color: #3FA66B;
@@ -150,7 +137,7 @@
 	margin: 5px;
 	text-align: left;
 	text-transform: uppercase;
-	font-family: Playfair Display;
+	font-family: "Playfair Display", Georgia, serif;
 	font-size: 2em;
 	color: #000000;
 	font-weight: bold;
@@ -163,7 +150,7 @@
 	background-color: #e7f1e8;
 }
 .wsimage_Elus {
-	font-family: Calibri;
+	font-family: Calibri, Inter, Arial, sans-serif;
 	font-style: normal;
 	font-size: 1.5em;
 	clear: none;
@@ -202,7 +189,7 @@
 	margin-left: 0px;
 	padding-left: 0px;
 	border-radius: 5px/5px;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	color: #000000;
 	font-variant: normal;
 	text-transform: uppercase;
@@ -222,7 +209,7 @@
 	margin-bottom: 5px;
 	border-radius: 5px/5px;
 	margin-top: 10px;
-	font-family: Manrope;
+	font-family: Manrope, Arial, sans-serif;
 	color: #000000;
 	border-color: #2f5e3e;
 	border-width: 0px;
@@ -251,7 +238,7 @@
 	clear: both;
 	text-transform: none;
 	color: #1f2937;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	font-style: normal;
 	font-variant: normal;
 	text-decoration: none;
@@ -259,13 +246,12 @@
 }
 .wssdownload_Telechargement a {
 	color: #1f2937;
-	font-variant: bold;
 }
 .wssdownload_Telechargement a:hover, .wssdownload_Telechargement a.hover {
 	background-color: #6baa7a;
 }
 .wstextarea_Nom-endroti {
-	font-family: Calibri;
+	font-family: Calibri, Inter, Arial, sans-serif;
 	font-weight: bold;
 	font-style: normal;
 	border-right-color: #555555;
@@ -289,7 +275,7 @@
 	padding-top: 0px;
 	color: #555555;
 	text-align: center;
-	font-family: Calibri;
+	font-family: Calibri, Inter, Arial, sans-serif;
 	font-size: 1.28em;
 }
 .wscontainer_Cadre-rose {
@@ -311,7 +297,7 @@
 .wstextarea_Texte-centre {
 	clear: both;
 	text-align: center;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	color: #1f2937;
 }
 .wssmenu_Sous-menus .submenu a {
@@ -321,7 +307,7 @@
 	text-decoration: none;
 	padding: 18px 14px;
 	transition: color .25s ease,transform .25s ease;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 }
 .wssmenu_Sous-menus .submenu a:hover, .wssmenu_Sous-menus .submenu a.hover {
 	color: #3FA66B;
@@ -370,7 +356,7 @@
 	box-shadow: 0 4px 12px rgba(0,0,0,.05),0 12px 30px rgba(0,0,0,.06);
 	border: 1px solid rgba(0,0,0,.05);
 	padding: 0 20px;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	font-size: 1.8em;
 }
 .wscontainer_Bloc-titre {
@@ -382,7 +368,7 @@
 	padding: 0px;
 }
 .wsstitle_SP33 {
-	font-family: Calibri;
+	font-family: Calibri, Inter, Arial, sans-serif;
 	font-weight: normal;
 	font-variant: normal;
 	letter-spacing: 0em;
@@ -408,7 +394,7 @@
 	text-transform: none;
 	font-size: 2em;
 	letter-spacing: 0.02em;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	color: #000000;
 	border-color: #2f5e3e;
 }
@@ -422,7 +408,7 @@
 	border-width: 1px;
 	float: none;
 	text-align: center;
-	font-family: Playfair Display;
+	font-family: "Playfair Display", Georgia, serif;
 	color: #000000;
 	font-weight: bold;
 	box-shadow: 5px 5px 5px  #d9b26f;
@@ -448,7 +434,7 @@
 .wstextarea_Texte_normal_align_gauche {
 	font-size: 1.4em;
 	float: left;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	color: #000000;
 	border-radius: 10px/10px;
 	border-style: solid;
@@ -469,14 +455,13 @@
 .wstextarea_Texte_important_centre a:hover, .wstextarea_Texte_important_centre a.hover {
 	color: #6baa7a;
 	background-color: #f7f7f4;
-	font-variant: bold;
 }
 .wstextarea_Texte_important_centre {
 	float: none;
 	text-align: center;
 	text-transform: none;
 	font-variant: normal;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	color: #000000;
 	font-size: 1.4em;
 }
@@ -548,7 +533,7 @@ border-color: #000000;
 	font-size: 4em;
 	padding-top: 61px;
 	text-align: left;
-	font-family: Playfair Display;
+	font-family: "Playfair Display", Georgia, serif;
 	font-weight: bold;
 	color: #000000;
 	text-shadow: 0px 2px 2px  #6baa7a;
@@ -560,7 +545,7 @@ border-color: #000000;
 	line-height: 1.2em;
 }
 .wstextarea_Sous_titre_accueil {
-	font-family: Playfair Display;
+	font-family: "Playfair Display", Georgia, serif;
 	font-size: 2em;
 	opacity: 1;
 	padding-left: 40px;
@@ -572,7 +557,7 @@ border-color: #000000;
 	color: #2f5e3e;
 	margin-top: 5px;
 	font-size: 1em;
-	font-family: Playfair Display;
+	font-family: "Playfair Display", Georgia, serif;
 }
 .wstextarea_liens_page_principale {
 	display: grid;
@@ -580,7 +565,7 @@ border-color: #000000;
 	gap: 16px;
 	color: #2f5e3e;
 	font-size: 1em;
-	font-family: Playfair Display;
+	font-family: "Playfair Display", Georgia, serif;
 	margin-top: 45px;
 }
 .wstextarea_retour_accueil a {
@@ -673,7 +658,7 @@ border-color: #000000;
 	background-position: 50% 50%;
 }
 .wstextarea_retour_accueil {
-	font-family: Playfair Display;
+	font-family: "Playfair Display", Georgia, serif;
 	letter-spacing: 0.07em;
 	color: #000000;
 	background-position: 0% 50%;
@@ -688,7 +673,7 @@ border-color: #000000;
 	padding-right: 10px;
 	padding-left: 10px;
 	border-radius: 10px/10px;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	font-size: 2.8em;
 	text-align: center;
 	background-color: #2f5e3e;
@@ -696,7 +681,7 @@ border-color: #000000;
 	line-height: 1.4em;
 }
 .wssmenu_menu_burger {
-	font-family: Manrope;
+	font-family: Manrope, Arial, sans-serif;
 	font-size: 1.2em;
 	color: #1f2937;
 	background-color: #e7f1e8;
@@ -705,13 +690,13 @@ border-color: #000000;
 	float: none;
 }
 .wssmenu_menu_burger .button {
-	font-family: Manrope;
+	font-family: Manrope, Arial, sans-serif;
 	color: #1f2937;
 	background-color: #e7f1e8;
 }
 .wssmenu_menu_burger a {
 	margin-top: 30px;
-	font-family: Manrope;
+	font-family: Manrope, Arial, sans-serif;
 	font-size: 2em;
 	color: #1f2937;
 	background-color: #e7f1e8;
@@ -722,7 +707,7 @@ border-color: #000000;
 }
 .wstextarea_bulle_actu_date {
 	text-align: right;
-	font-family: Manrope;
+	font-family: Manrope, Arial, sans-serif;
 	font-size: 1.2em;
 	font-weight: bold;
 	text-transform: none;
@@ -744,7 +729,7 @@ border-color: #000000;
 	font-variant: normal;
 	font-weight: bold;
 	color: #A36D00;
-	font-family: Manrope;
+	font-family: Manrope, Arial, sans-serif;
 	padding-left: 7px;
 }
 .wstextarea_bulle_actu_categorie_emploi a {
@@ -762,7 +747,7 @@ border-color: #000000;
 	text-transform: uppercase;
 	font-variant: normal;
 	font-weight: bold;
-	font-family: Manrope;
+	font-family: Manrope, Arial, sans-serif;
 	color: #4A00B3;
 	padding-left: 7px;
 }
@@ -781,7 +766,7 @@ border-color: #000000;
 	text-transform: uppercase;
 	font-variant: normal;
 	font-weight: bold;
-	font-family: Manrope;
+	font-family: Manrope, Arial, sans-serif;
 	color: #007506;
 	padding-left: 7px;
 }
@@ -800,7 +785,7 @@ border-color: #000000;
 	text-transform: uppercase;
 	font-variant: normal;
 	font-weight: bold;
-	font-family: Manrope;
+	font-family: Manrope, Arial, sans-serif;
 	color: #00A86B;
 	padding-left: 7px;
 }
@@ -814,7 +799,7 @@ border-color: #000000;
 }
 .wstextarea_actus_sous_titre {
 	font-size: 1.4em;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	color: #000000;
 	border-style: solid;
 	border-width: 0px;
@@ -837,15 +822,12 @@ border-color: #000000;
 }
 .wsstitle_Titre_main_page_sub {
 	text-decoration: none;
-	border-color: aa8a8f;
 	border-radius: 11px/11px;
-	undefined: #950000;
-	text-shadow: #000000;
 	margin: 2px;
 	clear: none;
 	float: none;
 	letter-spacing: 0em;
-	font-family: Playfair Display;
+	font-family: "Playfair Display", Georgia, serif;
 	text-transform: lowercase;
 	font-variant: small-caps;
 	font-weight: bold;
@@ -860,12 +842,12 @@ border-color: #000000;
 }
 .wstextarea_titre_bulle_actu {
 	font-weight: bold;
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	font-size: 1.6em;
 	text-align: left;
 }
 .wstextarea_titre_grosse_bulle_actu {
-	font-family: Inter;
+	font-family: Inter, Arial, sans-serif;
 	font-size: 2em;
 	font-weight: bold;
 	border-bottom-right-radius: 10px;
@@ -886,7 +868,163 @@ border-color: #000000;
 	text-transform: uppercase;
 	font-variant: normal;
 	font-weight: bold;
-	font-family: Manrope;
+	font-family: Manrope, Arial, sans-serif;
 	padding-left: 7px;
 	color: #FF4DD5;
+}/* ===== Rangées défilantes de l'accueil (actus, événements) =====
+   Une rangée devient défilante dès qu'une de ses cartes porte la classe
+   "carte_actu" ou "carte_evenement" (champ "classes supplémentaires" du conteneur). */
+.wssystemcontainer.H:has(> div > .carte_actu),
+.wssystemcontainer.H:has(> div > .carte_evenement) {
+	display: flex !important;
+	contain: inline-size;	/* ne pas élargir la page (mise en page WebSiCo en tableaux) */
+	min-width: 0;
+	flex-wrap: nowrap;
+	gap: 16px;
+	overflow-x: auto;
+	overscroll-behavior-x: contain;
+	scroll-snap-type: x proximity;
+	scroll-padding-inline: 8px;
+	scroll-behavior: smooth;
+	padding: 6px 8px 18px;
+	box-sizing: border-box;
+	scrollbar-width: thin;
+	scrollbar-color: #6baa7a transparent;
+}
+.wssystemcontainer.H:has(> div > .carte_actu) > div:not(.defil_nav),
+.wssystemcontainer.H:has(> div > .carte_evenement) > div:not(.defil_nav) {
+	display: flex !important;
+	flex: 0 0 290px;
+	width: auto !important;
+	scroll-snap-align: start;
+}
+.wssystemcontainer.H > div > .carte_actu,
+.wssystemcontainer.H > div > .carte_evenement {
+	flex: 1 1 auto;
+	margin: 0;
+}
+.wssystemcontainer.H:has(> div > .carte_actu)::-webkit-scrollbar,
+.wssystemcontainer.H:has(> div > .carte_evenement)::-webkit-scrollbar {
+	height: 8px;
+}
+.wssystemcontainer.H:has(> div > .carte_actu)::-webkit-scrollbar-thumb,
+.wssystemcontainer.H:has(> div > .carte_evenement)::-webkit-scrollbar-thumb {
+	background: #6baa7a;
+	border-radius: 4px;
+}
+@media (max-width: 640px) {
+	.wssystemcontainer.H:has(> div > .carte_actu) > div:not(.defil_nav),
+	.wssystemcontainer.H:has(> div > .carte_evenement) > div:not(.defil_nav) {
+		flex-basis: 78vw;
+	}
+}
+/* Flèches ajoutées par le script de la page d'accueil (en-tête HTML de la page) */
+.wssystemcontainer.H > .defil_nav {
+	display: block !important;
+	position: sticky;
+	flex: 0 0 0 !important;
+	width: 0 !important;
+	align-self: center;
+	z-index: 2;
+}
+.wssystemcontainer.H > .defil_prev { left: 0; margin-right: -16px; }
+.wssystemcontainer.H > .defil_next { right: 0; margin-left: -16px; }
+.defil_nav button {
+	width: 42px;
+	height: 42px;
+	border-radius: 50%;
+	border: 1px solid #2f5e3e;
+	background: rgba(255, 255, 255, 0.95);
+	color: #2f5e3e;
+	font-size: 28px;
+	line-height: 38px;
+	padding: 0;
+	cursor: pointer;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+	transition: background .2s ease, color .2s ease;
+}
+.defil_nav button:hover, .defil_nav button:focus-visible { background: #2f5e3e; color: #ffffff; }
+.defil_next button { margin-left: -46px; }
+.defil_prev button { margin-left: 4px; }
+.defil_debut > .defil_prev, .defil_fin > .defil_next { visibility: hidden; }
+@media (hover: none) {
+	.wssystemcontainer.H > .defil_nav { display: none !important; }
+}
+/* ===== Corrections responsive (tablette / mobile), sans effet sur ordinateur ===== */
+/* Cartes intégrées (OpenStreetMap...) : jamais plus larges que leur bloc */
+.wscontainer iframe, .wscomponent iframe {
+	max-width: 100%;
+}
+/* Boutons de l'en-tête et de l'accueil : peuvent rétrécir sous 140 px */
+.wstextarea_Lien_header, .wstextarea_liens_page_principale {
+	grid-template-columns: repeat(auto-fit, minmax(min(140px, 100%), 1fr));
+}
+@media (max-width: 1180px) {
+	.wstextarea_Lien_header a {
+		font-size: 16px;
+		padding: 14px 4px;
+	}
+	.wstextarea_retour_accueil {
+		padding-left: 60px;
+		letter-spacing: 0;
+	}
+	.wstextarea_retour_accueil a {
+		font-size: 20px;
+	}
+}
+/* Blocs des élus : passent à la ligne au lieu de déborder */
+@media (max-width: 900px) {
+	.wssystemcontainer.H:has(> div > .wscontainer_bloc_conseil_perso) {
+		display: flex !important;
+		flex-wrap: wrap;
+	}
+	.wssystemcontainer.H:has(> div > .wscontainer_bloc_conseil_perso) > div {
+		display: block !important;
+		flex: 1 1 240px;
+		width: auto !important;
+	}
+}
+@media (max-width: 640px) {
+	.wsstitle_Title {
+		font-size: 2.4em;
+		padding: 15px;
+		overflow-wrap: anywhere;
+	}
+	.wsstitle_Titre_main_page_sub {
+		font-size: 2.6em;
+		padding-left: 15px;
+	}
+	.wstextarea a, .wssdownload a {
+		overflow-wrap: anywhere;	/* adresses mail et liens longs */
+	}
+	.wssystemcontainer.H:has(> div > .wstextarea_titre_grosse_bulle_actu) > div > .wstextarea {
+		font-size: 1.2em;	/* catégorie et date des fiches d'actualité */
+	}
+	.wssmenu_menu_burger {
+		font-size: 1em;
+	}
+	/* Blocs côte à côte imbriqués (pharmacies...) : l'un sous l'autre */
+	.wssystemcontainer.H.hDepth2:has(> div > .wscontainer_Subdivision),
+	.wssystemcontainer.H.hDepth3:has(> div > .wscontainer_Subdivision) {
+		display: flex !important;
+		flex-wrap: wrap;
+	}
+	.wssystemcontainer.H.hDepth2:has(> div > .wscontainer_Subdivision) > div,
+	.wssystemcontainer.H.hDepth3:has(> div > .wscontainer_Subdivision) > div {
+		display: block !important;
+		flex: 1 1 260px;
+		width: auto !important;
+	}
+	.wscontainer_BodyHome, .wscontainer_Banniere, .wscontainer_fred1 {
+		box-sizing: border-box;
+		max-width: 100%;
+	}
+}
+@media (max-width: 1180px) {
+	.wssmenu_Main a, .wssmenu_Sous-menus a, .wssmenu_Sous-menus .submenu a, .wstextarea_Path {
+		white-space: normal;
+	}
+	.wstextarea_titre_grosse_bulle_actu {
+		font-size: 1.5em;
+	}
 }

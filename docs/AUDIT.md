@@ -1,5 +1,11 @@
 # Audit du site — export du 28/10/2026
 
+> **Suivi au 28/10/2026 (branche actus-evenements-css)** — traités : propriétés CSS invalides,
+> style mort, largeurs > 100 %, polices auto-hébergées avec vraies graisses (RGPD), textes
+> alternatifs (333/334 images), débordements tablette/mobile (0 sur 46 pages × 4 largeurs),
+> ancre en double sur Actualités, page Événements à jour. Restent : liens absolus (paramétrés au
+> build), mail wanadoo sur mobile, brouillons, en-tête mobile « MENU ≡ Menu », images lourdes.
+
 Base : export `.ws_data` du 28/10/2026 10:31 (WebSiCo 6.1), comparé aux sites en ligne le même
 jour. Chiffres produits par `tools/audit.py` et des scripts ponctuels.
 

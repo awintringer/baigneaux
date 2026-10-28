@@ -17,3 +17,9 @@ et docs/FORMAT.md). Langue de travail : français.
 - Les en-têtes/pieds dans les pages sont des copies de modèles régénérées au chargement :
   modifier `site/models/<modèle>.json`, pas les copies.
 - Tester sur https://dev.baigneaux.fr avant la prod (https://www.baigneaux.fr).
+- Éditer les pages avec `tools/sitelib.py` (clone() génère des ids neufs) ; garder les scripts de
+  modification datés dans `tools/oneoff/`. Après toute modif visuelle : `tools/local/responsive_check.js`
+  doit renvoyer 0 cas (1366, 1024, 820, 390 px).
+- Accueil : cartes `carte_actu` (10 dernières, plus récente en premier) et `carte_evenement`
+  (toutes, ordre chronologique) ; chaque actu a aussi sa fiche sur la page Actualités (ancre unique).
+- Textes alternatifs = champ `tooltip` des WsImage (sinon WebSiCo affiche le nom de fichier).

@@ -133,7 +133,7 @@
         "$class": "WsImage",
         "caption": "",
         "href": "",
-        "tooltip": "",
+        "tooltip": "Affiche du marché des producteurs du 7 juin 2026",
         "original_name": "marche producteur 7 juin 2026.jpeg",
         "in_gallery": "0",
         "uploaded_image": "marche-producteur-7-juin-2026.jpg",
@@ -153,7 +153,6 @@
         "embedded_css_rules": {
          "$text": [
           ".id_Y266a1d5c934545d {\r",
-          "\tundefined: #000091;\r",
           "\topacity: 0.97;\r",
           "\tmargin-left: auto;\r",
           "\tmargin-right: auto;\r",
