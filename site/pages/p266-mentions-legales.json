@@ -1173,7 +1173,7 @@
                     "<p>116 rue Yvonne de la Seigli&egrave;re</p>\r",
                     "<p>33760 Baigneaux</p>\r",
                     "<p><span class=\"LrzXr zdqRlf kno-fv\"><span data-dtype=\"d3ifr\" data-local-attribute=\"d3ph\"><span>T&eacute;l&eacute;phone&nbsp;:&nbsp;</span></span></span><span style=\"font-size: 12.8px;\">05 56 23 97 50</span></p>\r",
-                    "<p>Mail&nbsp;: communede.baigneaux@wanadoo.fr</p>"
+                    "<p>Mail&nbsp;: mairie@baigneaux.fr</p>"
                    ]
                   },
                   "id": "Y415b6c01d641c54",
@@ -1198,7 +1198,7 @@
                   "value": {
                    "$text": [
                     "<p>Le D&eacute;l&eacute;gu&eacute; &agrave; la Protection des Donn&eacute;es est Adrien Wintringer.</p>\r",
-                    "<p>Il peut &ecirc;tre contact&eacute; via l'adresse mail&nbsp;:&nbsp;communede.baigneaux@wanadoo.fr</p>"
+                    "<p>Il peut &ecirc;tre contact&eacute; via l'adresse mail&nbsp;:&nbsp;mairie@baigneaux.fr</p>"
                    ]
                   },
                   "id": "Y425b6c01d641c94",
@@ -1498,7 +1498,7 @@
             "value": {
              "$text": [
               "<p>Mairie de Baigneaux -&nbsp;<span style=\"font-size: 12.8px;\">116 rue Yvonne-de-la-Seigli&egrave;re -&nbsp;</span><span style=\"font-size: 12.8px;\">33760 Baigneaux</span></p>\r",
-              "<p>T&eacute;l: <a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a>&nbsp;-&nbsp;E-Mail&nbsp;: <a href=\"mailto:communede.baigneaux@wanadoo.fr\">communede.baigneaux@wanadoo.fr</a></p>\r",
+              "<p>T&eacute;l: <a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a>&nbsp;-&nbsp;E-Mail&nbsp;: <a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>\r",
               "<p>Suivez Baigneaux sur Facebook&nbsp;:&nbsp;<a href=\"https://www.facebook.com/lesbaignaudais/\">facebook.com/lesbaignaudais</a></p>\r",
               "<p><a href=\"mentions-legales.html\">Mentions L&eacute;gales</a> - <a href=\"https://www.baigneaux.fr/historique-modifications.html\">Historique des versions</a></p>"
              ]

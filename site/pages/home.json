@@ -975,7 +975,7 @@
                     "user_style": "Texte_important_centre",
                     "more_classes": " dontDisplayOnM dontDisplayOnL",
                     "embedded_css_rules": "",
-                    "value": "<p><a href=\"mailto:communede.baigneaux@wanadoo.fr\">communede.baigneaux@wanadoo.fr</a></p>"
+                    "value": "<p><a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>"
                    },
                    {
                     "$class": "WsTextarea",
@@ -1454,12 +1454,188 @@
           "contents": [
            {
             "$class": "WsContainer",
-            "id": "Z416ad36e72ddfe2",
+            "id": "Z996ae22ae396495",
             "properties": 8208,
             "owner": {
              "$owner": "R"
             },
             "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "id": "Z1006ae22ae39651e",
+              "properties": 270592,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "carte_actu",
+              "embedded_css_rules": "",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsImage",
+                "id": "Y1016ae22ae3965a8",
+                "properties": 4096,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y1016ae22ae3965a8 {\r",
+                  "\tmargin-left: auto;\r",
+                  "\tmargin-right: auto;\r",
+                  "}\r"
+                 ]
+                },
+                "value": "logositepetit-ba5e.png",
+                "caption": "",
+                "href": "",
+                "tooltip": "Logo de Baigneaux",
+                "original_name": "logositepetit.png",
+                "in_gallery": "0",
+                "uploaded_image": "logositepetit.png",
+                "keep_format": "0",
+                "width": {
+                 "$d": "90"
+                },
+                "height": {
+                 "$d": "90"
+                },
+                "notFlexible": "0",
+                "name_in_model": "MY276a1ad396386f6"
+               },
+               {
+                "$class": "WsContainer",
+                "id": "Z1026ae22ae396631",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "id": "Z1036ae22ae3966ba",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z1036ae22ae3966ba {\r\n\twidth: 52.1%;\r\n}\r",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "id": "Y1046ae22ae396743",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "bulle_actu_categorie_mairie",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "value": "<p>Mairie</p>",
+                    "name_in_model": "MY236a1ea85d88b05"
+                   }
+                  ],
+                  "name_in_model": "MZ486a1ea85fc2a72"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "id": "Z1056ae22ae3967cc",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "id": "Y1066ae22ae396855",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "bulle_actu_date",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "value": "<p>28 oct 2026</p>",
+                    "name_in_model": "MY236a1ea85fc04f7"
+                   }
+                  ],
+                  "name_in_model": "MZ496a1ea85fc2a83"
+                 }
+                ],
+                "name_in_model": "MZ246a1ea85fc052e"
+               },
+               {
+                "$class": "WsTextarea",
+                "id": "Y1076ae22ae3968de",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "titre_bulle_actu",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "value": "<p>Nouvelle adresse mail de la mairie</p>",
+                "name_in_model": "MY206a1eb25e2c20a"
+               },
+               {
+                "$class": "WsTextarea",
+                "id": "Y1086ae22ae396967",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": "Texte_normal_align_gauche",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "value": "<p>L'adresse officielle de la mairie est d&eacute;sormais mairie@baigneaux.fr.</p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"https://www.baigneaux.fr/actualites.html#mail2026\">Lire la suite -&gt;</a></p>",
+                "name_in_model": "MY186a199894dc501"
+               }
+              ],
+              "href": "",
+              "name_in_model": "MZ276a1ad2da70980"
+             }
+            ]
+           },
+           {
+            "$class": "WsContainer",
+            "id": "Z416ad36e72ddfe2",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -1637,7 +1813,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 1,
+            "index": 2,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -1819,7 +1995,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 2,
+            "index": 3,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -1994,7 +2170,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 3,
+            "index": 4,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": null,
@@ -2176,7 +2352,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 4,
+            "index": 5,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2348,7 +2524,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 5,
+            "index": 6,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2520,7 +2696,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 6,
+            "index": 7,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2692,7 +2868,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 7,
+            "index": 8,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2864,7 +3040,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 8,
+            "index": 9,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -3021,178 +3197,6 @@
                 "more_classes": "",
                 "embedded_css_rules": "",
                 "value": "<p>La premi&egrave;re phase des travaux route du Prieur&eacute; est termin&eacute;e, avec l'installation des caniveaux.</p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"https://www.baigneaux.fr/actualites.html#prieure22026\">Lire la suite -&gt;</a></p>",
-                "name_in_model": "MY186a199894dc501"
-               }
-              ],
-              "href": "",
-              "name_in_model": "MZ276a1ad2da70980"
-             }
-            ]
-           },
-           {
-            "$class": "WsContainer",
-            "id": "Z1406ae215f802202",
-            "properties": 8208,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 9,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": "",
-            "valign": null,
-            "model_id": 0,
-            "contents": [
-             {
-              "$class": "WsContainer",
-              "id": "Z1416ae215f80228b",
-              "properties": 270336,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": "carte_actu",
-              "embedded_css_rules": "",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WsImage",
-                "id": "Y1426ae215f802314",
-                "properties": 4096,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": null,
-                "more_classes": "",
-                "embedded_css_rules": {
-                 "$text": [
-                  ".id_Y1426ae215f802314 {\r",
-                  "\tmargin-left: auto;\r",
-                  "\tmargin-right: auto;\r",
-                  "}\r"
-                 ]
-                },
-                "value": "vignette-fresque-ecole-2026.jpg",
-                "caption": "",
-                "href": "",
-                "tooltip": "Fresque murale réalisée par les enfants de l'école",
-                "original_name": "vignette-fresque-ecole-2026.jpg",
-                "in_gallery": "0",
-                "uploaded_image": "vignette-fresque-ecole-2026.jpg",
-                "keep_format": "0",
-                "width": "200",
-                "height": "90",
-                "notFlexible": "0",
-                "name_in_model": "MY276a1ad396386f6"
-               },
-               {
-                "$class": "WsContainer",
-                "id": "Z1436ae215f80239e",
-                "properties": 8209,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": "",
-                "valign": null,
-                "model_id": "",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z1446ae215f802427",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "id": "Y1456ae215f8024b0",
-                    "properties": 264192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "bulle_actu_categorie_vie_communale",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "value": "<p>Vie communale</p>",
-                    "name_in_model": "MY236a1ea85d88b05"
-                   }
-                  ],
-                  "name_in_model": "MZ486a1ea85fc2a72"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z1466ae215f802539",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 1,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "id": "Y1476ae215f8025c2",
-                    "properties": 264192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "bulle_actu_date",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "value": "<p>23 juin 2026</p>",
-                    "name_in_model": "MY236a1ea85fc04f7"
-                   }
-                  ],
-                  "name_in_model": "MZ496a1ea85fc2a83"
-                 }
-                ],
-                "name_in_model": "MZ246a1ea85fc052e"
-               },
-               {
-                "$class": "WsTextarea",
-                "id": "Y1486ae215f80264b",
-                "properties": 2048,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 2,
-                "user_style": "titre_bulle_actu",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "value": "<p>R&eacute;alisation d'une fresque murale &agrave; l'&eacute;cole</p>",
-                "name_in_model": "MY206a1eb25e2c20a"
-               },
-               {
-                "$class": "WsTextarea",
-                "id": "Y1496ae215f8026d4",
-                "properties": 2048,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 3,
-                "user_style": "Texte_normal_align_gauche",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "value": "<p>Les enfants de l'&eacute;cole ont r&eacute;alis&eacute; une magnifique fresque sur le mur r&eacute;cemment repeint.</p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"https://www.baigneaux.fr/actualites.html#fresque23062026\">Lire la suite -&gt;</a></p>",
                 "name_in_model": "MY186a199894dc501"
                }
               ],

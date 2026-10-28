@@ -797,6 +797,163 @@
                       "contents": [
                        {
                         "$class": "WsTextarea",
+                        "value": "<p id=\"mail2026\">Mairie</p>",
+                        "id": "Y936ae22ae39615f",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": "titre_grosse_bulle_actu",
+                        "more_classes": "",
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY426a204fe537a26"
+                       }
+                      ],
+                      "id": "Z926ae22ae3960d6",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z926ae22ae3960d6 {\r\n\twidth: 50%;\r\n}\r",
+                      "name_in_model": "MZ446a204fea047d5"
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": "<p>28 octobre 2026</p>",
+                        "id": "Y956ae22ae396271",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": {
+                         "$text": [
+                          ".id_Y956ae22ae396271 {\r",
+                          "\tfont-family: Inter;\r",
+                          "\tfont-size: 2em;\r",
+                          "\ttext-align: right;\r",
+                          "}\r"
+                         ]
+                        },
+                        "name_in_model": "MY426a204fea0433d"
+                       }
+                      ],
+                      "id": "Z946ae22ae3961e8",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z946ae22ae3961e8 {\r\n\twidth: 34.1%;\r\n}\r",
+                      "name_in_model": "MZ456a204fea047e6"
+                     }
+                    ],
+                    "id": "Z916ae22ae39604d",
+                    "properties": 8209,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ436a204fea04365"
+                   },
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Nouvelle adresse mail officielle de la mairie",
+                    "id": "Y966ae22ae3962fa",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Title3",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a20518248234"
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>La mairie de Baigneaux dispose d&eacute;sormais d'une adresse mail officielle&nbsp;: <a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Elle remplace l'ancienne adresse en wanadoo.fr. Merci de l'utiliser pour toutes vos demandes et de mettre &agrave; jour vos carnets d'adresses.</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Le t&eacute;l&eacute;phone de la mairie ne change pas&nbsp;: <a href=\"tel:0556239750\">05 56 23 97 50</a>.</p>"
+                     ]
+                    },
+                    "id": "Y976ae22ae396383",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY266a199a16d15ef"
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>&nbsp;&nbsp;</p>",
+                    "id": "Y986ae22ae39640c",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 3,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a2051ced9f65"
+                   }
+                  ],
+                  "id": "Z906ae22ae395fc4",
+                  "properties": 270592,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 2,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ836a1999d0f1d07"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
                         "value": "<p id=\"cimetiere2026\">Mairie</p>\r\n<p>&nbsp;</p>",
                         "id": "Y556ad370baa408e",
                         "properties": 264192,
@@ -1180,7 +1337,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 2,
+                  "index": 3,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -1197,7 +1354,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 3,
+                  "index": 4,
                   "user_style": "Title3",
                   "more_classes": "",
                   "embedded_css_rules": ""
@@ -1490,7 +1647,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 4,
+                  "index": 5,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -1831,7 +1988,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 5,
+                  "index": 6,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -1848,7 +2005,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 6,
+                  "index": 7,
                   "user_style": "Title3",
                   "more_classes": "",
                   "embedded_css_rules": ""
@@ -2080,7 +2237,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 7,
+                  "index": 8,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -2295,7 +2452,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 8,
+                  "index": 9,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -2725,7 +2882,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 9,
+                  "index": 10,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -2742,7 +2899,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 10,
+                  "index": 11,
                   "user_style": "Title3",
                   "more_classes": "",
                   "embedded_css_rules": ""
@@ -3096,7 +3253,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 11,
+                  "index": 12,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -3347,7 +3504,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 12,
+                  "index": 13,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -3497,7 +3654,7 @@
                       "<div>⚠️ Pensez &agrave; vous inscrire avant le 22 juin&nbsp;!</div>\r",
                       "<div>📞 St&eacute;phanie&nbsp;: 06 23 79 38 10</div>\r",
                       "<div>📞 Sophie&nbsp;: 06 87 74 12 51</div>\r",
-                      "<div>📧 communede.baigneaux@wanadoo.fr</div>\r",
+                      "<div>📧 mairie@baigneaux.fr</div>\r",
                       "<div>&nbsp;</div>\r",
                       "</div>"
                      ]
@@ -3569,7 +3726,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 13,
+                  "index": 14,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -3824,7 +3981,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 14,
+                  "index": 15,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -4136,7 +4293,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 15,
+                  "index": 16,
                   "user_style": "Subdivision",
                   "more_classes": "",
                   "embedded_css_rules": "",
@@ -4265,7 +4422,7 @@
                         "$class": "WsTextarea",
                         "value": {
                          "$text": [
-                          "<p id=\"OTV\">En raison de leur &eacute;tat de d&eacute;gradation, nous avons proc&eacute;d&eacute; ce jour au remplacement des 2 filets des cages du City Stade.</p>\r",
+                          "<p>En raison de leur &eacute;tat de d&eacute;gradation, nous avons proc&eacute;d&eacute; ce jour au remplacement des 2 filets des cages du City Stade.</p>\r",
                           "<p>&nbsp;</p>\r",
                           "<p>Merci d'&ecirc;tre responsables lors de l'utilisation du City Stade afin que nos nouveaux filets puissent nous servir le plus longtemps possible&nbsp;!</p>\r",
                           "<p>&nbsp;</p>\r",
@@ -4453,7 +4610,7 @@
                         "$class": "WsTextarea",
                         "value": {
                          "$text": [
-                          "<p id=\"OTV\">Le SEMOCTOM est intervenu pour broyer les d&eacute;chets &agrave; la d&eacute;chetterie verte communale.</p>\r",
+                          "<p>Le SEMOCTOM est intervenu pour broyer les d&eacute;chets &agrave; la d&eacute;chetterie verte communale.</p>\r",
                           "<p>&nbsp;</p>\r",
                           "<p>Du broyat est &agrave; disposition des habitants de la commune, vous pouvez &eacute;galement &agrave; nouveau d&eacute;poser des d&eacute;chets.</p>\r",
                           "<p>&nbsp;</p>\r",
@@ -4515,7 +4672,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 16,
+                  "index": 17,
                   "user_style": 0,
                   "more_classes": null,
                   "embedded_css_rules": ""
@@ -4920,7 +5077,7 @@
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 17,
+                  "index": 18,
                   "user_style": 0,
                   "more_classes": null,
                   "embedded_css_rules": ""

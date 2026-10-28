@@ -4,7 +4,8 @@
 > style mort, largeurs > 100 %, polices auto-hébergées avec vraies graisses (RGPD), textes
 > alternatifs (333/334 images), débordements tablette/mobile (0 sur 46 pages × 4 largeurs),
 > ancre en double sur Actualités, page Événements à jour. Restent : liens absolus (paramétrés au
-> build), mail wanadoo sur mobile, brouillons, en-tête mobile « MENU ≡ Menu », images lourdes.
+> build), brouillons, images lourdes. Traités ensuite : adresse mairie@baigneaux.fr partout (+ actu),
+> en-tête mobile refait (modèle menu_burger), ancre OTV en triple.
 
 Base : export `.ws_data` du 28/10/2026 10:31 (WebSiCo 6.1), comparé aux sites en ligne le même
 jour. Chiffres produits par `tools/audit.py` et des scripts ponctuels.

@@ -1028,3 +1028,78 @@ border-color: #000000;
 		font-size: 1.5em;
 	}
 }
+/* ===== En-tête mobile (modèle menu_burger) : armoiries | Baigneaux | bouton Menu ===== */
+.entete_mobile {
+	padding: 6px 10px;
+}
+.entete_mobile .wssystemcontainer.H > div {
+	vertical-align: middle;
+}
+.titre_mobile {
+	text-align: center;
+	font-family: "Playfair Display", Georgia, serif;
+	font-size: 1.9em;
+	font-weight: 700;
+	letter-spacing: 0.04em;
+	line-height: 1.2;
+}
+.titre_mobile a {
+	color: #2f5e3e;
+	text-decoration: none;
+}
+.wssmenu.wssmenu_menu_burger {
+	text-align: right;
+	background: transparent;
+	line-height: normal;
+	font-size: 1em;
+}
+.wssmenu.wssmenu_menu_burger .button {
+	float: right;
+	height: 42px;
+	line-height: 40px;
+	padding: 0 14px;
+	border: 1px solid #2f5e3e;
+	border-radius: 21px;
+	background: #ffffff;
+	color: #2f5e3e;
+	font-family: Manrope, Arial, sans-serif;
+	font-size: 22px;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+.wssmenu.wssmenu_menu_burger .button:before {
+	content: 'Menu ';
+	font-size: 15px;
+	font-weight: 700;
+	letter-spacing: 0.03em;
+	vertical-align: 2px;
+}
+/* Panneau ouvert */
+.wssmenu_menu_burger > nav {
+	margin: 0 10px;
+	background: #ffffff;
+	border: 1px solid #d6e6d9;
+	border-radius: 14px;
+	box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
+	overflow: hidden;
+	transition: opacity .3s ease;
+}
+.wssmenu_menu_burger > nav a {
+	margin: 0 !important;
+	padding: 13px 18px !important;
+	font-family: Manrope, Arial, sans-serif;
+	font-size: 1.1em;
+	font-variant: normal;
+	font-weight: 600;
+	text-align: left;
+	color: #1f2937;
+	background: #ffffff;
+	border-bottom: 1px solid #e7f1e8;
+	white-space: normal;
+}
+.wssmenu_menu_burger > nav li:last-child a {
+	border-bottom: 0;
+}
+.wssmenu_menu_burger > nav a.selected, .wssmenu_menu_burger > nav a:hover, .wssmenu_menu_burger > nav a.hover {
+	color: #2f5e3e;
+	background: #e7f1e8;
+}

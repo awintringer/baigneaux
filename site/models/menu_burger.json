@@ -33,80 +33,6 @@
           "model_id": "",
           "contents": [
            {
-            "$class": "WssMenu",
-            "category": "0",
-            "depth": "0",
-            "value": "0",
-            "id": "Y116a1eae22c340a",
-            "properties": 262144,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 0,
-            "user_style": "menu_burger",
-            "more_classes": " dontDisplayOnXS dontDisplayOnS",
-            "embedded_css_rules": "",
-            "name_in_model": "MY236a1c1913916fa"
-           }
-          ],
-          "id": "Z106a1eae22c3408",
-          "properties": 8208,
-          "owner": {
-           "$owner": "r"
-          },
-          "index": 0,
-          "user_style": 0,
-          "more_classes": null,
-          "embedded_css_rules": ".id_Z106a1eae22c3408 {\r\n\twidth: 25%;\r\n}\r",
-          "name_in_model": "MZ476a1c19449ca9b"
-         },
-         {
-          "$class": "WsContainer",
-          "valign": null,
-          "model_id": "",
-          "contents": [
-           {
-            "$class": "WsTextarea",
-            "value": "<p>Menu</p>",
-            "id": "Y136a1eae22c340e",
-            "properties": 264192,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 0,
-            "user_style": null,
-            "more_classes": "",
-            "embedded_css_rules": {
-             "$text": [
-              ".id_Y136a1eae22c340e {\r",
-              "\tfont-family: Playfair Display;\r",
-              "\tfont-size: 2em;\r",
-              "\ttext-align: center;\r",
-              "\tpadding-top: 15px;\r",
-              "\tfloat: left;\r",
-              "}\r"
-             ]
-            },
-            "name_in_model": "MY236a1c193a1e444"
-           }
-          ],
-          "id": "Z126a1eae22c340c",
-          "properties": 8208,
-          "owner": {
-           "$owner": "r"
-          },
-          "index": 1,
-          "user_style": 0,
-          "more_classes": null,
-          "embedded_css_rules": ".id_Z126a1eae22c340c {\r\n\twidth: 50%;\r\n}\r",
-          "name_in_model": "MZ126a1c1982a9777"
-         },
-         {
-          "$class": "WsContainer",
-          "valign": null,
-          "model_id": "",
-          "contents": [
-           {
             "$class": "WsImage",
             "caption": "",
             "href": "",
@@ -130,13 +56,76 @@
             "embedded_css_rules": {
              "$text": [
               ".id_Y156a1eae22c3411 {\r",
-              "\ttext-align: right;\r",
-              "\tmargin-left: auto;\r",
-              "\tmargin-right: 0;\r",
+              "\tmargin-left: 0;\r",
+              "\tmargin-right: auto;\r",
               "}\r"
              ]
             },
             "name_in_model": "MY296a1c197b650e8"
+           }
+          ],
+          "id": "Z106a1eae22c3408",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ".id_Z106a1eae22c3408 {\r\n\twidth: 22%;\r\n}\r",
+          "name_in_model": "MZ476a1c19449ca9b"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Baigneaux</a></p>",
+            "id": "Y136a1eae22c340e",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": null,
+            "more_classes": "titre_mobile",
+            "embedded_css_rules": "",
+            "name_in_model": "MY236a1c193a1e444"
+           }
+          ],
+          "id": "Z126a1eae22c340c",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 1,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ".id_Z126a1eae22c340c {\r\n\twidth: 46%;\r\n}\r",
+          "name_in_model": "MZ126a1c1982a9777"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WssMenu",
+            "category": "0",
+            "depth": "0",
+            "value": "0",
+            "id": "Y116a1eae22c340a",
+            "properties": 262144,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "menu_burger",
+            "more_classes": " dontDisplayOnXS dontDisplayOnS",
+            "embedded_css_rules": "",
+            "name_in_model": "MY236a1c1913916fa"
            }
           ],
           "id": "Z146a1eae22c3410",
@@ -147,7 +136,7 @@
           "index": 2,
           "user_style": 0,
           "more_classes": null,
-          "embedded_css_rules": ".id_Z146a1eae22c3410 {\r\n\twidth: 25%;\r\n}\r",
+          "embedded_css_rules": ".id_Z146a1eae22c3410 {\r\n\twidth: 32%;\r\n}\r",
           "name_in_model": "MZ146a1c1982a977b"
          }
         ],
@@ -170,7 +159,7 @@
       },
       "index": 0,
       "user_style": "Subdivision",
-      "more_classes": " dontDisplayOnM dontDisplayOnL",
+      "more_classes": " dontDisplayOnM dontDisplayOnL entete_mobile",
       "embedded_css_rules": "",
       "href": "",
       "name_in_model": "MZ236a1c1919b626f"
