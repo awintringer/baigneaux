@@ -1199,26 +1199,84 @@ border-color: #000000;
 	}
 }
 @media all {
+	.wssystemcontainer.H:has(> div > .carte_evenement) > div:not(.defil_nav) {
+		flex-basis: 320px;
+	}
+}
+@media all {
 	.wssystemcontainer.H > div > .carte_evenement {
 		display: flex;
 		flex-direction: column;
+		width: 100%;
+		box-sizing: border-box;
 	}
 }
 @media all {
 	.carte_evenement > .wsimage {
-		margin-top: auto !important;
+		order: -1;
+		margin: 0 0 14px !important;
 		max-width: none !important;
 		width: 100%;
-		padding: 10px 12px 14px;
+		padding: 0;
 		box-sizing: border-box;
+		background: #e8efe9;
+		border-radius: 10px;
+		overflow: hidden;
 	}
 }
 @media all {
 	.carte_evenement > .wsimage img {
 		display: block;
 		width: 100%;
-		height: 250px;
+		height: 260px;
 		object-fit: contain;
+	}
+}
+@media all {
+	.carte_evenement > .wscontainer {
+		flex: 1 1 auto;
+		width: 100%;
+		padding: 0 !important;
+		margin: 0 !important;
+		box-sizing: border-box;
+	}
+}
+@media all {
+	.carte_evenement .wssystemcontainer.H {
+		display: flex !important;
+		align-items: flex-start;
+		gap: 14px;
+		width: 100%;
+		padding: 0 !important;
+		margin: 0 !important;
+	}
+}
+@media all {
+	.carte_evenement .wssystemcontainer.H > div {
+		display: block !important;
+		width: auto !important;
+		min-width: 0;
+	}
+}
+@media all {
+	.carte_evenement .wssystemcontainer.H > div:first-child {
+		flex: 0 0 74px;
+	}
+}
+@media all {
+	.carte_evenement .wssystemcontainer.H > div:nth-child(2) {
+		flex: 1 1 0;
+	}
+}
+@media all {
+	.carte_evenement .wssystemcontainer.H > div:empty {
+		display: none !important;
+	}
+}
+@media all {
+	.carte_evenement .wstextarea_Texte_normal_align_gauche {
+		overflow-wrap: anywhere;
+		hyphens: auto;
 	}
 }
 @media (max-width: 640px) {
