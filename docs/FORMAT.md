@@ -22,7 +22,8 @@ Un zip Info-ZIP 3.0 (`zip -rq site.ws_data data/* _mysql_dump`) contenant :
    fichier non référencé par le CSS ou un élément (publié ou brouillon).
 
 Conséquences : `ws_preferences.php` absent de l'archive ⇒ préférences et mot de passe du site
-cible conservés ; une archive « légère » (dump + nouveaux fichiers) suffit en théorie (à valider).
+cible conservés ; une archive « légère » (dump + nouveaux fichiers) suffit (validé en local
+avec le formulaire d'import officiel, voir LOCAL.md).
 
 ## Tables
 

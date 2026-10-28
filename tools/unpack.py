@@ -18,6 +18,7 @@ import sys, os, json, zipfile, hashlib, re, shutil, struct
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wsdata import Dump
 from codec import enc_cell
+import urls
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PWD_RE = re.compile(rb'(\$ws_pwd = ")([0-9a-f]*)(";)')
@@ -73,7 +74,7 @@ def main():
     for zi in z.infolist():   # keep empty dirs
         if zi.is_dir(): os.makedirs(os.path.join(site, zi.filename), exist_ok=True)
     # dump
-    d = Dump(z.read('_mysql_dump')); layout = []
+    d = Dump(z.read('_mysql_dump')); layout = []; dev_links = 0
     for line in d.lines:
         if line[0] == 'RAW':
             layout.append({'raw': line[1].decode('utf-8')}); continue
@@ -97,10 +98,14 @@ def main():
             n = 2
             while any(e.get('file') == rel for e in layout):
                 rel = f'tables/{table}.{safe(key)}.{n}.json'; n += 1
+        n_dev = urls.count(cells, urls.DEV_URL_RE)
+        if n_dev:   # export taken from the dev site: keep sources on the canonical prod host
+            cells = urls.rewrite_json(cells, urls.CANONICAL, urls.DEV_URL_RE); dev_links += n_dev
         dumpj(os.path.join(site, rel), {'table': table, 'row': cells})
         layout.append({'file': rel})
     dumpj(os.path.join(site, 'layout.json'), layout)
     dumpj(os.path.join(site, 'zipmeta.json'), {'dump_sha256': hashlib.sha256(z.read('_mysql_dump')).hexdigest(), 'entries': meta})
+    if dev_links: print(f'{dev_links} liens dev.baigneaux.fr ramenés vers {urls.CANONICAL}')
     print(f'unpacked {src} -> {site}')
 
 if __name__ == '__main__':
