@@ -1,0 +1,228 @@
+{
+ "table": "ws_tlc_draft",
+ "row": [
+  "Fiche_actu_complete",
+  "",
+  null,
+  "2026-10-17 14:57:27",
+  "_Model container",
+  "8512",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1792241847,
+    "save_number": 1,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": "<p id=\"cimetiere2026\">Mairie</p>\r\n<p>&nbsp;</p>",
+            "id": "Y416ad370b72a573",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "titre_grosse_bulle_actu",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "name_in_model": "MY426a204fe537a26"
+           }
+          ],
+          "id": "Z406ad370b72a570",
+          "properties": 8208,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ".id_Z406ad370b72a570 {\r\n\twidth: 60%;\r\n}\r",
+          "name_in_model": "MZ446a204fea047d5"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": "<p>17 octobre 2026</p>",
+            "id": "Y436ad370b72a577",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": null,
+            "more_classes": "",
+            "embedded_css_rules": {
+             "$text": [
+              ".id_Y436ad370b72a577 {\r",
+              "\tfont-family: Inter;\r",
+              "\tfont-size: 2em;\r",
+              "\ttext-align: right;\r",
+              "}\r"
+             ]
+            },
+            "name_in_model": "MY426a204fea0433d"
+           }
+          ],
+          "id": "Z426ad370b72a575",
+          "properties": 8208,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 1,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ".id_Z426ad370b72a575 {\r\n\twidth: 60%;\r\n}\r",
+          "name_in_model": "MZ456a204fea047e6"
+         }
+        ],
+        "id": "Z396ad370b72a56e",
+        "properties": 8209,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": 0,
+        "more_classes": null,
+        "embedded_css_rules": "",
+        "name_in_model": "MZ436a204fea04365"
+       },
+       {
+        "$class": "WssTitle",
+        "level": "2",
+        "href": "",
+        "value": "Réalisation d'une fresque murale à l'école",
+        "id": "Y446ad370b72a5a7",
+        "properties": 1024,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": "Title3",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY426a20518248234"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": {
+         "$text": [
+          "<div></div>\r",
+          "<div>Aujourd&rsquo;hui, &agrave; l&rsquo;initiative de notre ma&icirc;tresse Audrey, les 9 courageux enfants pr&eacute;sents &agrave; l&rsquo;&eacute;cole ont particip&eacute; &agrave; la r&eacute;alisation d&rsquo;une magnifique fresque sur le mur r&eacute;cemment repeint par le conseil municipal.</div>\r",
+          "<div></div>\r",
+          "<div>Pour les accompagner dans ce projet, Max Ducos est intervenu tout au long de la journ&eacute;e, guidant les enfants dans la cr&eacute;ation de cette &oelig;uvre collective inspir&eacute;e de la nature. Arbres, animaux, feuillage et couleurs chaleureuses viennent d&eacute;sormais &eacute;gayer cet espace de l&rsquo;&eacute;cole.</div>\r",
+          "<div>&nbsp;</div>\r",
+          "<div>Cette belle r&eacute;alisation est le fruit d&rsquo;un travail d&rsquo;&eacute;quipe m&ecirc;lant imagination, apprentissage et bonne humeur. Un grand merci &agrave; Audrey pour cette initiative, &agrave; l&rsquo;artiste pour son accompagnement, et bien s&ucirc;r aux enfants pour leur enthousiasme et leur implication.</div>\r",
+          "<div>&nbsp;</div>\r",
+          "<div>F&eacute;licitations &agrave; tous les artistes du jour pour cette fresque qui embellira durablement notre &eacute;cole&nbsp;!</div>"
+         ]
+        },
+        "id": "Y456ad370b72a5aa",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 2,
+        "user_style": "Texte_normal_align_gauche",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY266a199a16d15ef"
+       },
+       {
+        "$class": "WsImage",
+        "caption": "",
+        "href": "",
+        "tooltip": "",
+        "original_name": "1.jpeg",
+        "in_gallery": "1",
+        "uploaded_image": "1-550b.jpg",
+        "keep_format": "0",
+        "width": {
+         "$d": "400"
+        },
+        "height": {
+         "$d": "533"
+        },
+        "notFlexible": "0",
+        "value": "1-745b.jpg",
+        "id": "Y466ad370b72a5ab",
+        "properties": 4096,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 3,
+        "user_style": null,
+        "more_classes": "",
+        "embedded_css_rules": {
+         "$text": [
+          ".id_Y466ad370b72a5ab {\r",
+          "\tmargin-left: auto;\r",
+          "\tmargin-right: auto;\r",
+          "\tborder-width: 0px;\r",
+          "}\r"
+         ]
+        },
+        "name_in_model": "MY846a1999d0f1d0a"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": "<p>&nbsp;&nbsp;</p>",
+        "id": "Y476ad370b72a5ae",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 4,
+        "user_style": "Texte_normal_align_gauche",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY426a2051ced9f65"
+       }
+      ],
+      "id": "Z386ad370b72a569",
+      "properties": 8512,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Subdivision",
+      "more_classes": "",
+      "embedded_css_rules": "",
+      "href": "",
+      "name_in_model": "MZ836a1999d0f1d07"
+     }
+    ],
+    "id": "Fiche_actu_complete",
+    "properties": 8512,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": null,
+    "lang": ""
+   }
+  }
+ ]
+}

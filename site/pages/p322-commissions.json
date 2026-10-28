@@ -1,0 +1,2147 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "p322",
+  "fr",
+  "commissions",
+  "2026-05-31 13:34:05",
+  "Commissions communales",
+  "8202",
+  {
+   "$php": {
+    "$class": "WssPage",
+    "description": "",
+    "title": "",
+    "url_id": "commissions",
+    "date": 1780227245,
+    "save_number": 2355,
+    "name": "Commissions communales",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": 0,
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "Header2",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Baigneaux</a></p>",
+              "id": "Y36a1c1cada03d2",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "retour_accueil",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY256a19b7672c6f8"
+             }
+            ],
+            "id": "Z26a1c1cada03cd",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z26a1c1cada03cd {\r\n\twidth: 20%;\r\n}\r",
+            "name_in_model": "MZ26a19b6dd78037"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/mairie.html\">Ma Mairie</a></p>",
+              "id": "Y56a1c1cada03d7",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY146a19b6a4141de"
+             }
+            ],
+            "id": "Z46a1c1cada03d5",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z46a1c1cada03d5 {\r\n\twidth: 16%;\r\n}\r",
+            "name_in_model": "MZ46a19b6f0a695f"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/vie-communale.html\">Ma Commune</a></p>",
+              "id": "Y76a1c1cada03da",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY186a19b6e2dbe74"
+             }
+            ],
+            "id": "Z66a1c1cada03d8",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 2,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z66a1c1cada03d8 {\r\n\twidth: 16%;\r\n}\r",
+            "name_in_model": "MZ66a19b7469847a"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/associations.html\">Associations</a></p>",
+              "id": "Y96a1c1cada03de",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY206a19b70373d87"
+             }
+            ],
+            "id": "Z86a1c1cada03dc",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 3,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z86a1c1cada03dc {\r\n\twidth: 16%;\r\n}\r",
+            "name_in_model": "MZ86a19b752453f5"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/p321.html\">Services</a></p>",
+              "id": "Y116a1c1cada03e2",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY226a19b74bd2ee5"
+             }
+            ],
+            "id": "Z106a1c1cada03df",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 4,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z106a1c1cada03df {\r\n\twidth: 16%;\r\n}\r",
+            "name_in_model": "MZ156a19b7dd3fe6e"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/formalites-administratives.html\">D&eacute;marches</a></p>",
+              "id": "Y136a1c1cada03e6",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY296a19b7d2755a6"
+             }
+            ],
+            "id": "Z126a1c1cada03e4",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 5,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z126a1c1cada03e4 {\r\n\twidth: 16%;\r\n}\r",
+            "name_in_model": "MZ176a19b7dd3fe71"
+           }
+          ],
+          "id": "Z16a1c1cada03ca",
+          "properties": 8209,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": "",
+          "name_in_model": "MZ156a19b6a4141f9"
+         }
+        ],
+        "id": "Z06a1c1cada03a9",
+        "properties": 270400,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": "BodyHome",
+        "more_classes": " dontDisplayOnXS dontDisplayOnS",
+        "embedded_css_rules": "",
+        "href": "",
+        "name_in_model": "MZ869ccf3d56f152"
+       },
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": 0,
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "MENU",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WssMenu",
+                      "category": "0",
+                      "depth": "1",
+                      "value": "vertical",
+                      "id": "Y176a1c1cada0934",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Main",
+                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY55dc82a8b7b9e"
+                     }
+                    ],
+                    "id": "Z166a1c1cada0931",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "r"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z166a1c1cada0931 {\r\n\twidth: 100%;\r\n}\r",
+                    "name_in_model": "MZ869ce9a560f24c"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>Menu</p>",
+                      "id": "Y196a1c1cada0938",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Essai",
+                      "more_classes": " dontDisplayOnM dontDisplayOnL",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1869cea6e95b8ee"
+                     }
+                    ],
+                    "id": "Z186a1c1cada0936",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "r"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z186a1c1cada0936 {\r\n\twidth: 100%;\r\n}\r",
+                    "name_in_model": "MZ1069ce9a560f252"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "",
+                      "original_name": "logosite.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "logosite-4dcc.png",
+                      "keep_format": "0",
+                      "width": "50",
+                      "height": "50",
+                      "notFlexible": "0",
+                      "value": "logosite-11ba.png",
+                      "id": "Y216a1c1cada093b",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": " dontDisplayOnM dontDisplayOnL",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y216a1c1cada093b {\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: auto;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY1669cea66d3bc6f"
+                     }
+                    ],
+                    "id": "Z206a1c1cada0939",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "r"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z206a1c1cada0939 {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ1269cea67e092f5"
+                   }
+                  ],
+                  "id": "Z156a1c1cada092f",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ1769cea66d3bc94"
+                 }
+                ],
+                "id": "Z146a1c1cada092b",
+                "properties": 270400,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Bloc_menu",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MZ5819e18fc9d3d",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "Path",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WsContainer",
+                          "valign": null,
+                          "model_id": "",
+                          "contents": [
+                           {
+                            "$class": "WsTextarea",
+                            "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                            "id": "Y276a1c1cada0eb5",
+                            "properties": 264192,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 0,
+                            "user_style": "Path",
+                            "more_classes": "",
+                            "embedded_css_rules": "",
+                            "name_in_model": "MY557f20acc196b"
+                           }
+                          ],
+                          "id": "Z266a1c1cada0eb1",
+                          "properties": 8208,
+                          "owner": {
+                           "$owner": "r"
+                          },
+                          "index": 0,
+                          "user_style": 0,
+                          "more_classes": null,
+                          "embedded_css_rules": "",
+                          "name_in_model": "MZ595841f49586bf5"
+                         },
+                         {
+                          "$class": "WsContainer",
+                          "valign": null,
+                          "model_id": "",
+                          "contents": [
+                           {
+                            "$class": "WssPagePath",
+                            "value": 0,
+                            "id": "Y296a1c1cada0eb9",
+                            "properties": 262144,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 0,
+                            "user_style": "Path",
+                            "more_classes": "",
+                            "embedded_css_rules": "",
+                            "name_in_model": "MY557f20acc19db"
+                           }
+                          ],
+                          "id": "Z286a1c1cada0eb7",
+                          "properties": 8208,
+                          "owner": {
+                           "$owner": "r"
+                          },
+                          "index": 1,
+                          "user_style": 0,
+                          "more_classes": null,
+                          "embedded_css_rules": ".id_Z286a1c1cada0eb7 {\r\n\twidth: 71.5%;\r\n}\r",
+                          "name_in_model": "MZ605841f49586c54"
+                         }
+                        ],
+                        "id": "Z256a1c1cada0eb0",
+                        "properties": 8209,
+                        "owner": {
+                         "$owner": "r"
+                        },
+                        "index": 0,
+                        "user_style": 0,
+                        "more_classes": null,
+                        "embedded_css_rules": "",
+                        "name_in_model": "MZ585841f49586a24"
+                       }
+                      ],
+                      "id": "Z246a1c1cada0eae",
+                      "properties": 270464,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Z246a1c1cada0eae {\r",
+                        "\tpadding-bottom: 0px;\r",
+                        "\tpadding-left: 0px;\r",
+                        "\tborder-width: 0px;\r",
+                        "\tpadding-top: 10px;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MZ575841f4895c408",
+                      "href": ""
+                     }
+                    ],
+                    "id": "Z236a1c1cada0eaa",
+                    "properties": 270336,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": "",
+                    "embedded_css_rules": ".id_Z236a1c1cada0eaa {\r\n\tborder-width: 0px;\r\n}\r",
+                    "name_in_model": "MZ3369cbea6206362",
+                    "href": ""
+                   }
+                  ],
+                  "id": "Z226a1c1cada0ea5",
+                  "properties": 270400,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Path",
+                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ557f20acc188b"
+                 }
+                ],
+                "id": "Z7769cfe77339967",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Bloc_menu",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MZ5819e18fc9d3d",
+                "href": ""
+               }
+              ],
+              "id": "Z6869cfe7733995d",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": " dontDisplayOnXS dontDisplayOnS",
+              "embedded_css_rules": "",
+              "href": ""
+             }
+            ],
+            "id": "Z5969cfe7971df64",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z5969cfe7971df64 {\r\n\twidth: 25%;\r\n}\r"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "menu_burger",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WssMenu",
+                    "category": "0",
+                    "depth": "0",
+                    "value": "0",
+                    "id": "Y336a1c1cada141b",
+                    "properties": 262144,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "menu_burger",
+                    "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY236a1c1913916fa"
+                   }
+                  ],
+                  "id": "Z326a1c1cada1419",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ476a1c19449ca9b"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>Menu</p>",
+                    "id": "Y356a1c1cada1420",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": {
+                     "$text": [
+                      ".id_Y356a1c1cada1420 {\r",
+                      "\tfont-family: Playfair Display;\r",
+                      "\tfont-size: 2em;\r",
+                      "\ttext-align: center;\r",
+                      "\tpadding-top: 15px;\r",
+                      "\tfloat: left;\r",
+                      "}\r"
+                     ]
+                    },
+                    "name_in_model": "MY236a1c193a1e444"
+                   }
+                  ],
+                  "id": "Z346a1c1cada141e",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z346a1c1cada141e {\r\n\twidth: 64%;\r\n}\r",
+                  "name_in_model": "MZ126a1c1982a9777"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "",
+                    "original_name": "logositepetit.png",
+                    "in_gallery": "0",
+                    "uploaded_image": "logositepetit.png",
+                    "keep_format": "0",
+                    "width": "60",
+                    "height": "60",
+                    "notFlexible": "0",
+                    "value": "logositepetit.png",
+                    "id": "Y376a1c1cada1424",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY296a1c197b650e8"
+                   }
+                  ],
+                  "id": "Z366a1c1cada1422",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 2,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ146a1c1982a977b"
+                 }
+                ],
+                "id": "Z316a1c1cada1417",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "name_in_model": "MZ246a1c193a1e463"
+               }
+              ],
+              "id": "Z306a1c1cada1412",
+              "properties": 8256,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": " dontDisplayOnM dontDisplayOnL",
+              "embedded_css_rules": "",
+              "href": "",
+              "name_in_model": "MZ236a1c1919b626f"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Les commissions communales",
+                "id": "Y17869cfe773399f1",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Title",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "",
+                    "original_name": "commission.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "commission.jpg",
+                    "keep_format": "0",
+                    "width": "300",
+                    "height": "157",
+                    "notFlexible": "0",
+                    "value": "commission-8a36.jpg",
+                    "id": "Y17669cfe773399ee",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": {
+                     "$text": [
+                      ".id_Y17669cfe773399ee {\r",
+                      "\tmargin-left: auto;\r",
+                      "\tmargin-right: auto;\r",
+                      "}\r"
+                     ]
+                    }
+                   }
+                  ],
+                  "id": "Z3169e93654a7633",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Les commissions communales sont des instances internes au conseil municipal charg&eacute;es d&rsquo;&eacute;tudier des dossiers sp&eacute;cifiques (urbanisme, finances, voirie, f&ecirc;tes, etc.) et de formuler des propositions avant leur examen en s&eacute;ance.</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Elles n&rsquo;ont pas de pouvoir d&eacute;cisionnel propre&nbsp;: leurs avis restent consultatifs, la d&eacute;cision finale revenant &agrave; l'ensemble du conseil municipal.</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Les membres de ces commissions sont des conseillers municipaux, d&eacute;sign&eacute;s g&eacute;n&eacute;ralement par le conseil lui-m&ecirc;me, souvent sur proposition du maire, sans obligation stricte de repr&eacute;sentation proportionnelle comme dans les communes de plus de 1000 habitants.</p>"
+                     ]
+                    },
+                    "id": "Y2969e93654a72a3",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_important_centre",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z3269e93654a7658",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z3269e93654a7658 {\r\n\twidth: 75%;\r\n}\r"
+                 }
+                ],
+                "id": "Z3069e93654a72db",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z2969cfe7a08ffe3",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 1,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             }
+            ],
+            "id": "Z6069cfe7971df8c",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z6069cfe7971df8c {\r\n\twidth: 75%;\r\n}\r"
+           }
+          ],
+          "id": "Z2969cfe7971bfdf",
+          "properties": 8209,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Bâtiments Communaux",
+                  "id": "Y18269cfe773399f5",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Sandrine ALLAIN</strong></p>\r",
+                    "<p><strong>Christophe GUILHON</strong></p>\r",
+                    "<p><strong>St&eacute;phanie PARCELLIER</strong></p>\r",
+                    "<p><strong>Adrien WINTRINGER</strong></p>\r",
+                    "<p><strong>Lucas BERTHOMIEU</strong></p>\r",
+                    "<p><strong>Thierry DONVAL</strong></p>"
+                   ]
+                  },
+                  "id": "Y18369cfe773399f6",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z18169cfe773399f4",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Finances",
+                    "id": "Y18669cfe773399f9",
+                    "properties": 263168,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "COMMISSIONS",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z18569cfe773399f8",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": "",
+                  "embedded_css_rules": ".id_Z18569cfe773399f8 {\r\n\tborder-width: 0px;\r\n}\r",
+                  "href": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Christophe GUILHON</strong></p>\r",
+                    "<p><strong>Adrien WINTRINGER</strong></p>"
+                   ]
+                  },
+                  "id": "Y18769cfe773399fa",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z18469cfe773399f7",
+                "properties": 40960,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Communication et Numérique",
+                  "id": "Y18969cfe773399fc",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Adrien WINTRINGER</strong></p>\r",
+                    "<p><strong>Lucas BERTHOMIEU</strong></p>\r",
+                    "<p><strong>Thierry DONVAL</strong></p>\r",
+                    "<p></p>"
+                   ]
+                  },
+                  "id": "Y19069cfe773399fd",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z18869cfe773399fb",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Décoration et Jardins",
+                  "id": "Y19269cfe773399ff",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>St&eacute;phanie PARCELLIER</strong></p>\r",
+                    "<p><strong></strong><strong>Sandrine PONDARRE</strong></p>\r",
+                    "<p><strong>Adrien WINTRINGER</strong></p>\r",
+                    "<p><strong></strong><strong>Lucas BERTHOMIEU</strong></p>\r",
+                    "<p><strong>Sophie BASSAN</strong></p>"
+                   ]
+                  },
+                  "id": "Y19369cfe77339a00",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z19169cfe773399fe",
+                "properties": 40960,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               }
+              ],
+              "id": "Z18069cfe773399f3",
+              "properties": 8208,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z18069cfe773399f3 {\r\n\twidth: 33%;\r\n}\r"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Voirie",
+                  "id": "Y19669cfe77339a03",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Christophe GUILHON</strong></p>\r",
+                    "<p><strong>Lucas BERTHOMIEU</strong></p>\r",
+                    "<p><strong>Pascale CRUCHON</strong></p>\r",
+                    "<p><strong>St&eacute;phanie PARCELLIER</strong></p>\r",
+                    "<p><strong>Sandrine ALLAIN</strong></p>\r",
+                    "<p><strong>Sophie BASSAN</strong></p>\r",
+                    "<p></p>"
+                   ]
+                  },
+                  "id": "Y19769cfe77339a04",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z19569cfe77339a02",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Urbanisme",
+                  "id": "Y19969cfe77339a06",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Sandrine ALLAIN</strong></p>\r",
+                    "<p><strong></strong><strong>Christophe GUILHON</strong></p>\r",
+                    "<p><strong>Sophie BASSAN</strong></p>\r",
+                    "<p><strong>Magali PALACIN</strong></p>"
+                   ]
+                  },
+                  "id": "Y20069cfe77339a07",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z19869cfe77339a05",
+                "properties": 335872,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Fêtes",
+                  "id": "Y20269cfe77339a09",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Sophie BASSAN</strong></p>\r",
+                    "<p><strong>St&eacute;phanie PARCELLIER</strong></p>\r",
+                    "<p><strong>Sandrine PONDARRE</strong></p>\r",
+                    "<p><strong>Lucas BERTHOMIEU</strong></p>\r",
+                    "<p><strong>Sandrine ALLAIN</strong></p>\r",
+                    "<p></p>"
+                   ]
+                  },
+                  "id": "Y20369cfe77339a0a",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z20169cfe77339a08",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Salles des Fêtes",
+                  "id": "Y20569cfe77339a0c",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Sophie BASSAN<br /></strong></p>\r",
+                    "<p><strong>Pascale CRUCHON</strong></p>\r",
+                    "<p><strong></strong><strong>Lucas BERTHOMIEU</strong></p>\r",
+                    "<p><strong>St&eacute;phanie PARCELLIER</strong></p>\r",
+                    "<p><strong>Adrien WINTRINGER</strong></p>\r",
+                    "<p></p>\r",
+                    "<p></p>\r",
+                    "<p></p>\r",
+                    "<p></p>"
+                   ]
+                  },
+                  "id": "Y20669cfe77339a0d",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z20469cfe77339a0b",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               }
+              ],
+              "id": "Z19469cfe77339a01",
+              "properties": 8208,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 1,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z19469cfe77339a01 {\r\n\twidth: 33%;\r\n}\r"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Responsables Agents Communaux",
+                  "id": "Y20969cfe77339a10",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY2669cfc97f632fb"
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Sandrine ALLAIN</strong></p>\r",
+                    "<p><strong>Sophie BASSAN</strong></p>\r",
+                    "<p><strong>Lucas BERTHOMIEU</strong></p>"
+                   ]
+                  },
+                  "id": "Y21069cfe77339a11",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY2669cfc9920b3e0"
+                 }
+                ],
+                "id": "Z20869cfe77339a0f",
+                "properties": 8448,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ2669cfc989953cb"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Appels d'Offres",
+                  "id": "Y21269cfe77339a13",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Christophe GUILHON<br />Lucas BERTHOMIEU</strong></p>\r",
+                    "<p><strong>Adrien WINTRINGER</strong></p>\r",
+                    "<p><strong>St&eacute;phanie PARCELLIER</strong></p>\r",
+                    "<p><strong>Sandrine PONDARRE</strong></p>\r",
+                    "<p><strong>Magali PALACIN</strong></p>"
+                   ]
+                  },
+                  "id": "Y21369cfe77339a14",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z21169cfe77339a12",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "Cadre_Commission",
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Correspondants Tempêtes",
+                  "id": "Y396a1c1cada194f",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY2669cfc97f632fb"
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Lucas BERTHOMIEU</strong></p>\r",
+                    "<p><strong>Christophe GUILHON</strong></p>"
+                   ]
+                  },
+                  "id": "Y406a1c1cada1951",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY2669cfc9920b3e0"
+                 }
+                ],
+                "id": "Z386a1c1cada194b",
+                "properties": 8256,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ2669cfc989953cb"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Animaux dangereux et errants - Protection des animaux",
+                  "id": "Y21869cfe77339a19",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Sandrine ALLAIN</strong><br /><span style=\"color: #4e8de8;\"><strong></strong></span></p>\r",
+                    "<p><strong>Adrien WINTRINGER</strong></p>\r",
+                    "<p><strong>Magali PALACIN</strong></p>\r",
+                    "<p></p>\r",
+                    "<p></p>\r",
+                    "<p></p>"
+                   ]
+                  },
+                  "id": "Y21969cfe77339a1a",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z21769cfe77339a18",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "église et cimetière",
+                  "id": "Y22169cfe77339a1c",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p><strong>Lucas BERTHOMIEU</strong></p>\r",
+                    "<p><strong>St&eacute;phanie PARCELLIER</strong></p>"
+                   ]
+                  },
+                  "id": "Y22269cfe77339a1d",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z22069cfe77339a1b",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 4,
+                "user_style": "Cadre-rose",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               }
+              ],
+              "id": "Z20769cfe77339a0e",
+              "properties": 8208,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 2,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z20769cfe77339a0e {\r\n\twidth: 33%;\r\n}\r"
+             }
+            ],
+            "id": "Z17969cfe773399f2",
+            "properties": 8209,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ""
+           }
+          ],
+          "id": "Z17369cfe773399eb",
+          "properties": 8192,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 1,
+          "user_style": "Subdivision",
+          "more_classes": "",
+          "embedded_css_rules": "",
+          "href": ""
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WssTitle",
+            "level": "2",
+            "href": "",
+            "value": "Commissions externes",
+            "id": "Y2969e935182dfd5",
+            "properties": 1024,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Title2",
+            "more_classes": "",
+            "embedded_css_rules": ""
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Conseiller en charge des questions de défense",
+                  "id": "Y2969e935493a2ab",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><strong>Christophe GUILHON</strong></p>",
+                  "id": "Y2969e935042678b",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z2969e9352d05299",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               }
+              ],
+              "id": "Z3169e935124da6c",
+              "properties": 8208,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Conseiller en charge de la sécurité routière",
+                  "id": "Y2969e9354d16380",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "COMMISSIONS",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><strong>Sandrine ALLAIN</strong></p>",
+                  "id": "Y2969e935124d613",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z2969e93532c5fad",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               }
+              ],
+              "id": "Z3269e935124da7f",
+              "properties": 8208,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 1,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z3269e935124da7f {\r\n\twidth: 50%;\r\n}\r"
+             }
+            ],
+            "id": "Z3069e935124d634",
+            "properties": 8209,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ""
+           }
+          ],
+          "id": "Z2969e9350908966",
+          "properties": 8192,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 2,
+          "user_style": "Subdivision",
+          "more_classes": "",
+          "embedded_css_rules": "",
+          "href": ""
+         }
+        ],
+        "id": "Z6569cfe77339959",
+        "properties": 8192,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": "BodyHome",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "href": ""
+       }
+      ],
+      "id": "Z5869cfe7733994b",
+      "properties": 8208,
+      "owner": {
+       "$owner": "r"
+      },
+      "index": 0,
+      "user_style": 0,
+      "more_classes": null,
+      "embedded_css_rules": ""
+     },
+     {
+      "$class": "WsContainer",
+      "valign": "bottom",
+      "model_id": 0,
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "Footer",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": {
+             "$text": [
+              "<p>Mairie de Baigneaux -&nbsp;<span style=\"font-size: 12.8px;\">116 rue Yvonne-de-la-Seigli&egrave;re -&nbsp;</span><span style=\"font-size: 12.8px;\">33760 Baigneaux</span></p>\r",
+              "<p>T&eacute;l: <a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a>&nbsp;-&nbsp;E-Mail&nbsp;: <a href=\"mailto:communede.baigneaux@wanadoo.fr\">communede.baigneaux@wanadoo.fr</a></p>\r",
+              "<p>Suivez Baigneaux sur Facebook&nbsp;:&nbsp;<a href=\"https://www.facebook.com/lesbaignaudais/\">facebook.com/lesbaignaudais</a></p>\r",
+              "<p><a href=\"mentions-legales.html\">Mentions L&eacute;gales</a> - <a href=\"https://www.baigneaux.fr/historique-modifications.html\">Historique des versions</a></p>"
+             ]
+            },
+            "id": "Y436a1c1cada1f32",
+            "properties": 2048,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Texte-centre",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "name_in_model": "MY557f1c0abbc42"
+           },
+           {
+            "$class": "WssBadge",
+            "value": 0,
+            "id": "Y446a1c1cada1f34",
+            "properties": 0,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": null,
+            "more_classes": "",
+            "embedded_css_rules": {
+             "$text": [
+              ".id_Y446a1c1cada1f34 {\r",
+              "\tmargin-left: auto;\r",
+              "\tmargin-right: auto;\r",
+              "}\r"
+             ]
+            },
+            "name_in_model": "MY1869cb06ae4d576"
+           }
+          ],
+          "id": "Z426a1c1cada1f2e",
+          "properties": 270336,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": "",
+          "embedded_css_rules": {
+           "$text": [
+            ".id_Z426a1c1cada1f2e {\r",
+            "\tborder-color: #000091;\r",
+            "\tborder-width: 0px;\r",
+            "\tmax-width: 1178px;\r",
+            "}\r"
+           ]
+          },
+          "name_in_model": "MZ165f578e3250a9f",
+          "href": ""
+         }
+        ],
+        "id": "Z416a1c1cada1f04",
+        "properties": 8256,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": "fred1",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "href": "",
+        "name_in_model": "MZ557f17014423f"
+       }
+      ],
+      "id": "Z22369cfe77339a1e",
+      "properties": 8208,
+      "owner": {
+       "$owner": "r"
+      },
+      "index": 1,
+      "user_style": 0,
+      "more_classes": null,
+      "embedded_css_rules": ""
+     }
+    ],
+    "id": "p322",
+    "properties": 8202,
+    "owner": 0,
+    "index": 0,
+    "user_style": "Arriere_plan",
+    "more_classes": "",
+    "embedded_css_rules": "",
+    "lang": "fr",
+    "not_responsive": "0",
+    "no_robots": "0",
+    "redir_url": "",
+    "hdr_html": {
+     "$text": [
+      "<style>\r",
+      "/* cyrillic */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDTbtPY_Q.woff2) format('woff2');\r",
+      "  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;\r",
+      "}\r",
+      "/* vietnamese */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDYbtPY_Q.woff2) format('woff2');\r",
+      "  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;\r",
+      "}\r",
+      "/* latin-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDZbtPY_Q.woff2) format('woff2');\r",
+      "  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;\r",
+      "}\r",
+      "/* latin */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtM.woff2) format('woff2');\r",
+      "  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\r",
+      "}\r",
+      "/* cyrillic-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZJhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;\r",
+      "}\r",
+      "/* cyrillic */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;\r",
+      "}\r",
+      "/* greek-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZNhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+1F00-1FFF;\r",
+      "}\r",
+      "/* greek */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZxhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;\r",
+      "}\r",
+      "/* vietnamese */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZBhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;\r",
+      "}\r",
+      "/* latin-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZFhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;\r",
+      "}\r",
+      "/* latin */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiA.woff2) format('woff2');\r",
+      "  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\r",
+      "}\r",
+      "/* cyrillic-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_P-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;\r",
+      "}\r",
+      "/* cyrillic */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_G-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;\r",
+      "}\r",
+      "/* greek */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_B-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;\r",
+      "}\r",
+      "/* vietnamese */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_N-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;\r",
+      "}\r",
+      "/* latin-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_M-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;\r",
+      "}\r",
+      "/* latin */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bk.woff2) format('woff2');\r",
+      "  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\r",
+      "}\r",
+      "</style>"
+     ]
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "Fiche_actu_complete",
+  "",
+  null,
+  "2026-06-03 18:22:49",
+  "_Model container",
+  "8256",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1780503769,
+    "save_number": 2,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": "<p>Vie Communale</p>\r\n<p>&nbsp;</p>",
+            "id": "Y416a2054d246645",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": null,
+            "more_classes": "",
+            "embedded_css_rules": {
+             "$text": [
+              ".id_Y416a2054d246645 {\r",
+              "\tfont-family: Inter;\r",
+              "\tfont-size: 2em;\r",
+              "}\r"
+             ]
+            },
+            "name_in_model": "MY426a204fe537a26"
+           }
+          ],
+          "id": "Z406a2054d246643",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ".id_Z406a2054d246643 {\r\n\twidth: 60%;\r\n}\r",
+          "name_in_model": "MZ446a204fea047d5"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": "<p>3 juin 2026</p>",
+            "id": "Y436a2054d24664a",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": null,
+            "more_classes": "",
+            "embedded_css_rules": {
+             "$text": [
+              ".id_Y436a2054d24664a {\r",
+              "\tfont-family: Inter;\r",
+              "\tfont-size: 2em;\r",
+              "\ttext-align: right;\r",
+              "}\r"
+             ]
+            },
+            "name_in_model": "MY426a204fea0433d"
+           }
+          ],
+          "id": "Z426a2054d246648",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 1,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ".id_Z426a2054d246648 {\r\n\twidth: 60%;\r\n}\r",
+          "name_in_model": "MZ456a204fea047e6"
+         }
+        ],
+        "id": "Z396a2054d246641",
+        "properties": 8209,
+        "owner": {
+         "$owner": "r"
+        },
+        "index": 0,
+        "user_style": 0,
+        "more_classes": null,
+        "embedded_css_rules": "",
+        "name_in_model": "MZ436a204fea04365"
+       },
+       {
+        "$class": "WssTitle",
+        "level": "2",
+        "href": "",
+        "value": "Opération Tranquilité vacances ",
+        "id": "Y446a2054d24664c",
+        "properties": 1024,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": "Title3",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY426a20518248234"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": {
+         "$text": [
+          "<p id=\"OTV\">En cas d'absence prolong&eacute;e de votre domicile, la gendarmerie vous propose le dispositif \"Op&eacute;ration Tranquilit&eacute; Vacances\".</p>\r",
+          "<p>&nbsp;</p>\r",
+          "<p>Les d&eacute;tails se trouvent dans l'infographie officielle ci-dessous.</p>\r",
+          "<p>&nbsp;</p>"
+         ]
+        },
+        "id": "Y456a2054d24664f",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 2,
+        "user_style": "Texte_normal_align_gauche",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY266a199a16d15ef"
+       },
+       {
+        "$class": "WsImage",
+        "caption": "",
+        "href": "",
+        "tooltip": "",
+        "original_name": "otv.jpeg",
+        "in_gallery": "1",
+        "uploaded_image": "otv.jpg",
+        "keep_format": "0",
+        "width": "400",
+        "height": "607",
+        "notFlexible": "0",
+        "value": "otv-5c4a.jpg",
+        "id": "Y466a2054d246651",
+        "properties": 4096,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 3,
+        "user_style": null,
+        "more_classes": "",
+        "embedded_css_rules": {
+         "$text": [
+          ".id_Y466a2054d246651 {\r",
+          "\tmargin-left: auto;\r",
+          "\tmargin-right: auto;\r",
+          "\tborder-width: 0px;\r",
+          "}\r"
+         ]
+        },
+        "name_in_model": "MY846a1999d0f1d0a"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": "<p>&nbsp;&nbsp;</p>",
+        "id": "Y476a2054d246653",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 4,
+        "user_style": "Texte_normal_align_gauche",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY426a2051ced9f65"
+       }
+      ],
+      "id": "Z386a2054d24663d",
+      "properties": 8192,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Subdivision",
+      "more_classes": "",
+      "embedded_css_rules": "",
+      "href": "",
+      "name_in_model": "MZ836a1999d0f1d07"
+     }
+    ],
+    "id": "Fiche_actu_complete",
+    "properties": 8256,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": "",
+    "lang": ""
+   }
+  }
+ ]
+}

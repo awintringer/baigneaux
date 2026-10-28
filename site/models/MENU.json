@@ -1,0 +1,179 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "MENU",
+  "",
+  null,
+  "2026-05-31 13:28:18",
+  "_Model container",
+  "270400",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1780226898,
+    "save_number": 2,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WssMenu",
+            "category": "0",
+            "depth": "1",
+            "value": "vertical",
+            "id": "Y116a1c18cad68bf",
+            "properties": 262144,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Main",
+            "more_classes": " dontDisplayOnXS dontDisplayOnS",
+            "embedded_css_rules": "",
+            "name_in_model": "MY55dc82a8b7b9e"
+           }
+          ],
+          "id": "Z106a1c18cad68bd",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ".id_Z106a1c18cad68bd {\r\n\twidth: 100%;\r\n}\r",
+          "name_in_model": "MZ869ce9a560f24c"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": "<p>Menu</p>",
+            "id": "Y136a1c18cad68c3",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Essai",
+            "more_classes": " dontDisplayOnM dontDisplayOnL",
+            "embedded_css_rules": "",
+            "name_in_model": "MY1869cea6e95b8ee"
+           }
+          ],
+          "id": "Z126a1c18cad68c1",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 1,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ".id_Z126a1c18cad68c1 {\r\n\twidth: 100%;\r\n}\r",
+          "name_in_model": "MZ1069ce9a560f252"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsImage",
+            "caption": "",
+            "href": "",
+            "tooltip": "",
+            "original_name": "logosite.png",
+            "in_gallery": "0",
+            "uploaded_image": "logosite-4dcc.png",
+            "keep_format": "0",
+            "width": "50",
+            "height": "50",
+            "notFlexible": "0",
+            "value": "logosite-11ba.png",
+            "id": "Y156a1c18cad68c6",
+            "properties": 266240,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": null,
+            "more_classes": " dontDisplayOnM dontDisplayOnL",
+            "embedded_css_rules": {
+             "$text": [
+              ".id_Y156a1c18cad68c6 {\r",
+              "\tmargin-left: auto;\r",
+              "\tmargin-right: auto;\r",
+              "}\r"
+             ]
+            },
+            "name_in_model": "MY1669cea66d3bc6f"
+           }
+          ],
+          "id": "Z146a1c18cad68c4",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 2,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ".id_Z146a1c18cad68c4 {\r\n\twidth: 25%;\r\n}\r",
+          "name_in_model": "MZ1269cea67e092f5"
+         }
+        ],
+        "id": "Z96a1c18cad68bb",
+        "properties": 8209,
+        "owner": {
+         "$owner": "r"
+        },
+        "index": 0,
+        "user_style": 0,
+        "more_classes": null,
+        "embedded_css_rules": "",
+        "name_in_model": "MZ1769cea66d3bc94"
+       }
+      ],
+      "id": "Z86a1c18cad68b6",
+      "properties": 270592,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Bloc_menu",
+      "more_classes": "",
+      "embedded_css_rules": "",
+      "name_in_model": "MZ5819e18fc9d3d",
+      "href": ""
+     }
+    ],
+    "id": "MENU",
+    "properties": 270400,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": "",
+    "lang": ""
+   }
+  }
+ ]
+}

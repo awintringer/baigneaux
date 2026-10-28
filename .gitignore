@@ -1,0 +1,9 @@
+# Secrets: admin password hash extracted from ws_preferences.php — never commit
+secrets/
+# Built archives and incoming exports
+dist/
+imports/
+*.ws_data
+# Python
+__pycache__/
+*.pyc

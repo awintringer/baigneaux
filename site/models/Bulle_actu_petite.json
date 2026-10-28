@@ -1,0 +1,193 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "Bulle_actu_petite",
+  "",
+  null,
+  "2026-09-24 15:15:55",
+  "_Model container",
+  "270400",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1790255755,
+    "save_number": 2,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WsImage",
+        "caption": "",
+        "href": "",
+        "tooltip": "cimetiere",
+        "original_name": "ptisoiree.PNG",
+        "in_gallery": "0",
+        "uploaded_image": "ptisoiree.png",
+        "keep_format": "0",
+        "width": "212",
+        "height": "90",
+        "notFlexible": "0",
+        "value": "ptisoiree-af4c.png",
+        "id": "Y176ab5228040445",
+        "properties": 4096,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": null,
+        "more_classes": "",
+        "embedded_css_rules": {
+         "$text": [
+          ".id_Y176ab5228040445 {\r",
+          "\tmargin-left: auto;\r",
+          "\tmargin-right: auto;\r",
+          "}\r"
+         ]
+        },
+        "name_in_model": "MY276a1ad396386f6"
+       },
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": "<p>Vie Communale</p>",
+            "id": "Y206ab522804044c",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "bulle_actu_categorie_vie_communale",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "name_in_model": "MY236a1ea85d88b05"
+           }
+          ],
+          "id": "Z196ab522804044a",
+          "properties": 8208,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": "",
+          "name_in_model": "MZ486a1ea85fc2a72"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": "<p>24 sept 2026</p>",
+            "id": "Y226ab5228040450",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "bulle_actu_date",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "name_in_model": "MY236a1ea85fc04f7"
+           }
+          ],
+          "id": "Z216ab522804044f",
+          "properties": 8208,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 1,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": "",
+          "name_in_model": "MZ496a1ea85fc2a83"
+         }
+        ],
+        "id": "Z186ab5228040449",
+        "properties": 8209,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": 0,
+        "more_classes": null,
+        "embedded_css_rules": "",
+        "name_in_model": "MZ246a1ea85fc052e"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": "<p>Photos de la soir&eacute;e du 19 septembre</p>",
+        "id": "Y236ab5228040452",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 2,
+        "user_style": "titre_bulle_actu",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY206a1eb25e2c20a"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": {
+         "$text": [
+          "<p>Retrouvez les photos de notre soir&eacute;e dansante du 19 septembre anim&eacute;e par DJ Somax</p>\r",
+          "<p><a href=\"https://www.baigneaux.fr/galerie-evenements.html#soiree_20260919\">Lire la suite -&gt;</a></p>"
+         ]
+        },
+        "id": "Y246ab5228040454",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 3,
+        "user_style": "Texte_normal_align_gauche",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY186a199894dc501"
+       }
+      ],
+      "id": "Z166ab5228040440",
+      "properties": 270592,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Subdivision",
+      "more_classes": "",
+      "embedded_css_rules": "",
+      "href": "",
+      "name_in_model": "MZ276a1ad2da70980"
+     }
+    ],
+    "id": "Bulle_actu_petite",
+    "properties": 270400,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": null,
+    "lang": ""
+   }
+  }
+ ]
+}

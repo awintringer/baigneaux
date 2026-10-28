@@ -1,0 +1,10 @@
+{
+ "table": "ws_user_css",
+ "row": [
+  "default",
+  "2026-10-17 15:02:00",
+  {
+   "$file": "css/default.css"
+  }
+ ]
+}

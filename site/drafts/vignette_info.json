@@ -1,0 +1,193 @@
+{
+ "table": "ws_tlc_draft",
+ "row": [
+  "vignette_info",
+  "",
+  null,
+  "2026-06-02 12:39:12",
+  "_Model container",
+  "270656",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1780396752,
+    "save_number": 1,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WsImage",
+        "caption": "",
+        "href": "",
+        "tooltip": "",
+        "original_name": "branches.PNG",
+        "in_gallery": "0",
+        "uploaded_image": "branches.png",
+        "keep_format": "0",
+        "width": "200",
+        "height": "83",
+        "notFlexible": "0",
+        "value": "branches-69f5.png",
+        "id": "Y276a1ad39cdeae5",
+        "properties": 4096,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": null,
+        "more_classes": "",
+        "embedded_css_rules": {
+         "$text": [
+          ".id_Y276a1ad39cdeae5 {\r",
+          "\tmargin-left: auto;\r",
+          "\tmargin-right: auto;\r",
+          "}\r"
+         ]
+        },
+        "name_in_model": "MY276a1ad39cdeae5"
+       },
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": "<p>Mairie</p>",
+            "id": "Y286a1ea9e9296cc",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "bulle_actu_categorie_mairie",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "name_in_model": "MY286a1ea9e9296cc"
+           }
+          ],
+          "id": "Z586a1ea9eb4bd5e",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": "",
+          "name_in_model": "MZ586a1ea9eb4bd5e"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": "<p>1er juin 2026</p>",
+            "id": "Y286a1ea9eb49ae1",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "bulle_actu_date",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "name_in_model": "MY286a1ea9eb49ae1"
+           }
+          ],
+          "id": "Z596a1ea9eb4bd92",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 1,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": "",
+          "name_in_model": "MZ596a1ea9eb4bd92"
+         }
+        ],
+        "id": "Z296a1ea9eb49b01",
+        "properties": 8209,
+        "owner": {
+         "$owner": "r"
+        },
+        "index": 1,
+        "user_style": 0,
+        "more_classes": null,
+        "embedded_css_rules": "",
+        "name_in_model": "MZ296a1ea9eb49b01"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": "<p>Broyage des d&eacute;chets verts</p>\r\n<p>&nbsp;</p>",
+        "id": "Y206a1eb1d00bfc2",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 2,
+        "user_style": "titre_bulle_actu",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY206a1eb1d00bfc2"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": {
+         "$text": [
+          "<p>Le SEMOCTOM a proc&eacute;d&eacute; au broyage des d&eacute;chets verts, du paillis est &agrave; disposition.</p>\r",
+          "<p>Pensez &agrave; demander le code en mairie ou par mail.</p>"
+         ]
+        },
+        "id": "Y1869ef0e419a710",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 3,
+        "user_style": "Texte_normal_align_gauche",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY1869ef0e419a710"
+       }
+      ],
+      "id": "Z1869ef0e4582ef6",
+      "properties": 270336,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Subdivision",
+      "more_classes": "",
+      "embedded_css_rules": "",
+      "href": "",
+      "name_in_model": "MZ1869ef0e4582ef6"
+     }
+    ],
+    "id": "vignette_info",
+    "properties": 270656,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": null,
+    "lang": ""
+   }
+  }
+ ]
+}

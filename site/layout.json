@@ -1,0 +1,428 @@
+[
+ {
+  "raw": ""
+ },
+ {
+  "raw": "-- TABLE: ws_map"
+ },
+ {
+  "raw": "DROP TABLE IF EXISTS `ws_map`;"
+ },
+ {
+  "raw": "CREATE TABLE `ws_map` ("
+ },
+ {
+  "raw": "  `lang` varchar(8) NOT NULL DEFAULT '',"
+ },
+ {
+  "raw": "  `map_array` blob DEFAULT NULL,"
+ },
+ {
+  "raw": "  PRIMARY KEY (`lang`)"
+ },
+ {
+  "raw": ") ENGINE=MyISAM DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_bin;"
+ },
+ {
+  "file": "tables/ws_map.fr.json"
+ },
+ {
+  "file": "tables/ws_map.en.json"
+ },
+ {
+  "raw": ""
+ },
+ {
+  "raw": "-- TABLE: ws_map_draft"
+ },
+ {
+  "raw": "DROP TABLE IF EXISTS `ws_map_draft`;"
+ },
+ {
+  "raw": "CREATE TABLE `ws_map_draft` ("
+ },
+ {
+  "raw": "  `lang` varchar(8) NOT NULL DEFAULT '',"
+ },
+ {
+  "raw": "  `map_array` blob DEFAULT NULL,"
+ },
+ {
+  "raw": "  PRIMARY KEY (`lang`)"
+ },
+ {
+  "raw": ") ENGINE=MyISAM DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_bin;"
+ },
+ {
+  "raw": ""
+ },
+ {
+  "raw": "-- TABLE: ws_tlc"
+ },
+ {
+  "raw": "DROP TABLE IF EXISTS `ws_tlc`;"
+ },
+ {
+  "raw": "CREATE TABLE `ws_tlc` ("
+ },
+ {
+  "raw": "  `id` varchar(45) NOT NULL DEFAULT '',"
+ },
+ {
+  "raw": "  `lang` varchar(8) NOT NULL,"
+ },
+ {
+  "raw": "  `url_id` varchar(256) DEFAULT NULL,"
+ },
+ {
+  "raw": "  `date` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),"
+ },
+ {
+  "raw": "  `name` varchar(45) DEFAULT NULL,"
+ },
+ {
+  "raw": "  `properties` int(11) DEFAULT 0,"
+ },
+ {
+  "raw": "  `serialized_object` mediumblob DEFAULT NULL,"
+ },
+ {
+  "raw": "  PRIMARY KEY (`id`,`lang`),"
+ },
+ {
+  "raw": "  KEY `url` (`lang`,`url_id`)"
+ },
+ {
+  "raw": ") ENGINE=MyISAM DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_bin;"
+ },
+ {
+  "file": "models/Footer.json"
+ },
+ {
+  "file": "pages/p313-deliberations.json"
+ },
+ {
+  "file": "pages/p324-medecins_de_garde.json"
+ },
+ {
+  "file": "models/Path.json"
+ },
+ {
+  "file": "pages/p210-enfance-jeunesse.json"
+ },
+ {
+  "file": "pages/p329.json"
+ },
+ {
+  "file": "pages/p328.json"
+ },
+ {
+  "file": "models/modules.json"
+ },
+ {
+  "file": "pages/p153-pv-conseil.json"
+ },
+ {
+  "file": "pages/p234-formalites-administratives.json"
+ },
+ {
+  "file": "pages/p208-conseil-municipal.json"
+ },
+ {
+  "file": "pages/p233-arretes.json"
+ },
+ {
+  "file": "pages/p301-arretes-prefectoraux.json"
+ },
+ {
+  "file": "pages/p220-vie-communale.json"
+ },
+ {
+  "file": "pages/p325-galerie-evenements.json"
+ },
+ {
+  "file": "pages/p302-demandes-autorisations.json"
+ },
+ {
+  "file": "pages/p300-associations.json"
+ },
+ {
+  "file": "pages/p318-commerces.json"
+ },
+ {
+  "file": "pages/p207-mairie.json"
+ },
+ {
+  "file": "models/Header2.json"
+ },
+ {
+  "file": "pages/p219-Domaines.json"
+ },
+ {
+  "file": "pages/p315-intercommunalite.json"
+ },
+ {
+  "file": "pages/p310-emplois.json"
+ },
+ {
+  "file": "pages/p266-mentions-legales.json"
+ },
+ {
+  "file": "pages/p203-tourisme.json"
+ },
+ {
+  "file": "models/Cadre_Commission.json"
+ },
+ {
+  "file": "pages/p322-commissions.json"
+ },
+ {
+  "file": "pages/home.json"
+ },
+ {
+  "file": "pages/p316-CDC.json"
+ },
+ {
+  "file": "pages/p320.json"
+ },
+ {
+  "file": "pages/p321-annuaire.json"
+ },
+ {
+  "file": "pages/p211-RPI.json"
+ },
+ {
+  "file": "pages/p314.json"
+ },
+ {
+  "file": "pages/p290-carte-communale.json"
+ },
+ {
+  "file": "pages/p312-patrimoine.json"
+ },
+ {
+  "file": "pages/p304-actualites.json"
+ },
+ {
+  "file": "pages/p270-annuaires-services.json"
+ },
+ {
+  "file": "models/MENU.json"
+ },
+ {
+  "file": "pages/p259-carte-de-la-commune.json"
+ },
+ {
+  "file": "pages/p319-evenements-festivites.json"
+ },
+ {
+  "file": "pages/p311-formations.json"
+ },
+ {
+  "file": "pages/p244-aire-jeux.json"
+ },
+ {
+  "file": "pages/p317.json"
+ },
+ {
+  "file": "pages/p227-salle-fetes.json"
+ },
+ {
+  "file": "pages/p327-historique-modifications.json"
+ },
+ {
+  "file": "pages/p247-chemins-randonnees.json"
+ },
+ {
+  "file": "pages/p229-asmat.json"
+ },
+ {
+  "file": "pages/p286-urbanisme.json"
+ },
+ {
+  "file": "pages/p230-jeunesse.json"
+ },
+ {
+  "file": "pages/p326-mobilite.json"
+ },
+ {
+  "file": "pages/p330-comsante.json"
+ },
+ {
+  "file": "pages/p331-securite.json"
+ },
+ {
+  "file": "models/vignette_info.json"
+ },
+ {
+  "file": "models/vignette_evenement.json"
+ },
+ {
+  "file": "models/menu_burger.json"
+ },
+ {
+  "file": "models/test_ikul.json"
+ },
+ {
+  "file": "models/Fiche_actu_complete.json"
+ },
+ {
+  "file": "models/Bulle_actu_petite.json"
+ },
+ {
+  "raw": ""
+ },
+ {
+  "raw": "-- TABLE: ws_tlc_draft"
+ },
+ {
+  "raw": "DROP TABLE IF EXISTS `ws_tlc_draft`;"
+ },
+ {
+  "raw": "CREATE TABLE `ws_tlc_draft` ("
+ },
+ {
+  "raw": "  `id` varchar(45) NOT NULL DEFAULT '',"
+ },
+ {
+  "raw": "  `lang` varchar(8) NOT NULL,"
+ },
+ {
+  "raw": "  `url_id` varchar(256) DEFAULT NULL,"
+ },
+ {
+  "raw": "  `date` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),"
+ },
+ {
+  "raw": "  `name` varchar(45) DEFAULT NULL,"
+ },
+ {
+  "raw": "  `properties` int(11) DEFAULT 0,"
+ },
+ {
+  "raw": "  `serialized_object` mediumblob DEFAULT NULL,"
+ },
+ {
+  "raw": "  PRIMARY KEY (`id`,`lang`),"
+ },
+ {
+  "raw": "  KEY `url` (`lang`,`url_id`)"
+ },
+ {
+  "raw": ") ENGINE=MyISAM DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_bin;"
+ },
+ {
+  "file": "drafts/bulle_version.json"
+ },
+ {
+  "file": "drafts/vignette_info.json"
+ },
+ {
+  "file": "drafts/p300-associations.json"
+ },
+ {
+  "file": "drafts/Bloc_evenement.json"
+ },
+ {
+  "file": "drafts/vignette_evenement.json"
+ },
+ {
+  "file": "drafts/Fiche_actu_complete.json"
+ },
+ {
+  "file": "drafts/p331-securite.json"
+ },
+ {
+  "file": "drafts/p330-comsante.json"
+ },
+ {
+  "raw": ""
+ },
+ {
+  "raw": "-- TABLE: ws_user_css"
+ },
+ {
+  "raw": "DROP TABLE IF EXISTS `ws_user_css`;"
+ },
+ {
+  "raw": "CREATE TABLE `ws_user_css` ("
+ },
+ {
+  "raw": "  `id` varchar(45) NOT NULL DEFAULT '',"
+ },
+ {
+  "raw": "  `date` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),"
+ },
+ {
+  "raw": "  `csstext` text DEFAULT NULL,"
+ },
+ {
+  "raw": "  PRIMARY KEY (`id`)"
+ },
+ {
+  "raw": ") ENGINE=MyISAM DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_bin;"
+ },
+ {
+  "file": "css/default.row.json"
+ },
+ {
+  "raw": ""
+ },
+ {
+  "raw": "-- TABLE: ws_user_css_draft"
+ },
+ {
+  "raw": "DROP TABLE IF EXISTS `ws_user_css_draft`;"
+ },
+ {
+  "raw": "CREATE TABLE `ws_user_css_draft` ("
+ },
+ {
+  "raw": "  `id` varchar(45) NOT NULL DEFAULT '',"
+ },
+ {
+  "raw": "  `date` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),"
+ },
+ {
+  "raw": "  `csstext` text DEFAULT NULL,"
+ },
+ {
+  "raw": "  PRIMARY KEY (`id`)"
+ },
+ {
+  "raw": ") ENGINE=MyISAM DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_bin;"
+ },
+ {
+  "raw": ""
+ },
+ {
+  "raw": "-- TABLE: ws_system"
+ },
+ {
+  "raw": "DROP TABLE IF EXISTS `ws_system`;"
+ },
+ {
+  "raw": "CREATE TABLE `ws_system` ("
+ },
+ {
+  "raw": "  `data_version` float NOT NULL,"
+ },
+ {
+  "raw": "  `last_id` smallint(5) NOT NULL DEFAULT 0,"
+ },
+ {
+  "raw": "  `purge_counter` smallint(3) NOT NULL DEFAULT 0,"
+ },
+ {
+  "raw": "  `date` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp()"
+ },
+ {
+  "raw": ") ENGINE=MyISAM DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_bin;"
+ },
+ {
+  "file": "tables/ws_system.6.1.json"
+ },
+ {
+  "raw": ""
+ }
+]

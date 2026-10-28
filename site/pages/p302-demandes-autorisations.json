@@ -1,0 +1,1666 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "p302",
+  "fr",
+  "demandes-autorisations",
+  "2026-10-16 20:51:12",
+  "Demandes d'autorisations",
+  "8202",
+  {
+   "$php": {
+    "$class": "WssPage",
+    "description": "",
+    "title": "",
+    "url_id": "demandes-autorisations",
+    "date": 1792176672,
+    "save_number": 1410,
+    "name": "Demandes d'autorisations",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": 0,
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "Header2",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Baigneaux</a></p>",
+              "id": "Y36ad27220640b6",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "retour_accueil",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY256a19b7672c6f8"
+             }
+            ],
+            "id": "Z26ad27220640af",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z26ad27220640af {\r\n\twidth: 20%;\r\n}\r",
+            "name_in_model": "MZ26a19b6dd78037"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/mairie.html\">Ma Mairie</a></p>",
+              "id": "Y56ad27220640bd",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY146a19b6a4141de"
+             }
+            ],
+            "id": "Z46ad27220640ba",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z46ad27220640ba {\r\n\twidth: 16%;\r\n}\r",
+            "name_in_model": "MZ46a19b6f0a695f"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/vie-communale.html\">Ma Commune</a></p>",
+              "id": "Y76ad27220640c3",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY186a19b6e2dbe74"
+             }
+            ],
+            "id": "Z66ad27220640c0",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 2,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z66ad27220640c0 {\r\n\twidth: 16%;\r\n}\r",
+            "name_in_model": "MZ66a19b7469847a"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+              "id": "Y96ad27220640c8",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY206a19b70373d87"
+             }
+            ],
+            "id": "Z86ad27220640c5",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 3,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z86ad27220640c5 {\r\n\twidth: 16%;\r\n}\r",
+            "name_in_model": "MZ86a19b752453f5"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/annuaire.html\">Services</a></p>",
+              "id": "Y116ad27220640ce",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY226a19b74bd2ee5"
+             }
+            ],
+            "id": "Z106ad27220640cb",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 4,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z106ad27220640cb {\r\n\twidth: 16%;\r\n}\r",
+            "name_in_model": "MZ156a19b7dd3fe6e"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/formalites-administratives.html\">D&eacute;marches</a></p>",
+              "id": "Y136ad27220640d4",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY296a19b7d2755a6"
+             }
+            ],
+            "id": "Z126ad27220640d1",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 5,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z126ad27220640d1 {\r\n\twidth: 16%;\r\n}\r",
+            "name_in_model": "MZ176a19b7dd3fe71"
+           }
+          ],
+          "id": "Z16ad27220640ac",
+          "properties": 8209,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": "",
+          "name_in_model": "MZ156a19b6a4141f9"
+         }
+        ],
+        "id": "Z06ad27220640a1",
+        "properties": 270400,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": "BodyHome",
+        "more_classes": " dontDisplayOnXS dontDisplayOnS",
+        "embedded_css_rules": "",
+        "href": "",
+        "name_in_model": "MZ869ccf3d56f152"
+       },
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": 0,
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "MENU",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WssMenu",
+                      "category": "0",
+                      "depth": "1",
+                      "value": "vertical",
+                      "id": "Y176ad2722064ca4",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Main",
+                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY55dc82a8b7b9e"
+                     }
+                    ],
+                    "id": "Z166ad2722064ca0",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z166ad2722064ca0 {\r\n\twidth: 100%;\r\n}\r",
+                    "name_in_model": "MZ869ce9a560f24c"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>Menu</p>",
+                      "id": "Y196ad2722064ca9",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Essai",
+                      "more_classes": " dontDisplayOnM dontDisplayOnL",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1869cea6e95b8ee"
+                     }
+                    ],
+                    "id": "Z186ad2722064ca7",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z186ad2722064ca7 {\r\n\twidth: 100%;\r\n}\r",
+                    "name_in_model": "MZ1069ce9a560f252"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "",
+                      "original_name": "logosite.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "logosite-4dcc.png",
+                      "keep_format": "0",
+                      "width": "50",
+                      "height": "50",
+                      "notFlexible": "0",
+                      "value": "logosite-11ba.png",
+                      "id": "Y216ad2722064cad",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": " dontDisplayOnM dontDisplayOnL",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y216ad2722064cad {\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: auto;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY1669cea66d3bc6f"
+                     }
+                    ],
+                    "id": "Z206ad2722064cab",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z206ad2722064cab {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ1269cea67e092f5"
+                   }
+                  ],
+                  "id": "Z156ad2722064c9e",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ1769cea66d3bc94"
+                 }
+                ],
+                "id": "Z146ad2722064c97",
+                "properties": 270400,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Bloc_menu",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MZ5819e18fc9d3d",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "Path",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WsContainer",
+                          "valign": null,
+                          "model_id": "",
+                          "contents": [
+                           {
+                            "$class": "WsTextarea",
+                            "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                            "id": "Y276ad272206563d",
+                            "properties": 264192,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 0,
+                            "user_style": "Path",
+                            "more_classes": "",
+                            "embedded_css_rules": "",
+                            "name_in_model": "MY557f20acc196b"
+                           }
+                          ],
+                          "id": "Z266ad272206563b",
+                          "properties": 8208,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": 0,
+                          "more_classes": null,
+                          "embedded_css_rules": "",
+                          "name_in_model": "MZ595841f49586bf5"
+                         },
+                         {
+                          "$class": "WsContainer",
+                          "valign": null,
+                          "model_id": "",
+                          "contents": [
+                           {
+                            "$class": "WssPagePath",
+                            "value": 0,
+                            "id": "Y296ad2722065643",
+                            "properties": 262144,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 0,
+                            "user_style": "Path",
+                            "more_classes": "",
+                            "embedded_css_rules": "",
+                            "name_in_model": "MY557f20acc19db"
+                           }
+                          ],
+                          "id": "Z286ad2722065640",
+                          "properties": 8208,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 1,
+                          "user_style": 0,
+                          "more_classes": null,
+                          "embedded_css_rules": ".id_Z286ad2722065640 {\r\n\twidth: 89.8%;\r\n}\r",
+                          "name_in_model": "MZ605841f49586c54"
+                         }
+                        ],
+                        "id": "Z256ad2722065639",
+                        "properties": 8209,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": 0,
+                        "more_classes": null,
+                        "embedded_css_rules": "",
+                        "name_in_model": "MZ585841f49586a24"
+                       }
+                      ],
+                      "id": "Z246ad2722065637",
+                      "properties": 270464,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Z246ad2722065637 {\r",
+                        "\tpadding-bottom: 0px;\r",
+                        "\tpadding-left: 0px;\r",
+                        "\tborder-width: 0px;\r",
+                        "\tpadding-top: 10px;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MZ575841f4895c408",
+                      "href": ""
+                     }
+                    ],
+                    "id": "Z236ad2722065632",
+                    "properties": 270336,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": "",
+                    "embedded_css_rules": ".id_Z236ad2722065632 {\r\n\tborder-width: 0px;\r\n}\r",
+                    "name_in_model": "MZ3369cbea6206362",
+                    "href": ""
+                   }
+                  ],
+                  "id": "Z226ad272206562d",
+                  "properties": 270400,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Path",
+                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ557f20acc188b"
+                 }
+                ],
+                "id": "Z935f5789eb0e9c1",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Bloc_menu",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MZ5819e18fc9d3d",
+                "href": ""
+               }
+              ],
+              "id": "Z1869caf4ef63287",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             }
+            ],
+            "id": "Z3769caf2324bd86",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ""
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "LES DIFFERENTES DEMANDES D'AUTORISATION D'URBANISME",
+                "id": "Y155f5a324be19fd",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Title",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsTextarea",
+                "value": "<p>Les dossiers de demande d'autorisation d'urbanisme peuvent &ecirc;tre d&eacute;pos&eacute;s sur e-permis</p>",
+                "id": "Y1666154c32abb3d",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Texte_important_centre",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsImage",
+                "caption": "",
+                "href": "",
+                "tooltip": "",
+                "original_name": "Schéma-ADS-okjpg_LI.jpg",
+                "in_gallery": "0",
+                "uploaded_image": "sch--ma-ads-okjpg_li.jpg",
+                "keep_format": "0",
+                "width": "600",
+                "height": "424",
+                "notFlexible": "0",
+                "value": "sch--ma-ads-okjpg_li-4ea0.jpg",
+                "id": "Y1275f5789eb0e9e3",
+                "properties": 4096,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y1275f5789eb0e9e3 {\r",
+                  "\tmargin-left: auto;\r",
+                  "\tmargin-right: auto;\r",
+                  "}\r"
+                 ]
+                }
+               }
+              ],
+              "id": "Z1869caf2de85cf6",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             }
+            ],
+            "id": "Z3869caf2324bd9a",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ""
+           }
+          ],
+          "id": "Z1869caf2324a2e6",
+          "properties": 8209,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Le Certificat d'Urbanisme",
+                "id": "Y155f578fa481e85",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Title",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "",
+                    "original_name": "cu.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "cu.jpg",
+                    "keep_format": "0",
+                    "width": "200",
+                    "height": "158",
+                    "notFlexible": "0",
+                    "value": "cu-e9b5.jpg",
+                    "id": "Y155f57a0c3d38f9",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": null
+                   }
+                  ],
+                  "id": "Z3769caf2874cb8f",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z3769caf2874cb8f {\r\n\twidth: 25%;\r\n}\r"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p><strong><a href=\"https://www.service-public.fr/particuliers/vosdroits/F1633\">Informations et Documents &agrave; t&eacute;l&eacute;charger</a><br /></strong></p>",
+                    "id": "Y155f5790996d2f6",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z3869caf2874cb9f",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z1869caf2874b4bf",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z1869caf283b5e85",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             }
+            ],
+            "id": "Z356a1c16cb03800",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ""
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "La déclaration préalable",
+                "id": "Y155f5a2e2866438",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Title",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "",
+                    "original_name": "DECLARATION PREALABLE.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "declaration-prealable.jpg",
+                    "keep_format": "0",
+                    "width": "224",
+                    "height": "158",
+                    "notFlexible": "0",
+                    "value": "declaration-prealable-2221.jpg",
+                    "id": "Y155f5a2eab4c2b5",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": null
+                   }
+                  ],
+                  "id": "Z3769caf28f4b747",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z3769caf28f4b747 {\r\n\twidth: 25%;\r\n}\r"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p><a href=\"https://www.service-public.fr/particuliers/vosdroits/F17578\"><span style=\"text-decoration: underline;\">Informations et documents &agrave; t&eacute;l&eacute;charger</span></a></p>",
+                    "id": "Y155f5a2ee804f0c",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z3869caf28f4b759",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z1869caf28f49c2d",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z1869caf28d0c8cb",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             }
+            ],
+            "id": "Z366a1c16cb03817",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ""
+           }
+          ],
+          "id": "Z346a1c16cb034b5",
+          "properties": 8209,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 1,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Le permis de construire",
+                "id": "Y155f5a2ff88dc6f",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Title",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "",
+                    "original_name": "permis de construire.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "permis-de-construire.jpg",
+                    "keep_format": "0",
+                    "width": "224",
+                    "height": "103",
+                    "notFlexible": "0",
+                    "value": "permis-de-construire-6b2f.jpg",
+                    "id": "Y155f5a305967888",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": null
+                   }
+                  ],
+                  "id": "Z3769caf29f53a48",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z3769caf29f53a48 {\r\n\twidth: 25%;\r\n}\r"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p><a href=\"https://www.service-public.fr/particuliers/vosdroits/F1986\"><span style=\"text-decoration: underline;\">Informations et Documents &agrave; t&eacute;l&eacute;charger</span></a></p>",
+                    "id": "Y155f5a31ac35489",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z3869caf29f53a5f",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z1869caf29f5258a",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z1869caf29c8037e",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             }
+            ],
+            "id": "Z356a1c16cfa8eb0",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z356a1c16cfa8eb0 {\r\n\twidth: 50%;\r\n}\r"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Le permis d'aménager",
+                "id": "Y155f5a330ca0ff1",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Title",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "",
+                    "original_name": "permis d'aménager.png",
+                    "in_gallery": "0",
+                    "uploaded_image": "permis-d-am--nager.png",
+                    "keep_format": "0",
+                    "width": "243",
+                    "height": "138",
+                    "notFlexible": "0",
+                    "value": "permis-d-am--nager-96ef.png",
+                    "id": "Y155f5a3389dd8f9",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": null
+                   }
+                  ],
+                  "id": "Z3769caf2ad227d2",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p><a href=\"https://www.service-public.fr/particuliers/vosdroits/F17665\"><span style=\"text-decoration: underline;\">Informations et Documents &agrave; t&eacute;l&eacute;charger</span></a></p>",
+                    "id": "Y155f5a33b9c6475",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z3869caf2ad227e2",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z3869caf2ad227e2 {\r\n\twidth: 75%;\r\n}\r"
+                 }
+                ],
+                "id": "Z1869caf2ad20d4a",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z1869caf2a962b39",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             }
+            ],
+            "id": "Z366a1c16cfa8ec6",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ""
+           }
+          ],
+          "id": "Z346a1c16cfa8bfd",
+          "properties": 8209,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 2,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WssTitle",
+            "level": "2",
+            "href": "",
+            "value": "notre pôle ADS",
+            "id": "Y155f5a371856628",
+            "properties": 1024,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Title",
+            "more_classes": "",
+            "embedded_css_rules": ""
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsImage",
+                "caption": "",
+                "href": "",
+                "tooltip": "",
+                "original_name": "pole-territorial-coeur-entre-deux-mers-Vertical-300x221.jpg",
+                "in_gallery": "0",
+                "uploaded_image": "pole-territorial-coeur-entre-deux-mers-vertical-300x221-9be8.jpg",
+                "keep_format": "1",
+                "width": "252",
+                "height": "186",
+                "notFlexible": "1",
+                "value": "pole-territorial-coeur-entre-deux-mers-vertical-300x221-7268.jpg",
+                "id": "Y155f5a3bd9c2f7c",
+                "properties": 266240,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": ".id_Y155f5a3bd9c2f7c {\r\n\tpadding-top: 23px;\r\n}\r"
+               }
+              ],
+              "id": "Z3769caf3b636dfe",
+              "properties": 8208,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p>Cr&eacute;&eacute; en 2015, le service ADS est un service public mutualis&eacute; du PETR du Coeur-Entre-Deux-Mers. Il assure la totalit&eacute; des actes n&eacute;cessaires &agrave; l'instruction des demandes et d&eacute;clarations d'urbanisme en toute confidentialit&eacute; pour le compte de ses communes adh&eacute;rentes.</p>\r",
+                  "<p>&nbsp;</p>\r",
+                  "<p><strong>Pour le solliciter, merci de contacter la Mairie qui se chargera de transmettre votre dossier.</strong></p>\r",
+                  "<p></p>\r",
+                  "<p></p>"
+                 ]
+                },
+                "id": "Y155f5a37553be80",
+                "properties": 264192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Texte_important_centre",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z3869caf3b636e47",
+              "properties": 8208,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 1,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z3869caf3b636e47 {\r\n\twidth: 75%;\r\n}\r"
+             }
+            ],
+            "id": "Z1869caf3b63537e",
+            "properties": 8209,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ""
+           }
+          ],
+          "id": "Z1869caf2b350a12",
+          "properties": 8192,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 3,
+          "user_style": "Subdivision",
+          "more_classes": "",
+          "embedded_css_rules": "",
+          "href": ""
+         }
+        ],
+        "id": "Z1869caf22a22347",
+        "properties": 8192,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": "BodyHome",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "href": ""
+       }
+      ],
+      "id": "Z895f5789eb0e9bc",
+      "properties": 8208,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": 0,
+      "more_classes": null,
+      "embedded_css_rules": ""
+     },
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": 0,
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "Footer",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": {
+             "$text": [
+              "<p>Mairie de Baigneaux -&nbsp;<span style=\"font-size: 12.8px;\">116 rue Yvonne de la Seigli&egrave;re -&nbsp;</span><span style=\"font-size: 12.8px;\">33760 Baigneaux</span></p>\r",
+              "<p>T&eacute;l: <a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a>&nbsp;-&nbsp;E-Mail&nbsp;: <a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>\r",
+              "<p>Suivez Baigneaux sur Facebook&nbsp;:&nbsp;<a href=\"https://www.facebook.com/lesbaignaudais/\">facebook.com/lesbaignaudais</a></p>\r",
+              "<p><a href=\"mentions-legales.html\">Mentions L&eacute;gales</a> - <a href=\"https://www.baigneaux.fr/historique-modifications.html\">Historique des versions</a></p>"
+             ]
+            },
+            "id": "Y326ad272206615e",
+            "properties": 2048,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Texte-centre",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "name_in_model": "MY557f1c0abbc42"
+           },
+           {
+            "$class": "WssBadge",
+            "value": 0,
+            "id": "Y336ad2722066165",
+            "properties": 0,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": null,
+            "more_classes": "",
+            "embedded_css_rules": {
+             "$text": [
+              ".id_Y336ad2722066165 {\r",
+              "\tmargin-left: auto;\r",
+              "\tmargin-right: auto;\r",
+              "}\r"
+             ]
+            },
+            "name_in_model": "MY1869cb06ae4d576"
+           }
+          ],
+          "id": "Z316ad2722066156",
+          "properties": 270336,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": "",
+          "embedded_css_rules": {
+           "$text": [
+            ".id_Z316ad2722066156 {\r",
+            "\tborder-color: #000091;\r",
+            "\tborder-width: 0px;\r",
+            "\tmax-width: 1178px;\r",
+            "}\r"
+           ]
+          },
+          "name_in_model": "MZ165f578e3250a9f",
+          "href": ""
+         }
+        ],
+        "id": "Z306ad2722066149",
+        "properties": 8256,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": "fred1",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "href": "",
+        "name_in_model": "MZ557f17014423f"
+       }
+      ],
+      "id": "Z1285f5789eb0e9e4",
+      "properties": 8208,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 1,
+      "user_style": 0,
+      "more_classes": null,
+      "embedded_css_rules": ""
+     }
+    ],
+    "id": "p302",
+    "properties": 8202,
+    "owner": 0,
+    "index": 0,
+    "user_style": "Arriere_plan",
+    "more_classes": "",
+    "embedded_css_rules": "",
+    "lang": "fr",
+    "not_responsive": "0",
+    "no_robots": "0",
+    "redir_url": "",
+    "hdr_html": {
+     "$text": [
+      "<style>\r",
+      "/* cyrillic */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDTbtPY_Q.woff2) format('woff2');\r",
+      "  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;\r",
+      "}\r",
+      "/* vietnamese */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDYbtPY_Q.woff2) format('woff2');\r",
+      "  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;\r",
+      "}\r",
+      "/* latin-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDZbtPY_Q.woff2) format('woff2');\r",
+      "  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;\r",
+      "}\r",
+      "/* latin */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtM.woff2) format('woff2');\r",
+      "  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\r",
+      "}\r",
+      "/* cyrillic-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZJhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;\r",
+      "}\r",
+      "/* cyrillic */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;\r",
+      "}\r",
+      "/* greek-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZNhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+1F00-1FFF;\r",
+      "}\r",
+      "/* greek */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZxhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;\r",
+      "}\r",
+      "/* vietnamese */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZBhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;\r",
+      "}\r",
+      "/* latin-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZFhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;\r",
+      "}\r",
+      "/* latin */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiA.woff2) format('woff2');\r",
+      "  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\r",
+      "}\r",
+      "/* cyrillic-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_P-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;\r",
+      "}\r",
+      "/* cyrillic */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_G-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;\r",
+      "}\r",
+      "/* greek */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_B-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;\r",
+      "}\r",
+      "/* vietnamese */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_N-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;\r",
+      "}\r",
+      "/* latin-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_M-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;\r",
+      "}\r",
+      "/* latin */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bk.woff2) format('woff2');\r",
+      "  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\r",
+      "}\r",
+      "</style>"
+     ]
+    }
+   }
+  }
+ ]
+}

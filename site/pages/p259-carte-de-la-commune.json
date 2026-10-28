@@ -1,0 +1,1307 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "p259",
+  "fr",
+  "carte-de-la-commune",
+  "2026-07-22 15:10:50",
+  "Plan et Accès",
+  "8201",
+  {
+   "$php": {
+    "$class": "WssPage",
+    "description": "",
+    "title": "",
+    "url_id": "carte-de-la-commune",
+    "date": 1784725850,
+    "save_number": 1303,
+    "name": "Plan et Accès",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": 0,
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": 0,
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "Header2",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Baigneaux</a></p>",
+                  "id": "Y36a60c15a95d72",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "retour_accueil",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY256a19b7672c6f8"
+                 }
+                ],
+                "id": "Z26a60c15a95d6e",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z26a60c15a95d6e {\r\n\twidth: 20%;\r\n}\r",
+                "name_in_model": "MZ26a19b6dd78037"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/mairie.html\">Ma Mairie</a></p>",
+                  "id": "Y56a60c15a95d76",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY146a19b6a4141de"
+                 }
+                ],
+                "id": "Z46a60c15a95d74",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z46a60c15a95d74 {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ46a19b6f0a695f"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/vie-communale.html\">Ma Commune</a></p>",
+                  "id": "Y76a60c15a95d79",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY186a19b6e2dbe74"
+                 }
+                ],
+                "id": "Z66a60c15a95d78",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 2,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z66a60c15a95d78 {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ66a19b7469847a"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+                  "id": "Y96a60c15a95d7c",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY206a19b70373d87"
+                 }
+                ],
+                "id": "Z86a60c15a95d7a",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 3,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z86a60c15a95d7a {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ86a19b752453f5"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/p321.html\">Services</a></p>",
+                  "id": "Y116a60c15a95d80",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY226a19b74bd2ee5"
+                 }
+                ],
+                "id": "Z106a60c15a95d7d",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 4,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z106a60c15a95d7d {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ156a19b7dd3fe6e"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/formalites-administratives.html\">D&eacute;marches</a></p>",
+                  "id": "Y136a60c15a95d83",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY296a19b7d2755a6"
+                 }
+                ],
+                "id": "Z126a60c15a95d81",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 5,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z126a60c15a95d81 {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ176a19b7dd3fe71"
+               }
+              ],
+              "id": "Z16a60c15a95d6b",
+              "properties": 8209,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": "",
+              "name_in_model": "MZ156a19b6a4141f9"
+             }
+            ],
+            "id": "Z06a60c15a95d63",
+            "properties": 270400,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "BodyHome",
+            "more_classes": " dontDisplayOnXS dontDisplayOnS",
+            "embedded_css_rules": "",
+            "href": "",
+            "name_in_model": "MZ869ccf3d56f152"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "MENU",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WssMenu",
+                          "category": "0",
+                          "depth": "1",
+                          "value": "vertical",
+                          "id": "Y176a60c15a9610c",
+                          "properties": 262144,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": "Main",
+                          "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                          "embedded_css_rules": "",
+                          "name_in_model": "MY55dc82a8b7b9e"
+                         }
+                        ],
+                        "id": "Z166a60c15a96109",
+                        "properties": 8208,
+                        "owner": {
+                         "$owner": "r"
+                        },
+                        "index": 0,
+                        "user_style": 0,
+                        "more_classes": null,
+                        "embedded_css_rules": ".id_Z166a60c15a96109 {\r\n\twidth: 100%;\r\n}\r",
+                        "name_in_model": "MZ869ce9a560f24c"
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": "<p>Menu</p>",
+                          "id": "Y196a60c15a96110",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": "Essai",
+                          "more_classes": " dontDisplayOnM dontDisplayOnL",
+                          "embedded_css_rules": "",
+                          "name_in_model": "MY1869cea6e95b8ee"
+                         }
+                        ],
+                        "id": "Z186a60c15a9610e",
+                        "properties": 8208,
+                        "owner": {
+                         "$owner": "r"
+                        },
+                        "index": 1,
+                        "user_style": 0,
+                        "more_classes": null,
+                        "embedded_css_rules": ".id_Z186a60c15a9610e {\r\n\twidth: 100%;\r\n}\r",
+                        "name_in_model": "MZ1069ce9a560f252"
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WsImage",
+                          "caption": "",
+                          "href": "",
+                          "tooltip": "",
+                          "original_name": "logosite.png",
+                          "in_gallery": "0",
+                          "uploaded_image": "logosite-4dcc.png",
+                          "keep_format": "0",
+                          "width": "50",
+                          "height": "50",
+                          "notFlexible": "0",
+                          "value": "logosite-11ba.png",
+                          "id": "Y216a60c15a96113",
+                          "properties": 266240,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": null,
+                          "more_classes": " dontDisplayOnM dontDisplayOnL",
+                          "embedded_css_rules": {
+                           "$text": [
+                            ".id_Y216a60c15a96113 {\r",
+                            "\tmargin-left: auto;\r",
+                            "\tmargin-right: auto;\r",
+                            "}\r"
+                           ]
+                          },
+                          "name_in_model": "MY1669cea66d3bc6f"
+                         }
+                        ],
+                        "id": "Z206a60c15a96111",
+                        "properties": 8208,
+                        "owner": {
+                         "$owner": "r"
+                        },
+                        "index": 2,
+                        "user_style": 0,
+                        "more_classes": null,
+                        "embedded_css_rules": ".id_Z206a60c15a96111 {\r\n\twidth: 25%;\r\n}\r",
+                        "name_in_model": "MZ1269cea67e092f5"
+                       }
+                      ],
+                      "id": "Z156a60c15a96108",
+                      "properties": 8209,
+                      "owner": {
+                       "$owner": "r"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": "",
+                      "name_in_model": "MZ1769cea66d3bc94"
+                     }
+                    ],
+                    "id": "Z146a60c15a96104",
+                    "properties": 270400,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Bloc_menu",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ5819e18fc9d3d",
+                    "href": ""
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "Path",
+                      "contents": [
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WsContainer",
+                          "valign": null,
+                          "model_id": "",
+                          "contents": [
+                           {
+                            "$class": "WsContainer",
+                            "valign": null,
+                            "model_id": "",
+                            "contents": [
+                             {
+                              "$class": "WsContainer",
+                              "valign": null,
+                              "model_id": "",
+                              "contents": [
+                               {
+                                "$class": "WsTextarea",
+                                "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                                "id": "Y276a60c15a9647d",
+                                "properties": 264192,
+                                "owner": {
+                                 "$owner": "R"
+                                },
+                                "index": 0,
+                                "user_style": "Path",
+                                "more_classes": "",
+                                "embedded_css_rules": "",
+                                "name_in_model": "MY557f20acc196b"
+                               }
+                              ],
+                              "id": "Z266a60c15a9647b",
+                              "properties": 8208,
+                              "owner": {
+                               "$owner": "r"
+                              },
+                              "index": 0,
+                              "user_style": 0,
+                              "more_classes": null,
+                              "embedded_css_rules": "",
+                              "name_in_model": "MZ595841f49586bf5"
+                             },
+                             {
+                              "$class": "WsContainer",
+                              "valign": null,
+                              "model_id": "",
+                              "contents": [
+                               {
+                                "$class": "WssPagePath",
+                                "value": 0,
+                                "id": "Y296a60c15a96481",
+                                "properties": 262144,
+                                "owner": {
+                                 "$owner": "R"
+                                },
+                                "index": 0,
+                                "user_style": "Path",
+                                "more_classes": "",
+                                "embedded_css_rules": "",
+                                "name_in_model": "MY557f20acc19db"
+                               }
+                              ],
+                              "id": "Z286a60c15a96480",
+                              "properties": 8208,
+                              "owner": {
+                               "$owner": "r"
+                              },
+                              "index": 1,
+                              "user_style": 0,
+                              "more_classes": null,
+                              "embedded_css_rules": ".id_Z286a60c15a96480 {\r\n\twidth: 89.8%;\r\n}\r",
+                              "name_in_model": "MZ605841f49586c54"
+                             }
+                            ],
+                            "id": "Z256a60c15a96479",
+                            "properties": 8209,
+                            "owner": {
+                             "$owner": "r"
+                            },
+                            "index": 0,
+                            "user_style": 0,
+                            "more_classes": null,
+                            "embedded_css_rules": "",
+                            "name_in_model": "MZ585841f49586a24"
+                           }
+                          ],
+                          "id": "Z246a60c15a96478",
+                          "properties": 270464,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": 0,
+                          "more_classes": "",
+                          "embedded_css_rules": {
+                           "$text": [
+                            ".id_Z246a60c15a96478 {\r",
+                            "\tpadding-bottom: 0px;\r",
+                            "\tpadding-left: 0px;\r",
+                            "\tborder-width: 0px;\r",
+                            "\tpadding-top: 10px;\r",
+                            "}\r"
+                           ]
+                          },
+                          "name_in_model": "MZ575841f4895c408",
+                          "href": ""
+                         }
+                        ],
+                        "id": "Z236a60c15a96475",
+                        "properties": 270336,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": 0,
+                        "more_classes": "",
+                        "embedded_css_rules": ".id_Z236a60c15a96475 {\r\n\tborder-width: 0px;\r\n}\r",
+                        "name_in_model": "MZ3369cbea6206362",
+                        "href": ""
+                       }
+                      ],
+                      "id": "Z226a60c15a96471",
+                      "properties": 270400,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Path",
+                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                      "embedded_css_rules": "",
+                      "href": "",
+                      "name_in_model": "MZ557f20acc188b"
+                     }
+                    ],
+                    "id": "Z1135b6abc6b421bc",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": "",
+                    "embedded_css_rules": {
+                     "$text": [
+                      ".id_Z1135b6abc6b421bc {\r",
+                      "\tborder-width: 0px;\r",
+                      "\tmargin-left: auto;\r",
+                      "\tmargin-right: auto;\r",
+                      "\tmax-width: 1130px;\r",
+                      "}\r"
+                     ]
+                    },
+                    "name_in_model": "MZ5819e18fc9d3d",
+                    "href": ""
+                   }
+                  ],
+                  "id": "Z2069cbec3104a75",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Subdivision",
+                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "embedded_css_rules": "",
+                  "href": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "menu_burger",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WssMenu",
+                        "category": "0",
+                        "depth": "0",
+                        "value": "0",
+                        "id": "Y336a60c15a96845",
+                        "properties": 262144,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": "menu_burger",
+                        "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY236a1c1913916fa"
+                       }
+                      ],
+                      "id": "Z326a60c15a96841",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "r"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z326a60c15a96841 {\r\n\twidth: 25%;\r\n}\r",
+                      "name_in_model": "MZ476a1c19449ca9b"
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": "<p>Menu</p>",
+                        "id": "Y356a60c15a9684b",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": {
+                         "$text": [
+                          ".id_Y356a60c15a9684b {\r",
+                          "\tfont-family: Playfair Display;\r",
+                          "\tfont-size: 2em;\r",
+                          "\ttext-align: center;\r",
+                          "\tpadding-top: 15px;\r",
+                          "\tfloat: left;\r",
+                          "}\r"
+                         ]
+                        },
+                        "name_in_model": "MY236a1c193a1e444"
+                       }
+                      ],
+                      "id": "Z346a60c15a96848",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "r"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z346a60c15a96848 {\r\n\twidth: 50%;\r\n}\r",
+                      "name_in_model": "MZ126a1c1982a9777"
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsImage",
+                        "caption": "",
+                        "href": "",
+                        "tooltip": "",
+                        "original_name": "armoiries.png",
+                        "in_gallery": "0",
+                        "uploaded_image": "armoiries.png",
+                        "keep_format": "0",
+                        "width": "55",
+                        "height": "60",
+                        "notFlexible": "0",
+                        "value": "armoiries-7e86.png",
+                        "id": "Y376a60c15a96852",
+                        "properties": 266240,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": {
+                         "$text": [
+                          ".id_Y376a60c15a96852 {\r",
+                          "\ttext-align: right;\r",
+                          "\tmargin-left: auto;\r",
+                          "\tmargin-right: 0;\r",
+                          "}\r"
+                         ]
+                        },
+                        "name_in_model": "MY296a1c197b650e8"
+                       }
+                      ],
+                      "id": "Z366a60c15a9684f",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "r"
+                      },
+                      "index": 2,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z366a60c15a9684f {\r\n\twidth: 25%;\r\n}\r",
+                      "name_in_model": "MZ146a1c1982a977b"
+                     }
+                    ],
+                    "id": "Z316a60c15a9683e",
+                    "properties": 8209,
+                    "owner": {
+                     "$owner": "r"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ246a1c193a1e463"
+                   }
+                  ],
+                  "id": "Z306a60c15a96838",
+                  "properties": 8256,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Subdivision",
+                  "more_classes": " dontDisplayOnM dontDisplayOnL",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ236a1c1919b626f"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Accès",
+                    "id": "Y2669da3bf3127a0",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>En Bus depuis Bordeaux: ligne 473 (Bordeaux Stalingrad -&gt; Sauveterre de Guyenne par Targon)</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Le Bourg de Baigneaux (arr&ecirc;t accessibles aux personnes &agrave; mobilit&eacute; r&eacute;duite).</p>"
+                     ]
+                    },
+                    "id": "Y2669da3bdd485c8",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WssDownload",
+                    "data_filename": {
+                     "$arr": [
+                      [
+                       "ligne_bus_473.pdf",
+                       "ligne_bus_473.pdf"
+                      ]
+                     ]
+                    },
+                    "source_filename": 0,
+                    "variables": null,
+                    "decoded_value": "Horaires de la ligne (valables jusqu'à juin 2027)",
+                    "value": "Horaires de la ligne (valables jusqu'à juin 2027)",
+                    "id": "Y2669da3c8a38d6f",
+                    "properties": 16384,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": "Telechargement",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2669da3be3dbbf3",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 2,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": ""
+                 }
+                ],
+                "id": "Z2269cbec43efc2e",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2269cbec43efc2e {\r\n\twidth: 25%;\r\n}\r"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Carte de la Commune",
+                    "id": "Y2069cbec43ef698",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>Cliquez sur la carte pour l'agrandir</p>",
+                    "id": "Y2069cbeec9f0dc8",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_important_centre",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "",
+                    "original_name": "plan.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "plan.jpg",
+                    "keep_format": "0",
+                    "width": "1178",
+                    "height": "841",
+                    "notFlexible": "0",
+                    "value": "plan-7f15.jpg",
+                    "id": "Y2069cbec587ba11",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": null
+                   }
+                  ],
+                  "id": "Z2069cd13299b930",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Localisation Géographique",
+                    "id": "Y2069cbedea83d0a",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsRawText",
+                    "data_filename": [],
+                    "source_filename": 0,
+                    "variables": null,
+                    "decoded_value": "<iframe height=\"617\" width=\"800\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=-0.21013498306274417%2C44.71874622086382%2C-0.18535137176513672%2C44.728076732185514&amp;layer=mapnik\" style=\"border: 1px solid black\"></iframe><br/><small><a href=\"https://www.openstreetmap.org/?#map=17/44.723412/-0.197743\">Afficher une carte plus grande</a></small>",
+                    "value": "<iframe height=\"617\" width=\"800\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=-0.21013498306274417%2C44.71874622086382%2C-0.18535137176513672%2C44.728076732185514&amp;layer=mapnik\" style=\"border: 1px solid black\"></iframe><br/><small><a href=\"https://www.openstreetmap.org/?#map=17/44.723412/-0.197743\">Afficher une carte plus grande</a></small>",
+                    "id": "Y2069cbee32e0813",
+                    "properties": 16384,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": {
+                     "$text": [
+                      ".id_Y2069cbee32e0813 {\r",
+                      "\tmax-width: 1100px;\r",
+                      "\tmargin-left: auto;\r",
+                      "\tmargin-right: auto;\r",
+                      "\ttext-align: center;\r",
+                      "}\r"
+                     ]
+                    }
+                   }
+                  ],
+                  "id": "Z2069cd131c9ae0e",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": ""
+                 }
+                ],
+                "id": "Z2369cbec43efc50",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2369cbec43efc50 {\r\n\twidth: 75%;\r\n}\r"
+               }
+              ],
+              "id": "Z2169cbec43ef6be",
+              "properties": 8209,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ""
+             }
+            ],
+            "id": "Z2069cbec28dd509",
+            "properties": 8192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": "BodyHome",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": ""
+           }
+          ],
+          "id": "Z1045b6abc6b41f1b",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         },
+         {
+          "$class": "WsContainer",
+          "valign": "bottom",
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "Footer",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p>Mairie de Baigneaux -&nbsp;<span style=\"font-size: 12.8px;\">116 rue Yvonne de la Seigli&egrave;re -&nbsp;</span><span style=\"font-size: 12.8px;\">33760 Baigneaux</span></p>\r",
+                  "<p>T&eacute;l: <a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a>&nbsp;-&nbsp;E-Mail&nbsp;: <a href=\"mailto:communede.baigneaux@wanadoo.fr\">communede.baigneaux@wanadoo.fr</a></p>\r",
+                  "<p>Suivez Baigneaux sur Facebook&nbsp;:&nbsp;<a href=\"https://www.facebook.com/lesbaignaudais/\">facebook.com/lesbaignaudais</a></p>\r",
+                  "<p><a href=\"mentions-legales.html\">Mentions L&eacute;gales</a> - <a href=\"https://www.baigneaux.fr/historique-modifications.html\">Historique des versions</a></p>"
+                 ]
+                },
+                "id": "Y406a60c15a96c06",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Texte-centre",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MY557f1c0abbc42"
+               },
+               {
+                "$class": "WssBadge",
+                "value": 0,
+                "id": "Y416a60c15a96c08",
+                "properties": 0,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y416a60c15a96c08 {\r",
+                  "\tmargin-left: auto;\r",
+                  "\tmargin-right: auto;\r",
+                  "}\r"
+                 ]
+                },
+                "name_in_model": "MY1869cb06ae4d576"
+               }
+              ],
+              "id": "Z396a60c15a96c03",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": "",
+              "embedded_css_rules": {
+               "$text": [
+                ".id_Z396a60c15a96c03 {\r",
+                "\tborder-color: #000091;\r",
+                "\tborder-width: 0px;\r",
+                "\tmax-width: 1178px;\r",
+                "}\r"
+               ]
+              },
+              "name_in_model": "MZ165f578e3250a9f",
+              "href": ""
+             }
+            ],
+            "id": "Z386a60c15a96bff",
+            "properties": 8256,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "fred1",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": "",
+            "name_in_model": "MZ557f17014423f"
+           }
+          ],
+          "id": "Z1535b6abc6b42e1f",
+          "properties": 8208,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 1,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         }
+        ],
+        "id": "Z485ea1882e7580d",
+        "properties": 8210,
+        "owner": {
+         "$owner": "r"
+        },
+        "index": 0,
+        "user_style": 0,
+        "more_classes": null,
+        "embedded_css_rules": ""
+       }
+      ],
+      "id": "Z505ea1882e759d6",
+      "properties": 8208,
+      "owner": {
+       "$owner": "r"
+      },
+      "index": 0,
+      "user_style": 0,
+      "more_classes": null,
+      "embedded_css_rules": ""
+     }
+    ],
+    "id": "p259",
+    "properties": 8201,
+    "owner": 0,
+    "index": 0,
+    "user_style": "Arriere_plan",
+    "more_classes": "",
+    "embedded_css_rules": "",
+    "lang": "fr",
+    "not_responsive": "0",
+    "no_robots": "0",
+    "redir_url": "",
+    "hdr_html": {
+     "$text": [
+      "<style>\r",
+      "/* cyrillic */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDTbtPY_Q.woff2) format('woff2');\r",
+      "  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;\r",
+      "}\r",
+      "/* vietnamese */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDYbtPY_Q.woff2) format('woff2');\r",
+      "  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;\r",
+      "}\r",
+      "/* latin-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDZbtPY_Q.woff2) format('woff2');\r",
+      "  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;\r",
+      "}\r",
+      "/* latin */\r",
+      "@font-face {\r",
+      "  font-family: 'Playfair Display';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtM.woff2) format('woff2');\r",
+      "  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\r",
+      "}\r",
+      "/* cyrillic-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZJhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;\r",
+      "}\r",
+      "/* cyrillic */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;\r",
+      "}\r",
+      "/* greek-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZNhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+1F00-1FFF;\r",
+      "}\r",
+      "/* greek */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZxhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;\r",
+      "}\r",
+      "/* vietnamese */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZBhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;\r",
+      "}\r",
+      "/* latin-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZFhiI2B.woff2) format('woff2');\r",
+      "  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;\r",
+      "}\r",
+      "/* latin */\r",
+      "@font-face {\r",
+      "  font-family: 'Inter';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiA.woff2) format('woff2');\r",
+      "  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\r",
+      "}\r",
+      "/* cyrillic-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_P-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;\r",
+      "}\r",
+      "/* cyrillic */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_G-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;\r",
+      "}\r",
+      "/* greek */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_B-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;\r",
+      "}\r",
+      "/* vietnamese */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_N-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;\r",
+      "}\r",
+      "/* latin-ext */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_M-bnBeA.woff2) format('woff2');\r",
+      "  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;\r",
+      "}\r",
+      "/* latin */\r",
+      "@font-face {\r",
+      "  font-family: 'Manrope';\r",
+      "  font-style: normal;\r",
+      "  font-weight: 400;\r",
+      "  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bk.woff2) format('woff2');\r",
+      "  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;\r",
+      "}\r",
+      "</style>"
+     ]
+    }
+   }
+  }
+ ]
+}

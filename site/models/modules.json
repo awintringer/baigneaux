@@ -1,0 +1,119 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "modules",
+  "",
+  null,
+  "2026-04-02 19:20:10",
+  "_Model container",
+  "270400",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1775150410,
+    "save_number": 2,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WssTitle",
+        "level": "3",
+        "href": "",
+        "value": "Services publics 33",
+        "id": "Y2169cea51e3a3a5",
+        "properties": 1024,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": "SP33",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY557f31c565969"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": "<p><span style=\"color: #000000;\">Effectuez vos d&eacute;marches en ligne</span></p>",
+        "id": "Y2269cea51e3a3a7",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": null,
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY5807ecb98d3c8"
+       },
+       {
+        "$class": "WsImage",
+        "caption": "",
+        "href": "http://citoyen.girondenumerique.fr",
+        "tooltip": "",
+        "original_name": "servicespublics33.png",
+        "in_gallery": "0",
+        "uploaded_image": "servicespublics33.png",
+        "keep_format": "0",
+        "width": {
+         "$d": "207"
+        },
+        "height": {
+         "$d": "111"
+        },
+        "notFlexible": "0",
+        "value": "servicespublics33-cc3a.png",
+        "id": "Y2369cea51e3a3a8",
+        "properties": 4096,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 2,
+        "user_style": null,
+        "more_classes": "",
+        "embedded_css_rules": {
+         "$text": [
+          ".id_Y2369cea51e3a3a8 {\r",
+          "\ttext-align: left;\r",
+          "\tmargin-left: 0;\r",
+          "\tmargin-right: auto;\r",
+          "}\r",
+          ".id_Y2369cea51e3a3a8 a:hover, .id_Y2369cea51e3a3a8 a.hover {\r",
+          "\tbackground-color: #98A70E;\r",
+          "}\r"
+         ]
+        },
+        "name_in_model": "MY558d599c81c0c"
+       }
+      ],
+      "id": "Z2069cea51e3a39f",
+      "properties": 270336,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Subdivision",
+      "more_classes": " dontDisplayOnXS dontDisplayOnS",
+      "embedded_css_rules": "",
+      "href": "",
+      "name_in_model": "MZ562f463557b62"
+     }
+    ],
+    "id": "modules",
+    "properties": 270400,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": "",
+    "lang": ""
+   }
+  }
+ ]
+}

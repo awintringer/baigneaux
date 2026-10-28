@@ -1,0 +1,96 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "test_ikul",
+  "",
+  null,
+  "2026-06-02 12:58:13",
+  "_Model container",
+  "270400",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1780397893,
+    "save_number": 2,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WsTextarea",
+        "value": "<p id=\"OTV\">Op&eacute;ration Tranquilit&eacute; vacances&nbsp;: pourquoi, comment?</p>",
+        "id": "Y396a1eb4b283a26",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": "Texte_important_centre",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY266a199a16d15ef"
+       },
+       {
+        "$class": "WsImage",
+        "caption": "",
+        "href": "",
+        "tooltip": "",
+        "original_name": "otv.jpeg",
+        "in_gallery": "0",
+        "uploaded_image": "otv.jpg",
+        "keep_format": "0",
+        "width": "700",
+        "height": "1063",
+        "notFlexible": "0",
+        "value": "otv-2583.jpg",
+        "id": "Y406a1eb4b283a29",
+        "properties": 266240,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": null,
+        "more_classes": "",
+        "embedded_css_rules": {
+         "$text": [
+          ".id_Y406a1eb4b283a29 {\r",
+          "\tborder-width: 15px;\r",
+          "\tmargin-left: auto;\r",
+          "\tmargin-right: auto;\r",
+          "}\r"
+         ]
+        },
+        "name_in_model": "MY846a1999d0f1d0a"
+       }
+      ],
+      "id": "Z386a1eb4b283a20",
+      "properties": 270592,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Subdivision",
+      "more_classes": "",
+      "embedded_css_rules": "",
+      "href": "",
+      "name_in_model": "MZ836a1999d0f1d07"
+     }
+    ],
+    "id": "test_ikul",
+    "properties": 270400,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": "",
+    "lang": ""
+   }
+  }
+ ]
+}

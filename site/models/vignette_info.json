@@ -1,0 +1,103 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "vignette_info",
+  "",
+  null,
+  "2026-05-30 15:21:08",
+  "_Model container",
+  "8256",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1780147268,
+    "save_number": 2,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WsImage",
+        "caption": "",
+        "href": "",
+        "tooltip": "",
+        "original_name": "otv.PNG",
+        "in_gallery": "0",
+        "uploaded_image": "otv-f8ce.png",
+        "keep_format": "0",
+        "width": "200",
+        "height": "83",
+        "notFlexible": "0",
+        "value": "otv-a8de.png",
+        "id": "Y276a1ad3925cb57",
+        "properties": 4096,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": null,
+        "more_classes": "",
+        "embedded_css_rules": {
+         "$text": [
+          ".id_Y276a1ad3925cb57 {\r",
+          "\tmargin-left: auto;\r",
+          "\tmargin-right: auto;\r",
+          "}\r"
+         ]
+        },
+        "name_in_model": "MY276a1ad3925cb57"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": {
+         "$text": [
+          "<p>D&eacute;part en vacances&nbsp;? Pensez &agrave; l'Op&eacute;ration Tranquilit&eacute; Vacances</p>\r",
+          "<p>&nbsp;</p>\r",
+          "<p>&nbsp;</p>\r",
+          "<p><a href=\"https://www.baigneaux.fr/securite.html\">Lire la suite ...</a></p>\r",
+          "<p>&nbsp;</p>"
+         ]
+        },
+        "id": "Y186a199a6fafd61",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": "Texte_important_centre",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY186a199a6fafd61"
+       }
+      ],
+      "id": "Z186a199a729b794",
+      "properties": 8192,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Subdivision",
+      "more_classes": "",
+      "embedded_css_rules": "",
+      "href": "",
+      "name_in_model": "MZ186a199a729b794"
+     }
+    ],
+    "id": "vignette_info",
+    "properties": 8256,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": "",
+    "lang": ""
+   }
+  }
+ ]
+}

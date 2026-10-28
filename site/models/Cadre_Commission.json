@@ -1,0 +1,85 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "Cadre_Commission",
+  "",
+  null,
+  "2026-04-03 16:19:00",
+  "_Model container",
+  "8256",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1775225940,
+    "save_number": 2,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WssTitle",
+        "level": "2",
+        "href": "",
+        "value": "Correspondants Tempêtes",
+        "id": "Y2369cfcc40971df",
+        "properties": 1024,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": "COMMISSIONS",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY2669cfc97f632fb"
+       },
+       {
+        "$class": "WsTextarea",
+        "value": {
+         "$text": [
+          "<p><strong>Lucas BERTHOMIEU</strong></p>\r",
+          "<p><strong>Christophe GUILHON</strong></p>"
+         ]
+        },
+        "id": "Y2469cfcc40971e1",
+        "properties": 2048,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": "Texte_important_centre",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "name_in_model": "MY2669cfc9920b3e0"
+       }
+      ],
+      "id": "Z2269cfcc40971d9",
+      "properties": 8192,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Cadre-rose",
+      "more_classes": "",
+      "embedded_css_rules": "",
+      "href": "",
+      "name_in_model": "MZ2669cfc989953cb"
+     }
+    ],
+    "id": "Cadre_Commission",
+    "properties": 8256,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": "",
+    "lang": ""
+   }
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "Path",
+  "",
+  null,
+  "2026-04-01 20:20:50",
+  "_Model container",
+  "270400",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1775067650,
+    "save_number": 2,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsTextarea",
+                "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                "id": "Y1369cd61ba500fd",
+                "properties": 264192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Path",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MY557f20acc196b"
+               }
+              ],
+              "id": "Z1269cd61ba500fb",
+              "properties": 8208,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": "",
+              "name_in_model": "MZ595841f49586bf5"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WssPagePath",
+                "value": 0,
+                "id": "Y1569cd61ba50104",
+                "properties": 262144,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Path",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MY557f20acc19db"
+               }
+              ],
+              "id": "Z1469cd61ba50100",
+              "properties": 8208,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 1,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z1469cd61ba50100 {\r\n\twidth: 71.5%;\r\n}\r",
+              "name_in_model": "MZ605841f49586c54"
+             }
+            ],
+            "id": "Z1169cd61ba500f9",
+            "properties": 8209,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "name_in_model": "MZ585841f49586a24"
+           }
+          ],
+          "id": "Z1069cd61ba500f4",
+          "properties": 270464,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": "",
+          "embedded_css_rules": {
+           "$text": [
+            ".id_Z1069cd61ba500f4 {\r",
+            "\tpadding-bottom: 0px;\r",
+            "\tpadding-left: 0px;\r",
+            "\tborder-width: 0px;\r",
+            "\tpadding-top: 10px;\r",
+            "}\r"
+           ]
+          },
+          "name_in_model": "MZ575841f4895c408",
+          "href": ""
+         }
+        ],
+        "id": "Z969cd61ba500f2",
+        "properties": 270336,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": 0,
+        "more_classes": "",
+        "embedded_css_rules": ".id_Z969cd61ba500f2 {\r\n\tborder-width: 0px;\r\n}\r",
+        "name_in_model": "MZ3369cbea6206362",
+        "href": ""
+       }
+      ],
+      "id": "Z869cd61ba500ea",
+      "properties": 270336,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Path",
+      "more_classes": " dontDisplayOnXS dontDisplayOnS",
+      "embedded_css_rules": "",
+      "href": "",
+      "name_in_model": "MZ557f20acc188b"
+     }
+    ],
+    "id": "Path",
+    "properties": 270400,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": "",
+    "lang": ""
+   }
+  }
+ ]
+}

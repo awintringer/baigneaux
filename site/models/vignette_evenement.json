@@ -1,0 +1,191 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "vignette_evenement",
+  "",
+  null,
+  "2026-06-01 12:19:49",
+  "_Model container",
+  "270400",
+  {
+   "$php": {
+    "$class": "WsTopLevelContainer",
+    "url_id": null,
+    "date": 1780309189,
+    "save_number": 2,
+    "name": "_Model container",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": "",
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": {
+               "$text": [
+                "<p><span style=\"font-size: 35px;\">7</span></p>\r",
+                "<p><span style=\"font-size: 25px;\">JUIN</span></p>"
+               ]
+              },
+              "id": "Y236a1d5c9345455",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "bulle_agenda",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY276a1adf2be1eb0"
+             }
+            ],
+            "id": "Z226a1d5c9345452",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "name_in_model": "MZ556a1ae3d022fc5"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": {
+               "$text": [
+                "<p><strong>March&eacute; des producteurs et vide grenier &agrave; Baigneaux</strong></p>\r",
+                "<p><strong></strong>🕒 &agrave; partir de 9h</p>\r",
+                "<p><span style=\"font-size: 12.8px;\">&nbsp;📍</span>&nbsp;Salle des F&ecirc;tes</p>"
+               ]
+              },
+              "id": "Y256a1d5c934545a",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Texte_normal_align_gauche",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY2969cbcd658e93b"
+             }
+            ],
+            "id": "Z246a1d5c9345457",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z246a1d5c9345457 {\r\n\twidth: 75%;\r\n}\r",
+            "name_in_model": "MZ566a1ae3d022fd5"
+           }
+          ],
+          "id": "Z216a1d5c9345450",
+          "properties": 8209,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": "",
+          "name_in_model": "MZ276a1ae3d020fec"
+         }
+        ],
+        "id": "Z206a1d5c934544e",
+        "properties": 8192,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": 0,
+        "more_classes": null,
+        "embedded_css_rules": "",
+        "name_in_model": "MZ276a1ae3cddfc85"
+       },
+       {
+        "$class": "WsImage",
+        "caption": "",
+        "href": "",
+        "tooltip": "",
+        "original_name": "marche producteur 7 juin 2026.jpeg",
+        "in_gallery": "0",
+        "uploaded_image": "marche-producteur-7-juin-2026.jpg",
+        "keep_format": "0",
+        "width": "276",
+        "height": "390",
+        "notFlexible": "0",
+        "value": "marche-producteur-7-juin-2026-6377.jpg",
+        "id": "Y266a1d5c934545d",
+        "properties": 4096,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": null,
+        "more_classes": "",
+        "embedded_css_rules": {
+         "$text": [
+          ".id_Y266a1d5c934545d {\r",
+          "\tundefined: #000091;\r",
+          "\topacity: 0.97;\r",
+          "\tmargin-left: auto;\r",
+          "\tmargin-right: auto;\r",
+          "\tpadding: 0px;\r",
+          "}\r"
+         ]
+        },
+        "name_in_model": "MY2969cbce2d7ec49"
+       }
+      ],
+      "id": "Z196a1d5c9345446",
+      "properties": 270592,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": "Subdivision",
+      "more_classes": "",
+      "embedded_css_rules": "",
+      "href": "",
+      "name_in_model": "MZ2969cbcd685cee6"
+     }
+    ],
+    "id": "vignette_evenement",
+    "properties": 270400,
+    "owner": 0,
+    "index": 0,
+    "user_style": "",
+    "more_classes": null,
+    "embedded_css_rules": "",
+    "lang": ""
+   }
+  }
+ ]
+}
