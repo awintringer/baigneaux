@@ -263,405 +263,23 @@
              {
               "$class": "WsContainer",
               "valign": null,
-              "model_id": 0,
+              "model_id": "Path",
               "contents": [
                {
                 "$class": "WsContainer",
                 "valign": null,
-                "model_id": 0,
+                "model_id": "",
                 "contents": [
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "MENU",
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WssMenu",
-                          "category": "0",
-                          "depth": "1",
-                          "value": "vertical",
-                          "id": "Y176a1eb67eb30f6",
-                          "properties": 262144,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": "Main",
-                          "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                          "embedded_css_rules": "",
-                          "name_in_model": "MY55dc82a8b7b9e"
-                         }
-                        ],
-                        "id": "Z166a1eb67eb30f3",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "r"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z166a1eb67eb30f3 {\r\n\twidth: 100%;\r\n}\r",
-                        "name_in_model": "MZ869ce9a560f24c"
-                       },
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsTextarea",
-                          "value": "<p>Menu</p>",
-                          "id": "Y196a1eb67eb30fa",
-                          "properties": 264192,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": "Essai",
-                          "more_classes": " dontDisplayOnM dontDisplayOnL",
-                          "embedded_css_rules": "",
-                          "name_in_model": "MY1869cea6e95b8ee"
-                         }
-                        ],
-                        "id": "Z186a1eb67eb30f8",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "r"
-                        },
-                        "index": 1,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z186a1eb67eb30f8 {\r\n\twidth: 100%;\r\n}\r",
-                        "name_in_model": "MZ1069ce9a560f252"
-                       },
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsImage",
-                          "caption": "",
-                          "href": "",
-                          "tooltip": "Logo de Baigneaux",
-                          "original_name": "logosite.png",
-                          "in_gallery": "0",
-                          "uploaded_image": "logosite-4dcc.png",
-                          "keep_format": "0",
-                          "width": "50",
-                          "height": "50",
-                          "notFlexible": "0",
-                          "value": "logosite-11ba.png",
-                          "id": "Y216a1eb67eb30fd",
-                          "properties": 266240,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": null,
-                          "more_classes": " dontDisplayOnM dontDisplayOnL",
-                          "embedded_css_rules": {
-                           "$text": [
-                            ".id_Y216a1eb67eb30fd {\r",
-                            "\tmargin-left: auto;\r",
-                            "\tmargin-right: auto;\r",
-                            "}\r"
-                           ]
-                          },
-                          "name_in_model": "MY1669cea66d3bc6f"
-                         }
-                        ],
-                        "id": "Z206a1eb67eb30fb",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "r"
-                        },
-                        "index": 2,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z206a1eb67eb30fb {\r\n\twidth: 25%;\r\n}\r",
-                        "name_in_model": "MZ1269cea67e092f5"
-                       }
-                      ],
-                      "id": "Z156a1eb67eb30f2",
-                      "properties": 8209,
-                      "owner": {
-                       "$owner": "r"
-                      },
-                      "index": 0,
-                      "user_style": 0,
-                      "more_classes": null,
-                      "embedded_css_rules": "",
-                      "name_in_model": "MZ1769cea66d3bc94"
-                     }
-                    ],
-                    "id": "Z146a1eb67eb30ed",
-                    "properties": 270400,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "Bloc_menu",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "name_in_model": "MZ5819e18fc9d3d",
-                    "href": ""
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "Path",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WsContainer",
-                            "valign": null,
-                            "model_id": "",
-                            "contents": [
-                             {
-                              "$class": "WsContainer",
-                              "valign": null,
-                              "model_id": "",
-                              "contents": [
-                               {
-                                "$class": "WsTextarea",
-                                "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
-                                "id": "Y276a1eb67eb35d4",
-                                "properties": 264192,
-                                "owner": {
-                                 "$owner": "R"
-                                },
-                                "index": 0,
-                                "user_style": "Path",
-                                "more_classes": "",
-                                "embedded_css_rules": "",
-                                "name_in_model": "MY557f20acc196b"
-                               }
-                              ],
-                              "id": "Z266a1eb67eb35d2",
-                              "properties": 8208,
-                              "owner": {
-                               "$owner": "r"
-                              },
-                              "index": 0,
-                              "user_style": 0,
-                              "more_classes": null,
-                              "embedded_css_rules": "",
-                              "name_in_model": "MZ595841f49586bf5"
-                             },
-                             {
-                              "$class": "WsContainer",
-                              "valign": null,
-                              "model_id": "",
-                              "contents": [
-                               {
-                                "$class": "WssPagePath",
-                                "value": 0,
-                                "id": "Y296a1eb67eb35d8",
-                                "properties": 262144,
-                                "owner": {
-                                 "$owner": "R"
-                                },
-                                "index": 0,
-                                "user_style": "Path",
-                                "more_classes": "",
-                                "embedded_css_rules": "",
-                                "name_in_model": "MY557f20acc19db"
-                               }
-                              ],
-                              "id": "Z286a1eb67eb35d6",
-                              "properties": 8208,
-                              "owner": {
-                               "$owner": "r"
-                              },
-                              "index": 1,
-                              "user_style": 0,
-                              "more_classes": null,
-                              "embedded_css_rules": ".id_Z286a1eb67eb35d6 {\r\n\twidth: 89.8%;\r\n}\r",
-                              "name_in_model": "MZ605841f49586c54"
-                             }
-                            ],
-                            "id": "Z256a1eb67eb35d0",
-                            "properties": 8209,
-                            "owner": {
-                             "$owner": "r"
-                            },
-                            "index": 0,
-                            "user_style": 0,
-                            "more_classes": null,
-                            "embedded_css_rules": "",
-                            "name_in_model": "MZ585841f49586a24"
-                           }
-                          ],
-                          "id": "Z246a1eb67eb35cf",
-                          "properties": 270464,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": 0,
-                          "more_classes": "",
-                          "embedded_css_rules": {
-                           "$text": [
-                            ".id_Z246a1eb67eb35cf {\r",
-                            "\tpadding-bottom: 0px;\r",
-                            "\tpadding-left: 0px;\r",
-                            "\tborder-width: 0px;\r",
-                            "\tpadding-top: 10px;\r",
-                            "}\r"
-                           ]
-                          },
-                          "name_in_model": "MZ575841f4895c408",
-                          "href": ""
-                         }
-                        ],
-                        "id": "Z236a1eb67eb35cc",
-                        "properties": 270336,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": "",
-                        "embedded_css_rules": ".id_Z236a1eb67eb35cc {\r\n\tborder-width: 0px;\r\n}\r",
-                        "name_in_model": "MZ3369cbea6206362",
-                        "href": ""
-                       }
-                      ],
-                      "id": "Z226a1eb67eb35c8",
-                      "properties": 270400,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Path",
-                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                      "embedded_css_rules": "",
-                      "href": "",
-                      "name_in_model": "MZ557f20acc188b"
-                     }
-                    ],
-                    "id": "Z396025316215a51",
-                    "properties": 8192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": "",
-                    "embedded_css_rules": {
-                     "$text": [
-                      ".id_Z396025316215a51 {\r",
-                      "\tborder-width: 0px;\r",
-                      "\tmargin-left: auto;\r",
-                      "\tmargin-right: auto;\r",
-                      "\tmax-width: 1130px;\r",
-                      "}\r"
-                     ]
-                    },
-                    "name_in_model": "MZ5819e18fc9d3d",
-                    "href": ""
-                   }
-                  ],
-                  "id": "Z2069cc1f76a83ea",
-                  "properties": 270336,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": "Subdivision",
-                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                  "embedded_css_rules": "",
-                  "href": ""
-                 }
-                ],
-                "id": "Z286a0b2f14415ff",
-                "properties": 8208,
-                "owner": {
-                 "$owner": "r"
-                },
-                "index": 0,
-                "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": ".id_Z286a0b2f14415ff {\r\n\twidth: 25%;\r\n}\r"
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "menu_burger",
+                  "model_id": "",
                   "contents": [
                    {
                     "$class": "WsContainer",
                     "valign": null,
                     "model_id": "",
                     "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WssMenu",
-                        "category": "0",
-                        "depth": "0",
-                        "value": "0",
-                        "id": "Y336a1eb67eb3b0f",
-                        "properties": 262144,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": "menu_burger",
-                        "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                        "embedded_css_rules": "",
-                        "name_in_model": "MY236a1c1913916fa"
-                       }
-                      ],
-                      "id": "Z326a1eb67eb3b0c",
-                      "properties": 8208,
-                      "owner": {
-                       "$owner": "r"
-                      },
-                      "index": 0,
-                      "user_style": 0,
-                      "more_classes": null,
-                      "embedded_css_rules": ".id_Z326a1eb67eb3b0c {\r\n\twidth: 25%;\r\n}\r",
-                      "name_in_model": "MZ476a1c19449ca9b"
-                     },
                      {
                       "$class": "WsContainer",
                       "valign": null,
@@ -669,39 +287,29 @@
                       "contents": [
                        {
                         "$class": "WsTextarea",
-                        "value": "<p>Menu</p>",
-                        "id": "Y356a1eb67eb3b12",
+                        "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                        "id": "Y276a1eb67eb35d4",
                         "properties": 264192,
                         "owner": {
                          "$owner": "R"
                         },
                         "index": 0,
-                        "user_style": null,
+                        "user_style": "Path",
                         "more_classes": "",
-                        "embedded_css_rules": {
-                         "$text": [
-                          ".id_Y356a1eb67eb3b12 {\r",
-                          "\tfont-family: Playfair Display;\r",
-                          "\tfont-size: 2em;\r",
-                          "\ttext-align: center;\r",
-                          "\tpadding-top: 15px;\r",
-                          "\tfloat: left;\r",
-                          "}\r"
-                         ]
-                        },
-                        "name_in_model": "MY236a1c193a1e444"
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY557f20acc196b"
                        }
                       ],
-                      "id": "Z346a1eb67eb3b11",
+                      "id": "Z266a1eb67eb35d2",
                       "properties": 8208,
                       "owner": {
                        "$owner": "r"
                       },
-                      "index": 1,
+                      "index": 0,
                       "user_style": 0,
                       "more_classes": null,
-                      "embedded_css_rules": ".id_Z346a1eb67eb3b11 {\r\n\twidth: 50%;\r\n}\r",
-                      "name_in_model": "MZ126a1c1982a9777"
+                      "embedded_css_rules": "",
+                      "name_in_model": "MZ595841f49586bf5"
                      },
                      {
                       "$class": "WsContainer",
@@ -709,51 +317,33 @@
                       "model_id": "",
                       "contents": [
                        {
-                        "$class": "WsImage",
-                        "caption": "",
-                        "href": "",
-                        "tooltip": "Armoiries de Baigneaux",
-                        "original_name": "armoiries.png",
-                        "in_gallery": "0",
-                        "uploaded_image": "armoiries.png",
-                        "keep_format": "0",
-                        "width": "55",
-                        "height": "60",
-                        "notFlexible": "0",
-                        "value": "armoiries-7e86.png",
-                        "id": "Y376a1eb67eb3b16",
-                        "properties": 266240,
+                        "$class": "WssPagePath",
+                        "value": 0,
+                        "id": "Y296a1eb67eb35d8",
+                        "properties": 262144,
                         "owner": {
                          "$owner": "R"
                         },
                         "index": 0,
-                        "user_style": null,
+                        "user_style": "Path",
                         "more_classes": "",
-                        "embedded_css_rules": {
-                         "$text": [
-                          ".id_Y376a1eb67eb3b16 {\r",
-                          "\ttext-align: right;\r",
-                          "\tmargin-left: auto;\r",
-                          "\tmargin-right: 0;\r",
-                          "}\r"
-                         ]
-                        },
-                        "name_in_model": "MY296a1c197b650e8"
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY557f20acc19db"
                        }
                       ],
-                      "id": "Z366a1eb67eb3b14",
+                      "id": "Z286a1eb67eb35d6",
                       "properties": 8208,
                       "owner": {
                        "$owner": "r"
                       },
-                      "index": 2,
+                      "index": 1,
                       "user_style": 0,
                       "more_classes": null,
-                      "embedded_css_rules": ".id_Z366a1eb67eb3b14 {\r\n\twidth: 25%;\r\n}\r",
-                      "name_in_model": "MZ146a1c1982a977b"
+                      "embedded_css_rules": ".id_Z286a1eb67eb35d6 {\r\n\twidth: 89.8%;\r\n}\r",
+                      "name_in_model": "MZ605841f49586c54"
                      }
                     ],
-                    "id": "Z316a1eb67eb3b0b",
+                    "id": "Z256a1eb67eb35d0",
                     "properties": 8209,
                     "owner": {
                      "$owner": "r"
@@ -762,134 +352,322 @@
                     "user_style": 0,
                     "more_classes": null,
                     "embedded_css_rules": "",
-                    "name_in_model": "MZ246a1c193a1e463"
+                    "name_in_model": "MZ585841f49586a24"
                    }
                   ],
-                  "id": "Z306a1eb67eb3b07",
-                  "properties": 8256,
+                  "id": "Z246a1eb67eb35cf",
+                  "properties": 270464,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Subdivision",
-                  "more_classes": " dontDisplayOnM dontDisplayOnL",
-                  "embedded_css_rules": "",
-                  "href": "",
-                  "name_in_model": "MZ236a1c1919b626f"
-                 },
+                  "user_style": 0,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Z246a1eb67eb35cf {\r",
+                    "\tpadding-bottom: 0px;\r",
+                    "\tpadding-left: 0px;\r",
+                    "\tborder-width: 0px;\r",
+                    "\tpadding-top: 10px;\r",
+                    "}\r"
+                   ]
+                  },
+                  "name_in_model": "MZ575841f4895c408",
+                  "href": ""
+                 }
+                ],
+                "id": "Z236a1eb67eb35cc",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": "",
+                "embedded_css_rules": ".id_Z236a1eb67eb35cc {\r\n\tborder-width: 0px;\r\n}\r",
+                "name_in_model": "MZ3369cbea6206362",
+                "href": ""
+               }
+              ],
+              "id": "Z226a1eb67eb35c8",
+              "properties": 270400,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Path",
+              "more_classes": " dontDisplayOnXS dontDisplayOnS",
+              "embedded_css_rules": "",
+              "href": "",
+              "name_in_model": "MZ557f20acc188b"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "menu_burger",
+                "contents": [
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": 0,
+                  "model_id": "",
                   "contents": [
                    {
-                    "$class": "WssTitle",
-                    "level": "2",
-                    "href": "",
-                    "value": "Offre d'emploi du GDON des Bordeaux",
-                    "id": "Y266a0b2f297b008",
-                    "properties": 1024,
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WssMenu",
+                      "category": "0",
+                      "depth": "0",
+                      "value": "0",
+                      "id": "Y336a1eb67eb3b0f",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "menu_burger",
+                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY236a1c1913916fa"
+                     }
+                    ],
+                    "id": "Z326a1eb67eb3b0c",
+                    "properties": 8208,
                     "owner": {
-                     "$owner": "R"
+                     "$owner": "r"
                     },
                     "index": 0,
-                    "user_style": "Title",
-                    "more_classes": "",
-                    "embedded_css_rules": ""
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z326a1eb67eb3b0c {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ476a1c19449ca9b"
                    },
                    {
-                    "$class": "WsTextarea",
-                    "value": {
-                     "$text": [
-                      "<div id=\"GDON2026\">\r",
-                      "<div>Le GDON des Bordeaux recherche une quarantaine de saisonniers pour lutter contre la flavescence dor&eacute;e gr&acirc;ce &agrave; des observations dans le vignoble&nbsp;:</div>\r",
-                      "<div>&nbsp;</div>\r",
-                      "<div>&middot; <strong>Le pi&eacute;geage</strong>&nbsp;: contrat &agrave; pourvoir <strong>d&eacute;but ou mi-juillet pour environ 5 semaines</strong>, pouvant &ecirc;tre prolong&eacute; sur la prospection du vignoble.</div>\r",
-                      "<div>&nbsp;</div>\r",
-                      "</div>\r",
-                      "<div>\r",
-                      "<div>&middot; <strong>La prospection</strong>&nbsp;: contrat &agrave; pourvoir <strong>d&eacute;but ou mi-ao&ucirc;t pour 1 &agrave; 2 mois</strong>. La campagne 2026 n&eacute;cessitera une trentaine de prospecteurs.</div>\r",
-                      "</div>"
-                     ]
-                    },
-                    "id": "Y266a0b2f14410df",
-                    "properties": 2048,
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>Menu</p>",
+                      "id": "Y356a1eb67eb3b12",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y356a1eb67eb3b12 {\r",
+                        "\tfont-family: Playfair Display;\r",
+                        "\tfont-size: 2em;\r",
+                        "\ttext-align: center;\r",
+                        "\tpadding-top: 15px;\r",
+                        "\tfloat: left;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY236a1c193a1e444"
+                     }
+                    ],
+                    "id": "Z346a1eb67eb3b11",
+                    "properties": 8208,
                     "owner": {
-                     "$owner": "R"
+                     "$owner": "r"
                     },
                     "index": 1,
-                    "user_style": "Texte_normal_align_gauche",
-                    "more_classes": "",
-                    "embedded_css_rules": ""
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z346a1eb67eb3b11 {\r\n\twidth: 50%;\r\n}\r",
+                    "name_in_model": "MZ126a1c1982a9777"
                    },
                    {
-                    "$class": "WsTextarea",
-                    "value": "<p>Pour postuler, c'est ici: <a href=\"https://www.gdon-bordeaux.fr/le-gdon/nous-recrutons-2/\">https://www.gdon-bordeaux.fr/le-gdon/nous-recrutons-2/</a></p>",
-                    "id": "Y266a0b2f83237dc",
-                    "properties": 2048,
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Armoiries de Baigneaux",
+                      "original_name": "armoiries.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "armoiries.png",
+                      "keep_format": "0",
+                      "width": "55",
+                      "height": "60",
+                      "notFlexible": "0",
+                      "value": "armoiries-7e86.png",
+                      "id": "Y376a1eb67eb3b16",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y376a1eb67eb3b16 {\r",
+                        "\ttext-align: right;\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: 0;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY296a1c197b650e8"
+                     }
+                    ],
+                    "id": "Z366a1eb67eb3b14",
+                    "properties": 8208,
                     "owner": {
-                     "$owner": "R"
+                     "$owner": "r"
                     },
                     "index": 2,
-                    "user_style": "Texte_important_centre",
-                    "more_classes": "",
-                    "embedded_css_rules": ""
-                   },
-                   {
-                    "$class": "WsImage",
-                    "caption": "",
-                    "href": "",
-                    "tooltip": "Offre d'emploi du GDON des Bordeaux",
-                    "original_name": "emploi.PNG",
-                    "in_gallery": "1",
-                    "uploaded_image": "emploi.png",
-                    "keep_format": "0",
-                    "width": "1178",
-                    "height": "1683",
-                    "notFlexible": "0",
-                    "value": "emploi.png",
-                    "id": "Y266a0b2f2e6d4ea",
-                    "properties": 4096,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 3,
-                    "user_style": null,
-                    "more_classes": "",
-                    "embedded_css_rules": null
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z366a1eb67eb3b14 {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ146a1c1982a977b"
                    }
                   ],
-                  "id": "Z266a0b2f190ba3f",
-                  "properties": 270336,
+                  "id": "Z316a1eb67eb3b0b",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ246a1c193a1e463"
+                 }
+                ],
+                "id": "Z306a1eb67eb3b07",
+                "properties": 8256,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Subdivision",
+                "more_classes": " dontDisplayOnM dontDisplayOnL",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ236a1c1919b626f"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Offre d'emploi du GDON des Bordeaux",
+                  "id": "Y266a0b2f297b008",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Title",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<div id=\"GDON2026\">\r",
+                    "<div>Le GDON des Bordeaux recherche une quarantaine de saisonniers pour lutter contre la flavescence dor&eacute;e gr&acirc;ce &agrave; des observations dans le vignoble&nbsp;:</div>\r",
+                    "<div>&nbsp;</div>\r",
+                    "<div>&middot; <strong>Le pi&eacute;geage</strong>&nbsp;: contrat &agrave; pourvoir <strong>d&eacute;but ou mi-juillet pour environ 5 semaines</strong>, pouvant &ecirc;tre prolong&eacute; sur la prospection du vignoble.</div>\r",
+                    "<div>&nbsp;</div>\r",
+                    "</div>\r",
+                    "<div>\r",
+                    "<div>&middot; <strong>La prospection</strong>&nbsp;: contrat &agrave; pourvoir <strong>d&eacute;but ou mi-ao&ucirc;t pour 1 &agrave; 2 mois</strong>. La campagne 2026 n&eacute;cessitera une trentaine de prospecteurs.</div>\r",
+                    "</div>"
+                   ]
+                  },
+                  "id": "Y266a0b2f14410df",
+                  "properties": 2048,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 1,
-                  "user_style": "Subdivision",
+                  "user_style": "Texte_normal_align_gauche",
                   "more_classes": "",
-                  "embedded_css_rules": "",
-                  "href": ""
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p>Pour postuler, c'est ici: <a href=\"https://www.gdon-bordeaux.fr/le-gdon/nous-recrutons-2/\">https://www.gdon-bordeaux.fr/le-gdon/nous-recrutons-2/</a></p>",
+                  "id": "Y266a0b2f83237dc",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 2,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsImage",
+                  "caption": "",
+                  "href": "",
+                  "tooltip": "Offre d'emploi du GDON des Bordeaux",
+                  "original_name": "emploi.PNG",
+                  "in_gallery": "1",
+                  "uploaded_image": "emploi.png",
+                  "keep_format": "0",
+                  "width": "1178",
+                  "height": "1683",
+                  "notFlexible": "0",
+                  "value": "emploi.png",
+                  "id": "Y266a0b2f2e6d4ea",
+                  "properties": 4096,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 3,
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": null
                  }
                 ],
-                "id": "Z296a0b2f144164a",
-                "properties": 8208,
+                "id": "Z266a0b2f190ba3f",
+                "properties": 270336,
                 "owner": {
-                 "$owner": "r"
+                 "$owner": "R"
                 },
                 "index": 1,
-                "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": ""
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
                }
               ],
-              "id": "Z276a0b2f1441104",
-              "properties": 8209,
+              "href": "",
+              "id": "Z1656ae37cce5748a",
+              "properties": 8192,
               "owner": {
-               "$owner": "r"
+               "$owner": "R"
               },
-              "index": 0,
+              "index": 1,
               "user_style": 0,
-              "more_classes": null,
+              "more_classes": "contenu_page",
               "embedded_css_rules": ""
              },
              {
@@ -934,7 +712,7 @@
               "owner": {
                "$owner": "R"
               },
-              "index": 1,
+              "index": 2,
               "user_style": "Subdivision",
               "more_classes": "",
               "embedded_css_rules": "",

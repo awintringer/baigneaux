@@ -253,165 +253,18 @@
          {
           "$class": "WsContainer",
           "valign": null,
-          "model_id": 0,
+          "model_id": "Path",
           "contents": [
            {
             "$class": "WsContainer",
             "valign": null,
-            "model_id": 0,
+            "model_id": "",
             "contents": [
              {
               "$class": "WsContainer",
               "valign": null,
-              "model_id": 0,
+              "model_id": "",
               "contents": [
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": "MENU",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WssMenu",
-                      "category": "0",
-                      "depth": "1",
-                      "value": "vertical",
-                      "id": "Y176a65c885f28c6",
-                      "properties": 262144,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Main",
-                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY55dc82a8b7b9e"
-                     }
-                    ],
-                    "id": "Z166a65c885f28c5",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z166a65c885f28c5 {\r\n\twidth: 100%;\r\n}\r",
-                    "name_in_model": "MZ869ce9a560f24c"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": "<p>Menu</p>",
-                      "id": "Y196a65c885f28c8",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Essai",
-                      "more_classes": " dontDisplayOnM dontDisplayOnL",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY1869cea6e95b8ee"
-                     }
-                    ],
-                    "id": "Z186a65c885f28c7",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z186a65c885f28c7 {\r\n\twidth: 100%;\r\n}\r",
-                    "name_in_model": "MZ1069ce9a560f252"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Logo de Baigneaux",
-                      "original_name": "logosite.png",
-                      "in_gallery": "0",
-                      "uploaded_image": "logosite-4dcc.png",
-                      "keep_format": "0",
-                      "width": "50",
-                      "height": "50",
-                      "notFlexible": "0",
-                      "value": "logosite-11ba.png",
-                      "id": "Y216a65c885f28ca",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": null,
-                      "more_classes": " dontDisplayOnM dontDisplayOnL",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Y216a65c885f28ca {\r",
-                        "\tmargin-left: auto;\r",
-                        "\tmargin-right: auto;\r",
-                        "}\r"
-                       ]
-                      },
-                      "name_in_model": "MY1669cea66d3bc6f"
-                     }
-                    ],
-                    "id": "Z206a65c885f28c9",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 2,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z206a65c885f28c9 {\r\n\twidth: 25%;\r\n}\r",
-                    "name_in_model": "MZ1269cea67e092f5"
-                   }
-                  ],
-                  "id": "Z156a65c885f28c4",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "name_in_model": "MZ1769cea66d3bc94"
-                 }
-                ],
-                "id": "Z146a65c885f28c1",
-                "properties": 270400,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": "Bloc_menu",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "name_in_model": "MZ5819e18fc9d3d",
-                "href": ""
-               },
                {
                 "$class": "WsContainer",
                 "valign": null,
@@ -420,347 +273,281 @@
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": "Path",
+                  "model_id": "",
                   "contents": [
                    {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WsTextarea",
-                            "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
-                            "id": "Y276a65c885f2e4e",
-                            "properties": 264192,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": "Path",
-                            "more_classes": "",
-                            "embedded_css_rules": "",
-                            "name_in_model": "MY557f20acc196b"
-                           }
-                          ],
-                          "id": "Z266a65c885f2e4d",
-                          "properties": 8208,
-                          "owner": {
-                           "$owner": "r"
-                          },
-                          "index": 0,
-                          "user_style": 0,
-                          "more_classes": null,
-                          "embedded_css_rules": "",
-                          "name_in_model": "MZ595841f49586bf5"
-                         },
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WssPagePath",
-                            "value": 0,
-                            "id": "Y296a65c885f2e50",
-                            "properties": 262144,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": "Path",
-                            "more_classes": "",
-                            "embedded_css_rules": "",
-                            "name_in_model": "MY557f20acc19db"
-                           }
-                          ],
-                          "id": "Z286a65c885f2e4f",
-                          "properties": 8208,
-                          "owner": {
-                           "$owner": "r"
-                          },
-                          "index": 1,
-                          "user_style": 0,
-                          "more_classes": null,
-                          "embedded_css_rules": ".id_Z286a65c885f2e4f {\r\n\twidth: 89.8%;\r\n}\r",
-                          "name_in_model": "MZ605841f49586c54"
-                         }
-                        ],
-                        "id": "Z256a65c885f2e4c",
-                        "properties": 8209,
-                        "owner": {
-                         "$owner": "r"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": "",
-                        "name_in_model": "MZ585841f49586a24"
-                       }
-                      ],
-                      "id": "Z246a65c885f2e4b",
-                      "properties": 270464,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": 0,
-                      "more_classes": "",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Z246a65c885f2e4b {\r",
-                        "\tpadding-bottom: 0px;\r",
-                        "\tpadding-left: 0px;\r",
-                        "\tborder-width: 0px;\r",
-                        "\tpadding-top: 10px;\r",
-                        "}\r"
-                       ]
-                      },
-                      "name_in_model": "MZ575841f4895c408",
-                      "href": ""
-                     }
-                    ],
-                    "id": "Z236a65c885f2e4a",
-                    "properties": 270336,
+                    "$class": "WsTextarea",
+                    "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                    "id": "Y276a65c885f2e4e",
+                    "properties": 264192,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": 0,
+                    "user_style": "Path",
                     "more_classes": "",
-                    "embedded_css_rules": ".id_Z236a65c885f2e4a {\r\n\tborder-width: 0px;\r\n}\r",
-                    "name_in_model": "MZ3369cbea6206362",
-                    "href": ""
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY557f20acc196b"
                    }
                   ],
-                  "id": "Z226a65c885f2e48",
-                  "properties": 270400,
+                  "id": "Z266a65c885f2e4d",
+                  "properties": 8208,
                   "owner": {
-                   "$owner": "R"
+                   "$owner": "r"
                   },
                   "index": 0,
-                  "user_style": "Path",
-                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "user_style": 0,
+                  "more_classes": null,
                   "embedded_css_rules": "",
-                  "href": "",
-                  "name_in_model": "MZ557f20acc188b"
+                  "name_in_model": "MZ595841f49586bf5"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WssPagePath",
+                    "value": 0,
+                    "id": "Y296a65c885f2e50",
+                    "properties": 262144,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Path",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY557f20acc19db"
+                   }
+                  ],
+                  "id": "Z286a65c885f2e4f",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z286a65c885f2e4f {\r\n\twidth: 89.8%;\r\n}\r",
+                  "name_in_model": "MZ605841f49586c54"
                  }
                 ],
-                "id": "Z12658e67afe95f60",
-                "properties": 8192,
+                "id": "Z256a65c885f2e4c",
+                "properties": 8209,
                 "owner": {
-                 "$owner": "R"
+                 "$owner": "r"
                 },
-                "index": 1,
-                "user_style": "Bloc_menu",
-                "more_classes": "",
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
                 "embedded_css_rules": "",
-                "name_in_model": "MZ5819e18fc9d3d",
-                "href": ""
+                "name_in_model": "MZ585841f49586a24"
                }
               ],
-              "id": "Z1969cbb27c6f063",
-              "properties": 8192,
+              "id": "Z246a65c885f2e4b",
+              "properties": 270464,
               "owner": {
                "$owner": "R"
               },
               "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": " dontDisplayOnXS dontDisplayOnS",
-              "embedded_css_rules": "",
-              "href": ""
-             },
-             {
-              "$class": "WsImage",
-              "caption": "",
-              "href": "",
-              "tooltip": "Arrêtés",
-              "original_name": "arrêté municipaux.jpg",
-              "in_gallery": "0",
-              "uploaded_image": "arr--t---municipaux.jpg",
-              "keep_format": "1",
-              "width": "300",
-              "height": "158",
-              "notFlexible": "0",
-              "value": "arr--t---municipaux-fd36.jpg",
-              "id": "Y515b71318c5baaa",
-              "properties": 4096,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 1,
-              "user_style": null,
+              "user_style": 0,
               "more_classes": "",
               "embedded_css_rules": {
                "$text": [
-                ".id_Y515b71318c5baaa {\r",
-                "\tmargin-left: auto;\r",
-                "\tmargin-right: auto;\r",
-                "\tmargin-top: 15px;\r",
+                ".id_Z246a65c885f2e4b {\r",
+                "\tpadding-bottom: 0px;\r",
+                "\tpadding-left: 0px;\r",
+                "\tborder-width: 0px;\r",
+                "\tpadding-top: 10px;\r",
                 "}\r"
                ]
-              }
+              },
+              "name_in_model": "MZ575841f4895c408",
+              "href": ""
              }
             ],
-            "id": "Z446a65c7c584560",
-            "properties": 8208,
+            "id": "Z236a65c885f2e4a",
+            "properties": 270336,
             "owner": {
-             "$owner": "r"
+             "$owner": "R"
             },
             "index": 0,
             "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ""
-           },
+            "more_classes": "",
+            "embedded_css_rules": ".id_Z236a65c885f2e4a {\r\n\tborder-width: 0px;\r\n}\r",
+            "name_in_model": "MZ3369cbea6206362",
+            "href": ""
+           }
+          ],
+          "id": "Z226a65c885f2e48",
+          "properties": 270400,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": "Path",
+          "more_classes": " dontDisplayOnXS dontDisplayOnS",
+          "embedded_css_rules": "",
+          "href": "",
+          "name_in_model": "MZ557f20acc188b"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
            {
             "$class": "WsContainer",
             "valign": null,
             "model_id": 0,
             "contents": [
              {
-              "$class": "WsContainer",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WssTitle",
-                "level": "2",
-                "href": "",
-                "value": "Arrêtés en vigueur",
-                "id": "Y426a65c7dc73ae1",
-                "properties": 1024,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": "Title",
-                "more_classes": "",
-                "embedded_css_rules": ""
-               },
-               {
-                "$class": "WssTitle",
-                "level": "2",
-                "href": "",
-                "value": "Arrêté du 25 juillet 2026",
-                "id": "Y426a65c825da92d",
-                "properties": 1024,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": "Title2",
-                "more_classes": "",
-                "embedded_css_rules": ""
-               },
-               {
-                "$class": "WssTitle",
-                "level": "2",
-                "href": "",
-                "value": "Interdiction temporaire des activités de chasse sur le territoire de la commune de baigneaux en raison du risque exceptionnel d'incendie",
-                "id": "Y426a65c7f4019e0",
-                "properties": 1024,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 2,
-                "user_style": "Title2",
-                "more_classes": "",
-                "embedded_css_rules": ""
-               },
-               {
-                "$class": "WsImage",
-                "caption": "",
-                "href": "",
-                "tooltip": "Interdiction temporaire des activités de chasse sur le territoire de la commune de baigneaux en raison du risque exceptionnel d'incendie",
-                "original_name": "arretechasse25072026.PNG",
-                "in_gallery": "0",
-                "uploaded_image": "arretechasse25072026.png",
-                "keep_format": "0",
-                "width": "784",
-                "height": "1110",
-                "notFlexible": "0",
-                "value": "arretechasse25072026-5ded.png",
-                "id": "Y426a65c84582769",
-                "properties": 4096,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 3,
-                "user_style": null,
-                "more_classes": "",
-                "embedded_css_rules": null
-               },
-               {
-                "$class": "WssDownload",
-                "data_filename": {
-                 "$arr": [
-                  [
-                   "ARRÊTÉ MUNICIPAL CHASSE TAMPONNE 2026.pdf",
-                   "arr--t---municipal-chasse-tamponne-2026.pdf"
-                  ]
-                 ]
-                },
-                "source_filename": 0,
-                "variables": null,
-                "decoded_value": "Télécharger l'arrêté en pdf",
-                "value": "Télécharger l'arrêté en pdf",
-                "id": "Y426a65c8649c74e",
-                "properties": 16384,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 4,
-                "user_style": "Telechargement",
-                "more_classes": "",
-                "embedded_css_rules": ""
-               }
-              ],
-              "id": "Z426a65c7d258a91",
-              "properties": 270336,
+              "$class": "WssTitle",
+              "level": "2",
+              "href": "",
+              "value": "Arrêtés en vigueur",
+              "id": "Y426a65c7dc73ae1",
+              "properties": 1024,
               "owner": {
                "$owner": "R"
               },
               "index": 0,
-              "user_style": "Subdivision",
+              "user_style": "Title",
               "more_classes": "",
-              "embedded_css_rules": "",
-              "href": ""
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WssTitle",
+              "level": "2",
+              "href": "",
+              "value": "Arrêté du 25 juillet 2026",
+              "id": "Y426a65c825da92d",
+              "properties": 1024,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 1,
+              "user_style": "Title2",
+              "more_classes": "",
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WssTitle",
+              "level": "2",
+              "href": "",
+              "value": "Interdiction temporaire des activités de chasse sur le territoire de la commune de baigneaux en raison du risque exceptionnel d'incendie",
+              "id": "Y426a65c7f4019e0",
+              "properties": 1024,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 2,
+              "user_style": "Title2",
+              "more_classes": "",
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WsImage",
+              "caption": "",
+              "href": "",
+              "tooltip": "Interdiction temporaire des activités de chasse sur le territoire de la commune de baigneaux en raison du risque exceptionnel d'incendie",
+              "original_name": "arretechasse25072026.PNG",
+              "in_gallery": "0",
+              "uploaded_image": "arretechasse25072026.png",
+              "keep_format": "0",
+              "width": "784",
+              "height": "1110",
+              "notFlexible": "0",
+              "value": "arretechasse25072026-5ded.png",
+              "id": "Y426a65c84582769",
+              "properties": 4096,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 3,
+              "user_style": null,
+              "more_classes": "",
+              "embedded_css_rules": null
+             },
+             {
+              "$class": "WssDownload",
+              "data_filename": {
+               "$arr": [
+                [
+                 "ARRÊTÉ MUNICIPAL CHASSE TAMPONNE 2026.pdf",
+                 "arr--t---municipal-chasse-tamponne-2026.pdf"
+                ]
+               ]
+              },
+              "source_filename": 0,
+              "variables": null,
+              "decoded_value": "Télécharger l'arrêté en pdf",
+              "value": "Télécharger l'arrêté en pdf",
+              "id": "Y426a65c8649c74e",
+              "properties": 16384,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 4,
+              "user_style": "Telechargement",
+              "more_classes": "",
+              "embedded_css_rules": ""
              }
             ],
-            "id": "Z456a65c7c5845a1",
-            "properties": 8208,
+            "id": "Z426a65c7d258a91",
+            "properties": 270336,
             "owner": {
-             "$owner": "r"
+             "$owner": "R"
             },
-            "index": 1,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ".id_Z456a65c7c5845a1 {\r\n\twidth: 75%;\r\n}\r"
+            "index": 0,
+            "user_style": "Subdivision",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": ""
            }
           ],
-          "id": "Z436a65c7c58427c",
-          "properties": 8209,
+          "href": "",
+          "id": "Z1476ae37cce56ae6",
+          "properties": 8192,
           "owner": {
-           "$owner": "r"
+           "$owner": "R"
           },
-          "index": 0,
+          "index": 1,
           "user_style": 0,
-          "more_classes": null,
+          "more_classes": "contenu_page",
           "embedded_css_rules": ""
+         },
+         {
+          "$class": "WsImage",
+          "caption": "",
+          "href": "",
+          "tooltip": "Arrêtés",
+          "original_name": "arrêté municipaux.jpg",
+          "in_gallery": "0",
+          "uploaded_image": "arr--t---municipaux.jpg",
+          "keep_format": "1",
+          "width": "300",
+          "height": "158",
+          "notFlexible": "0",
+          "value": "arr--t---municipaux-fd36.jpg",
+          "id": "Y515b71318c5baaa",
+          "properties": 4096,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 2,
+          "user_style": null,
+          "more_classes": "",
+          "embedded_css_rules": {
+           "$text": [
+            ".id_Y515b71318c5baaa {\r",
+            "\tmargin-left: auto;\r",
+            "\tmargin-right: auto;\r",
+            "\tmargin-top: 15px;\r",
+            "}\r"
+           ]
+          }
          },
          {
           "$class": "WsContainer",
@@ -913,7 +700,7 @@
           "owner": {
            "$owner": "R"
           },
-          "index": 1,
+          "index": 3,
           "user_style": "Subdivision",
           "more_classes": " dontDisplayOnM dontDisplayOnL",
           "embedded_css_rules": "",

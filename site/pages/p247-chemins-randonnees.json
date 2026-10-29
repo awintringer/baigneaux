@@ -253,165 +253,18 @@
          {
           "$class": "WsContainer",
           "valign": null,
-          "model_id": 0,
+          "model_id": "Path",
           "contents": [
            {
             "$class": "WsContainer",
             "valign": null,
-            "model_id": 0,
+            "model_id": "",
             "contents": [
              {
               "$class": "WsContainer",
               "valign": null,
-              "model_id": 0,
+              "model_id": "",
               "contents": [
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": "MENU",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WssMenu",
-                      "category": "0",
-                      "depth": "1",
-                      "value": "vertical",
-                      "id": "Y176a1c1f6077dab",
-                      "properties": 262144,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Main",
-                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY55dc82a8b7b9e"
-                     }
-                    ],
-                    "id": "Z166a1c1f6077da8",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z166a1c1f6077da8 {\r\n\twidth: 100%;\r\n}\r",
-                    "name_in_model": "MZ869ce9a560f24c"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": "<p>Menu</p>",
-                      "id": "Y196a1c1f6077db0",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Essai",
-                      "more_classes": " dontDisplayOnM dontDisplayOnL",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY1869cea6e95b8ee"
-                     }
-                    ],
-                    "id": "Z186a1c1f6077dae",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z186a1c1f6077dae {\r\n\twidth: 100%;\r\n}\r",
-                    "name_in_model": "MZ1069ce9a560f252"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Logo de Baigneaux",
-                      "original_name": "logosite.png",
-                      "in_gallery": "0",
-                      "uploaded_image": "logosite-4dcc.png",
-                      "keep_format": "0",
-                      "width": "50",
-                      "height": "50",
-                      "notFlexible": "0",
-                      "value": "logosite-11ba.png",
-                      "id": "Y216a1c1f6077db4",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": null,
-                      "more_classes": " dontDisplayOnM dontDisplayOnL",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Y216a1c1f6077db4 {\r",
-                        "\tmargin-left: auto;\r",
-                        "\tmargin-right: auto;\r",
-                        "}\r"
-                       ]
-                      },
-                      "name_in_model": "MY1669cea66d3bc6f"
-                     }
-                    ],
-                    "id": "Z206a1c1f6077db1",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 2,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z206a1c1f6077db1 {\r\n\twidth: 25%;\r\n}\r",
-                    "name_in_model": "MZ1269cea67e092f5"
-                   }
-                  ],
-                  "id": "Z156a1c1f6077da6",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "name_in_model": "MZ1769cea66d3bc94"
-                 }
-                ],
-                "id": "Z146a1c1f6077da1",
-                "properties": 270400,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": "Bloc_menu",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "name_in_model": "MZ5819e18fc9d3d",
-                "href": ""
-               },
                {
                 "$class": "WsContainer",
                 "valign": null,
@@ -420,189 +273,279 @@
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": "Path",
+                  "model_id": "",
                   "contents": [
                    {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WsTextarea",
-                            "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
-                            "id": "Y276a1c1f6078544",
-                            "properties": 264192,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": "Path",
-                            "more_classes": "",
-                            "embedded_css_rules": "",
-                            "name_in_model": "MY557f20acc196b"
-                           }
-                          ],
-                          "id": "Z266a1c1f6078542",
-                          "properties": 8208,
-                          "owner": {
-                           "$owner": "r"
-                          },
-                          "index": 0,
-                          "user_style": 0,
-                          "more_classes": null,
-                          "embedded_css_rules": "",
-                          "name_in_model": "MZ595841f49586bf5"
-                         },
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WssPagePath",
-                            "value": 0,
-                            "id": "Y296a1c1f607854b",
-                            "properties": 262144,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": "Path",
-                            "more_classes": "",
-                            "embedded_css_rules": "",
-                            "name_in_model": "MY557f20acc19db"
-                           }
-                          ],
-                          "id": "Z286a1c1f6078548",
-                          "properties": 8208,
-                          "owner": {
-                           "$owner": "r"
-                          },
-                          "index": 1,
-                          "user_style": 0,
-                          "more_classes": null,
-                          "embedded_css_rules": ".id_Z286a1c1f6078548 {\r\n\twidth: 89.8%;\r\n}\r",
-                          "name_in_model": "MZ605841f49586c54"
-                         }
-                        ],
-                        "id": "Z256a1c1f607853f",
-                        "properties": 8209,
-                        "owner": {
-                         "$owner": "r"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": "",
-                        "name_in_model": "MZ585841f49586a24"
-                       }
-                      ],
-                      "id": "Z246a1c1f6078500",
-                      "properties": 270464,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": 0,
-                      "more_classes": "",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Z246a1c1f6078500 {\r",
-                        "\tpadding-bottom: 0px;\r",
-                        "\tpadding-left: 0px;\r",
-                        "\tborder-width: 0px;\r",
-                        "\tpadding-top: 10px;\r",
-                        "}\r"
-                       ]
-                      },
-                      "name_in_model": "MZ575841f4895c408",
-                      "href": ""
-                     }
-                    ],
-                    "id": "Z236a1c1f60784fb",
-                    "properties": 270336,
+                    "$class": "WsTextarea",
+                    "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                    "id": "Y276a1c1f6078544",
+                    "properties": 264192,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": 0,
+                    "user_style": "Path",
                     "more_classes": "",
-                    "embedded_css_rules": ".id_Z236a1c1f60784fb {\r\n\tborder-width: 0px;\r\n}\r",
-                    "name_in_model": "MZ3369cbea6206362",
-                    "href": ""
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY557f20acc196b"
                    }
                   ],
-                  "id": "Z226a1c1f60784f3",
-                  "properties": 270400,
+                  "id": "Z266a1c1f6078542",
+                  "properties": 8208,
                   "owner": {
-                   "$owner": "R"
+                   "$owner": "r"
                   },
                   "index": 0,
-                  "user_style": "Path",
-                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "user_style": 0,
+                  "more_classes": null,
                   "embedded_css_rules": "",
-                  "href": "",
-                  "name_in_model": "MZ557f20acc188b"
+                  "name_in_model": "MZ595841f49586bf5"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WssPagePath",
+                    "value": 0,
+                    "id": "Y296a1c1f607854b",
+                    "properties": 262144,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Path",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY557f20acc19db"
+                   }
+                  ],
+                  "id": "Z286a1c1f6078548",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z286a1c1f6078548 {\r\n\twidth: 89.8%;\r\n}\r",
+                  "name_in_model": "MZ605841f49586c54"
                  }
                 ],
-                "id": "Z1115b699b323370a",
-                "properties": 8192,
+                "id": "Z256a1c1f607853f",
+                "properties": 8209,
                 "owner": {
-                 "$owner": "R"
+                 "$owner": "r"
                 },
-                "index": 1,
+                "index": 0,
                 "user_style": 0,
-                "more_classes": "",
-                "embedded_css_rules": {
-                 "$text": [
-                  ".id_Z1115b699b323370a {\r",
-                  "\tborder-width: 0px;\r",
-                  "\tmargin-left: auto;\r",
-                  "\tmargin-right: auto;\r",
-                  "\tmax-width: 1130px;\r",
-                  "}\r"
-                 ]
-                },
-                "name_in_model": "MZ5819e18fc9d3d",
-                "href": ""
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "name_in_model": "MZ585841f49586a24"
                }
               ],
-              "id": "Z2069cbf6b29c769",
-              "properties": 270336,
+              "id": "Z246a1c1f6078500",
+              "properties": 270464,
               "owner": {
                "$owner": "R"
               },
               "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": " dontDisplayOnXS dontDisplayOnS",
-              "embedded_css_rules": "",
+              "user_style": 0,
+              "more_classes": "",
+              "embedded_css_rules": {
+               "$text": [
+                ".id_Z246a1c1f6078500 {\r",
+                "\tpadding-bottom: 0px;\r",
+                "\tpadding-left: 0px;\r",
+                "\tborder-width: 0px;\r",
+                "\tpadding-top: 10px;\r",
+                "}\r"
+               ]
+              },
+              "name_in_model": "MZ575841f4895c408",
               "href": ""
              }
             ],
-            "id": "Z2169cbf6c1e84ff",
-            "properties": 8208,
+            "id": "Z236a1c1f60784fb",
+            "properties": 270336,
             "owner": {
-             "$owner": "r"
+             "$owner": "R"
             },
             "index": 0,
             "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ""
+            "more_classes": "",
+            "embedded_css_rules": ".id_Z236a1c1f60784fb {\r\n\tborder-width: 0px;\r\n}\r",
+            "name_in_model": "MZ3369cbea6206362",
+            "href": ""
+           }
+          ],
+          "id": "Z226a1c1f60784f3",
+          "properties": 270400,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": "Path",
+          "more_classes": " dontDisplayOnXS dontDisplayOnS",
+          "embedded_css_rules": "",
+          "href": "",
+          "name_in_model": "MZ557f20acc188b"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "menu_burger",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WssMenu",
+                  "category": "0",
+                  "depth": "0",
+                  "value": "0",
+                  "id": "Y336a1c1f6078b81",
+                  "properties": 262144,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "menu_burger",
+                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY236a1c1913916fa"
+                 }
+                ],
+                "id": "Z326a1c1f6078b7f",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "name_in_model": "MZ476a1c19449ca9b"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p>Menu</p>",
+                  "id": "Y356a1c1f6078b88",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Y356a1c1f6078b88 {\r",
+                    "\tfont-family: Playfair Display;\r",
+                    "\tfont-size: 2em;\r",
+                    "\ttext-align: center;\r",
+                    "\tpadding-top: 15px;\r",
+                    "\tfloat: left;\r",
+                    "}\r"
+                   ]
+                  },
+                  "name_in_model": "MY236a1c193a1e444"
+                 }
+                ],
+                "id": "Z346a1c1f6078b84",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z346a1c1f6078b84 {\r\n\twidth: 64%;\r\n}\r",
+                "name_in_model": "MZ126a1c1982a9777"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsImage",
+                  "caption": "",
+                  "href": "",
+                  "tooltip": "Logo de Baigneaux",
+                  "original_name": "logositepetit.png",
+                  "in_gallery": "0",
+                  "uploaded_image": "logositepetit.png",
+                  "keep_format": "0",
+                  "width": "60",
+                  "height": "60",
+                  "notFlexible": "0",
+                  "value": "logositepetit.png",
+                  "id": "Y376a1c1f6078b8c",
+                  "properties": 266240,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY296a1c197b650e8"
+                 }
+                ],
+                "id": "Z366a1c1f6078b8a",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 2,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "name_in_model": "MZ146a1c1982a977b"
+               }
+              ],
+              "id": "Z316a1c1f6078b7c",
+              "properties": 8209,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": "",
+              "name_in_model": "MZ246a1c193a1e463"
+             }
+            ],
+            "id": "Z306a1c1f6078b75",
+            "properties": 8256,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Subdivision",
+            "more_classes": " dontDisplayOnM dontDisplayOnL",
+            "embedded_css_rules": "",
+            "href": "",
+            "name_in_model": "MZ236a1c1919b626f"
            },
            {
             "$class": "WsContainer",
@@ -612,152 +555,128 @@
              {
               "$class": "WsContainer",
               "valign": null,
-              "model_id": "menu_burger",
+              "model_id": 0,
               "contents": [
                {
                 "$class": "WsContainer",
                 "valign": null,
-                "model_id": "",
+                "model_id": 0,
                 "contents": [
                  {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WssMenu",
-                    "category": "0",
-                    "depth": "0",
-                    "value": "0",
-                    "id": "Y336a1c1f6078b81",
-                    "properties": 262144,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "menu_burger",
-                    "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                    "embedded_css_rules": "",
-                    "name_in_model": "MY236a1c1913916fa"
-                   }
-                  ],
-                  "id": "Z326a1c1f6078b7f",
-                  "properties": 8208,
+                  "$class": "WsImage",
+                  "caption": "",
+                  "href": "",
+                  "tooltip": "Chemins de randonnée",
+                  "original_name": "chemin.svg",
+                  "in_gallery": "0",
+                  "uploaded_image": "chemin-1080.svg",
+                  "keep_format": "1",
+                  "width": "40",
+                  "height": "46",
+                  "notFlexible": "0",
+                  "value": "chemin-1080.svg",
+                  "id": "Y515b7136068ee7b",
+                  "properties": 266240,
                   "owner": {
-                   "$owner": "r"
+                   "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "name_in_model": "MZ476a1c19449ca9b"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "value": "<p>Menu</p>",
-                    "id": "Y356a1c1f6078b88",
-                    "properties": 264192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": null,
-                    "more_classes": "",
-                    "embedded_css_rules": {
-                     "$text": [
-                      ".id_Y356a1c1f6078b88 {\r",
-                      "\tfont-family: Playfair Display;\r",
-                      "\tfont-size: 2em;\r",
-                      "\ttext-align: center;\r",
-                      "\tpadding-top: 15px;\r",
-                      "\tfloat: left;\r",
-                      "}\r"
-                     ]
-                    },
-                    "name_in_model": "MY236a1c193a1e444"
-                   }
-                  ],
-                  "id": "Z346a1c1f6078b84",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 1,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ".id_Z346a1c1f6078b84 {\r\n\twidth: 64%;\r\n}\r",
-                  "name_in_model": "MZ126a1c1982a9777"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsImage",
-                    "caption": "",
-                    "href": "",
-                    "tooltip": "Logo de Baigneaux",
-                    "original_name": "logositepetit.png",
-                    "in_gallery": "0",
-                    "uploaded_image": "logositepetit.png",
-                    "keep_format": "0",
-                    "width": "60",
-                    "height": "60",
-                    "notFlexible": "0",
-                    "value": "logositepetit.png",
-                    "id": "Y376a1c1f6078b8c",
-                    "properties": 266240,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": null,
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "name_in_model": "MY296a1c197b650e8"
-                   }
-                  ],
-                  "id": "Z366a1c1f6078b8a",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 2,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "name_in_model": "MZ146a1c1982a977b"
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Y515b7136068ee7b {\r",
+                    "\tmargin-left: 0;\r",
+                    "\tmargin-right: auto;\r",
+                    "\twhite-space: normal;\r",
+                    "}\r"
+                   ]
+                  }
                  }
                 ],
-                "id": "Z316a1c1f6078b7c",
-                "properties": 8209,
+                "id": "Z2169cbf75fd7110",
+                "properties": 8208,
                 "owner": {
                  "$owner": "r"
                 },
                 "index": 0,
                 "user_style": 0,
                 "more_classes": null,
-                "embedded_css_rules": "",
-                "name_in_model": "MZ246a1c193a1e463"
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "chemins de randonnées",
+                  "id": "Y515b6ad00616de6",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Title",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z2269cbf75fd7120",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
                }
               ],
-              "id": "Z306a1c1f6078b75",
-              "properties": 8256,
+              "id": "Z2069cbf75fd6bf0",
+              "properties": 8209,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ""
+             }
+            ],
+            "id": "Z2069cbf75e1eb17",
+            "properties": 8192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": "",
+            "embedded_css_rules": ".id_Z2069cbf75e1eb17 {\r\n\tborder-width: 0px;\r\n}\r",
+            "href": ""
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WssTitle",
+              "level": "2",
+              "href": "",
+              "value": "Boucle de la Motte",
+              "id": "Y2069cbf914b25dc",
+              "properties": 1024,
               "owner": {
                "$owner": "R"
               },
               "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": " dontDisplayOnM dontDisplayOnL",
-              "embedded_css_rules": "",
-              "href": "",
-              "name_in_model": "MZ236a1c1919b626f"
+              "user_style": "Title2",
+              "more_classes": "",
+              "embedded_css_rules": ""
              },
              {
               "$class": "WsContainer",
@@ -776,37 +695,29 @@
                   "contents": [
                    {
                     "$class": "WsImage",
-                    "caption": "",
-                    "href": "",
-                    "tooltip": "Chemins de randonnée",
-                    "original_name": "chemin.svg",
-                    "in_gallery": "0",
-                    "uploaded_image": "chemin-1080.svg",
-                    "keep_format": "1",
-                    "width": "40",
-                    "height": "46",
-                    "notFlexible": "0",
-                    "value": "chemin-1080.svg",
-                    "id": "Y515b7136068ee7b",
-                    "properties": 266240,
+                    "caption": null,
+                    "href": null,
+                    "tooltip": null,
+                    "original_name": null,
+                    "in_gallery": null,
+                    "uploaded_image": null,
+                    "keep_format": null,
+                    "width": 200,
+                    "height": 200,
+                    "notFlexible": null,
+                    "value": "0",
+                    "id": "Y2069cbf933db96d",
+                    "properties": 4096,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
                     "user_style": null,
-                    "more_classes": "",
-                    "embedded_css_rules": {
-                     "$text": [
-                      ".id_Y515b7136068ee7b {\r",
-                      "\tmargin-left: 0;\r",
-                      "\tmargin-right: auto;\r",
-                      "\twhite-space: normal;\r",
-                      "}\r"
-                     ]
-                    }
+                    "more_classes": null,
+                    "embedded_css_rules": null
                    }
                   ],
-                  "id": "Z2169cbf75fd7110",
+                  "id": "Z2269cbf933dbb5b",
                   "properties": 8208,
                   "owner": {
                    "$owner": "r"
@@ -822,22 +733,20 @@
                   "model_id": 0,
                   "contents": [
                    {
-                    "$class": "WssTitle",
-                    "level": "2",
-                    "href": "",
-                    "value": "chemins de randonnées",
-                    "id": "Y515b6ad00616de6",
-                    "properties": 1024,
+                    "$class": "WsTextarea",
+                    "value": "<p>Chemin de randonn&eacute;e traversant Baigneaux en passant par la motte f&eacute;odale</p>",
+                    "id": "Y2069cbf92d4e46b",
+                    "properties": 264192,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": "Title",
+                    "user_style": "Texte_normal_align_gauche",
                     "more_classes": "",
                     "embedded_css_rules": ""
                    }
                   ],
-                  "id": "Z2269cbf75fd7120",
+                  "id": "Z2369cbf933dbb64",
                   "properties": 8208,
                   "owner": {
                    "$owner": "r"
@@ -845,10 +754,10 @@
                   "index": 1,
                   "user_style": 0,
                   "more_classes": null,
-                  "embedded_css_rules": ""
+                  "embedded_css_rules": ".id_Z2369cbf933dbb64 {\r\n\twidth: 75%;\r\n}\r"
                  }
                 ],
-                "id": "Z2069cbf75fd6bf0",
+                "id": "Z2169cbf933db97e",
                 "properties": 8209,
                 "owner": {
                  "$owner": "r"
@@ -859,319 +768,188 @@
                 "embedded_css_rules": ""
                }
               ],
-              "id": "Z2069cbf75e1eb17",
+              "id": "Z2069cbf92fbaac1",
               "properties": 8192,
               "owner": {
                "$owner": "R"
               },
               "index": 1,
               "user_style": 0,
-              "more_classes": "",
-              "embedded_css_rules": ".id_Z2069cbf75e1eb17 {\r\n\tborder-width: 0px;\r\n}\r",
-              "href": ""
-             },
-             {
-              "$class": "WsContainer",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WssTitle",
-                "level": "2",
-                "href": "",
-                "value": "Boucle de la Motte",
-                "id": "Y2069cbf914b25dc",
-                "properties": 1024,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": "Title2",
-                "more_classes": "",
-                "embedded_css_rules": ""
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsImage",
-                      "caption": null,
-                      "href": null,
-                      "tooltip": null,
-                      "original_name": null,
-                      "in_gallery": null,
-                      "uploaded_image": null,
-                      "keep_format": null,
-                      "width": 200,
-                      "height": 200,
-                      "notFlexible": null,
-                      "value": "0",
-                      "id": "Y2069cbf933db96d",
-                      "properties": 4096,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": null,
-                      "more_classes": null,
-                      "embedded_css_rules": null
-                     }
-                    ],
-                    "id": "Z2269cbf933dbb5b",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ""
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": "<p>Chemin de randonn&eacute;e traversant Baigneaux en passant par la motte f&eacute;odale</p>",
-                      "id": "Y2069cbf92d4e46b",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2369cbf933dbb64",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z2369cbf933dbb64 {\r\n\twidth: 75%;\r\n}\r"
-                   }
-                  ],
-                  "id": "Z2169cbf933db97e",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z2069cbf92fbaac1",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": ""
-               }
-              ],
-              "id": "Z2069cbf922012c9",
-              "properties": 8192,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 2,
-              "user_style": "Subdivision",
-              "more_classes": "",
-              "embedded_css_rules": "",
-              "href": ""
-             },
-             {
-              "$class": "WsContainer",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WssTitle",
-                "level": "2",
-                "href": "",
-                "value": "Boucle de Soulignac",
-                "id": "Y515b6ad02e2fb1a",
-                "properties": 1024,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": "Title2",
-                "more_classes": "",
-                "embedded_css_rules": ""
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Moulin sur la boucle de Soulignac",
-                      "original_name": "moulin.JPG",
-                      "in_gallery": "0",
-                      "uploaded_image": "moulin.jpg",
-                      "keep_format": "0",
-                      "width": "200",
-                      "height": "128",
-                      "notFlexible": "0",
-                      "value": "moulin-5e5b.jpg",
-                      "id": "Y515b6ad0ef3415a",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": null,
-                      "more_classes": "",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Y515b6ad0ef3415a {\r",
-                        "\tpadding-bottom: 0px;\r",
-                        "\tmargin-bottom: 0px;\r",
-                        "\tfloat: none;\r",
-                        "\tmargin-left: auto;\r",
-                        "\tmargin-right: auto;\r",
-                        "}\r"
-                       ]
-                      }
-                     }
-                    ],
-                    "id": "Z2169cbf83a41712",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z2169cbf83a41712 {\r\n\twidth: 25%;\r\n}\r"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>D&eacute;part parking de la mairie de Soulignac</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>12 km/ 3 h 00</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p><a href=\"https://aquitaine.media.tourinsoft.eu/upload/BOUCLE-DE-SOULIGNAC.pdf\">Cliquer ici pour t&eacute;l&eacute;charger le parcours</a></p>"
-                       ]
-                      },
-                      "id": "Y515b6ad0da22db1",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2269cbf83a41724",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ""
-                   }
-                  ],
-                  "id": "Z2069cbf83a4133e",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z2069cbf7b1787d6",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": ""
-               }
-              ],
-              "id": "Z2069cbf72081636",
-              "properties": 8192,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 3,
-              "user_style": "Subdivision",
-              "more_classes": "",
-              "embedded_css_rules": "",
-              "href": ""
+              "more_classes": null,
+              "embedded_css_rules": ""
              }
             ],
-            "id": "Z2269cbf6c62a979",
-            "properties": 8208,
+            "id": "Z2069cbf922012c9",
+            "properties": 8192,
             "owner": {
-             "$owner": "r"
+             "$owner": "R"
             },
-            "index": 1,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ".id_Z2269cbf6c62a979 {\r\n\twidth: 75%;\r\n}\r"
+            "index": 2,
+            "user_style": "Subdivision",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": ""
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WssTitle",
+              "level": "2",
+              "href": "",
+              "value": "Boucle de Soulignac",
+              "id": "Y515b6ad02e2fb1a",
+              "properties": 1024,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Title2",
+              "more_classes": "",
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Moulin sur la boucle de Soulignac",
+                    "original_name": "moulin.JPG",
+                    "in_gallery": "0",
+                    "uploaded_image": "moulin.jpg",
+                    "keep_format": "0",
+                    "width": "200",
+                    "height": "128",
+                    "notFlexible": "0",
+                    "value": "moulin-5e5b.jpg",
+                    "id": "Y515b6ad0ef3415a",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": {
+                     "$text": [
+                      ".id_Y515b6ad0ef3415a {\r",
+                      "\tpadding-bottom: 0px;\r",
+                      "\tmargin-bottom: 0px;\r",
+                      "\tfloat: none;\r",
+                      "\tmargin-left: auto;\r",
+                      "\tmargin-right: auto;\r",
+                      "}\r"
+                     ]
+                    }
+                   }
+                  ],
+                  "id": "Z2169cbf83a41712",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z2169cbf83a41712 {\r\n\twidth: 25%;\r\n}\r"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>D&eacute;part parking de la mairie de Soulignac</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>12 km/ 3 h 00</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p><a href=\"https://aquitaine.media.tourinsoft.eu/upload/BOUCLE-DE-SOULIGNAC.pdf\">Cliquer ici pour t&eacute;l&eacute;charger le parcours</a></p>"
+                     ]
+                    },
+                    "id": "Y515b6ad0da22db1",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2269cbf83a41724",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z2069cbf83a4133e",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z2069cbf7b1787d6",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 1,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ""
+             }
+            ],
+            "id": "Z2069cbf72081636",
+            "properties": 8192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 3,
+            "user_style": "Subdivision",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": ""
            }
           ],
-          "id": "Z2069cbf6c1e7f9d",
-          "properties": 8209,
+          "href": "",
+          "id": "Z1506ae37cce56c82",
+          "properties": 8192,
           "owner": {
-           "$owner": "r"
+           "$owner": "R"
           },
-          "index": 0,
+          "index": 1,
           "user_style": 0,
-          "more_classes": null,
+          "more_classes": "contenu_page",
           "embedded_css_rules": ""
          },
          {
@@ -1300,7 +1078,7 @@
           "owner": {
            "$owner": "R"
           },
-          "index": 1,
+          "index": 2,
           "user_style": "Subdivision",
           "more_classes": "",
           "embedded_css_rules": "",
@@ -1558,7 +1336,7 @@
           "owner": {
            "$owner": "R"
           },
-          "index": 2,
+          "index": 3,
           "user_style": "Subdivision",
           "more_classes": "",
           "embedded_css_rules": "",

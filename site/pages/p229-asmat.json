@@ -253,8 +253,300 @@
          {
           "$class": "WsContainer",
           "valign": null,
+          "model_id": "Path",
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                    "id": "Y276a1c1e4f44ede",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Path",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY557f20acc196b"
+                   }
+                  ],
+                  "id": "Z266a1c1e4f44edb",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ595841f49586bf5"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WssPagePath",
+                    "value": 0,
+                    "id": "Y296a1c1e4f44ee5",
+                    "properties": 262144,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Path",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY557f20acc19db"
+                   }
+                  ],
+                  "id": "Z286a1c1e4f44ee2",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z286a1c1e4f44ee2 {\r\n\twidth: 89.8%;\r\n}\r",
+                  "name_in_model": "MZ605841f49586c54"
+                 }
+                ],
+                "id": "Z256a1c1e4f44ed9",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "name_in_model": "MZ585841f49586a24"
+               }
+              ],
+              "id": "Z246a1c1e4f44ed7",
+              "properties": 270464,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": "",
+              "embedded_css_rules": {
+               "$text": [
+                ".id_Z246a1c1e4f44ed7 {\r",
+                "\tpadding-bottom: 0px;\r",
+                "\tpadding-left: 0px;\r",
+                "\tborder-width: 0px;\r",
+                "\tpadding-top: 10px;\r",
+                "}\r"
+               ]
+              },
+              "name_in_model": "MZ575841f4895c408",
+              "href": ""
+             }
+            ],
+            "id": "Z236a1c1e4f44ed3",
+            "properties": 270336,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": "",
+            "embedded_css_rules": ".id_Z236a1c1e4f44ed3 {\r\n\tborder-width: 0px;\r\n}\r",
+            "name_in_model": "MZ3369cbea6206362",
+            "href": ""
+           }
+          ],
+          "id": "Z226a1c1e4f44ecc",
+          "properties": 270400,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": "Path",
+          "more_classes": " dontDisplayOnXS dontDisplayOnS",
+          "embedded_css_rules": "",
+          "href": "",
+          "name_in_model": "MZ557f20acc188b"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
           "model_id": 0,
           "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "menu_burger",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WssMenu",
+                  "category": "0",
+                  "depth": "0",
+                  "value": "0",
+                  "id": "Y336a1c1e4f4557d",
+                  "properties": 262144,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "menu_burger",
+                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY236a1c1913916fa"
+                 }
+                ],
+                "id": "Z326a1c1e4f4557b",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "name_in_model": "MZ476a1c19449ca9b"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p>Menu</p>",
+                  "id": "Y356a1c1e4f45583",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Y356a1c1e4f45583 {\r",
+                    "\tfont-family: Playfair Display;\r",
+                    "\tfont-size: 2em;\r",
+                    "\ttext-align: center;\r",
+                    "\tpadding-top: 15px;\r",
+                    "\tfloat: left;\r",
+                    "}\r"
+                   ]
+                  },
+                  "name_in_model": "MY236a1c193a1e444"
+                 }
+                ],
+                "id": "Z346a1c1e4f4557f",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z346a1c1e4f4557f {\r\n\twidth: 64%;\r\n}\r",
+                "name_in_model": "MZ126a1c1982a9777"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsImage",
+                  "caption": "",
+                  "href": "",
+                  "tooltip": "Logo de Baigneaux",
+                  "original_name": "logositepetit.png",
+                  "in_gallery": "0",
+                  "uploaded_image": "logositepetit.png",
+                  "keep_format": "0",
+                  "width": "60",
+                  "height": "60",
+                  "notFlexible": "0",
+                  "value": "logositepetit.png",
+                  "id": "Y376a1c1e4f45589",
+                  "properties": 266240,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY296a1c197b650e8"
+                 }
+                ],
+                "id": "Z366a1c1e4f45586",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 2,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "name_in_model": "MZ146a1c1982a977b"
+               }
+              ],
+              "id": "Z316a1c1e4f45579",
+              "properties": 8209,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": "",
+              "name_in_model": "MZ246a1c193a1e463"
+             }
+            ],
+            "id": "Z306a1c1e4f45572",
+            "properties": 8256,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Subdivision",
+            "more_classes": " dontDisplayOnM dontDisplayOnL",
+            "embedded_css_rules": "",
+            "href": "",
+            "name_in_model": "MZ236a1c1919b626f"
+           },
            {
             "$class": "WsContainer",
             "valign": null,
@@ -268,487 +560,106 @@
                {
                 "$class": "WsContainer",
                 "valign": null,
-                "model_id": "MENU",
+                "model_id": 0,
                 "contents": [
                  {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WssMenu",
-                      "category": "0",
-                      "depth": "1",
-                      "value": "vertical",
-                      "id": "Y176a1c1e4f447c5",
-                      "properties": 262144,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Main",
-                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY55dc82a8b7b9e"
-                     }
-                    ],
-                    "id": "Z166a1c1e4f447bf",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z166a1c1e4f447bf {\r\n\twidth: 100%;\r\n}\r",
-                    "name_in_model": "MZ869ce9a560f24c"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": "<p>Menu</p>",
-                      "id": "Y196a1c1e4f447cd",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Essai",
-                      "more_classes": " dontDisplayOnM dontDisplayOnL",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY1869cea6e95b8ee"
-                     }
-                    ],
-                    "id": "Z186a1c1e4f447c9",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z186a1c1e4f447c9 {\r\n\twidth: 100%;\r\n}\r",
-                    "name_in_model": "MZ1069ce9a560f252"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Logo de Baigneaux",
-                      "original_name": "logosite.png",
-                      "in_gallery": "0",
-                      "uploaded_image": "logosite-4dcc.png",
-                      "keep_format": "0",
-                      "width": "50",
-                      "height": "50",
-                      "notFlexible": "0",
-                      "value": "logosite-11ba.png",
-                      "id": "Y216a1c1e4f447d3",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": null,
-                      "more_classes": " dontDisplayOnM dontDisplayOnL",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Y216a1c1e4f447d3 {\r",
-                        "\tmargin-left: auto;\r",
-                        "\tmargin-right: auto;\r",
-                        "}\r"
-                       ]
-                      },
-                      "name_in_model": "MY1669cea66d3bc6f"
-                     }
-                    ],
-                    "id": "Z206a1c1e4f447cf",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 2,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z206a1c1e4f447cf {\r\n\twidth: 25%;\r\n}\r",
-                    "name_in_model": "MZ1269cea67e092f5"
-                   }
-                  ],
-                  "id": "Z156a1c1e4f447bc",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "name_in_model": "MZ1769cea66d3bc94"
-                 }
-                ],
-                "id": "Z146a1c1e4f447b4",
-                "properties": 270400,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": "Bloc_menu",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "name_in_model": "MZ5819e18fc9d3d",
-                "href": ""
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": "",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "Path",
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WsTextarea",
-                            "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
-                            "id": "Y276a1c1e4f44ede",
-                            "properties": 264192,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": "Path",
-                            "more_classes": "",
-                            "embedded_css_rules": "",
-                            "name_in_model": "MY557f20acc196b"
-                           }
-                          ],
-                          "id": "Z266a1c1e4f44edb",
-                          "properties": 8208,
-                          "owner": {
-                           "$owner": "r"
-                          },
-                          "index": 0,
-                          "user_style": 0,
-                          "more_classes": null,
-                          "embedded_css_rules": "",
-                          "name_in_model": "MZ595841f49586bf5"
-                         },
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WssPagePath",
-                            "value": 0,
-                            "id": "Y296a1c1e4f44ee5",
-                            "properties": 262144,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": "Path",
-                            "more_classes": "",
-                            "embedded_css_rules": "",
-                            "name_in_model": "MY557f20acc19db"
-                           }
-                          ],
-                          "id": "Z286a1c1e4f44ee2",
-                          "properties": 8208,
-                          "owner": {
-                           "$owner": "r"
-                          },
-                          "index": 1,
-                          "user_style": 0,
-                          "more_classes": null,
-                          "embedded_css_rules": ".id_Z286a1c1e4f44ee2 {\r\n\twidth: 89.8%;\r\n}\r",
-                          "name_in_model": "MZ605841f49586c54"
-                         }
-                        ],
-                        "id": "Z256a1c1e4f44ed9",
-                        "properties": 8209,
-                        "owner": {
-                         "$owner": "r"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": "",
-                        "name_in_model": "MZ585841f49586a24"
-                       }
-                      ],
-                      "id": "Z246a1c1e4f44ed7",
-                      "properties": 270464,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": 0,
-                      "more_classes": "",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Z246a1c1e4f44ed7 {\r",
-                        "\tpadding-bottom: 0px;\r",
-                        "\tpadding-left: 0px;\r",
-                        "\tborder-width: 0px;\r",
-                        "\tpadding-top: 10px;\r",
-                        "}\r"
-                       ]
-                      },
-                      "name_in_model": "MZ575841f4895c408",
-                      "href": ""
-                     }
-                    ],
-                    "id": "Z236a1c1e4f44ed3",
-                    "properties": 270336,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": "",
-                    "embedded_css_rules": ".id_Z236a1c1e4f44ed3 {\r\n\tborder-width: 0px;\r\n}\r",
-                    "name_in_model": "MZ3369cbea6206362",
-                    "href": ""
-                   }
-                  ],
-                  "id": "Z226a1c1e4f44ecc",
-                  "properties": 270400,
+                  "$class": "WsImage",
+                  "caption": "",
+                  "href": "",
+                  "tooltip": "Assistantes maternelles",
+                  "original_name": "ASSISTANTE.jpg",
+                  "in_gallery": "0",
+                  "uploaded_image": "assistante.jpg",
+                  "keep_format": "0",
+                  "width": "150",
+                  "height": "107",
+                  "notFlexible": "0",
+                  "value": "assistante-7e52.jpg",
+                  "id": "Y535b6ade7a6771e",
+                  "properties": 4096,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Path",
-                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                  "embedded_css_rules": "",
-                  "href": "",
-                  "name_in_model": "MZ557f20acc188b"
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Y535b6ade7a6771e {\r",
+                    "\ttext-align: left;\r",
+                    "\tfloat: none;\r",
+                    "\tclear: none;\r",
+                    "\tmargin-left: auto;\r",
+                    "\tmargin-right: auto;\r",
+                    "}\r"
+                   ]
+                  }
                  }
                 ],
-                "id": "Z13258dabdbfe7741",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": "Bloc_menu",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "name_in_model": "MZ5819e18fc9d3d",
-                "href": ""
-               }
-              ],
-              "id": "Z2069cbf2a51d8db",
-              "properties": 270336,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": " dontDisplayOnXS dontDisplayOnS",
-              "embedded_css_rules": "",
-              "href": ""
-             }
-            ],
-            "id": "Z2769e9309d85352",
-            "properties": 8208,
-            "owner": {
-             "$owner": "r"
-            },
-            "index": 0,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ""
-           },
-           {
-            "$class": "WsContainer",
-            "valign": null,
-            "model_id": 0,
-            "contents": [
-             {
-              "$class": "WsContainer",
-              "valign": null,
-              "model_id": "menu_burger",
-              "contents": [
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": "",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WssMenu",
-                    "category": "0",
-                    "depth": "0",
-                    "value": "0",
-                    "id": "Y336a1c1e4f4557d",
-                    "properties": 262144,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "menu_burger",
-                    "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                    "embedded_css_rules": "",
-                    "name_in_model": "MY236a1c1913916fa"
-                   }
-                  ],
-                  "id": "Z326a1c1e4f4557b",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "name_in_model": "MZ476a1c19449ca9b"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "value": "<p>Menu</p>",
-                    "id": "Y356a1c1e4f45583",
-                    "properties": 264192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": null,
-                    "more_classes": "",
-                    "embedded_css_rules": {
-                     "$text": [
-                      ".id_Y356a1c1e4f45583 {\r",
-                      "\tfont-family: Playfair Display;\r",
-                      "\tfont-size: 2em;\r",
-                      "\ttext-align: center;\r",
-                      "\tpadding-top: 15px;\r",
-                      "\tfloat: left;\r",
-                      "}\r"
-                     ]
-                    },
-                    "name_in_model": "MY236a1c193a1e444"
-                   }
-                  ],
-                  "id": "Z346a1c1e4f4557f",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 1,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ".id_Z346a1c1e4f4557f {\r\n\twidth: 64%;\r\n}\r",
-                  "name_in_model": "MZ126a1c1982a9777"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsImage",
-                    "caption": "",
-                    "href": "",
-                    "tooltip": "Logo de Baigneaux",
-                    "original_name": "logositepetit.png",
-                    "in_gallery": "0",
-                    "uploaded_image": "logositepetit.png",
-                    "keep_format": "0",
-                    "width": "60",
-                    "height": "60",
-                    "notFlexible": "0",
-                    "value": "logositepetit.png",
-                    "id": "Y376a1c1e4f45589",
-                    "properties": 266240,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": null,
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "name_in_model": "MY296a1c197b650e8"
-                   }
-                  ],
-                  "id": "Z366a1c1e4f45586",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 2,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "name_in_model": "MZ146a1c1982a977b"
-                 }
-                ],
-                "id": "Z316a1c1e4f45579",
-                "properties": 8209,
+                "id": "Z2769e92ed43c6d1",
+                "properties": 8208,
                 "owner": {
                  "$owner": "r"
                 },
                 "index": 0,
                 "user_style": 0,
                 "more_classes": null,
-                "embedded_css_rules": "",
-                "name_in_model": "MZ246a1c193a1e463"
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Assistantes maternelles agréées",
+                  "id": "Y545b6add9561e52",
+                  "properties": 263168,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Title",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p>(agr&eacute;ment Maternel 4M)</p>",
+                  "id": "Y2669e92f5cbe25b",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z2869e92ed43c6e8",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2869e92ed43c6e8 {\r\n\twidth: 85%;\r\n}\r"
                }
               ],
-              "id": "Z306a1c1e4f45572",
-              "properties": 8256,
+              "id": "Z2669e92ed43c393",
+              "properties": 8209,
               "owner": {
-               "$owner": "R"
+               "$owner": "r"
               },
               "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": " dontDisplayOnM dontDisplayOnL",
-              "embedded_css_rules": "",
-              "href": "",
-              "name_in_model": "MZ236a1c1919b626f"
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ""
              },
              {
               "$class": "WsContainer",
@@ -766,40 +677,234 @@
                   "model_id": 0,
                   "contents": [
                    {
-                    "$class": "WsImage",
-                    "caption": "",
-                    "href": "",
-                    "tooltip": "Assistantes maternelles",
-                    "original_name": "ASSISTANTE.jpg",
-                    "in_gallery": "0",
-                    "uploaded_image": "assistante.jpg",
-                    "keep_format": "0",
-                    "width": "150",
-                    "height": "107",
-                    "notFlexible": "0",
-                    "value": "assistante-7e52.jpg",
-                    "id": "Y535b6ade7a6771e",
-                    "properties": 4096,
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Aur&eacute;lie Dumas</p>\r",
+                      "<p></p>\r",
+                      "<p>Tel: 07 77 44 35 87</p>\r",
+                      "<p><a href=\"&quot;mailto:aureliejeromedumas@orange.fr\">aureliejeromedumas@orange.fr</a></p>"
+                     ]
+                    },
+                    "id": "Y2669e92ed882487",
+                    "properties": 264192,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": null,
+                    "user_style": "Texte_normal_align_gauche",
                     "more_classes": "",
-                    "embedded_css_rules": {
-                     "$text": [
-                      ".id_Y535b6ade7a6771e {\r",
-                      "\ttext-align: left;\r",
-                      "\tfloat: none;\r",
-                      "\tclear: none;\r",
-                      "\tmargin-left: auto;\r",
-                      "\tmargin-right: auto;\r",
-                      "}\r"
-                     ]
-                    }
+                    "embedded_css_rules": ""
                    }
                   ],
-                  "id": "Z2769e92ed43c6d1",
+                  "id": "Z2869e92f2d757df",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z2869e92f2d757df {\r\n\twidth: 50%;\r\n}\r"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Les P'tits Globe Trotteurs</p>\r",
+                      "<p>347 Impasse du Sergent</p>\r",
+                      "<p>33760 Baigneaux</p>"
+                     ]
+                    },
+                    "id": "Y2669e92f2d754bf",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2969e92f2d75807",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z2969e92f2d75807 {\r\n\twidth: 50%;\r\n}\r"
+                 }
+                ],
+                "id": "Z2769e92f2d754d8",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z2669e92edebc4cc",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 1,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Marie Nunes</p>\r",
+                      "<p></p>\r",
+                      "<p>Tel: 06 12 91 22 66</p>\r",
+                      "<p><a href=\"&quot;mailto:marie.nunes33@orange.fr\">marie.nunes33@orange.fr</a></p>"
+                     ]
+                    },
+                    "id": "Y2669e92efdccc54",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2869e92f47c850f",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z2869e92f47c850f {\r\n\twidth: 50%;\r\n}\r"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>&nbsp;</p>\r",
+                      "<p>47 Impasse de Redon</p>\r",
+                      "<p>33760 Baigneaux</p>"
+                     ]
+                    },
+                    "id": "Y2669e92f47c808c",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2969e92f47c853a",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z2769e92f47c80b0",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z2669e92f017d9c2",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 2,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>C&eacute;line Ravoux</p>\r",
+                      "<p>Tel: 06 27 56 64 51</p>\r",
+                      "<p><a href=\"&quot;mailto:philippe.ravoux@orange.fr\">philippe.ravoux@orange.fr</a></p>"
+                     ]
+                    },
+                    "id": "Y2669e930583c7c8",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2869e930bee0d98",
                   "properties": 8208,
                   "owner": {
                    "$owner": "r"
@@ -815,35 +920,26 @@
                   "model_id": 0,
                   "contents": [
                    {
-                    "$class": "WssTitle",
-                    "level": "2",
-                    "href": "",
-                    "value": "Assistantes maternelles agréées",
-                    "id": "Y545b6add9561e52",
-                    "properties": 263168,
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Les P'tits Globe Trotteurs</p>\r",
+                      "<p>347 Impasse du Sergent</p>\r",
+                      "<p>33760 Baigneaux</p>"
+                     ]
+                    },
+                    "id": "Y2669e930bee0970",
+                    "properties": 264192,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": "Title",
-                    "more_classes": "",
-                    "embedded_css_rules": ""
-                   },
-                   {
-                    "$class": "WsTextarea",
-                    "value": "<p>(agr&eacute;ment Maternel 4M)</p>",
-                    "id": "Y2669e92f5cbe25b",
-                    "properties": 2048,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 1,
-                    "user_style": "Texte_important_centre",
+                    "user_style": "Texte_normal_align_gauche",
                     "more_classes": "",
                     "embedded_css_rules": ""
                    }
                   ],
-                  "id": "Z2869e92ed43c6e8",
+                  "id": "Z2969e930bee0da7",
                   "properties": 8208,
                   "owner": {
                    "$owner": "r"
@@ -851,10 +947,10 @@
                   "index": 1,
                   "user_style": 0,
                   "more_classes": null,
-                  "embedded_css_rules": ".id_Z2869e92ed43c6e8 {\r\n\twidth: 85%;\r\n}\r"
+                  "embedded_css_rules": ".id_Z2969e930bee0da7 {\r\n\twidth: 50%;\r\n}\r"
                  }
                 ],
-                "id": "Z2669e92ed43c393",
+                "id": "Z2769e930bee098d",
                 "properties": 8209,
                 "owner": {
                  "$owner": "r"
@@ -863,556 +959,247 @@
                 "user_style": 0,
                 "more_classes": null,
                 "embedded_css_rules": ""
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Aur&eacute;lie Dumas</p>\r",
-                        "<p></p>\r",
-                        "<p>Tel: 07 77 44 35 87</p>\r",
-                        "<p><a href=\"&quot;mailto:aureliejeromedumas@orange.fr\">aureliejeromedumas@orange.fr</a></p>"
-                       ]
-                      },
-                      "id": "Y2669e92ed882487",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2869e92f2d757df",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z2869e92f2d757df {\r\n\twidth: 50%;\r\n}\r"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Les P'tits Globe Trotteurs</p>\r",
-                        "<p>347 Impasse du Sergent</p>\r",
-                        "<p>33760 Baigneaux</p>"
-                       ]
-                      },
-                      "id": "Y2669e92f2d754bf",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2969e92f2d75807",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z2969e92f2d75807 {\r\n\twidth: 50%;\r\n}\r"
-                   }
-                  ],
-                  "id": "Z2769e92f2d754d8",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z2669e92edebc4cc",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": "Subdivision",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "href": ""
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Marie Nunes</p>\r",
-                        "<p></p>\r",
-                        "<p>Tel: 06 12 91 22 66</p>\r",
-                        "<p><a href=\"&quot;mailto:marie.nunes33@orange.fr\">marie.nunes33@orange.fr</a></p>"
-                       ]
-                      },
-                      "id": "Y2669e92efdccc54",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2869e92f47c850f",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z2869e92f47c850f {\r\n\twidth: 50%;\r\n}\r"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>&nbsp;</p>\r",
-                        "<p>47 Impasse de Redon</p>\r",
-                        "<p>33760 Baigneaux</p>"
-                       ]
-                      },
-                      "id": "Y2669e92f47c808c",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2969e92f47c853a",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ""
-                   }
-                  ],
-                  "id": "Z2769e92f47c80b0",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z2669e92f017d9c2",
-                "properties": 270336,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 2,
-                "user_style": "Subdivision",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "href": ""
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>C&eacute;line Ravoux</p>\r",
-                        "<p>Tel: 06 27 56 64 51</p>\r",
-                        "<p><a href=\"&quot;mailto:philippe.ravoux@orange.fr\">philippe.ravoux@orange.fr</a></p>"
-                       ]
-                      },
-                      "id": "Y2669e930583c7c8",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2869e930bee0d98",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ""
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Les P'tits Globe Trotteurs</p>\r",
-                        "<p>347 Impasse du Sergent</p>\r",
-                        "<p>33760 Baigneaux</p>"
-                       ]
-                      },
-                      "id": "Y2669e930bee0970",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2969e930bee0da7",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z2969e930bee0da7 {\r\n\twidth: 50%;\r\n}\r"
-                   }
-                  ],
-                  "id": "Z2769e930bee098d",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z2669e9306690ed6",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 3,
-                "user_style": "Subdivision",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "href": ""
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Elodie Thomas</p>\r",
-                        "<p>Tel: 06 87 55 76 79</p>\r",
-                        "<p><a href=\"&quot;mailto:elodie.thomas33@yahoo.fr\">elodie.thomas33@yahoo.fr</a></p>"
-                       ]
-                      },
-                      "id": "Y2669e9307bbcc01",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2869e930c1df9be",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z2869e930c1df9be {\r\n\twidth: 50%;\r\n}\r"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Les P'tits Globe Trotteurs</p>\r",
-                        "<p>347 Impasse du Sergent</p>\r",
-                        "<p>33760 Baigneaux</p>"
-                       ]
-                      },
-                      "id": "Y2669e930c1df5ee",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2969e930c1df9ce",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ""
-                   }
-                  ],
-                  "id": "Z2769e930c1df617",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z2669e9307f0ca91",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 4,
-                "user_style": "Subdivision",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "href": ""
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Agn&egrave;s Vercruysse</p>\r",
-                        "<p>Tel: 06 13 60 56 51</p>\r",
-                        "<p><a href=\"&quot;mailto:jadc@hotmail.fr\">jadc@hotmail.fr</a></p>"
-                       ]
-                      },
-                      "id": "Y2669e9306f0f2fd",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2869e930c467930",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ""
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>&nbsp;</p>\r",
-                        "<p>676 Route des Grands Bois</p>\r",
-                        "<p>33760 Baigneaux</p>"
-                       ]
-                      },
-                      "id": "Y2669e930c467558",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2969e930c467940",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z2969e930c467940 {\r\n\twidth: 50%;\r\n}\r"
-                   }
-                  ],
-                  "id": "Z2769e930c467572",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z2669e9307253fa2",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 5,
-                "user_style": "Subdivision",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "href": ""
                }
               ],
-              "id": "Z2069cbf2e6b4a12",
+              "id": "Z2669e9306690ed6",
               "properties": 8192,
               "owner": {
                "$owner": "R"
               },
-              "index": 1,
+              "index": 3,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Elodie Thomas</p>\r",
+                      "<p>Tel: 06 87 55 76 79</p>\r",
+                      "<p><a href=\"&quot;mailto:elodie.thomas33@yahoo.fr\">elodie.thomas33@yahoo.fr</a></p>"
+                     ]
+                    },
+                    "id": "Y2669e9307bbcc01",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2869e930c1df9be",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z2869e930c1df9be {\r\n\twidth: 50%;\r\n}\r"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Les P'tits Globe Trotteurs</p>\r",
+                      "<p>347 Impasse du Sergent</p>\r",
+                      "<p>33760 Baigneaux</p>"
+                     ]
+                    },
+                    "id": "Y2669e930c1df5ee",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2969e930c1df9ce",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z2769e930c1df617",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z2669e9307f0ca91",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 4,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Agn&egrave;s Vercruysse</p>\r",
+                      "<p>Tel: 06 13 60 56 51</p>\r",
+                      "<p><a href=\"&quot;mailto:jadc@hotmail.fr\">jadc@hotmail.fr</a></p>"
+                     ]
+                    },
+                    "id": "Y2669e9306f0f2fd",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2869e930c467930",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>&nbsp;</p>\r",
+                      "<p>676 Route des Grands Bois</p>\r",
+                      "<p>33760 Baigneaux</p>"
+                     ]
+                    },
+                    "id": "Y2669e930c467558",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2969e930c467940",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z2969e930c467940 {\r\n\twidth: 50%;\r\n}\r"
+                 }
+                ],
+                "id": "Z2769e930c467572",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z2669e9307253fa2",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 5,
               "user_style": "Subdivision",
               "more_classes": "",
               "embedded_css_rules": "",
               "href": ""
              }
             ],
-            "id": "Z2869e9309d8539c",
-            "properties": 8208,
+            "id": "Z2069cbf2e6b4a12",
+            "properties": 8192,
             "owner": {
-             "$owner": "r"
+             "$owner": "R"
             },
             "index": 1,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ".id_Z2869e9309d8539c {\r\n\twidth: 75%;\r\n}\r"
+            "user_style": "Subdivision",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": ""
            }
           ],
-          "id": "Z2669e9309d84fcb",
-          "properties": 8209,
+          "href": "",
+          "id": "Z1446ae37cce5694b",
+          "properties": 8192,
           "owner": {
-           "$owner": "r"
+           "$owner": "R"
           },
-          "index": 0,
+          "index": 1,
           "user_style": 0,
-          "more_classes": null,
+          "more_classes": "contenu_page",
           "embedded_css_rules": ""
          },
          {
@@ -1571,7 +1358,7 @@
           "owner": {
            "$owner": "R"
           },
-          "index": 1,
+          "index": 2,
           "user_style": "Subdivision",
           "more_classes": "",
           "embedded_css_rules": "",
@@ -1741,7 +1528,7 @@
           "owner": {
            "$owner": "R"
           },
-          "index": 2,
+          "index": 3,
           "user_style": "Subdivision",
           "more_classes": "",
           "embedded_css_rules": "",
@@ -2036,7 +1823,7 @@
           "owner": {
            "$owner": "R"
           },
-          "index": 3,
+          "index": 4,
           "user_style": "Subdivision",
           "more_classes": "",
           "embedded_css_rules": "",
@@ -2329,7 +2116,7 @@
           "owner": {
            "$owner": "R"
           },
-          "index": 4,
+          "index": 5,
           "user_style": "Subdivision",
           "more_classes": "",
           "embedded_css_rules": "",

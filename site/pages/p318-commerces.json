@@ -263,165 +263,18 @@
              {
               "$class": "WsContainer",
               "valign": null,
-              "model_id": 0,
+              "model_id": "Path",
               "contents": [
                {
                 "$class": "WsContainer",
                 "valign": null,
-                "model_id": 0,
+                "model_id": "",
                 "contents": [
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": 0,
+                  "model_id": "",
                   "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "MENU",
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WssMenu",
-                          "category": "0",
-                          "depth": "1",
-                          "value": "vertical",
-                          "id": "Y176ab25a3765a92",
-                          "properties": 262144,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": "Main",
-                          "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                          "embedded_css_rules": "",
-                          "name_in_model": "MY55dc82a8b7b9e"
-                         }
-                        ],
-                        "id": "Z166ab25a3765a8d",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z166ab25a3765a8d {\r\n\twidth: 100%;\r\n}\r",
-                        "name_in_model": "MZ869ce9a560f24c"
-                       },
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsTextarea",
-                          "value": "<p>Menu</p>",
-                          "id": "Y196ab25a3765a98",
-                          "properties": 264192,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": "Essai",
-                          "more_classes": " dontDisplayOnM dontDisplayOnL",
-                          "embedded_css_rules": "",
-                          "name_in_model": "MY1869cea6e95b8ee"
-                         }
-                        ],
-                        "id": "Z186ab25a3765a95",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 1,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z186ab25a3765a95 {\r\n\twidth: 100%;\r\n}\r",
-                        "name_in_model": "MZ1069ce9a560f252"
-                       },
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsImage",
-                          "caption": "",
-                          "href": "",
-                          "tooltip": "Logo de Baigneaux",
-                          "original_name": "logosite.png",
-                          "in_gallery": "0",
-                          "uploaded_image": "logosite-4dcc.png",
-                          "keep_format": "0",
-                          "width": "50",
-                          "height": "50",
-                          "notFlexible": "0",
-                          "value": "logosite-11ba.png",
-                          "id": "Y216ab25a3765a9d",
-                          "properties": 266240,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": null,
-                          "more_classes": " dontDisplayOnM dontDisplayOnL",
-                          "embedded_css_rules": {
-                           "$text": [
-                            ".id_Y216ab25a3765a9d {\r",
-                            "\tmargin-left: auto;\r",
-                            "\tmargin-right: auto;\r",
-                            "}\r"
-                           ]
-                          },
-                          "name_in_model": "MY1669cea66d3bc6f"
-                         }
-                        ],
-                        "id": "Z206ab25a3765a9a",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 2,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z206ab25a3765a9a {\r\n\twidth: 25%;\r\n}\r",
-                        "name_in_model": "MZ1269cea67e092f5"
-                       }
-                      ],
-                      "id": "Z156ab25a3765a8b",
-                      "properties": 8209,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": 0,
-                      "more_classes": null,
-                      "embedded_css_rules": "",
-                      "name_in_model": "MZ1769cea66d3bc94"
-                     }
-                    ],
-                    "id": "Z146ab25a3765a84",
-                    "properties": 270400,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "Bloc_menu",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "name_in_model": "MZ5819e18fc9d3d",
-                    "href": ""
-                   },
                    {
                     "$class": "WsContainer",
                     "valign": null,
@@ -430,189 +283,338 @@
                      {
                       "$class": "WsContainer",
                       "valign": null,
-                      "model_id": "Path",
+                      "model_id": "",
                       "contents": [
                        {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WsContainer",
-                            "valign": null,
-                            "model_id": "",
-                            "contents": [
-                             {
-                              "$class": "WsContainer",
-                              "valign": null,
-                              "model_id": "",
-                              "contents": [
-                               {
-                                "$class": "WsTextarea",
-                                "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
-                                "id": "Y276ab25a3766ad3",
-                                "properties": 264192,
-                                "owner": {
-                                 "$owner": "R"
-                                },
-                                "index": 0,
-                                "user_style": "Path",
-                                "more_classes": "",
-                                "embedded_css_rules": "",
-                                "name_in_model": "MY557f20acc196b"
-                               }
-                              ],
-                              "id": "Z266ab25a3766ace",
-                              "properties": 8208,
-                              "owner": {
-                               "$owner": "R"
-                              },
-                              "index": 0,
-                              "user_style": 0,
-                              "more_classes": null,
-                              "embedded_css_rules": "",
-                              "name_in_model": "MZ595841f49586bf5"
-                             },
-                             {
-                              "$class": "WsContainer",
-                              "valign": null,
-                              "model_id": "",
-                              "contents": [
-                               {
-                                "$class": "WssPagePath",
-                                "value": 0,
-                                "id": "Y296ab25a3766add",
-                                "properties": 262144,
-                                "owner": {
-                                 "$owner": "R"
-                                },
-                                "index": 0,
-                                "user_style": "Path",
-                                "more_classes": "",
-                                "embedded_css_rules": "",
-                                "name_in_model": "MY557f20acc19db"
-                               }
-                              ],
-                              "id": "Z286ab25a3766ad7",
-                              "properties": 8208,
-                              "owner": {
-                               "$owner": "R"
-                              },
-                              "index": 1,
-                              "user_style": 0,
-                              "more_classes": null,
-                              "embedded_css_rules": ".id_Z286ab25a3766ad7 {\r\n\twidth: 89.8%;\r\n}\r",
-                              "name_in_model": "MZ605841f49586c54"
-                             }
-                            ],
-                            "id": "Z256ab25a3766acb",
-                            "properties": 8209,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": 0,
-                            "more_classes": null,
-                            "embedded_css_rules": "",
-                            "name_in_model": "MZ585841f49586a24"
-                           }
-                          ],
-                          "id": "Z246ab25a3766ac6",
-                          "properties": 270464,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": 0,
-                          "more_classes": "",
-                          "embedded_css_rules": {
-                           "$text": [
-                            ".id_Z246ab25a3766ac6 {\r",
-                            "\tpadding-bottom: 0px;\r",
-                            "\tpadding-left: 0px;\r",
-                            "\tborder-width: 0px;\r",
-                            "\tpadding-top: 10px;\r",
-                            "}\r"
-                           ]
-                          },
-                          "name_in_model": "MZ575841f4895c408",
-                          "href": ""
-                         }
-                        ],
-                        "id": "Z236ab25a3766abd",
-                        "properties": 270336,
+                        "$class": "WsTextarea",
+                        "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                        "id": "Y276ab25a3766ad3",
+                        "properties": 264192,
                         "owner": {
                          "$owner": "R"
                         },
                         "index": 0,
-                        "user_style": 0,
+                        "user_style": "Path",
                         "more_classes": "",
-                        "embedded_css_rules": ".id_Z236ab25a3766abd {\r\n\tborder-width: 0px;\r\n}\r",
-                        "name_in_model": "MZ3369cbea6206362",
-                        "href": ""
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY557f20acc196b"
                        }
                       ],
-                      "id": "Z226ab25a3766aad",
-                      "properties": 270400,
+                      "id": "Z266ab25a3766ace",
+                      "properties": 8208,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 0,
-                      "user_style": "Path",
-                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                      "user_style": 0,
+                      "more_classes": null,
                       "embedded_css_rules": "",
-                      "href": "",
-                      "name_in_model": "MZ557f20acc188b"
+                      "name_in_model": "MZ595841f49586bf5"
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WssPagePath",
+                        "value": 0,
+                        "id": "Y296ab25a3766add",
+                        "properties": 262144,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": "Path",
+                        "more_classes": "",
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY557f20acc19db"
+                       }
+                      ],
+                      "id": "Z286ab25a3766ad7",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z286ab25a3766ad7 {\r\n\twidth: 89.8%;\r\n}\r",
+                      "name_in_model": "MZ605841f49586c54"
                      }
                     ],
-                    "id": "Z5569cbd16a4ec1b",
-                    "properties": 8192,
+                    "id": "Z256ab25a3766acb",
+                    "properties": 8209,
                     "owner": {
                      "$owner": "R"
                     },
-                    "index": 1,
+                    "index": 0,
                     "user_style": 0,
-                    "more_classes": "",
-                    "embedded_css_rules": {
-                     "$text": [
-                      ".id_Z5569cbd16a4ec1b {\r",
-                      "\tborder-width: 0px;\r",
-                      "\tmargin-left: auto;\r",
-                      "\tmargin-right: auto;\r",
-                      "\tmax-width: 1130px;\r",
-                      "}\r"
-                     ]
-                    },
-                    "name_in_model": "MZ5819e18fc9d3d",
-                    "href": ""
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ585841f49586a24"
                    }
                   ],
-                  "id": "Z5269cbd16a4ec15",
-                  "properties": 270336,
+                  "id": "Z246ab25a3766ac6",
+                  "properties": 270464,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Subdivision",
-                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                  "embedded_css_rules": "",
+                  "user_style": 0,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Z246ab25a3766ac6 {\r",
+                    "\tpadding-bottom: 0px;\r",
+                    "\tpadding-left: 0px;\r",
+                    "\tborder-width: 0px;\r",
+                    "\tpadding-top: 10px;\r",
+                    "}\r"
+                   ]
+                  },
+                  "name_in_model": "MZ575841f4895c408",
                   "href": ""
                  }
                 ],
-                "id": "Z5169cbd16a4ec12",
-                "properties": 8208,
+                "id": "Z236ab25a3766abd",
+                "properties": 270336,
                 "owner": {
                  "$owner": "R"
                 },
                 "index": 0,
                 "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": ".id_Z5169cbd16a4ec12 {\r\n\twidth: 25%;\r\n}\r"
+                "more_classes": "",
+                "embedded_css_rules": ".id_Z236ab25a3766abd {\r\n\tborder-width: 0px;\r\n}\r",
+                "name_in_model": "MZ3369cbea6206362",
+                "href": ""
+               }
+              ],
+              "id": "Z226ab25a3766aad",
+              "properties": 270400,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Path",
+              "more_classes": " dontDisplayOnXS dontDisplayOnS",
+              "embedded_css_rules": "",
+              "href": "",
+              "name_in_model": "MZ557f20acc188b"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "menu_burger",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WssMenu",
+                      "category": "0",
+                      "depth": "0",
+                      "value": "0",
+                      "id": "Y336ab25a3767897",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "menu_burger",
+                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY236a1c1913916fa"
+                     }
+                    ],
+                    "id": "Z326ab25a3767892",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z326ab25a3767892 {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ476a1c19449ca9b"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>Menu</p>",
+                      "id": "Y356ab25a376789e",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y356ab25a376789e {\r",
+                        "\tfont-family: Playfair Display;\r",
+                        "\tfont-size: 2em;\r",
+                        "\ttext-align: center;\r",
+                        "\tpadding-top: 15px;\r",
+                        "\tfloat: left;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY236a1c193a1e444"
+                     }
+                    ],
+                    "id": "Z346ab25a376789b",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z346ab25a376789b {\r\n\twidth: 50%;\r\n}\r",
+                    "name_in_model": "MZ126a1c1982a9777"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Armoiries de Baigneaux",
+                      "original_name": "armoiries.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "armoiries.png",
+                      "keep_format": "0",
+                      "width": "55",
+                      "height": "60",
+                      "notFlexible": "0",
+                      "value": "armoiries-7e86.png",
+                      "id": "Y376ab25a37678a4",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y376ab25a37678a4 {\r",
+                        "\ttext-align: right;\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: 0;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY296a1c197b650e8"
+                     }
+                    ],
+                    "id": "Z366ab25a37678a2",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z366ab25a37678a2 {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ146a1c1982a977b"
+                   }
+                  ],
+                  "id": "Z316ab25a3767890",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ246a1c193a1e463"
+                 }
+                ],
+                "id": "Z306ab25a3767886",
+                "properties": 8256,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Subdivision",
+                "more_classes": " dontDisplayOnM dontDisplayOnL",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ236a1c1919b626f"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Commerces de la commune",
+                  "id": "Y7069cbd16a4ec35",
+                  "properties": 263168,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Title",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p>Cette page a pour but de r&eacute;f&eacute;rencer les commerces, entreprises et microentreprises de notre commune.</p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p>Vous souhaitez appara&icirc;tre sur ce r&eacute;f&eacute;rencement? Contactez la mairie via l'adresse en bas de page.</p>"
+                   ]
+                  },
+                  "id": "Y2069cc1d16da254",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_important_centre",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z6569cbd16a4ec2c",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
                },
                {
                 "$class": "WsContainer",
@@ -622,211 +624,94 @@
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": "menu_burger",
+                  "model_id": 0,
                   "contents": [
                    {
                     "$class": "WsContainer",
                     "valign": null,
-                    "model_id": "",
+                    "model_id": 0,
                     "contents": [
                      {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WssMenu",
-                        "category": "0",
-                        "depth": "0",
-                        "value": "0",
-                        "id": "Y336ab25a3767897",
-                        "properties": 262144,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": "menu_burger",
-                        "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                        "embedded_css_rules": "",
-                        "name_in_model": "MY236a1c1913916fa"
-                       }
-                      ],
-                      "id": "Z326ab25a3767892",
-                      "properties": 8208,
+                      "$class": "WsTextarea",
+                      "value": "<p>Atelier Retouches - Donna Libera</p>",
+                      "id": "Y2669e747f0ebac7",
+                      "properties": 2048,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 0,
-                      "user_style": 0,
-                      "more_classes": null,
-                      "embedded_css_rules": ".id_Z326ab25a3767892 {\r\n\twidth: 25%;\r\n}\r",
-                      "name_in_model": "MZ476a1c19449ca9b"
+                      "user_style": "Texte_important_centre",
+                      "more_classes": "",
+                      "embedded_css_rules": ""
                      },
                      {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsTextarea",
-                        "value": "<p>Menu</p>",
-                        "id": "Y356ab25a376789e",
-                        "properties": 264192,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": null,
-                        "more_classes": "",
-                        "embedded_css_rules": {
-                         "$text": [
-                          ".id_Y356ab25a376789e {\r",
-                          "\tfont-family: Playfair Display;\r",
-                          "\tfont-size: 2em;\r",
-                          "\ttext-align: center;\r",
-                          "\tpadding-top: 15px;\r",
-                          "\tfloat: left;\r",
-                          "}\r"
-                         ]
-                        },
-                        "name_in_model": "MY236a1c193a1e444"
-                       }
-                      ],
-                      "id": "Z346ab25a376789b",
-                      "properties": 8208,
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Atelier Retouches Donna Libera",
+                      "original_name": "Donna libera 2.jpg",
+                      "in_gallery": "0",
+                      "uploaded_image": "donna-libera-2.jpg",
+                      "keep_format": "0",
+                      "width": "600",
+                      "height": "851",
+                      "notFlexible": "0",
+                      "value": "donna-libera-2-804e.jpg",
+                      "id": "Y2669e7480169bef",
+                      "properties": 266240,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 1,
-                      "user_style": 0,
-                      "more_classes": null,
-                      "embedded_css_rules": ".id_Z346ab25a376789b {\r\n\twidth: 50%;\r\n}\r",
-                      "name_in_model": "MZ126a1c1982a9777"
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": null
                      },
                      {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsImage",
-                        "caption": "",
-                        "href": "",
-                        "tooltip": "Armoiries de Baigneaux",
-                        "original_name": "armoiries.png",
-                        "in_gallery": "0",
-                        "uploaded_image": "armoiries.png",
-                        "keep_format": "0",
-                        "width": "55",
-                        "height": "60",
-                        "notFlexible": "0",
-                        "value": "armoiries-7e86.png",
-                        "id": "Y376ab25a37678a4",
-                        "properties": 266240,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": null,
-                        "more_classes": "",
-                        "embedded_css_rules": {
-                         "$text": [
-                          ".id_Y376ab25a37678a4 {\r",
-                          "\ttext-align: right;\r",
-                          "\tmargin-left: auto;\r",
-                          "\tmargin-right: 0;\r",
-                          "}\r"
-                         ]
-                        },
-                        "name_in_model": "MY296a1c197b650e8"
-                       }
-                      ],
-                      "id": "Z366ab25a37678a2",
-                      "properties": 8208,
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Atelier Retouches Donna Libera",
+                      "original_name": "donna libera 1.jpg",
+                      "in_gallery": "0",
+                      "uploaded_image": "donna-libera-1.jpg",
+                      "keep_format": "0",
+                      "width": "600",
+                      "height": "857",
+                      "notFlexible": "0",
+                      "value": "donna-libera-1-aac4.jpg",
+                      "id": "Y2669e747fdec21a",
+                      "properties": 266240,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 2,
-                      "user_style": 0,
-                      "more_classes": null,
-                      "embedded_css_rules": ".id_Z366ab25a37678a2 {\r\n\twidth: 25%;\r\n}\r",
-                      "name_in_model": "MZ146a1c1982a977b"
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": null
                      }
                     ],
-                    "id": "Z316ab25a3767890",
-                    "properties": 8209,
+                    "id": "Z2669e747f7971a6",
+                    "properties": 8192,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
+                    "user_style": "Subdivision",
+                    "more_classes": "",
                     "embedded_css_rules": "",
-                    "name_in_model": "MZ246a1c193a1e463"
+                    "href": ""
                    }
                   ],
-                  "id": "Z306ab25a3767886",
-                  "properties": 8256,
+                  "id": "Z356a1c1655101cd",
+                  "properties": 8208,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Subdivision",
-                  "more_classes": " dontDisplayOnM dontDisplayOnL",
-                  "embedded_css_rules": "",
-                  "href": "",
-                  "name_in_model": "MZ236a1c1919b626f"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WssTitle",
-                    "level": "2",
-                    "href": "",
-                    "value": "Commerces de la commune",
-                    "id": "Y7069cbd16a4ec35",
-                    "properties": 263168,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "Title",
-                    "more_classes": "",
-                    "embedded_css_rules": ""
-                   },
-                   {
-                    "$class": "WsTextarea",
-                    "value": {
-                     "$text": [
-                      "<p>Cette page a pour but de r&eacute;f&eacute;rencer les commerces, entreprises et microentreprises de notre commune.</p>\r",
-                      "<p>&nbsp;</p>\r",
-                      "<p>Vous souhaitez appara&icirc;tre sur ce r&eacute;f&eacute;rencement? Contactez la mairie via l'adresse en bas de page.</p>"
-                     ]
-                    },
-                    "id": "Y2069cc1d16da254",
-                    "properties": 2048,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 1,
-                    "user_style": "Texte_important_centre",
-                    "more_classes": "",
-                    "embedded_css_rules": ""
-                   }
-                  ],
-                  "id": "Z6569cbd16a4ec2c",
-                  "properties": 270336,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 1,
-                  "user_style": "Subdivision",
-                  "more_classes": "",
-                  "embedded_css_rules": "",
-                  "href": ""
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
                  },
                  {
                   "$class": "WsContainer",
@@ -839,245 +724,138 @@
                     "model_id": 0,
                     "contents": [
                      {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": 0,
-                      "contents": [
-                       {
-                        "$class": "WsTextarea",
-                        "value": "<p>Atelier Retouches - Donna Libera</p>",
-                        "id": "Y2669e747f0ebac7",
-                        "properties": 2048,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": "Texte_important_centre",
-                        "more_classes": "",
-                        "embedded_css_rules": ""
-                       },
-                       {
-                        "$class": "WsImage",
-                        "caption": "",
-                        "href": "",
-                        "tooltip": "Atelier Retouches Donna Libera",
-                        "original_name": "Donna libera 2.jpg",
-                        "in_gallery": "0",
-                        "uploaded_image": "donna-libera-2.jpg",
-                        "keep_format": "0",
-                        "width": "600",
-                        "height": "851",
-                        "notFlexible": "0",
-                        "value": "donna-libera-2-804e.jpg",
-                        "id": "Y2669e7480169bef",
-                        "properties": 266240,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 1,
-                        "user_style": null,
-                        "more_classes": "",
-                        "embedded_css_rules": null
-                       },
-                       {
-                        "$class": "WsImage",
-                        "caption": "",
-                        "href": "",
-                        "tooltip": "Atelier Retouches Donna Libera",
-                        "original_name": "donna libera 1.jpg",
-                        "in_gallery": "0",
-                        "uploaded_image": "donna-libera-1.jpg",
-                        "keep_format": "0",
-                        "width": "600",
-                        "height": "857",
-                        "notFlexible": "0",
-                        "value": "donna-libera-1-aac4.jpg",
-                        "id": "Y2669e747fdec21a",
-                        "properties": 266240,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 2,
-                        "user_style": null,
-                        "more_classes": "",
-                        "embedded_css_rules": null
-                       }
-                      ],
-                      "id": "Z2669e747f7971a6",
-                      "properties": 8192,
+                      "$class": "WsTextarea",
+                      "value": "<p>TL Plomberie</p>",
+                      "id": "Y2669f20c74c964b",
+                      "properties": 2048,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 0,
-                      "user_style": "Subdivision",
+                      "user_style": "Texte_important_centre",
                       "more_classes": "",
-                      "embedded_css_rules": "",
-                      "href": ""
-                     }
-                    ],
-                    "id": "Z356a1c1655101cd",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ""
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": 0,
-                      "contents": [
-                       {
-                        "$class": "WsTextarea",
-                        "value": "<p>TL Plomberie</p>",
-                        "id": "Y2669f20c74c964b",
-                        "properties": 2048,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": "Texte_important_centre",
-                        "more_classes": "",
-                        "embedded_css_rules": ""
-                       },
-                       {
-                        "$class": "WsImage",
-                        "caption": "",
-                        "href": "",
-                        "tooltip": "Flyer de TL Plomberie",
-                        "original_name": "TL plomberie flyer.png",
-                        "in_gallery": "1",
-                        "uploaded_image": "tl-plomberie-flyer.png",
-                        "keep_format": "0",
-                        "width": "757",
-                        "height": "600",
-                        "notFlexible": "0",
-                        "value": "tl-plomberie-flyer.png",
-                        "id": "Y2669f20c87e8ba6",
-                        "properties": 4096,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 1,
-                        "user_style": null,
-                        "more_classes": "",
-                        "embedded_css_rules": null
-                       }
-                      ],
-                      "id": "Z2669f20c8006cb0",
-                      "properties": 8192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Subdivision",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "href": ""
+                      "embedded_css_rules": ""
                      },
                      {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": 0,
-                      "contents": [
-                       {
-                        "$class": "WsTextarea",
-                        "value": "<p>L.A.M BTP</p>",
-                        "id": "Y426ab259f95a059",
-                        "properties": 264192,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": "Texte_important_centre",
-                        "more_classes": "",
-                        "embedded_css_rules": ""
-                       },
-                       {
-                        "$class": "WsImage",
-                        "caption": "",
-                        "href": "",
-                        "tooltip": "L.A.M BTP",
-                        "original_name": "LAM BTP.jpeg",
-                        "in_gallery": "1",
-                        "uploaded_image": "lam-btp.jpg",
-                        "keep_format": "0",
-                        "width": "566",
-                        "height": "566",
-                        "notFlexible": "0",
-                        "value": "lam-btp-dd5d.jpg",
-                        "id": "Y426ab25a1682fa7",
-                        "properties": 4096,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 1,
-                        "user_style": null,
-                        "more_classes": "",
-                        "embedded_css_rules": null
-                       }
-                      ],
-                      "id": "Z426ab259fbd9511",
-                      "properties": 8192,
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Flyer de TL Plomberie",
+                      "original_name": "TL plomberie flyer.png",
+                      "in_gallery": "1",
+                      "uploaded_image": "tl-plomberie-flyer.png",
+                      "keep_format": "0",
+                      "width": "757",
+                      "height": "600",
+                      "notFlexible": "0",
+                      "value": "tl-plomberie-flyer.png",
+                      "id": "Y2669f20c87e8ba6",
+                      "properties": 4096,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 1,
-                      "user_style": "Subdivision",
+                      "user_style": null,
                       "more_classes": "",
-                      "embedded_css_rules": "",
-                      "href": ""
+                      "embedded_css_rules": null
                      }
                     ],
-                    "id": "Z366a1c1655101e3",
-                    "properties": 8208,
+                    "id": "Z2669f20c8006cb0",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Subdivision",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "href": ""
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>L.A.M BTP</p>",
+                      "id": "Y426ab259f95a059",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Texte_important_centre",
+                      "more_classes": "",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "L.A.M BTP",
+                      "original_name": "LAM BTP.jpeg",
+                      "in_gallery": "1",
+                      "uploaded_image": "lam-btp.jpg",
+                      "keep_format": "0",
+                      "width": "566",
+                      "height": "566",
+                      "notFlexible": "0",
+                      "value": "lam-btp-dd5d.jpg",
+                      "id": "Y426ab25a1682fa7",
+                      "properties": 4096,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": null
+                     }
+                    ],
+                    "id": "Z426ab259fbd9511",
+                    "properties": 8192,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ""
+                    "user_style": "Subdivision",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "href": ""
                    }
                   ],
-                  "id": "Z346a1c16550fdba",
-                  "properties": 8209,
+                  "id": "Z366a1c1655101e3",
+                  "properties": 8208,
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 2,
+                  "index": 1,
                   "user_style": 0,
                   "more_classes": null,
                   "embedded_css_rules": ""
                  }
                 ],
-                "id": "Z6469cbd16a4ec2b",
-                "properties": 8208,
+                "id": "Z346a1c16550fdba",
+                "properties": 8209,
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 1,
+                "index": 2,
                 "user_style": 0,
                 "more_classes": null,
                 "embedded_css_rules": ""
                }
               ],
-              "id": "Z5069cbd16a4ec11",
-              "properties": 8209,
+              "href": "",
+              "id": "Z1756ae37cce579e5",
+              "properties": 8192,
               "owner": {
                "$owner": "R"
               },
-              "index": 0,
+              "index": 1,
               "user_style": 0,
-              "more_classes": null,
+              "more_classes": "contenu_page",
               "embedded_css_rules": ""
              }
             ],

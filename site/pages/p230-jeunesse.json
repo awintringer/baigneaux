@@ -258,6 +258,315 @@
            {
             "$class": "WsContainer",
             "valign": null,
+            "model_id": "menu_burger",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WssMenu",
+                  "category": "0",
+                  "depth": "0",
+                  "value": "0",
+                  "id": "Y336a1c1e406df65",
+                  "properties": 262144,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "menu_burger",
+                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY236a1c1913916fa"
+                 }
+                ],
+                "id": "Z326a1c1e406df64",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "name_in_model": "MZ476a1c19449ca9b"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p>Menu</p>",
+                  "id": "Y356a1c1e406df6a",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Y356a1c1e406df6a {\r",
+                    "\tfont-family: Playfair Display;\r",
+                    "\tfont-size: 2em;\r",
+                    "\ttext-align: center;\r",
+                    "\tpadding-top: 15px;\r",
+                    "\tfloat: left;\r",
+                    "}\r"
+                   ]
+                  },
+                  "name_in_model": "MY236a1c193a1e444"
+                 }
+                ],
+                "id": "Z346a1c1e406df68",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z346a1c1e406df68 {\r\n\twidth: 64%;\r\n}\r",
+                "name_in_model": "MZ126a1c1982a9777"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsImage",
+                  "caption": "",
+                  "href": "",
+                  "tooltip": "Logo de Baigneaux",
+                  "original_name": "logositepetit.png",
+                  "in_gallery": "0",
+                  "uploaded_image": "logositepetit.png",
+                  "keep_format": "0",
+                  "width": "60",
+                  "height": "60",
+                  "notFlexible": "0",
+                  "value": "logositepetit.png",
+                  "id": "Y376a1c1e406df6e",
+                  "properties": 266240,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY296a1c197b650e8"
+                 }
+                ],
+                "id": "Z366a1c1e406df6d",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 2,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "name_in_model": "MZ146a1c1982a977b"
+               }
+              ],
+              "id": "Z316a1c1e406df62",
+              "properties": 8209,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": "",
+              "name_in_model": "MZ246a1c193a1e463"
+             }
+            ],
+            "id": "Z306a1c1e406df5c",
+            "properties": 8256,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Subdivision",
+            "more_classes": " dontDisplayOnM dontDisplayOnL",
+            "embedded_css_rules": "",
+            "href": "",
+            "name_in_model": "MZ236a1c1919b626f"
+           }
+          ],
+          "href": "",
+          "id": "Z1466ae37cce56a5d",
+          "properties": 8192,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": "contenu_page",
+          "embedded_css_rules": ""
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "Path",
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                    "id": "Y276a1c1e406d95b",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Path",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY557f20acc196b"
+                   }
+                  ],
+                  "id": "Z266a1c1e406d959",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ595841f49586bf5"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WssPagePath",
+                    "value": 0,
+                    "id": "Y296a1c1e406d961",
+                    "properties": 262144,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Path",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY557f20acc19db"
+                   }
+                  ],
+                  "id": "Z286a1c1e406d95e",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z286a1c1e406d95e {\r\n\twidth: 89.8%;\r\n}\r",
+                  "name_in_model": "MZ605841f49586c54"
+                 }
+                ],
+                "id": "Z256a1c1e406d957",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "name_in_model": "MZ585841f49586a24"
+               }
+              ],
+              "id": "Z246a1c1e406d955",
+              "properties": 270464,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": "",
+              "embedded_css_rules": {
+               "$text": [
+                ".id_Z246a1c1e406d955 {\r",
+                "\tpadding-bottom: 0px;\r",
+                "\tpadding-left: 0px;\r",
+                "\tborder-width: 0px;\r",
+                "\tpadding-top: 10px;\r",
+                "}\r"
+               ]
+              },
+              "name_in_model": "MZ575841f4895c408",
+              "href": ""
+             }
+            ],
+            "id": "Z236a1c1e406d951",
+            "properties": 270336,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": "",
+            "embedded_css_rules": ".id_Z236a1c1e406d951 {\r\n\tborder-width: 0px;\r\n}\r",
+            "name_in_model": "MZ3369cbea6206362",
+            "href": ""
+           }
+          ],
+          "id": "Z226a1c1e406d949",
+          "properties": 270400,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 1,
+          "user_style": "Path",
+          "more_classes": " dontDisplayOnXS dontDisplayOnS",
+          "embedded_css_rules": "",
+          "href": "",
+          "name_in_model": "MZ557f20acc188b"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
             "model_id": 0,
             "contents": [
              {
@@ -268,384 +577,28 @@
                {
                 "$class": "WsContainer",
                 "valign": null,
-                "model_id": "MENU",
+                "model_id": 0,
                 "contents": [
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": "",
+                  "model_id": 0,
                   "contents": [
                    {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WssMenu",
-                      "category": "0",
-                      "depth": "1",
-                      "value": "vertical",
-                      "id": "Y176a1c1e406d1ec",
-                      "properties": 262144,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Main",
-                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY55dc82a8b7b9e"
-                     }
-                    ],
-                    "id": "Z166a1c1e406d1ea",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z166a1c1e406d1ea {\r\n\twidth: 100%;\r\n}\r",
-                    "name_in_model": "MZ869ce9a560f24c"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": "<p>Menu</p>",
-                      "id": "Y196a1c1e406d1f0",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Essai",
-                      "more_classes": " dontDisplayOnM dontDisplayOnL",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY1869cea6e95b8ee"
-                     }
-                    ],
-                    "id": "Z186a1c1e406d1ef",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z186a1c1e406d1ef {\r\n\twidth: 100%;\r\n}\r",
-                    "name_in_model": "MZ1069ce9a560f252"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Logo de Baigneaux",
-                      "original_name": "logosite.png",
-                      "in_gallery": "0",
-                      "uploaded_image": "logosite-4dcc.png",
-                      "keep_format": "0",
-                      "width": "50",
-                      "height": "50",
-                      "notFlexible": "0",
-                      "value": "logosite-11ba.png",
-                      "id": "Y216a1c1e406d1f4",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": null,
-                      "more_classes": " dontDisplayOnM dontDisplayOnL",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Y216a1c1e406d1f4 {\r",
-                        "\tmargin-left: auto;\r",
-                        "\tmargin-right: auto;\r",
-                        "}\r"
-                       ]
-                      },
-                      "name_in_model": "MY1669cea66d3bc6f"
-                     }
-                    ],
-                    "id": "Z206a1c1e406d1f2",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 2,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z206a1c1e406d1f2 {\r\n\twidth: 25%;\r\n}\r",
-                    "name_in_model": "MZ1269cea67e092f5"
-                   }
-                  ],
-                  "id": "Z156a1c1e406d1e8",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "name_in_model": "MZ1769cea66d3bc94"
-                 }
-                ],
-                "id": "Z146a1c1e406d1e4",
-                "properties": 270400,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": "Bloc_menu",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "name_in_model": "MZ5819e18fc9d3d",
-                "href": ""
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": "",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "Path",
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WsTextarea",
-                            "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
-                            "id": "Y276a1c1e406d95b",
-                            "properties": 264192,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": "Path",
-                            "more_classes": "",
-                            "embedded_css_rules": "",
-                            "name_in_model": "MY557f20acc196b"
-                           }
-                          ],
-                          "id": "Z266a1c1e406d959",
-                          "properties": 8208,
-                          "owner": {
-                           "$owner": "r"
-                          },
-                          "index": 0,
-                          "user_style": 0,
-                          "more_classes": null,
-                          "embedded_css_rules": "",
-                          "name_in_model": "MZ595841f49586bf5"
-                         },
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WssPagePath",
-                            "value": 0,
-                            "id": "Y296a1c1e406d961",
-                            "properties": 262144,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": "Path",
-                            "more_classes": "",
-                            "embedded_css_rules": "",
-                            "name_in_model": "MY557f20acc19db"
-                           }
-                          ],
-                          "id": "Z286a1c1e406d95e",
-                          "properties": 8208,
-                          "owner": {
-                           "$owner": "r"
-                          },
-                          "index": 1,
-                          "user_style": 0,
-                          "more_classes": null,
-                          "embedded_css_rules": ".id_Z286a1c1e406d95e {\r\n\twidth: 89.8%;\r\n}\r",
-                          "name_in_model": "MZ605841f49586c54"
-                         }
-                        ],
-                        "id": "Z256a1c1e406d957",
-                        "properties": 8209,
-                        "owner": {
-                         "$owner": "r"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": "",
-                        "name_in_model": "MZ585841f49586a24"
-                       }
-                      ],
-                      "id": "Z246a1c1e406d955",
-                      "properties": 270464,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": 0,
-                      "more_classes": "",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Z246a1c1e406d955 {\r",
-                        "\tpadding-bottom: 0px;\r",
-                        "\tpadding-left: 0px;\r",
-                        "\tborder-width: 0px;\r",
-                        "\tpadding-top: 10px;\r",
-                        "}\r"
-                       ]
-                      },
-                      "name_in_model": "MZ575841f4895c408",
-                      "href": ""
-                     }
-                    ],
-                    "id": "Z236a1c1e406d951",
-                    "properties": 270336,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": "",
-                    "embedded_css_rules": ".id_Z236a1c1e406d951 {\r\n\tborder-width: 0px;\r\n}\r",
-                    "name_in_model": "MZ3369cbea6206362",
-                    "href": ""
-                   }
-                  ],
-                  "id": "Z226a1c1e406d949",
-                  "properties": 270400,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": "Path",
-                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                  "embedded_css_rules": "",
-                  "href": "",
-                  "name_in_model": "MZ557f20acc188b"
-                 }
-                ],
-                "id": "Z13258dabf953c205",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": 0,
-                "more_classes": "",
-                "embedded_css_rules": {
-                 "$text": [
-                  ".id_Z13258dabf953c205 {\r",
-                  "\tborder-width: 0px;\r",
-                  "\tmargin-left: auto;\r",
-                  "\tmargin-right: auto;\r",
-                  "\tmax-width: 1130px;\r",
-                  "}\r"
-                 ]
-                },
-                "name_in_model": "MZ5819e18fc9d3d",
-                "href": ""
-               }
-              ],
-              "id": "Z2069cbf4de56797",
-              "properties": 8192,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": " dontDisplayOnXS dontDisplayOnS",
-              "embedded_css_rules": "",
-              "href": ""
-             },
-             {
-              "$class": "WsContainer",
-              "valign": null,
-              "model_id": "menu_burger",
-              "contents": [
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": "",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WssMenu",
-                    "category": "0",
-                    "depth": "0",
-                    "value": "0",
-                    "id": "Y336a1c1e406df65",
-                    "properties": 262144,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "menu_burger",
-                    "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                    "embedded_css_rules": "",
-                    "name_in_model": "MY236a1c1913916fa"
-                   }
-                  ],
-                  "id": "Z326a1c1e406df64",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "name_in_model": "MZ476a1c19449ca9b"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "value": "<p>Menu</p>",
-                    "id": "Y356a1c1e406df6a",
-                    "properties": 264192,
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Centre de loisirs",
+                    "original_name": "jeunes.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "jeunes.jpg",
+                    "keep_format": "1",
+                    "width": "150",
+                    "height": "150",
+                    "notFlexible": "0",
+                    "value": "jeunes-fb6f.jpg",
+                    "id": "Y515b713519ba58e",
+                    "properties": 266240,
                     "owner": {
                      "$owner": "R"
                     },
@@ -654,19 +607,63 @@
                     "more_classes": "",
                     "embedded_css_rules": {
                      "$text": [
-                      ".id_Y356a1c1e406df6a {\r",
-                      "\tfont-family: Playfair Display;\r",
-                      "\tfont-size: 2em;\r",
-                      "\ttext-align: center;\r",
-                      "\tpadding-top: 15px;\r",
-                      "\tfloat: left;\r",
+                      ".id_Y515b713519ba58e {\r",
+                      "\tmargin-left: 0;\r",
+                      "\tmargin-right: auto;\r",
                       "}\r"
                      ]
-                    },
-                    "name_in_model": "MY236a1c193a1e444"
+                    }
                    }
                   ],
-                  "id": "Z346a1c1e406df68",
+                  "id": "Z535b713519ba820",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z535b713519ba820 {\r\n\twidth: 15%;\r\n}\r"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WssTitle",
+                      "level": "2",
+                      "href": "",
+                      "value": "Les Points Jeunes 11 - 17 ans",
+                      "id": "Y555b6add05516a7",
+                      "properties": 263168,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Title",
+                      "more_classes": "",
+                      "embedded_css_rules": ""
+                     }
+                    ],
+                    "id": "Z515b71351306aaa",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Bloc-titre",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "href": ""
+                   }
+                  ],
+                  "id": "Z545b713519ba872",
                   "properties": 8208,
                   "owner": {
                    "$owner": "r"
@@ -674,52 +671,10 @@
                   "index": 1,
                   "user_style": 0,
                   "more_classes": null,
-                  "embedded_css_rules": ".id_Z346a1c1e406df68 {\r\n\twidth: 64%;\r\n}\r",
-                  "name_in_model": "MZ126a1c1982a9777"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsImage",
-                    "caption": "",
-                    "href": "",
-                    "tooltip": "Logo de Baigneaux",
-                    "original_name": "logositepetit.png",
-                    "in_gallery": "0",
-                    "uploaded_image": "logositepetit.png",
-                    "keep_format": "0",
-                    "width": "60",
-                    "height": "60",
-                    "notFlexible": "0",
-                    "value": "logositepetit.png",
-                    "id": "Y376a1c1e406df6e",
-                    "properties": 266240,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": null,
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "name_in_model": "MY296a1c197b650e8"
-                   }
-                  ],
-                  "id": "Z366a1c1e406df6d",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 2,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "name_in_model": "MZ146a1c1982a977b"
+                  "embedded_css_rules": ".id_Z545b713519ba872 {\r\n\twidth: 75.5%;\r\n}\r"
                  }
                 ],
-                "id": "Z316a1c1e406df62",
+                "id": "Z525b713519ba5f9",
                 "properties": 8209,
                 "owner": {
                  "$owner": "r"
@@ -727,32 +682,105 @@
                 "index": 0,
                 "user_style": 0,
                 "more_classes": null,
-                "embedded_css_rules": "",
-                "name_in_model": "MZ246a1c193a1e463"
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "EJ-L’Espace Jeunes de Sauveterre",
+                "id": "Y425e9ef3b5e67d4",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Title2",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<div id=\"TheTexte\">L&rsquo;Espace Jeunes est un lieu sp&eacute;cialement con&ccedil;u pour les adolescents de 11 &agrave; 17 ans.<br /> Ces derniers peuvent venir s&rsquo;y d&eacute;tendre, s&rsquo;amuser, s&rsquo;informer et organiser des sorties, des s&eacute;jours, des &eacute;v&egrave;nements, accompagn&eacute;s de L&eacute;o Ayer, directeur de l&rsquo;EJ.</div>\r",
+                  "<div></div>\r",
+                  "<div></div>\r",
+                  "<div></div>\r",
+                  "<div><em>Pour plus d'informations, cliquer sur le lien suivant</em></div>\r",
+                  "<div></div>\r",
+                  "<div><a href=\"https://cdc-entre2mers.fr/non-classe/presentation-4\">cdc-entre2mers.fr</a></div>"
+                 ]
+                },
+                "id": "Y575b6add0551737",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "Texte_important_centre",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "PRJ-Le Point Rencontre Jeunes de Targon",
+                "id": "Y425e9ef3d819e94",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": "Title2",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p>Le PRJ est un lieu sp&eacute;cialement con&ccedil;u pour les adolescents de 11 &agrave; 17 ans.<br /> Ces derniers peuvent venir s&rsquo;y d&eacute;tendre, s&rsquo;amuser, s&rsquo;informer et organiser des sorties, des s&eacute;jours, des &eacute;v&egrave;nements, accompagn&eacute;s de Virginie Lapuyade, directrice du PRJ et de Cl&eacute;ment Stoltz, animateur.</p>\r",
+                  "<p></p>\r",
+                  "<p><em>Pour plus d'informations, cliquer sur le lien suivant</em></p>\r",
+                  "<p></p>\r",
+                  "<p><a href=\"https://cdc-entre2mers.fr/vivre-en-entre-2-mers/enfance-jeunesse/prj-point-rencontre-jeunes-de-targon\">cdc-entre2mers.fr</a></p>"
+                 ]
+                },
+                "id": "Y425e9ef4384bf72",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 4,
+                "user_style": "Texte_important_centre",
+                "more_classes": "",
+                "embedded_css_rules": ""
                }
               ],
-              "id": "Z306a1c1e406df5c",
-              "properties": 8256,
+              "id": "Z545b6add055165f",
+              "properties": 270336,
               "owner": {
                "$owner": "R"
               },
-              "index": 1,
-              "user_style": "Subdivision",
-              "more_classes": " dontDisplayOnM dontDisplayOnL",
-              "embedded_css_rules": "",
-              "href": "",
-              "name_in_model": "MZ236a1c1919b626f"
+              "index": 0,
+              "user_style": 0,
+              "more_classes": "",
+              "embedded_css_rules": ".id_Z545b6add055165f {\r\n\tborder-width: 0px;\r\n}\r",
+              "href": ""
              }
             ],
-            "id": "Z2169cbf4ea4fe22",
-            "properties": 8208,
+            "id": "Z515b6add055158b",
+            "properties": 270336,
             "owner": {
-             "$owner": "r"
+             "$owner": "R"
             },
             "index": 0,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ".id_Z2169cbf4ea4fe22 {\r\n\twidth: 25%;\r\n}\r"
+            "user_style": "Subdivision",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": ""
            },
            {
             "$class": "WsContainer",
@@ -775,218 +803,46 @@
                   "model_id": 0,
                   "contents": [
                    {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Centre de loisirs",
-                      "original_name": "jeunes.jpg",
-                      "in_gallery": "0",
-                      "uploaded_image": "jeunes.jpg",
-                      "keep_format": "1",
-                      "width": "150",
-                      "height": "150",
-                      "notFlexible": "0",
-                      "value": "jeunes-fb6f.jpg",
-                      "id": "Y515b713519ba58e",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": null,
-                      "more_classes": "",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Y515b713519ba58e {\r",
-                        "\tmargin-left: 0;\r",
-                        "\tmargin-right: auto;\r",
-                        "}\r"
-                       ]
-                      }
-                     }
-                    ],
-                    "id": "Z535b713519ba820",
-                    "properties": 8208,
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Centre de loisirs",
+                    "original_name": "MISSION LOCALE.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "mission-locale.jpg",
+                    "keep_format": "1",
+                    "width": "280",
+                    "height": "180",
+                    "notFlexible": "0",
+                    "value": "mission-locale.jpg",
+                    "id": "Y765e9eff02dfd18",
+                    "properties": 266240,
                     "owner": {
-                     "$owner": "r"
+                     "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z535b713519ba820 {\r\n\twidth: 15%;\r\n}\r"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": 0,
-                      "contents": [
-                       {
-                        "$class": "WssTitle",
-                        "level": "2",
-                        "href": "",
-                        "value": "Les Points Jeunes 11 - 17 ans",
-                        "id": "Y555b6add05516a7",
-                        "properties": 263168,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": "Title",
-                        "more_classes": "",
-                        "embedded_css_rules": ""
-                       }
-                      ],
-                      "id": "Z515b71351306aaa",
-                      "properties": 8192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Bloc-titre",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "href": ""
-                     }
-                    ],
-                    "id": "Z545b713519ba872",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z545b713519ba872 {\r\n\twidth: 75.5%;\r\n}\r"
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": {
+                     "$text": [
+                      ".id_Y765e9eff02dfd18 {\r",
+                      "\tmargin-left: 0;\r",
+                      "\tmargin-right: auto;\r",
+                      "}\r"
+                     ]
+                    }
                    }
                   ],
-                  "id": "Z525b713519ba5f9",
-                  "properties": 8209,
+                  "id": "Z755e9eff02dfd17",
+                  "properties": 8208,
                   "owner": {
                    "$owner": "r"
                   },
                   "index": 0,
                   "user_style": 0,
                   "more_classes": null,
-                  "embedded_css_rules": ""
+                  "embedded_css_rules": ".id_Z755e9eff02dfd17 {\r\n\twidth: 24.1%;\r\n}\r"
                  },
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "EJ-L’Espace Jeunes de Sauveterre",
-                  "id": "Y425e9ef3b5e67d4",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 1,
-                  "user_style": "Title2",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": {
-                   "$text": [
-                    "<div id=\"TheTexte\">L&rsquo;Espace Jeunes est un lieu sp&eacute;cialement con&ccedil;u pour les adolescents de 11 &agrave; 17 ans.<br /> Ces derniers peuvent venir s&rsquo;y d&eacute;tendre, s&rsquo;amuser, s&rsquo;informer et organiser des sorties, des s&eacute;jours, des &eacute;v&egrave;nements, accompagn&eacute;s de L&eacute;o Ayer, directeur de l&rsquo;EJ.</div>\r",
-                    "<div></div>\r",
-                    "<div></div>\r",
-                    "<div></div>\r",
-                    "<div><em>Pour plus d'informations, cliquer sur le lien suivant</em></div>\r",
-                    "<div></div>\r",
-                    "<div><a href=\"https://cdc-entre2mers.fr/non-classe/presentation-4\">cdc-entre2mers.fr</a></div>"
-                   ]
-                  },
-                  "id": "Y575b6add0551737",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 2,
-                  "user_style": "Texte_important_centre",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "PRJ-Le Point Rencontre Jeunes de Targon",
-                  "id": "Y425e9ef3d819e94",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 3,
-                  "user_style": "Title2",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": {
-                   "$text": [
-                    "<p>Le PRJ est un lieu sp&eacute;cialement con&ccedil;u pour les adolescents de 11 &agrave; 17 ans.<br /> Ces derniers peuvent venir s&rsquo;y d&eacute;tendre, s&rsquo;amuser, s&rsquo;informer et organiser des sorties, des s&eacute;jours, des &eacute;v&egrave;nements, accompagn&eacute;s de Virginie Lapuyade, directrice du PRJ et de Cl&eacute;ment Stoltz, animateur.</p>\r",
-                    "<p></p>\r",
-                    "<p><em>Pour plus d'informations, cliquer sur le lien suivant</em></p>\r",
-                    "<p></p>\r",
-                    "<p><a href=\"https://cdc-entre2mers.fr/vivre-en-entre-2-mers/enfance-jeunesse/prj-point-rencontre-jeunes-de-targon\">cdc-entre2mers.fr</a></p>"
-                   ]
-                  },
-                  "id": "Y425e9ef4384bf72",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 4,
-                  "user_style": "Texte_important_centre",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z545b6add055165f",
-                "properties": 270336,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": 0,
-                "more_classes": "",
-                "embedded_css_rules": ".id_Z545b6add055165f {\r\n\tborder-width: 0px;\r\n}\r",
-                "href": ""
-               }
-              ],
-              "id": "Z515b6add055158b",
-              "properties": 270336,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": "",
-              "embedded_css_rules": "",
-              "href": ""
-             },
-             {
-              "$class": "WsContainer",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
                  {
                   "$class": "WsContainer",
                   "valign": null,
@@ -998,179 +854,118 @@
                     "model_id": 0,
                     "contents": [
                      {
-                      "$class": "WsImage",
-                      "caption": "",
+                      "$class": "WssTitle",
+                      "level": "2",
                       "href": "",
-                      "tooltip": "Centre de loisirs",
-                      "original_name": "MISSION LOCALE.jpg",
-                      "in_gallery": "0",
-                      "uploaded_image": "mission-locale.jpg",
-                      "keep_format": "1",
-                      "width": "280",
-                      "height": "180",
-                      "notFlexible": "0",
-                      "value": "mission-locale.jpg",
-                      "id": "Y765e9eff02dfd18",
-                      "properties": 266240,
+                      "value": "LA MISSION LOCALE DES DEUX RIVES",
+                      "id": "Y795e9eff02dfd1b",
+                      "properties": 263168,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 0,
-                      "user_style": null,
+                      "user_style": "Title",
                       "more_classes": "",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Y765e9eff02dfd18 {\r",
-                        "\tmargin-left: 0;\r",
-                        "\tmargin-right: auto;\r",
-                        "}\r"
-                       ]
-                      }
+                      "embedded_css_rules": ""
                      }
                     ],
-                    "id": "Z755e9eff02dfd17",
-                    "properties": 8208,
+                    "id": "Z785e9eff02dfd1a",
+                    "properties": 8192,
                     "owner": {
-                     "$owner": "r"
+                     "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z755e9eff02dfd17 {\r\n\twidth: 24.1%;\r\n}\r"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": 0,
-                      "contents": [
-                       {
-                        "$class": "WssTitle",
-                        "level": "2",
-                        "href": "",
-                        "value": "LA MISSION LOCALE DES DEUX RIVES",
-                        "id": "Y795e9eff02dfd1b",
-                        "properties": 263168,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": "Title",
-                        "more_classes": "",
-                        "embedded_css_rules": ""
-                       }
-                      ],
-                      "id": "Z785e9eff02dfd1a",
-                      "properties": 8192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Bloc-titre",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "href": ""
-                     }
-                    ],
-                    "id": "Z775e9eff02dfd19",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z775e9eff02dfd19 {\r\n\twidth: 60%;\r\n}\r"
+                    "user_style": "Bloc-titre",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "href": ""
                    }
                   ],
-                  "id": "Z745e9eff02dfd16",
-                  "properties": 8209,
+                  "id": "Z775e9eff02dfd19",
+                  "properties": 8208,
                   "owner": {
                    "$owner": "r"
                   },
-                  "index": 0,
+                  "index": 1,
                   "user_style": 0,
                   "more_classes": null,
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": {
-                   "$text": [
-                    "<p>LA MISSION LOCALE, service public, apporte des r&eacute;ponses aux questions d'Emploi, de formation et d'orientation,</p>\r",
-                    "<p>de sant&eacute;, de logement, de mobilit&eacute;... aux jeunes de 16 &agrave; 25 ans</p>\r",
-                    "<p></p>\r",
-                    "<p></p>\r",
-                    "<p>14-16 Route de Branne</p>\r",
-                    "<p>33410 CADILLAC</p>\r",
-                    "<p></p>\r",
-                    "<p>05.57.98.02.98</p>\r",
-                    "<p></p>\r",
-                    "<p>Pour plus d'informations, cliquer sur le lien suivant&nbsp;:</p>\r",
-                    "<p></p>\r",
-                    "<p><a href=\"https://www.missionlocaledes2rives.com/\">missionlocaledes2rives.com</a></p>\r",
-                    "<p></p>\r",
-                    "<p></p>"
-                   ]
-                  },
-                  "id": "Y815e9eff02dfd1d",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 1,
-                  "user_style": "Texte_important_centre",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
+                  "embedded_css_rules": ".id_Z775e9eff02dfd19 {\r\n\twidth: 60%;\r\n}\r"
                  }
                 ],
-                "id": "Z735e9eff02dfd15",
-                "properties": 270336,
+                "id": "Z745e9eff02dfd16",
+                "properties": 8209,
                 "owner": {
-                 "$owner": "R"
+                 "$owner": "r"
                 },
                 "index": 0,
                 "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p>LA MISSION LOCALE, service public, apporte des r&eacute;ponses aux questions d'Emploi, de formation et d'orientation,</p>\r",
+                  "<p>de sant&eacute;, de logement, de mobilit&eacute;... aux jeunes de 16 &agrave; 25 ans</p>\r",
+                  "<p></p>\r",
+                  "<p></p>\r",
+                  "<p>14-16 Route de Branne</p>\r",
+                  "<p>33410 CADILLAC</p>\r",
+                  "<p></p>\r",
+                  "<p>05.57.98.02.98</p>\r",
+                  "<p></p>\r",
+                  "<p>Pour plus d'informations, cliquer sur le lien suivant&nbsp;:</p>\r",
+                  "<p></p>\r",
+                  "<p><a href=\"https://www.missionlocaledes2rives.com/\">missionlocaledes2rives.com</a></p>\r",
+                  "<p></p>\r",
+                  "<p></p>"
+                 ]
+                },
+                "id": "Y815e9eff02dfd1d",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Texte_important_centre",
                 "more_classes": "",
-                "embedded_css_rules": ".id_Z735e9eff02dfd15 {\r\n\tborder-width: 0px;\r\n}\r",
-                "href": ""
+                "embedded_css_rules": ""
                }
               ],
-              "id": "Z705e9eff02dfd12",
-              "properties": 8192,
+              "id": "Z735e9eff02dfd15",
+              "properties": 270336,
               "owner": {
                "$owner": "R"
               },
-              "index": 1,
-              "user_style": "Subdivision",
+              "index": 0,
+              "user_style": 0,
               "more_classes": "",
-              "embedded_css_rules": "",
+              "embedded_css_rules": ".id_Z735e9eff02dfd15 {\r\n\tborder-width: 0px;\r\n}\r",
               "href": ""
              }
             ],
-            "id": "Z2269cbf4ea4fe73",
-            "properties": 8208,
+            "id": "Z705e9eff02dfd12",
+            "properties": 8192,
             "owner": {
-             "$owner": "r"
+             "$owner": "R"
             },
             "index": 1,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ".id_Z2269cbf4ea4fe73 {\r\n\twidth: 75%;\r\n}\r"
+            "user_style": "Subdivision",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": ""
            }
           ],
-          "id": "Z2069cbf4ea4f8fb",
-          "properties": 8209,
+          "href": "",
+          "id": "Z1456ae37cce569d4",
+          "properties": 8192,
           "owner": {
-           "$owner": "r"
+           "$owner": "R"
           },
-          "index": 0,
+          "index": 2,
           "user_style": 0,
-          "more_classes": null,
+          "more_classes": "contenu_page",
           "embedded_css_rules": ""
          }
         ],

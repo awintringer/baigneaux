@@ -268,318 +268,187 @@
                {
                 "$class": "WsContainer",
                 "valign": null,
-                "model_id": 0,
+                "model_id": "menu_burger",
                 "contents": [
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": 0,
+                  "model_id": "",
                   "contents": [
                    {
                     "$class": "WsContainer",
                     "valign": null,
-                    "model_id": "MENU",
+                    "model_id": "",
                     "contents": [
                      {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WssMenu",
-                          "category": "0",
-                          "depth": "1",
-                          "value": "vertical",
-                          "id": "Y6086ae3395478ce7",
-                          "properties": 262144,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": "Main",
-                          "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                          "embedded_css_rules": "",
-                          "name_in_model": "MY55dc82a8b7b9e"
-                         }
-                        ],
-                        "id": "Z6076ae3395478c5e",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z6076ae3395478c5e {\r\n\twidth: 100%;\r\n}\r",
-                        "name_in_model": "MZ869ce9a560f24c"
-                       },
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsTextarea",
-                          "value": "<p>Menu</p>",
-                          "id": "Y6106ae3395478df9",
-                          "properties": 264192,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": "Essai",
-                          "more_classes": " dontDisplayOnM dontDisplayOnL",
-                          "embedded_css_rules": "",
-                          "name_in_model": "MY1869cea6e95b8ee"
-                         }
-                        ],
-                        "id": "Z6096ae3395478d70",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 1,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z6096ae3395478d70 {\r\n\twidth: 100%;\r\n}\r",
-                        "name_in_model": "MZ1069ce9a560f252"
-                       },
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsImage",
-                          "caption": "",
-                          "href": "",
-                          "tooltip": "Logo de Baigneaux",
-                          "original_name": "logosite.png",
-                          "in_gallery": "0",
-                          "uploaded_image": "logosite-4dcc.png",
-                          "keep_format": "0",
-                          "width": "50",
-                          "height": "50",
-                          "notFlexible": "0",
-                          "value": "logosite-11ba.png",
-                          "id": "Y6126ae3395478f0c",
-                          "properties": 266240,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": null,
-                          "more_classes": " dontDisplayOnM dontDisplayOnL",
-                          "embedded_css_rules": {
-                           "$text": [
-                            ".id_Y6126ae3395478f0c {\r",
-                            "\tmargin-left: auto;\r",
-                            "\tmargin-right: auto;\r",
-                            "}\r"
-                           ]
-                          },
-                          "name_in_model": "MY1669cea66d3bc6f"
-                         }
-                        ],
-                        "id": "Z6116ae3395478e82",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 2,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z6116ae3395478e82 {\r\n\twidth: 25%;\r\n}\r",
-                        "name_in_model": "MZ1269cea67e092f5"
-                       }
-                      ],
-                      "id": "Z6066ae3395478bd5",
-                      "properties": 8209,
+                      "$class": "WssMenu",
+                      "category": "0",
+                      "depth": "0",
+                      "value": "0",
+                      "id": "Y6246ae3395479579",
+                      "properties": 262144,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 0,
-                      "user_style": 0,
-                      "more_classes": null,
+                      "user_style": "menu_burger",
+                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
                       "embedded_css_rules": "",
-                      "name_in_model": "MZ1769cea66d3bc94"
+                      "name_in_model": "MY236a1c1913916fa"
                      }
                     ],
-                    "id": "Z6056ae3395478b4c",
-                    "properties": 270400,
+                    "id": "Z6236ae33954794f0",
+                    "properties": 8208,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": "Bloc_menu",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "name_in_model": "MZ5819e18fc9d3d",
-                    "href": ""
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z6236ae33954794f0 {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ476a1c19449ca9b"
                    },
                    {
                     "$class": "WsContainer",
                     "valign": null,
-                    "model_id": "Path",
+                    "model_id": "",
                     "contents": [
                      {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WsContainer",
-                            "valign": null,
-                            "model_id": "",
-                            "contents": [
-                             {
-                              "$class": "WsTextarea",
-                              "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
-                              "id": "Y6186ae3395479242",
-                              "properties": 264192,
-                              "owner": {
-                               "$owner": "R"
-                              },
-                              "index": 0,
-                              "user_style": "Path",
-                              "more_classes": "",
-                              "embedded_css_rules": "",
-                              "name_in_model": "MY557f20acc196b"
-                             }
-                            ],
-                            "id": "Z6176ae33954791b9",
-                            "properties": 8208,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": 0,
-                            "more_classes": null,
-                            "embedded_css_rules": "",
-                            "name_in_model": "MZ595841f49586bf5"
-                           },
-                           {
-                            "$class": "WsContainer",
-                            "valign": null,
-                            "model_id": "",
-                            "contents": [
-                             {
-                              "$class": "WssPagePath",
-                              "value": 0,
-                              "id": "Y6206ae3395479354",
-                              "properties": 262144,
-                              "owner": {
-                               "$owner": "R"
-                              },
-                              "index": 0,
-                              "user_style": "Path",
-                              "more_classes": "",
-                              "embedded_css_rules": "",
-                              "name_in_model": "MY557f20acc19db"
-                             }
-                            ],
-                            "id": "Z6196ae33954792cb",
-                            "properties": 8208,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 1,
-                            "user_style": 0,
-                            "more_classes": null,
-                            "embedded_css_rules": ".id_Z6196ae33954792cb {\r\n\twidth: 89.8%;\r\n}\r",
-                            "name_in_model": "MZ605841f49586c54"
-                           }
-                          ],
-                          "id": "Z6166ae3395479130",
-                          "properties": 8209,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": 0,
-                          "more_classes": null,
-                          "embedded_css_rules": "",
-                          "name_in_model": "MZ585841f49586a24"
-                         }
-                        ],
-                        "id": "Z6156ae33954790a7",
-                        "properties": 270464,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": "",
-                        "embedded_css_rules": {
-                         "$text": [
-                          ".id_Z6156ae33954790a7 {\r",
-                          "\tpadding-bottom: 0px;\r",
-                          "\tpadding-left: 0px;\r",
-                          "\tborder-width: 0px;\r",
-                          "\tpadding-top: 10px;\r",
-                          "}\r"
-                         ]
-                        },
-                        "name_in_model": "MZ575841f4895c408",
-                        "href": ""
-                       }
-                      ],
-                      "id": "Z6146ae339547901e",
-                      "properties": 270336,
+                      "$class": "WsTextarea",
+                      "value": "<p>Menu</p>",
+                      "id": "Y6266ae339547968b",
+                      "properties": 264192,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 0,
-                      "user_style": 0,
+                      "user_style": null,
                       "more_classes": "",
-                      "embedded_css_rules": ".id_Z6146ae339547901e {\r\n\tborder-width: 0px;\r\n}\r",
-                      "name_in_model": "MZ3369cbea6206362",
-                      "href": ""
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y6266ae339547968b {\r",
+                        "\tfont-family: Playfair Display;\r",
+                        "\tfont-size: 2em;\r",
+                        "\ttext-align: center;\r",
+                        "\tpadding-top: 15px;\r",
+                        "\tfloat: left;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY236a1c193a1e444"
                      }
                     ],
-                    "id": "Z6136ae3395478f95",
-                    "properties": 270400,
+                    "id": "Z6256ae3395479602",
+                    "properties": 8208,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 1,
-                    "user_style": "Path",
-                    "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                    "embedded_css_rules": "",
-                    "href": "",
-                    "name_in_model": "MZ557f20acc188b"
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z6256ae3395479602 {\r\n\twidth: 50%;\r\n}\r",
+                    "name_in_model": "MZ126a1c1982a9777"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Armoiries de Baigneaux",
+                      "original_name": "armoiries.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "armoiries.png",
+                      "keep_format": "0",
+                      "width": "55",
+                      "height": "60",
+                      "notFlexible": "0",
+                      "value": "armoiries-7e86.png",
+                      "id": "Y6286ae339547979d",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y6286ae339547979d {\r",
+                        "\ttext-align: right;\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: 0;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY296a1c197b650e8"
+                     }
+                    ],
+                    "id": "Z6276ae3395479714",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z6276ae3395479714 {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ146a1c1982a977b"
                    }
                   ],
-                  "id": "Z6046ae3395478ac3",
-                  "properties": 8192,
+                  "id": "Z6226ae3395479466",
+                  "properties": 8209,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Subdivision",
-                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "user_style": 0,
+                  "more_classes": null,
                   "embedded_css_rules": "",
-                  "href": ""
-                 },
+                  "name_in_model": "MZ246a1c193a1e463"
+                 }
+                ],
+                "id": "Z6216ae33954793dd",
+                "properties": 8256,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Subdivision",
+                "more_classes": " dontDisplayOnM dontDisplayOnL",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ236a1c1919b626f"
+               }
+              ],
+              "href": "",
+              "id": "Z2116ae37cce58d2c",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": "contenu_page",
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "Path",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": "menu_burger",
+                  "model_id": "",
                   "contents": [
                    {
                     "$class": "WsContainer",
@@ -592,23 +461,21 @@
                       "model_id": "",
                       "contents": [
                        {
-                        "$class": "WssMenu",
-                        "category": "0",
-                        "depth": "0",
-                        "value": "0",
-                        "id": "Y6246ae3395479579",
-                        "properties": 262144,
+                        "$class": "WsTextarea",
+                        "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                        "id": "Y6186ae3395479242",
+                        "properties": 264192,
                         "owner": {
                          "$owner": "R"
                         },
                         "index": 0,
-                        "user_style": "menu_burger",
-                        "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                        "user_style": "Path",
+                        "more_classes": "",
                         "embedded_css_rules": "",
-                        "name_in_model": "MY236a1c1913916fa"
+                        "name_in_model": "MY557f20acc196b"
                        }
                       ],
-                      "id": "Z6236ae33954794f0",
+                      "id": "Z6176ae33954791b9",
                       "properties": 8208,
                       "owner": {
                        "$owner": "R"
@@ -616,8 +483,8 @@
                       "index": 0,
                       "user_style": 0,
                       "more_classes": null,
-                      "embedded_css_rules": ".id_Z6236ae33954794f0 {\r\n\twidth: 25%;\r\n}\r",
-                      "name_in_model": "MZ476a1c19449ca9b"
+                      "embedded_css_rules": "",
+                      "name_in_model": "MZ595841f49586bf5"
                      },
                      {
                       "$class": "WsContainer",
@@ -625,31 +492,21 @@
                       "model_id": "",
                       "contents": [
                        {
-                        "$class": "WsTextarea",
-                        "value": "<p>Menu</p>",
-                        "id": "Y6266ae339547968b",
-                        "properties": 264192,
+                        "$class": "WssPagePath",
+                        "value": 0,
+                        "id": "Y6206ae3395479354",
+                        "properties": 262144,
                         "owner": {
                          "$owner": "R"
                         },
                         "index": 0,
-                        "user_style": null,
+                        "user_style": "Path",
                         "more_classes": "",
-                        "embedded_css_rules": {
-                         "$text": [
-                          ".id_Y6266ae339547968b {\r",
-                          "\tfont-family: Playfair Display;\r",
-                          "\tfont-size: 2em;\r",
-                          "\ttext-align: center;\r",
-                          "\tpadding-top: 15px;\r",
-                          "\tfloat: left;\r",
-                          "}\r"
-                         ]
-                        },
-                        "name_in_model": "MY236a1c193a1e444"
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY557f20acc19db"
                        }
                       ],
-                      "id": "Z6256ae3395479602",
+                      "id": "Z6196ae33954792cb",
                       "properties": 8208,
                       "owner": {
                        "$owner": "R"
@@ -657,60 +514,11 @@
                       "index": 1,
                       "user_style": 0,
                       "more_classes": null,
-                      "embedded_css_rules": ".id_Z6256ae3395479602 {\r\n\twidth: 50%;\r\n}\r",
-                      "name_in_model": "MZ126a1c1982a9777"
-                     },
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsImage",
-                        "caption": "",
-                        "href": "",
-                        "tooltip": "Armoiries de Baigneaux",
-                        "original_name": "armoiries.png",
-                        "in_gallery": "0",
-                        "uploaded_image": "armoiries.png",
-                        "keep_format": "0",
-                        "width": "55",
-                        "height": "60",
-                        "notFlexible": "0",
-                        "value": "armoiries-7e86.png",
-                        "id": "Y6286ae339547979d",
-                        "properties": 266240,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": null,
-                        "more_classes": "",
-                        "embedded_css_rules": {
-                         "$text": [
-                          ".id_Y6286ae339547979d {\r",
-                          "\ttext-align: right;\r",
-                          "\tmargin-left: auto;\r",
-                          "\tmargin-right: 0;\r",
-                          "}\r"
-                         ]
-                        },
-                        "name_in_model": "MY296a1c197b650e8"
-                       }
-                      ],
-                      "id": "Z6276ae3395479714",
-                      "properties": 8208,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 2,
-                      "user_style": 0,
-                      "more_classes": null,
-                      "embedded_css_rules": ".id_Z6276ae3395479714 {\r\n\twidth: 25%;\r\n}\r",
-                      "name_in_model": "MZ146a1c1982a977b"
+                      "embedded_css_rules": ".id_Z6196ae33954792cb {\r\n\twidth: 89.8%;\r\n}\r",
+                      "name_in_model": "MZ605841f49586c54"
                      }
                     ],
-                    "id": "Z6226ae3395479466",
+                    "id": "Z6166ae3395479130",
                     "properties": 8209,
                     "owner": {
                      "$owner": "R"
@@ -719,31 +527,92 @@
                     "user_style": 0,
                     "more_classes": null,
                     "embedded_css_rules": "",
-                    "name_in_model": "MZ246a1c193a1e463"
+                    "name_in_model": "MZ585841f49586a24"
                    }
                   ],
-                  "id": "Z6216ae33954793dd",
-                  "properties": 8256,
+                  "id": "Z6156ae33954790a7",
+                  "properties": 270464,
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 1,
-                  "user_style": "Subdivision",
-                  "more_classes": " dontDisplayOnM dontDisplayOnL",
-                  "embedded_css_rules": "",
-                  "href": "",
-                  "name_in_model": "MZ236a1c1919b626f"
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Z6156ae33954790a7 {\r",
+                    "\tpadding-bottom: 0px;\r",
+                    "\tpadding-left: 0px;\r",
+                    "\tborder-width: 0px;\r",
+                    "\tpadding-top: 10px;\r",
+                    "}\r"
+                   ]
+                  },
+                  "name_in_model": "MZ575841f4895c408",
+                  "href": ""
                  }
                 ],
-                "id": "Z6036ae3395478a3a",
-                "properties": 8208,
+                "id": "Z6146ae339547901e",
+                "properties": 270336,
                 "owner": {
                  "$owner": "R"
                 },
                 "index": 0,
                 "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": ""
+                "more_classes": "",
+                "embedded_css_rules": ".id_Z6146ae339547901e {\r\n\tborder-width: 0px;\r\n}\r",
+                "name_in_model": "MZ3369cbea6206362",
+                "href": ""
+               }
+              ],
+              "id": "Z6136ae3395478f95",
+              "properties": 270400,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 1,
+              "user_style": "Path",
+              "more_classes": " dontDisplayOnXS dontDisplayOnS",
+              "embedded_css_rules": "",
+              "href": "",
+              "name_in_model": "MZ557f20acc188b"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Maïade 2026",
+                  "id": "Y6316ae3395479938",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Title",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z6306ae33954798af",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
                },
                {
                 "$class": "WsContainer",
@@ -751,36 +620,30 @@
                 "model_id": 0,
                 "contents": [
                  {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WssTitle",
-                    "level": "2",
-                    "href": "",
-                    "value": "Maïade 2026",
-                    "id": "Y6316ae3395479938",
-                    "properties": 1024,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "Title",
-                    "more_classes": "",
-                    "embedded_css_rules": ""
-                   }
-                  ],
-                  "id": "Z6306ae33954798af",
-                  "properties": 8192,
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"galerie-evenements.html\">&larr; Toutes les galeries</a> <span class=\"album_infos\">&nbsp;&middot; 13 photos</span></p>",
+                  "id": "Y5816ae3395477e72",
+                  "properties": 264192,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Subdivision",
-                  "more_classes": "",
-                  "embedded_css_rules": "",
-                  "href": ""
+                  "user_style": "Texte_normal_align_gauche",
+                  "more_classes": "album_nav",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p>Cliquez sur une photo pour l&rsquo;agrandir, puis utilisez les fl&egrave;ches pour faire d&eacute;filer l&rsquo;album.</p>",
+                  "id": "Y5826ae3395477efb",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_normal_align_gauche",
+                  "more_classes": "album_aide",
+                  "embedded_css_rules": ""
                  },
                  {
                   "$class": "WsContainer",
@@ -788,392 +651,351 @@
                   "model_id": 0,
                   "contents": [
                    {
-                    "$class": "WsTextarea",
-                    "value": "<p><a href=\"galerie-evenements.html\">&larr; Toutes les galeries</a> <span class=\"album_infos\">&nbsp;&middot; 13 photos</span></p>",
-                    "id": "Y5816ae3395477e72",
-                    "properties": 264192,
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 1",
+                    "original_name": "maiade-2026-01.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-01.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-01-v.jpg",
+                    "id": "Y5676ae33954776f2",
+                    "properties": 266240,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": "Texte_normal_align_gauche",
-                    "more_classes": "album_nav",
+                    "user_style": null,
+                    "more_classes": "photo_album",
                     "embedded_css_rules": ""
                    },
                    {
-                    "$class": "WsTextarea",
-                    "value": "<p>Cliquez sur une photo pour l&rsquo;agrandir, puis utilisez les fl&egrave;ches pour faire d&eacute;filer l&rsquo;album.</p>",
-                    "id": "Y5826ae3395477efb",
-                    "properties": 264192,
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 2",
+                    "original_name": "maiade-2026-02.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-02.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-02-v.jpg",
+                    "id": "Y5686ae339547777c",
+                    "properties": 266240,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 1,
-                    "user_style": "Texte_normal_align_gauche",
-                    "more_classes": "album_aide",
+                    "user_style": null,
+                    "more_classes": "photo_album",
                     "embedded_css_rules": ""
                    },
                    {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 1",
-                      "original_name": "maiade-2026-01.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-01.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-01-v.jpg",
-                      "id": "Y5676ae33954776f2",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 2",
-                      "original_name": "maiade-2026-02.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-02.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-02-v.jpg",
-                      "id": "Y5686ae339547777c",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 1,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 3",
-                      "original_name": "maiade-2026-03.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-03.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-03-v.jpg",
-                      "id": "Y5696ae3395477805",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 2,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 4",
-                      "original_name": "maiade-2026-04.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-04.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-04-v.jpg",
-                      "id": "Y5706ae339547788e",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 3,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 5",
-                      "original_name": "maiade-2026-05.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-05.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-05-v.jpg",
-                      "id": "Y5716ae3395477917",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 4,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 6",
-                      "original_name": "maiade-2026-06.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-06.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-06-v.jpg",
-                      "id": "Y5726ae33954779a0",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 5,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 7",
-                      "original_name": "maiade-2026-07.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-07.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-07-v.jpg",
-                      "id": "Y5736ae3395477a29",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 6,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 8",
-                      "original_name": "maiade-2026-08.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-08.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-08-v.jpg",
-                      "id": "Y5746ae3395477ab2",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 7,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 9",
-                      "original_name": "maiade-2026-09.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-09.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-09-v.jpg",
-                      "id": "Y5756ae3395477b3b",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 8,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 10",
-                      "original_name": "maiade-2026-10.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-10.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-10-v.jpg",
-                      "id": "Y5766ae3395477bc4",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 9,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 11",
-                      "original_name": "maiade-2026-11.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-11.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-11-v.jpg",
-                      "id": "Y5776ae3395477c4d",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 10,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 12",
-                      "original_name": "maiade-2026-12.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-12.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-12-v.jpg",
-                      "id": "Y5786ae3395477cd6",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 11,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Maïade 2026 – photo 13",
-                      "original_name": "maiade-2026-13.jpg",
-                      "in_gallery": "1",
-                      "uploaded_image": "maiade-2026-13.jpg",
-                      "keep_format": "0",
-                      "width": "400",
-                      "height": "400",
-                      "notFlexible": "0",
-                      "value": "maiade-2026-13-v.jpg",
-                      "id": "Y5796ae3395477d60",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 12,
-                      "user_style": null,
-                      "more_classes": "photo_album",
-                      "embedded_css_rules": ""
-                     }
-                    ],
+                    "$class": "WsImage",
+                    "caption": "",
                     "href": "",
-                    "id": "Z5806ae3395477de9",
-                    "properties": 8192,
+                    "tooltip": "Maïade 2026 – photo 3",
+                    "original_name": "maiade-2026-03.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-03.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-03-v.jpg",
+                    "id": "Y5696ae3395477805",
+                    "properties": 266240,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 2,
-                    "user_style": 0,
-                    "more_classes": "album_grille",
+                    "user_style": null,
+                    "more_classes": "photo_album",
                     "embedded_css_rules": ""
                    },
                    {
-                    "$class": "WsTextarea",
-                    "value": "<p><a href=\"galerie-evenements.html\">&larr; Toutes les galeries</a></p>",
-                    "id": "Y5836ae3395477f84",
-                    "properties": 264192,
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 4",
+                    "original_name": "maiade-2026-04.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-04.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-04-v.jpg",
+                    "id": "Y5706ae339547788e",
+                    "properties": 266240,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 3,
-                    "user_style": "Texte_normal_align_gauche",
-                    "more_classes": "album_nav album_nav_bas",
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 5",
+                    "original_name": "maiade-2026-05.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-05.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-05-v.jpg",
+                    "id": "Y5716ae3395477917",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 4,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 6",
+                    "original_name": "maiade-2026-06.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-06.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-06-v.jpg",
+                    "id": "Y5726ae33954779a0",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 5,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 7",
+                    "original_name": "maiade-2026-07.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-07.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-07-v.jpg",
+                    "id": "Y5736ae3395477a29",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 6,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 8",
+                    "original_name": "maiade-2026-08.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-08.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-08-v.jpg",
+                    "id": "Y5746ae3395477ab2",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 7,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 9",
+                    "original_name": "maiade-2026-09.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-09.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-09-v.jpg",
+                    "id": "Y5756ae3395477b3b",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 8,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 10",
+                    "original_name": "maiade-2026-10.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-10.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-10-v.jpg",
+                    "id": "Y5766ae3395477bc4",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 9,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 11",
+                    "original_name": "maiade-2026-11.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-11.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-11-v.jpg",
+                    "id": "Y5776ae3395477c4d",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 10,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 12",
+                    "original_name": "maiade-2026-12.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-12.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-12-v.jpg",
+                    "id": "Y5786ae3395477cd6",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 11,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Maïade 2026 – photo 13",
+                    "original_name": "maiade-2026-13.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "maiade-2026-13.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "maiade-2026-13-v.jpg",
+                    "id": "Y5796ae3395477d60",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 12,
+                    "user_style": null,
+                    "more_classes": "photo_album",
                     "embedded_css_rules": ""
                    }
                   ],
                   "href": "",
-                  "id": "Z6586ae339547a7ae",
+                  "id": "Z5806ae3395477de9",
                   "properties": 8192,
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 1,
-                  "user_style": "Subdivision",
-                  "more_classes": "",
+                  "index": 2,
+                  "user_style": 0,
+                  "more_classes": "album_grille",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"galerie-evenements.html\">&larr; Toutes les galeries</a></p>",
+                  "id": "Y5836ae3395477f84",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 3,
+                  "user_style": "Texte_normal_align_gauche",
+                  "more_classes": "album_nav album_nav_bas",
                   "embedded_css_rules": ""
                  }
                 ],
-                "id": "Z6296ae3395479826",
-                "properties": 8208,
+                "href": "",
+                "id": "Z6586ae339547a7ae",
+                "properties": 8192,
                 "owner": {
                  "$owner": "R"
                 },
                 "index": 1,
-                "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": ".id_Z6296ae3395479826 {\r\n\twidth: 75%;\r\n}\r"
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": ""
                }
               ],
-              "id": "Z6026ae33954789b1",
-              "properties": 8209,
+              "href": "",
+              "id": "Z2106ae37cce58ca3",
+              "properties": 8192,
               "owner": {
                "$owner": "R"
               },
-              "index": 0,
+              "index": 2,
               "user_style": 0,
-              "more_classes": null,
+              "more_classes": "contenu_page",
               "embedded_css_rules": ""
              }
             ],

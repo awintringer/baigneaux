@@ -20,6 +20,10 @@ et docs/FORMAT.md). Langue de travail : français.
 - Éditer les pages avec `tools/sitelib.py` (clone() génère des ids neufs) ; garder les scripts de
   modification datés dans `tools/oneoff/`. Après toute modif visuelle : `tools/local/responsive_check.js`
   doit renvoyer 0 cas (1366, 1024, 820, 390 px).
+- Navigation : barre horizontale = modèle `Header2` (5 rubriques, panneaux déroulants faits de WssMenu
+  limités à une rubrique du plan du site) ; seul l'accueil garde la colonne de menu (modèle `MENU`).
+  Les autres pages : en-tête mobile (`menu_burger`), fil d'Ariane (`Path`), puis le contenu dans un bloc
+  `contenu_page` (indispensable : la règle CSS associée garde le bon affichage mobile).
 - Accueil : cartes `carte_actu` (10 dernières, plus récente en premier) et `carte_evenement`
   (toutes, ordre chronologique) ; chaque actu a aussi sa fiche sur la page Actualités (ancre unique).
 - Galerie : un album = une page sous p325 ; en ajouter un avec `python3 tools/album.py DOSSIER --titre … --date …`

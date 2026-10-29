@@ -268,159 +268,45 @@
                {
                 "$class": "WsContainer",
                 "valign": null,
-                "model_id": 0,
+                "model_id": "menu_burger",
                 "contents": [
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": 0,
+                  "model_id": "",
                   "contents": [
                    {
                     "$class": "WsContainer",
                     "valign": null,
-                    "model_id": "MENU",
+                    "model_id": "",
                     "contents": [
                      {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WssMenu",
-                          "category": "0",
-                          "depth": "1",
-                          "value": "vertical",
-                          "id": "Y176ab25fb51c3c9",
-                          "properties": 262144,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": "Main",
-                          "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                          "embedded_css_rules": "",
-                          "name_in_model": "MY55dc82a8b7b9e"
-                         }
-                        ],
-                        "id": "Z166ab25fb51c3c6",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z166ab25fb51c3c6 {\r\n\twidth: 100%;\r\n}\r",
-                        "name_in_model": "MZ869ce9a560f24c"
-                       },
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsTextarea",
-                          "value": "<p>Menu</p>",
-                          "id": "Y196ab25fb51c3ce",
-                          "properties": 264192,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": "Essai",
-                          "more_classes": " dontDisplayOnM dontDisplayOnL",
-                          "embedded_css_rules": "",
-                          "name_in_model": "MY1869cea6e95b8ee"
-                         }
-                        ],
-                        "id": "Z186ab25fb51c3cb",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 1,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z186ab25fb51c3cb {\r\n\twidth: 100%;\r\n}\r",
-                        "name_in_model": "MZ1069ce9a560f252"
-                       },
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsImage",
-                          "caption": "",
-                          "href": "",
-                          "tooltip": "Logo de Baigneaux",
-                          "original_name": "logosite.png",
-                          "in_gallery": "0",
-                          "uploaded_image": "logosite-4dcc.png",
-                          "keep_format": "0",
-                          "width": "50",
-                          "height": "50",
-                          "notFlexible": "0",
-                          "value": "logosite-11ba.png",
-                          "id": "Y216ab25fb51c3d2",
-                          "properties": 266240,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": null,
-                          "more_classes": " dontDisplayOnM dontDisplayOnL",
-                          "embedded_css_rules": {
-                           "$text": [
-                            ".id_Y216ab25fb51c3d2 {\r",
-                            "\tmargin-left: auto;\r",
-                            "\tmargin-right: auto;\r",
-                            "}\r"
-                           ]
-                          },
-                          "name_in_model": "MY1669cea66d3bc6f"
-                         }
-                        ],
-                        "id": "Z206ab25fb51c3cf",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 2,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z206ab25fb51c3cf {\r\n\twidth: 25%;\r\n}\r",
-                        "name_in_model": "MZ1269cea67e092f5"
-                       }
-                      ],
-                      "id": "Z156ab25fb51c3c4",
-                      "properties": 8209,
+                      "$class": "WssMenu",
+                      "category": "0",
+                      "depth": "0",
+                      "value": "0",
+                      "id": "Y336ab25fb51d6e3",
+                      "properties": 262144,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 0,
-                      "user_style": 0,
-                      "more_classes": null,
+                      "user_style": "menu_burger",
+                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
                       "embedded_css_rules": "",
-                      "name_in_model": "MZ1769cea66d3bc94"
+                      "name_in_model": "MY236a1c1913916fa"
                      }
                     ],
-                    "id": "Z146ab25fb51c3be",
-                    "properties": 270400,
+                    "id": "Z326ab25fb51d6e0",
+                    "properties": 8208,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": "Bloc_menu",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "name_in_model": "MZ5819e18fc9d3d",
-                    "href": ""
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z326ab25fb51d6e0 {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ476a1c19449ca9b"
                    },
                    {
                     "$class": "WsContainer",
@@ -428,185 +314,141 @@
                     "model_id": "",
                     "contents": [
                      {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "Path",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsContainer",
-                          "valign": null,
-                          "model_id": "",
-                          "contents": [
-                           {
-                            "$class": "WsContainer",
-                            "valign": null,
-                            "model_id": "",
-                            "contents": [
-                             {
-                              "$class": "WsContainer",
-                              "valign": null,
-                              "model_id": "",
-                              "contents": [
-                               {
-                                "$class": "WsTextarea",
-                                "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
-                                "id": "Y276ab25fb51cce7",
-                                "properties": 264192,
-                                "owner": {
-                                 "$owner": "R"
-                                },
-                                "index": 0,
-                                "user_style": "Path",
-                                "more_classes": "",
-                                "embedded_css_rules": "",
-                                "name_in_model": "MY557f20acc196b"
-                               }
-                              ],
-                              "id": "Z266ab25fb51cce4",
-                              "properties": 8208,
-                              "owner": {
-                               "$owner": "R"
-                              },
-                              "index": 0,
-                              "user_style": 0,
-                              "more_classes": null,
-                              "embedded_css_rules": "",
-                              "name_in_model": "MZ595841f49586bf5"
-                             },
-                             {
-                              "$class": "WsContainer",
-                              "valign": null,
-                              "model_id": "",
-                              "contents": [
-                               {
-                                "$class": "WssPagePath",
-                                "value": 0,
-                                "id": "Y296ab25fb51ccec",
-                                "properties": 262144,
-                                "owner": {
-                                 "$owner": "R"
-                                },
-                                "index": 0,
-                                "user_style": "Path",
-                                "more_classes": "",
-                                "embedded_css_rules": "",
-                                "name_in_model": "MY557f20acc19db"
-                               }
-                              ],
-                              "id": "Z286ab25fb51cce9",
-                              "properties": 8208,
-                              "owner": {
-                               "$owner": "R"
-                              },
-                              "index": 1,
-                              "user_style": 0,
-                              "more_classes": null,
-                              "embedded_css_rules": ".id_Z286ab25fb51cce9 {\r\n\twidth: 89.8%;\r\n}\r",
-                              "name_in_model": "MZ605841f49586c54"
-                             }
-                            ],
-                            "id": "Z256ab25fb51cce3",
-                            "properties": 8209,
-                            "owner": {
-                             "$owner": "R"
-                            },
-                            "index": 0,
-                            "user_style": 0,
-                            "more_classes": null,
-                            "embedded_css_rules": "",
-                            "name_in_model": "MZ585841f49586a24"
-                           }
-                          ],
-                          "id": "Z246ab25fb51cce0",
-                          "properties": 270464,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": 0,
-                          "more_classes": "",
-                          "embedded_css_rules": {
-                           "$text": [
-                            ".id_Z246ab25fb51cce0 {\r",
-                            "\tpadding-bottom: 0px;\r",
-                            "\tpadding-left: 0px;\r",
-                            "\tborder-width: 0px;\r",
-                            "\tpadding-top: 10px;\r",
-                            "}\r"
-                           ]
-                          },
-                          "name_in_model": "MZ575841f4895c408",
-                          "href": ""
-                         }
-                        ],
-                        "id": "Z236ab25fb51ccdc",
-                        "properties": 270336,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": "",
-                        "embedded_css_rules": ".id_Z236ab25fb51ccdc {\r\n\tborder-width: 0px;\r\n}\r",
-                        "name_in_model": "MZ3369cbea6206362",
-                        "href": ""
-                       }
-                      ],
-                      "id": "Z226ab25fb51ccd7",
-                      "properties": 270400,
+                      "$class": "WsTextarea",
+                      "value": "<p>Menu</p>",
+                      "id": "Y356ab25fb51d6e6",
+                      "properties": 264192,
                       "owner": {
                        "$owner": "R"
                       },
                       "index": 0,
-                      "user_style": "Path",
-                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                      "embedded_css_rules": "",
-                      "href": "",
-                      "name_in_model": "MZ557f20acc188b"
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y356ab25fb51d6e6 {\r",
+                        "\tfont-family: Playfair Display;\r",
+                        "\tfont-size: 2em;\r",
+                        "\ttext-align: center;\r",
+                        "\tpadding-top: 15px;\r",
+                        "\tfloat: left;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY236a1c193a1e444"
                      }
                     ],
-                    "id": "Z5369cbef51ab621",
-                    "properties": 8192,
+                    "id": "Z346ab25fb51d6e5",
+                    "properties": 8208,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 1,
                     "user_style": 0,
-                    "more_classes": "",
-                    "embedded_css_rules": {
-                     "$text": [
-                      ".id_Z5369cbef51ab621 {\r",
-                      "\tborder-width: 0px;\r",
-                      "\tmargin-left: auto;\r",
-                      "\tmargin-right: auto;\r",
-                      "\tmax-width: 1130px;\r",
-                      "}\r"
-                     ]
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z346ab25fb51d6e5 {\r\n\twidth: 50%;\r\n}\r",
+                    "name_in_model": "MZ126a1c1982a9777"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Armoiries de Baigneaux",
+                      "original_name": "armoiries.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "armoiries.png",
+                      "keep_format": "0",
+                      "width": "55",
+                      "height": "60",
+                      "notFlexible": "0",
+                      "value": "armoiries-7e86.png",
+                      "id": "Y376ab25fb51d6ea",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y376ab25fb51d6ea {\r",
+                        "\ttext-align: right;\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: 0;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY296a1c197b650e8"
+                     }
+                    ],
+                    "id": "Z366ab25fb51d6e8",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
                     },
-                    "name_in_model": "MZ5819e18fc9d3d",
-                    "href": ""
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z366ab25fb51d6e8 {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ146a1c1982a977b"
                    }
                   ],
-                  "id": "Z5069cbef51ab61a",
-                  "properties": 8192,
+                  "id": "Z316ab25fb51d6df",
+                  "properties": 8209,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Subdivision",
-                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "user_style": 0,
+                  "more_classes": null,
                   "embedded_css_rules": "",
-                  "href": ""
-                 },
+                  "name_in_model": "MZ246a1c193a1e463"
+                 }
+                ],
+                "id": "Z306ab25fb51d6d9",
+                "properties": 8256,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Subdivision",
+                "more_classes": " dontDisplayOnM dontDisplayOnL",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ236a1c1919b626f"
+               }
+              ],
+              "href": "",
+              "id": "Z1776ae37cce57af7",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": "contenu_page",
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "Path",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
                  {
                   "$class": "WsContainer",
                   "valign": null,
-                  "model_id": "menu_burger",
+                  "model_id": "",
                   "contents": [
                    {
                     "$class": "WsContainer",
@@ -619,23 +461,21 @@
                       "model_id": "",
                       "contents": [
                        {
-                        "$class": "WssMenu",
-                        "category": "0",
-                        "depth": "0",
-                        "value": "0",
-                        "id": "Y336ab25fb51d6e3",
-                        "properties": 262144,
+                        "$class": "WsTextarea",
+                        "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                        "id": "Y276ab25fb51cce7",
+                        "properties": 264192,
                         "owner": {
                          "$owner": "R"
                         },
                         "index": 0,
-                        "user_style": "menu_burger",
-                        "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                        "user_style": "Path",
+                        "more_classes": "",
                         "embedded_css_rules": "",
-                        "name_in_model": "MY236a1c1913916fa"
+                        "name_in_model": "MY557f20acc196b"
                        }
                       ],
-                      "id": "Z326ab25fb51d6e0",
+                      "id": "Z266ab25fb51cce4",
                       "properties": 8208,
                       "owner": {
                        "$owner": "R"
@@ -643,8 +483,8 @@
                       "index": 0,
                       "user_style": 0,
                       "more_classes": null,
-                      "embedded_css_rules": ".id_Z326ab25fb51d6e0 {\r\n\twidth: 25%;\r\n}\r",
-                      "name_in_model": "MZ476a1c19449ca9b"
+                      "embedded_css_rules": "",
+                      "name_in_model": "MZ595841f49586bf5"
                      },
                      {
                       "$class": "WsContainer",
@@ -652,31 +492,21 @@
                       "model_id": "",
                       "contents": [
                        {
-                        "$class": "WsTextarea",
-                        "value": "<p>Menu</p>",
-                        "id": "Y356ab25fb51d6e6",
-                        "properties": 264192,
+                        "$class": "WssPagePath",
+                        "value": 0,
+                        "id": "Y296ab25fb51ccec",
+                        "properties": 262144,
                         "owner": {
                          "$owner": "R"
                         },
                         "index": 0,
-                        "user_style": null,
+                        "user_style": "Path",
                         "more_classes": "",
-                        "embedded_css_rules": {
-                         "$text": [
-                          ".id_Y356ab25fb51d6e6 {\r",
-                          "\tfont-family: Playfair Display;\r",
-                          "\tfont-size: 2em;\r",
-                          "\ttext-align: center;\r",
-                          "\tpadding-top: 15px;\r",
-                          "\tfloat: left;\r",
-                          "}\r"
-                         ]
-                        },
-                        "name_in_model": "MY236a1c193a1e444"
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY557f20acc19db"
                        }
                       ],
-                      "id": "Z346ab25fb51d6e5",
+                      "id": "Z286ab25fb51cce9",
                       "properties": 8208,
                       "owner": {
                        "$owner": "R"
@@ -684,60 +514,11 @@
                       "index": 1,
                       "user_style": 0,
                       "more_classes": null,
-                      "embedded_css_rules": ".id_Z346ab25fb51d6e5 {\r\n\twidth: 50%;\r\n}\r",
-                      "name_in_model": "MZ126a1c1982a9777"
-                     },
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsImage",
-                        "caption": "",
-                        "href": "",
-                        "tooltip": "Armoiries de Baigneaux",
-                        "original_name": "armoiries.png",
-                        "in_gallery": "0",
-                        "uploaded_image": "armoiries.png",
-                        "keep_format": "0",
-                        "width": "55",
-                        "height": "60",
-                        "notFlexible": "0",
-                        "value": "armoiries-7e86.png",
-                        "id": "Y376ab25fb51d6ea",
-                        "properties": 266240,
-                        "owner": {
-                         "$owner": "R"
-                        },
-                        "index": 0,
-                        "user_style": null,
-                        "more_classes": "",
-                        "embedded_css_rules": {
-                         "$text": [
-                          ".id_Y376ab25fb51d6ea {\r",
-                          "\ttext-align: right;\r",
-                          "\tmargin-left: auto;\r",
-                          "\tmargin-right: 0;\r",
-                          "}\r"
-                         ]
-                        },
-                        "name_in_model": "MY296a1c197b650e8"
-                       }
-                      ],
-                      "id": "Z366ab25fb51d6e8",
-                      "properties": 8208,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 2,
-                      "user_style": 0,
-                      "more_classes": null,
-                      "embedded_css_rules": ".id_Z366ab25fb51d6e8 {\r\n\twidth: 25%;\r\n}\r",
-                      "name_in_model": "MZ146a1c1982a977b"
+                      "embedded_css_rules": ".id_Z286ab25fb51cce9 {\r\n\twidth: 89.8%;\r\n}\r",
+                      "name_in_model": "MZ605841f49586c54"
                      }
                     ],
-                    "id": "Z316ab25fb51d6df",
+                    "id": "Z256ab25fb51cce3",
                     "properties": 8209,
                     "owner": {
                      "$owner": "R"
@@ -746,32 +527,61 @@
                     "user_style": 0,
                     "more_classes": null,
                     "embedded_css_rules": "",
-                    "name_in_model": "MZ246a1c193a1e463"
+                    "name_in_model": "MZ585841f49586a24"
                    }
                   ],
-                  "id": "Z306ab25fb51d6d9",
-                  "properties": 8256,
+                  "id": "Z246ab25fb51cce0",
+                  "properties": 270464,
                   "owner": {
                    "$owner": "R"
                   },
-                  "index": 1,
-                  "user_style": "Subdivision",
-                  "more_classes": " dontDisplayOnM dontDisplayOnL",
-                  "embedded_css_rules": "",
-                  "href": "",
-                  "name_in_model": "MZ236a1c1919b626f"
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Z246ab25fb51cce0 {\r",
+                    "\tpadding-bottom: 0px;\r",
+                    "\tpadding-left: 0px;\r",
+                    "\tborder-width: 0px;\r",
+                    "\tpadding-top: 10px;\r",
+                    "}\r"
+                   ]
+                  },
+                  "name_in_model": "MZ575841f4895c408",
+                  "href": ""
                  }
                 ],
-                "id": "Z4969cbef51ab618",
-                "properties": 8208,
+                "id": "Z236ab25fb51ccdc",
+                "properties": 270336,
                 "owner": {
                  "$owner": "R"
                 },
                 "index": 0,
                 "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": ".id_Z4969cbef51ab618 {\r\n\twidth: 25%;\r\n}\r"
-               },
+                "more_classes": "",
+                "embedded_css_rules": ".id_Z236ab25fb51ccdc {\r\n\tborder-width: 0px;\r\n}\r",
+                "name_in_model": "MZ3369cbea6206362",
+                "href": ""
+               }
+              ],
+              "id": "Z226ab25fb51ccd7",
+              "properties": 270400,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 1,
+              "user_style": "Path",
+              "more_classes": " dontDisplayOnXS dontDisplayOnS",
+              "embedded_css_rules": "",
+              "href": "",
+              "name_in_model": "MZ557f20acc188b"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
                {
                 "$class": "WsContainer",
                 "valign": null,
@@ -783,610 +593,595 @@
                   "model_id": 0,
                   "contents": [
                    {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WssTitle",
-                      "level": "2",
-                      "href": "",
-                      "value": "évènements et Festivités à venir",
-                      "id": "Y6969cbef51ab63f",
-                      "properties": 263168,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Title",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z6469cbef51ab636",
-                    "properties": 8192,
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "évènements et Festivités à venir",
+                    "id": "Y6969cbef51ab63f",
+                    "properties": 263168,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": "Bloc-titre",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "href": ""
-                   },
-                   {
-                    "$class": "WssTitle",
-                    "level": "2",
-                    "href": "",
-                    "value": "Novembre 2026",
-                    "id": "Y426a59f457c0aac",
-                    "properties": 1024,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 1,
-                    "user_style": "Title3",
+                    "user_style": "Title",
                     "more_classes": "",
                     "embedded_css_rules": ""
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WssTitle",
-                      "level": "2",
-                      "href": "",
-                      "value": "Marché des producteurs - 8 novembre 2026",
-                      "id": "Y476a59f6432b99c",
-                      "properties": 1024,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Title2",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f482bf2d7"
-                     },
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Notre prochain march&eacute; des producteurs vous attend le dimanche 8 novembre 2026, devant la Salle des f&ecirc;tes, de 9h &agrave; 13h.</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>Vous pourrez y retrouver nos exposants habituels:</p>\r",
-                        "<p>- Ferme Pouly (laitages et glaces)</p>\r",
-                        "<p>- Ferme Manieu-No&euml;l (fromages de ch&egrave;vre)</p>\r",
-                        "<p>- Bergerie de Daignac (fromages de brebis)</p>\r",
-                        "<p>- Ferme de Gasquerie (fruits et l&eacute;gumes)</p>\r",
-                        "<p>- Cave de Rauzan (vins locaux de l'Entre-Deux-Mers, ros&eacute;s, blancs, rouges, cr&eacute;mants)</p>\r",
-                        "<p>- Boulangerie du Bosquet (Targon)</p>\r",
-                        "<p><span>- Oeufs</span></p>\r",
-                        "<p><span>- Olives et tapenades</span></p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>S'y ajouterons ...</p>\r",
-                        "<p>- des rhums arrang&eacute;s et des liqueurs</p>\r",
-                        "<p>- une r&ocirc;tisserie (poulet et jambons &agrave; la broche)</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>Nous rejoindra &eacute;galement notre traiteur J&eacute;r&ocirc;me, qui vous proposera encornets farcis, seiches et chipirons, poulets frits et son fameux a&iuml;oli maison.</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>Un caf&eacute; vous sera offert &agrave; votre arriv&eacute;e.</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>A bient&ocirc;t&nbsp;!</p>"
-                       ]
-                      },
-                      "id": "Y486a59f6432b99d",
-                      "properties": 2048,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 1,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a77dc91"
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Marché des producteurs - 8 novembre 2026",
-                      "original_name": "805936917_1685057420290196_4756351671686396280_n.jpg",
-                      "in_gallery": "0",
-                      "uploaded_image": "805936917_1685057420290196_4756351671686396280_n-f043.jpg",
-                      "keep_format": "0",
-                      "width": {
-                       "$d": "752"
-                      },
-                      "height": {
-                       "$d": "540"
-                      },
-                      "notFlexible": "0",
-                      "value": "805936917_1685057420290196_4756351671686396280_n-0263.jpg",
-                      "id": "Y496a59f6432b99e",
-                      "properties": 4096,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 2,
-                      "user_style": null,
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a26b0b5"
-                     }
-                    ],
-                    "id": "Z466a59f6432b99b",
-                    "properties": 8448,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 2,
-                    "user_style": "Subdivision",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "href": "",
-                    "name_in_model": "MZ426a59f48a7c81e"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WssTitle",
-                      "level": "2",
-                      "href": "",
-                      "value": "Bénédiction des tombes - 8 novembre 2026",
-                      "id": "Y1786ae215f80365c",
-                      "properties": 1024,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Title2",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f482bf2d7"
-                     },
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>&Agrave; l'occasion de la Toussaint, l'&eacute;quipe paroissiale de Targon-Cadillac proc&eacute;dera &agrave; la b&eacute;n&eacute;diction des tombes au cimeti&egrave;re de Baigneaux le dimanche 8 novembre 2026, &agrave; partir de 14h30.</p>\r",
-                        "<p>La c&eacute;r&eacute;monie sera suivie d'un caf&eacute;.</p>"
-                       ]
-                      },
-                      "id": "Y1796ae215f8036e5",
-                      "properties": 2048,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 1,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a77dc91"
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Affiche de la bénédiction des tombes du 8 novembre 2026",
-                      "original_name": "benediction-tombes-2026.jpg",
-                      "in_gallery": "0",
-                      "uploaded_image": "benediction-tombes-2026.jpg",
-                      "keep_format": "0",
-                      "width": {
-                       "$d": "752"
-                      },
-                      "height": {
-                       "$d": "1128"
-                      },
-                      "notFlexible": "0",
-                      "value": "benediction-tombes-2026-e6cd.jpg",
-                      "id": "Y1806ae215f80376e",
-                      "properties": 4096,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 2,
-                      "user_style": null,
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a26b0b5"
-                     }
-                    ],
-                    "id": "Z1776ae215f8035d3",
-                    "properties": 8448,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 3,
-                    "user_style": "Subdivision",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "href": "",
-                    "name_in_model": "MZ426a59f48a7c81e"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WssTitle",
-                      "level": "2",
-                      "href": "",
-                      "value": "Commémoration de l'Armistice - 11 novembre 2026",
-                      "id": "Y1826ae215f803880",
-                      "properties": 1024,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Title2",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f482bf2d7"
-                     },
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Un hommage sera rendu le mercredi 11 novembre 2026 &agrave; nos soldats morts pour la France.</p>\r",
-                        "<p>Le conseil municipal invite toutes les Baigneudaises et tous les Baigneudais &agrave; se rendre &agrave; 10h30 devant l'&eacute;cole, o&ugrave; un caf&eacute; sera offert, puis &agrave; 11h au monument aux morts.</p>\r",
-                        "<p>Le Maire &eacute;noncera les noms des anciens combattants, une minute de silence sera respect&eacute;e et une gerbe sera d&eacute;pos&eacute;e, en pr&eacute;sence des pompiers de Targon et de la Gendarmerie de Cr&eacute;on.</p>\r",
-                        "<p>Un verre de l'amiti&eacute; sera ensuite offert &agrave; la salle des f&ecirc;tes.</p>"
-                       ]
-                      },
-                      "id": "Y1836ae215f803909",
-                      "properties": 2048,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 1,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a77dc91"
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Invitation à la commémoration de l'Armistice du 11 novembre 2026",
-                      "original_name": "armistice-11-novembre-2026.jpg",
-                      "in_gallery": "0",
-                      "uploaded_image": "armistice-11-novembre-2026.jpg",
-                      "keep_format": "0",
-                      "width": {
-                       "$d": "752"
-                      },
-                      "height": {
-                       "$d": "1015"
-                      },
-                      "notFlexible": "0",
-                      "value": "armistice-11-novembre-2026-afcb.jpg",
-                      "id": "Y1846ae215f803992",
-                      "properties": 4096,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 2,
-                      "user_style": null,
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a26b0b5"
-                     }
-                    ],
-                    "id": "Z1816ae215f8037f7",
-                    "properties": 8448,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 4,
-                    "user_style": "Subdivision",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "href": "",
-                    "name_in_model": "MZ426a59f48a7c81e"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WssTitle",
-                      "level": "2",
-                      "href": "",
-                      "value": "Marche solidaire Novembre bleu - 15 novembre 2026",
-                      "id": "Y1866ae215f803aa4",
-                      "properties": 1024,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Title2",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f482bf2d7"
-                     },
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>La mairie de Baigneaux organise une marche solidaire pour Novembre bleu, ensemble contre le cancer de la prostate, le dimanche 15 novembre 2026.</p>\r",
-                        "<p>Rendez-vous &agrave; 9h devant la salle des f&ecirc;tes, pour un parcours de 8 km maximum.</p>"
-                       ]
-                      },
-                      "id": "Y1876ae215f803b2e",
-                      "properties": 2048,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 1,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a77dc91"
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Affiche de la marche solidaire Novembre bleu du 15 novembre 2026",
-                      "original_name": "marche-novembre-bleu-2026.jpg",
-                      "in_gallery": "0",
-                      "uploaded_image": "marche-novembre-bleu-2026.jpg",
-                      "keep_format": "0",
-                      "width": {
-                       "$d": "752"
-                      },
-                      "height": {
-                       "$d": "1128"
-                      },
-                      "notFlexible": "0",
-                      "value": "marche-novembre-bleu-2026-6e11.jpg",
-                      "id": "Y1886ae215f803bb7",
-                      "properties": 4096,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 2,
-                      "user_style": null,
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a26b0b5"
-                     }
-                    ],
-                    "id": "Z1856ae215f803a1b",
-                    "properties": 8448,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 5,
-                    "user_style": "Subdivision",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "href": "",
-                    "name_in_model": "MZ426a59f48a7c81e"
-                   },
-                   {
-                    "$class": "WssTitle",
-                    "level": "2",
-                    "href": "",
-                    "value": "Décembre 2026",
-                    "id": "Y426a59f46d2bb0c",
-                    "properties": 1024,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 6,
-                    "user_style": "Title3",
-                    "more_classes": "",
-                    "embedded_css_rules": ""
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WssTitle",
-                      "level": "2",
-                      "href": "",
-                      "value": "Marché de Noël - 5 décembre 2026",
-                      "id": "Y476a59f7262931f",
-                      "properties": 1024,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Title2",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f482bf2d7"
-                     },
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Le comit&eacute; des f&ecirc;tes de Baigneaux organise le march&eacute; de No&euml;l de la commune le 5 d&eacute;cembre 2026.</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>Nous recherchons des artisans producteurs pour participer &agrave; cette journ&eacute;e conviviale.</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>Si vous &ecirc;tes int&eacute;ress&eacute;s, merci de contacter Aur&eacute;lie au 07.77.44.35.87</p>"
-                       ]
-                      },
-                      "id": "Y486a59f72629320",
-                      "properties": 2048,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 1,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a77dc91"
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Affiche du marché de Noël 2026",
-                      "original_name": "marchénoel2026.jpg",
-                      "in_gallery": "0",
-                      "uploaded_image": "march--noel2026.jpg",
-                      "keep_format": "0",
-                      "width": {
-                       "$d": "752"
-                      },
-                      "height": {
-                       "$d": "1067"
-                      },
-                      "notFlexible": "0",
-                      "value": "march--noel2026-fd05.jpg",
-                      "id": "Y496a59f72629321",
-                      "properties": 4096,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 2,
-                      "user_style": null,
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a26b0b5"
-                     }
-                    ],
-                    "id": "Z466a59f7262931e",
-                    "properties": 8448,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 7,
-                    "user_style": "Subdivision",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "href": "",
-                    "name_in_model": "MZ426a59f48a7c81e"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WssTitle",
-                      "level": "2",
-                      "href": "",
-                      "value": "Spectacle de Noël - 6 décembre 2026",
-                      "id": "Y476a59f7abe6b1d",
-                      "properties": 1024,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Title2",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f482bf2d7"
-                     },
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>La mairie vous propose un spectacle de No&euml;l, le 6 d&eacute;cembre 2026 &agrave; la Salle des F&ecirc;tes.</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>Les d&eacute;tails vous seront communiqu&eacute;s ult&egrave;rieurement.</p>"
-                       ]
-                      },
-                      "id": "Y486a59f7abe6b1f",
-                      "properties": 2048,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 1,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a77dc91"
-                     },
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Affiche du spectacle de Noël 2026",
-                      "original_name": "noel.png",
-                      "in_gallery": "0",
-                      "uploaded_image": "noel.png",
-                      "keep_format": "0",
-                      "width": {
-                       "$d": "752"
-                      },
-                      "height": {
-                       "$d": "323"
-                      },
-                      "notFlexible": "0",
-                      "value": "noel-f338.png",
-                      "id": "Y496a59f7abe6b20",
-                      "properties": 4096,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 2,
-                      "user_style": null,
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY426a59f4a26b0b5"
-                     }
-                    ],
-                    "id": "Z466a59f7abe6b1b",
-                    "properties": 8448,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 8,
-                    "user_style": "Subdivision",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "href": "",
-                    "name_in_model": "MZ426a59f48a7c81e"
                    }
                   ],
-                  "id": "Z6369cbef51ab635",
-                  "properties": 270336,
+                  "id": "Z6469cbef51ab636",
+                  "properties": 8192,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Subdivision",
+                  "user_style": "Bloc-titre",
                   "more_classes": "",
                   "embedded_css_rules": "",
                   "href": ""
+                 },
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Novembre 2026",
+                  "id": "Y426a59f457c0aac",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Title3",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Marché des producteurs - 8 novembre 2026",
+                    "id": "Y476a59f6432b99c",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title2",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f482bf2d7"
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Notre prochain march&eacute; des producteurs vous attend le dimanche 8 novembre 2026, devant la Salle des f&ecirc;tes, de 9h &agrave; 13h.</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Vous pourrez y retrouver nos exposants habituels:</p>\r",
+                      "<p>- Ferme Pouly (laitages et glaces)</p>\r",
+                      "<p>- Ferme Manieu-No&euml;l (fromages de ch&egrave;vre)</p>\r",
+                      "<p>- Bergerie de Daignac (fromages de brebis)</p>\r",
+                      "<p>- Ferme de Gasquerie (fruits et l&eacute;gumes)</p>\r",
+                      "<p>- Cave de Rauzan (vins locaux de l'Entre-Deux-Mers, ros&eacute;s, blancs, rouges, cr&eacute;mants)</p>\r",
+                      "<p>- Boulangerie du Bosquet (Targon)</p>\r",
+                      "<p><span>- Oeufs</span></p>\r",
+                      "<p><span>- Olives et tapenades</span></p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>S'y ajouterons ...</p>\r",
+                      "<p>- des rhums arrang&eacute;s et des liqueurs</p>\r",
+                      "<p>- une r&ocirc;tisserie (poulet et jambons &agrave; la broche)</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Nous rejoindra &eacute;galement notre traiteur J&eacute;r&ocirc;me, qui vous proposera encornets farcis, seiches et chipirons, poulets frits et son fameux a&iuml;oli maison.</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Un caf&eacute; vous sera offert &agrave; votre arriv&eacute;e.</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>A bient&ocirc;t&nbsp;!</p>"
+                     ]
+                    },
+                    "id": "Y486a59f6432b99d",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a77dc91"
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Marché des producteurs - 8 novembre 2026",
+                    "original_name": "805936917_1685057420290196_4756351671686396280_n.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "805936917_1685057420290196_4756351671686396280_n-f043.jpg",
+                    "keep_format": "0",
+                    "width": {
+                     "$d": "752"
+                    },
+                    "height": {
+                     "$d": "540"
+                    },
+                    "notFlexible": "0",
+                    "value": "805936917_1685057420290196_4756351671686396280_n-0263.jpg",
+                    "id": "Y496a59f6432b99e",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a26b0b5"
+                   }
+                  ],
+                  "id": "Z466a59f6432b99b",
+                  "properties": 8448,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 2,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ426a59f48a7c81e"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Bénédiction des tombes - 8 novembre 2026",
+                    "id": "Y1786ae215f80365c",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title2",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f482bf2d7"
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>&Agrave; l'occasion de la Toussaint, l'&eacute;quipe paroissiale de Targon-Cadillac proc&eacute;dera &agrave; la b&eacute;n&eacute;diction des tombes au cimeti&egrave;re de Baigneaux le dimanche 8 novembre 2026, &agrave; partir de 14h30.</p>\r",
+                      "<p>La c&eacute;r&eacute;monie sera suivie d'un caf&eacute;.</p>"
+                     ]
+                    },
+                    "id": "Y1796ae215f8036e5",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a77dc91"
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Affiche de la bénédiction des tombes du 8 novembre 2026",
+                    "original_name": "benediction-tombes-2026.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "benediction-tombes-2026.jpg",
+                    "keep_format": "0",
+                    "width": {
+                     "$d": "752"
+                    },
+                    "height": {
+                     "$d": "1128"
+                    },
+                    "notFlexible": "0",
+                    "value": "benediction-tombes-2026-e6cd.jpg",
+                    "id": "Y1806ae215f80376e",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a26b0b5"
+                   }
+                  ],
+                  "id": "Z1776ae215f8035d3",
+                  "properties": 8448,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 3,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ426a59f48a7c81e"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Commémoration de l'Armistice - 11 novembre 2026",
+                    "id": "Y1826ae215f803880",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title2",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f482bf2d7"
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Un hommage sera rendu le mercredi 11 novembre 2026 &agrave; nos soldats morts pour la France.</p>\r",
+                      "<p>Le conseil municipal invite toutes les Baigneudaises et tous les Baigneudais &agrave; se rendre &agrave; 10h30 devant l'&eacute;cole, o&ugrave; un caf&eacute; sera offert, puis &agrave; 11h au monument aux morts.</p>\r",
+                      "<p>Le Maire &eacute;noncera les noms des anciens combattants, une minute de silence sera respect&eacute;e et une gerbe sera d&eacute;pos&eacute;e, en pr&eacute;sence des pompiers de Targon et de la Gendarmerie de Cr&eacute;on.</p>\r",
+                      "<p>Un verre de l'amiti&eacute; sera ensuite offert &agrave; la salle des f&ecirc;tes.</p>"
+                     ]
+                    },
+                    "id": "Y1836ae215f803909",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a77dc91"
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Invitation à la commémoration de l'Armistice du 11 novembre 2026",
+                    "original_name": "armistice-11-novembre-2026.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "armistice-11-novembre-2026.jpg",
+                    "keep_format": "0",
+                    "width": {
+                     "$d": "752"
+                    },
+                    "height": {
+                     "$d": "1015"
+                    },
+                    "notFlexible": "0",
+                    "value": "armistice-11-novembre-2026-afcb.jpg",
+                    "id": "Y1846ae215f803992",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a26b0b5"
+                   }
+                  ],
+                  "id": "Z1816ae215f8037f7",
+                  "properties": 8448,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 4,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ426a59f48a7c81e"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Marche solidaire Novembre bleu - 15 novembre 2026",
+                    "id": "Y1866ae215f803aa4",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title2",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f482bf2d7"
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>La mairie de Baigneaux organise une marche solidaire pour Novembre bleu, ensemble contre le cancer de la prostate, le dimanche 15 novembre 2026.</p>\r",
+                      "<p>Rendez-vous &agrave; 9h devant la salle des f&ecirc;tes, pour un parcours de 8 km maximum.</p>"
+                     ]
+                    },
+                    "id": "Y1876ae215f803b2e",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a77dc91"
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Affiche de la marche solidaire Novembre bleu du 15 novembre 2026",
+                    "original_name": "marche-novembre-bleu-2026.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "marche-novembre-bleu-2026.jpg",
+                    "keep_format": "0",
+                    "width": {
+                     "$d": "752"
+                    },
+                    "height": {
+                     "$d": "1128"
+                    },
+                    "notFlexible": "0",
+                    "value": "marche-novembre-bleu-2026-6e11.jpg",
+                    "id": "Y1886ae215f803bb7",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a26b0b5"
+                   }
+                  ],
+                  "id": "Z1856ae215f803a1b",
+                  "properties": 8448,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 5,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ426a59f48a7c81e"
+                 },
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Décembre 2026",
+                  "id": "Y426a59f46d2bb0c",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 6,
+                  "user_style": "Title3",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Marché de Noël - 5 décembre 2026",
+                    "id": "Y476a59f7262931f",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title2",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f482bf2d7"
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Le comit&eacute; des f&ecirc;tes de Baigneaux organise le march&eacute; de No&euml;l de la commune le 5 d&eacute;cembre 2026.</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Nous recherchons des artisans producteurs pour participer &agrave; cette journ&eacute;e conviviale.</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Si vous &ecirc;tes int&eacute;ress&eacute;s, merci de contacter Aur&eacute;lie au 07.77.44.35.87</p>"
+                     ]
+                    },
+                    "id": "Y486a59f72629320",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a77dc91"
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Affiche du marché de Noël 2026",
+                    "original_name": "marchénoel2026.jpg",
+                    "in_gallery": "0",
+                    "uploaded_image": "march--noel2026.jpg",
+                    "keep_format": "0",
+                    "width": {
+                     "$d": "752"
+                    },
+                    "height": {
+                     "$d": "1067"
+                    },
+                    "notFlexible": "0",
+                    "value": "march--noel2026-fd05.jpg",
+                    "id": "Y496a59f72629321",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a26b0b5"
+                   }
+                  ],
+                  "id": "Z466a59f7262931e",
+                  "properties": 8448,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 7,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ426a59f48a7c81e"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Spectacle de Noël - 6 décembre 2026",
+                    "id": "Y476a59f7abe6b1d",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title2",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f482bf2d7"
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>La mairie vous propose un spectacle de No&euml;l, le 6 d&eacute;cembre 2026 &agrave; la Salle des F&ecirc;tes.</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Les d&eacute;tails vous seront communiqu&eacute;s ult&egrave;rieurement.</p>"
+                     ]
+                    },
+                    "id": "Y486a59f7abe6b1f",
+                    "properties": 2048,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a77dc91"
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Affiche du spectacle de Noël 2026",
+                    "original_name": "noel.png",
+                    "in_gallery": "0",
+                    "uploaded_image": "noel.png",
+                    "keep_format": "0",
+                    "width": {
+                     "$d": "752"
+                    },
+                    "height": {
+                     "$d": "323"
+                    },
+                    "notFlexible": "0",
+                    "value": "noel-f338.png",
+                    "id": "Y496a59f7abe6b20",
+                    "properties": 4096,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": null,
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY426a59f4a26b0b5"
+                   }
+                  ],
+                  "id": "Z466a59f7abe6b1b",
+                  "properties": 8448,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 8,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ426a59f48a7c81e"
                  }
                 ],
-                "id": "Z6269cbef51ab633",
-                "properties": 8208,
+                "id": "Z6369cbef51ab635",
+                "properties": 270336,
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 1,
-                "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": ".id_Z6269cbef51ab633 {\r\n\twidth: 75%;\r\n}\r"
+                "index": 0,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
                }
               ],
-              "id": "Z4869cbef51ab616",
-              "properties": 8209,
+              "href": "",
+              "id": "Z1766ae37cce57a6e",
+              "properties": 8192,
               "owner": {
                "$owner": "R"
               },
-              "index": 0,
+              "index": 2,
               "user_style": 0,
-              "more_classes": null,
+              "more_classes": "contenu_page",
               "embedded_css_rules": ""
              },
              {
@@ -1399,7 +1194,7 @@
               "owner": {
                "$owner": "R"
               },
-              "index": 1,
+              "index": 3,
               "user_style": "Title",
               "more_classes": "",
               "embedded_css_rules": ""
@@ -1414,7 +1209,7 @@
               "owner": {
                "$owner": "R"
               },
-              "index": 2,
+              "index": 4,
               "user_style": "Title",
               "more_classes": "",
               "embedded_css_rules": ""
@@ -1622,7 +1417,7 @@
               "owner": {
                "$owner": "R"
               },
-              "index": 3,
+              "index": 5,
               "user_style": 0,
               "more_classes": null,
               "embedded_css_rules": ""
@@ -1637,7 +1432,7 @@
               "owner": {
                "$owner": "R"
               },
-              "index": 4,
+              "index": 6,
               "user_style": "Title",
               "more_classes": "",
               "embedded_css_rules": ""
@@ -1813,7 +1608,7 @@
               "owner": {
                "$owner": "R"
               },
-              "index": 5,
+              "index": 7,
               "user_style": 0,
               "more_classes": null,
               "embedded_css_rules": ""

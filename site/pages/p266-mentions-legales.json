@@ -300,17 +300,192 @@
            {
             "$class": "WsContainer",
             "valign": null,
-            "model_id": 0,
+            "model_id": "menu_burger",
             "contents": [
              {
               "$class": "WsContainer",
               "valign": null,
-              "model_id": 0,
+              "model_id": "",
               "contents": [
                {
                 "$class": "WsContainer",
                 "valign": null,
-                "model_id": "MENU",
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WssMenu",
+                  "category": "0",
+                  "depth": "0",
+                  "value": "0",
+                  "id": "Y2176ae37cce59063",
+                  "properties": 262144,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "menu_burger",
+                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY236a1c1913916fa"
+                 }
+                ],
+                "id": "Z2166ae37cce58fda",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2166ae37cce58fda {\r\n\twidth: 25%;\r\n}\r",
+                "name_in_model": "MZ476a1c19449ca9b"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p>Menu</p>",
+                  "id": "Y2196ae37cce59175",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Y2196ae37cce59175 {\r",
+                    "\tfont-family: Playfair Display;\r",
+                    "\tfont-size: 2em;\r",
+                    "\ttext-align: center;\r",
+                    "\tpadding-top: 15px;\r",
+                    "\tfloat: left;\r",
+                    "}\r"
+                   ]
+                  },
+                  "name_in_model": "MY236a1c193a1e444"
+                 }
+                ],
+                "id": "Z2186ae37cce590ec",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2186ae37cce590ec {\r\n\twidth: 50%;\r\n}\r",
+                "name_in_model": "MZ126a1c1982a9777"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsImage",
+                  "caption": "",
+                  "href": "",
+                  "tooltip": "Armoiries de Baigneaux",
+                  "original_name": "armoiries.png",
+                  "in_gallery": "0",
+                  "uploaded_image": "armoiries.png",
+                  "keep_format": "0",
+                  "width": "55",
+                  "height": "60",
+                  "notFlexible": "0",
+                  "value": "armoiries-7e86.png",
+                  "id": "Y2216ae37cce59287",
+                  "properties": 266240,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": null,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Y2216ae37cce59287 {\r",
+                    "\ttext-align: right;\r",
+                    "\tmargin-left: auto;\r",
+                    "\tmargin-right: 0;\r",
+                    "}\r"
+                   ]
+                  },
+                  "name_in_model": "MY296a1c197b650e8"
+                 }
+                ],
+                "id": "Z2206ae37cce591fe",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 2,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2206ae37cce591fe {\r\n\twidth: 25%;\r\n}\r",
+                "name_in_model": "MZ146a1c1982a977b"
+               }
+              ],
+              "id": "Z2156ae37cce58f50",
+              "properties": 8209,
+              "owner": {
+               "$owner": "r"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": "",
+              "name_in_model": "MZ246a1c193a1e463"
+             }
+            ],
+            "id": "Z2146ae37cce58ec7",
+            "properties": 8256,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Subdivision",
+            "more_classes": " dontDisplayOnM dontDisplayOnL",
+            "embedded_css_rules": "",
+            "href": "",
+            "name_in_model": "MZ236a1c1919b626f"
+           }
+          ],
+          "href": "",
+          "id": "Z2226ae37cce59310",
+          "properties": 8192,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": "contenu_page",
+          "embedded_css_rules": ""
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "Path",
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
                 "contents": [
                  {
                   "$class": "WsContainer",
@@ -318,120 +493,22 @@
                   "model_id": "",
                   "contents": [
                    {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WssMenu",
-                      "category": "0",
-                      "depth": "1",
-                      "value": "vertical",
-                      "id": "Y186a19c0489d95a",
-                      "properties": 262144,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Main",
-                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY55dc82a8b7b9e"
-                     }
-                    ],
-                    "id": "Z176a19c0489d957",
-                    "properties": 8208,
+                    "$class": "WsTextarea",
+                    "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                    "id": "Y286a19c0489ddb3",
+                    "properties": 264192,
                     "owner": {
-                     "$owner": "r"
+                     "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z176a19c0489d957 {\r\n\twidth: 5%;\r\n}\r",
-                    "name_in_model": "MZ869ce9a560f24c"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": "<p>Menu</p>",
-                      "id": "Y206a19c0489d95e",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Essai",
-                      "more_classes": " dontDisplayOnM dontDisplayOnL",
-                      "embedded_css_rules": "",
-                      "name_in_model": "MY1869cea6e95b8ee"
-                     }
-                    ],
-                    "id": "Z196a19c0489d95c",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z196a19c0489d95c {\r\n\twidth: 0%;\r\n}\r",
-                    "name_in_model": "MZ1069ce9a560f252"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsImage",
-                      "caption": "",
-                      "href": "",
-                      "tooltip": "Logo de Baigneaux",
-                      "original_name": "logosite.png",
-                      "in_gallery": "0",
-                      "uploaded_image": "logosite-4dcc.png",
-                      "keep_format": "0",
-                      "width": "50",
-                      "height": "50",
-                      "notFlexible": "0",
-                      "value": "logosite-11ba.png",
-                      "id": "Y226a19c0489d961",
-                      "properties": 266240,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": null,
-                      "more_classes": " dontDisplayOnM dontDisplayOnL",
-                      "embedded_css_rules": {
-                       "$text": [
-                        ".id_Y226a19c0489d961 {\r",
-                        "\tmargin-left: auto;\r",
-                        "\tmargin-right: auto;\r",
-                        "}\r"
-                       ]
-                      },
-                      "name_in_model": "MY1669cea66d3bc6f"
-                     }
-                    ],
-                    "id": "Z216a19c0489d95f",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 2,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z216a19c0489d95f {\r\n\twidth: 25%;\r\n}\r",
-                    "name_in_model": "MZ1269cea67e092f5"
+                    "user_style": "Path",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY557f20acc196b"
                    }
                   ],
-                  "id": "Z166a19c0489d956",
-                  "properties": 8209,
+                  "id": "Z276a19c0489ddb2",
+                  "properties": 8208,
                   "owner": {
                    "$owner": "r"
                   },
@@ -439,186 +516,104 @@
                   "user_style": 0,
                   "more_classes": null,
                   "embedded_css_rules": "",
-                  "name_in_model": "MZ1769cea66d3bc94"
-                 }
-                ],
-                "id": "Z156a19c0489d951",
-                "properties": 270400,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": "Bloc_menu",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "name_in_model": "MZ5819e18fc9d3d",
-                "href": ""
-               },
-               {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": "Path",
-                "contents": [
+                  "name_in_model": "MZ595841f49586bf5"
+                 },
                  {
                   "$class": "WsContainer",
                   "valign": null,
                   "model_id": "",
                   "contents": [
                    {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsContainer",
-                      "valign": null,
-                      "model_id": "",
-                      "contents": [
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WsTextarea",
-                          "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
-                          "id": "Y286a19c0489ddb3",
-                          "properties": 264192,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": "Path",
-                          "more_classes": "",
-                          "embedded_css_rules": "",
-                          "name_in_model": "MY557f20acc196b"
-                         }
-                        ],
-                        "id": "Z276a19c0489ddb2",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "r"
-                        },
-                        "index": 0,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": "",
-                        "name_in_model": "MZ595841f49586bf5"
-                       },
-                       {
-                        "$class": "WsContainer",
-                        "valign": null,
-                        "model_id": "",
-                        "contents": [
-                         {
-                          "$class": "WssPagePath",
-                          "value": 0,
-                          "id": "Y306a19c0489ddb8",
-                          "properties": 262144,
-                          "owner": {
-                           "$owner": "R"
-                          },
-                          "index": 0,
-                          "user_style": "Path",
-                          "more_classes": "",
-                          "embedded_css_rules": "",
-                          "name_in_model": "MY557f20acc19db"
-                         }
-                        ],
-                        "id": "Z296a19c0489ddb6",
-                        "properties": 8208,
-                        "owner": {
-                         "$owner": "r"
-                        },
-                        "index": 1,
-                        "user_style": 0,
-                        "more_classes": null,
-                        "embedded_css_rules": ".id_Z296a19c0489ddb6 {\r\n\twidth: 89.8%;\r\n}\r",
-                        "name_in_model": "MZ605841f49586c54"
-                       }
-                      ],
-                      "id": "Z266a19c0489ddb0",
-                      "properties": 8209,
-                      "owner": {
-                       "$owner": "r"
-                      },
-                      "index": 0,
-                      "user_style": 0,
-                      "more_classes": null,
-                      "embedded_css_rules": "",
-                      "name_in_model": "MZ585841f49586a24"
-                     }
-                    ],
-                    "id": "Z256a19c0489ddaf",
-                    "properties": 270464,
+                    "$class": "WssPagePath",
+                    "value": 0,
+                    "id": "Y306a19c0489ddb8",
+                    "properties": 262144,
                     "owner": {
                      "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": 0,
+                    "user_style": "Path",
                     "more_classes": "",
-                    "embedded_css_rules": {
-                     "$text": [
-                      ".id_Z256a19c0489ddaf {\r",
-                      "\tpadding-bottom: 0px;\r",
-                      "\tpadding-left: 0px;\r",
-                      "\tborder-width: 0px;\r",
-                      "\tpadding-top: 10px;\r",
-                      "}\r"
-                     ]
-                    },
-                    "name_in_model": "MZ575841f4895c408",
-                    "href": ""
+                    "embedded_css_rules": "",
+                    "name_in_model": "MY557f20acc19db"
                    }
                   ],
-                  "id": "Z246a19c0489ddac",
-                  "properties": 270336,
+                  "id": "Z296a19c0489ddb6",
+                  "properties": 8208,
                   "owner": {
-                   "$owner": "R"
+                   "$owner": "r"
                   },
-                  "index": 0,
+                  "index": 1,
                   "user_style": 0,
-                  "more_classes": "",
-                  "embedded_css_rules": ".id_Z246a19c0489ddac {\r\n\tborder-width: 0px;\r\n}\r",
-                  "name_in_model": "MZ3369cbea6206362",
-                  "href": ""
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z296a19c0489ddb6 {\r\n\twidth: 89.8%;\r\n}\r",
+                  "name_in_model": "MZ605841f49586c54"
                  }
                 ],
-                "id": "Z236a19c0489dda7",
-                "properties": 270400,
+                "id": "Z266a19c0489ddb0",
+                "properties": 8209,
                 "owner": {
-                 "$owner": "R"
+                 "$owner": "r"
                 },
-                "index": 1,
-                "user_style": "Path",
-                "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
                 "embedded_css_rules": "",
-                "href": "",
-                "name_in_model": "MZ557f20acc188b"
+                "name_in_model": "MZ585841f49586a24"
                }
               ],
-              "id": "Z2069cbc9cdc3d51",
-              "properties": 270336,
+              "id": "Z256a19c0489ddaf",
+              "properties": 270464,
               "owner": {
                "$owner": "R"
               },
               "index": 0,
-              "user_style": "Subdivision",
+              "user_style": 0,
               "more_classes": "",
-              "embedded_css_rules": "",
+              "embedded_css_rules": {
+               "$text": [
+                ".id_Z256a19c0489ddaf {\r",
+                "\tpadding-bottom: 0px;\r",
+                "\tpadding-left: 0px;\r",
+                "\tborder-width: 0px;\r",
+                "\tpadding-top: 10px;\r",
+                "}\r"
+               ]
+              },
+              "name_in_model": "MZ575841f4895c408",
               "href": ""
              }
             ],
-            "id": "Z2169cbc9e30c51f",
-            "properties": 8208,
+            "id": "Z246a19c0489ddac",
+            "properties": 270336,
             "owner": {
-             "$owner": "r"
+             "$owner": "R"
             },
             "index": 0,
             "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ""
-           },
+            "more_classes": "",
+            "embedded_css_rules": ".id_Z246a19c0489ddac {\r\n\tborder-width: 0px;\r\n}\r",
+            "name_in_model": "MZ3369cbea6206362",
+            "href": ""
+           }
+          ],
+          "id": "Z236a19c0489dda7",
+          "properties": 270400,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 1,
+          "user_style": "Path",
+          "more_classes": " dontDisplayOnXS dontDisplayOnS",
+          "embedded_css_rules": "",
+          "href": "",
+          "name_in_model": "MZ557f20acc188b"
+         },
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
            {
             "$class": "WsContainer",
             "valign": null,
@@ -630,67 +625,82 @@
               "model_id": 0,
               "contents": [
                {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "Mentions légales",
-                  "id": "Y245b6c01d6417fe",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": "Title",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z235b713921e1c6d",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": "Bloc-titre",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "href": ""
-               },
-               {
-                "$class": "WsTextarea",
-                "value": {
-                 "$text": [
-                  "<p></p>\r",
-                  "<p>Conform&eacute;ment aux dispositions de la loi du 21 juin 2004 pour la confiance dans l&rsquo;&eacute;conomie num&eacute;rique, la mairie de<strong>&nbsp;BAIGNEAUX&nbsp;</strong>met &agrave; la disposition des internautes les informations suivantes.</p>\r",
-                  "<p></p>"
-                 ]
-                },
-                "id": "Y255b6c01d641848",
-                "properties": 2048,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": "Texte_normal_align_gauche",
-                "more_classes": "",
-                "embedded_css_rules": ""
-               },
-               {
                 "$class": "WssTitle",
                 "level": "2",
                 "href": "",
-                "value": "IDENTIFICATION",
-                "id": "Y265b6c01d641889",
+                "value": "Mentions légales",
+                "id": "Y245b6c01d6417fe",
                 "properties": 1024,
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 2,
+                "index": 0,
+                "user_style": "Title",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z235b713921e1c6d",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Bloc-titre",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             },
+             {
+              "$class": "WsTextarea",
+              "value": {
+               "$text": [
+                "<p></p>\r",
+                "<p>Conform&eacute;ment aux dispositions de la loi du 21 juin 2004 pour la confiance dans l&rsquo;&eacute;conomie num&eacute;rique, la mairie de<strong>&nbsp;BAIGNEAUX&nbsp;</strong>met &agrave; la disposition des internautes les informations suivantes.</p>\r",
+                "<p></p>"
+               ]
+              },
+              "id": "Y255b6c01d641848",
+              "properties": 2048,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 1,
+              "user_style": "Texte_normal_align_gauche",
+              "more_classes": "",
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WssTitle",
+              "level": "2",
+              "href": "",
+              "value": "IDENTIFICATION",
+              "id": "Y265b6c01d641889",
+              "properties": 1024,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 2,
+              "user_style": "Title2",
+              "more_classes": "",
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Éditeur",
+                "id": "Y275b6c01d6418c8",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
                 "user_style": "Title2",
                 "more_classes": "",
                 "embedded_css_rules": ""
@@ -701,19 +711,42 @@
                 "model_id": 0,
                 "contents": [
                  {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "Éditeur",
-                  "id": "Y275b6c01d6418c8",
-                  "properties": 1024,
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p><span class=\"LrzXr\">Nom<br /></span></p>\r",
+                      "<p><span class=\"LrzXr\">Adresse</span></p>\r",
+                      "<p><span class=\"LrzXr\">&nbsp;</span></p>\r",
+                      "<p><span class=\"LrzXr\">&nbsp;</span></p>\r",
+                      "<p><span class=\"LrzXr\">Code Postal<br /></span></p>\r",
+                      "<p><span class=\"LrzXr zdqRlf kno-fv\"><span data-dtype=\"d3ifr\" data-local-attribute=\"d3ph\"><span>T&eacute;l&eacute;phone&nbsp;:</span></span></span></p>"
+                     ]
+                    },
+                    "id": "Y285b6c01d641907",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2169cbca5838a50",
+                  "properties": 8208,
                   "owner": {
-                   "$owner": "R"
+                   "$owner": "r"
                   },
                   "index": 0,
-                  "user_style": "Title2",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z2169cbca5838a50 {\r\n\twidth: 33.3%;\r\n}\r"
                  },
                  {
                   "$class": "WsContainer",
@@ -721,85 +754,31 @@
                   "model_id": 0,
                   "contents": [
                    {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p><span class=\"LrzXr\">Nom<br /></span></p>\r",
-                        "<p><span class=\"LrzXr\">Adresse</span></p>\r",
-                        "<p><span class=\"LrzXr\">&nbsp;</span></p>\r",
-                        "<p><span class=\"LrzXr\">&nbsp;</span></p>\r",
-                        "<p><span class=\"LrzXr\">Code Postal<br /></span></p>\r",
-                        "<p><span class=\"LrzXr zdqRlf kno-fv\"><span data-dtype=\"d3ifr\" data-local-attribute=\"d3ph\"><span>T&eacute;l&eacute;phone&nbsp;:</span></span></span></p>"
-                       ]
-                      },
-                      "id": "Y285b6c01d641907",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2169cbca5838a50",
-                    "properties": 8208,
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Le Syndicat Mixte Gironde Num&eacute;rique</p>\r",
+                      "<p>Immeuble Gironde</p>\r",
+                      "<p>Rez de Dalle</p>\r",
+                      "<p>8 rue Corps Franc Pommi&egrave;s</p>\r",
+                      "<p>33000 Bordeaux</p>\r",
+                      "<p>05 35 54 08 84</p>\r",
+                      "<p></p>"
+                     ]
+                    },
+                    "id": "Y315b6c01d6419c4",
+                    "properties": 264192,
                     "owner": {
-                     "$owner": "r"
+                     "$owner": "R"
                     },
                     "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z2169cbca5838a50 {\r\n\twidth: 33.3%;\r\n}\r"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Le Syndicat Mixte Gironde Num&eacute;rique</p>\r",
-                        "<p>Immeuble Gironde</p>\r",
-                        "<p>Rez de Dalle</p>\r",
-                        "<p>8 rue Corps Franc Pommi&egrave;s</p>\r",
-                        "<p>33000 Bordeaux</p>\r",
-                        "<p>05 35 54 08 84</p>\r",
-                        "<p></p>"
-                       ]
-                      },
-                      "id": "Y315b6c01d6419c4",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2269cbca5838a60",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
                     "embedded_css_rules": ""
                    }
                   ],
-                  "id": "Z2069cbca58386bb",
-                  "properties": 8209,
+                  "id": "Z2269cbca5838a60",
+                  "properties": 8208,
                   "owner": {
                    "$owner": "r"
                   },
@@ -809,650 +788,651 @@
                   "embedded_css_rules": ""
                  }
                 ],
-                "id": "Z2069cbca5479462",
-                "properties": 8192,
+                "id": "Z2069cbca58386bb",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z2069cbca5479462",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 3,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Réalisation du site",
+                "id": "Y295b6c01d641946",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Title2",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p><span class=\"LrzXr\">Nom<br /></span></p>\r",
+                      "<p><span class=\"LrzXr\">Adresse</span></p>\r",
+                      "<p><span class=\"LrzXr\">Code Postal<br /></span></p>\r",
+                      "<p></p>"
+                     ]
+                    },
+                    "id": "Y335b6c01d641a45",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z1969cc2a4289cca",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z1969cc2a4289cca {\r\n\twidth: 33.2%;\r\n}\r"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Adrien Wintringer</p>\r",
+                      "<p>116 rue Yvonne de la Seigli&egrave;re</p>\r",
+                      "<p>33760 Baigneaux</p>"
+                     ]
+                    },
+                    "id": "Y1769cc2a428998b",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2069cc2a4289cd9",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z1869cc2a42899a5",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z2069cbca60cc779",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 4,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "HÉBERGEMENT DU SITE",
+                "id": "Y345b6c01d641a84",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Title2",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Nom</p>\r",
+                      "<p>Adresse</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>&nbsp;</p>\r",
+                      "<p>Code Postal</p>\r",
+                      "<p>T&eacute;l&eacute;phone</p>"
+                     ]
+                    },
+                    "id": "Y1769cc2a9c9b6e1",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z1969cc2a9c9bb1d",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": {
+                     "$text": [
+                      "<p>Le Syndicat Mixte Gironde Num&eacute;rique</p>\r",
+                      "<p>Immeuble Gironde</p>\r",
+                      "<p>Rez de Dalle</p>\r",
+                      "<p>8 rue Corps Franc Pommi&egrave;s</p>\r",
+                      "<p>33000 Bordeaux</p>\r",
+                      "<p>05 35 54 08 84</p>\r",
+                      "<p></p>"
+                     ]
+                    },
+                    "id": "Y355b6c01d641ac3",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2069cc2a9c9bb30",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": ".id_Z2069cc2a9c9bb30 {\r\n\twidth: 66.6%;\r\n}\r"
+                 }
+                ],
+                "id": "Z1869cc2a9c9b701",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "r"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z2069cbcacec8ceb",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 5,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "CONDITIONS GÉNÉRALES D'UTILISATION DU SITE",
+                "id": "Y365b6c01d641b02",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Title2",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Navigation",
+                "id": "Y375b6c01d641b41",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Title3",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsTextarea",
+                "value": "<p>Le pr&eacute;sent site est accessible 24 heures sur 24 et 7 jours sur 7, &agrave; l'exception des cas de force majeure, difficult&eacute;s informatiques, difficult&eacute;s li&eacute;es &agrave; la structure des r&eacute;seaux de communications ou difficult&eacute;s techniques.</p>",
+                "id": "Y385b6c01d641b80",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y385b6c01d641b80 {\r",
+                  "\tcolor: #555555;\r",
+                  "\tfont-size: 1.1em;\r",
+                  "}\r"
+                 ]
+                }
+               },
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Protection des données personnelles",
+                "id": "Y395b6c01d641bbf",
+                "properties": 1024,
                 "owner": {
                  "$owner": "R"
                 },
                 "index": 3,
-                "user_style": "Subdivision",
+                "user_style": "Title3",
                 "more_classes": "",
-                "embedded_css_rules": "",
-                "href": ""
+                "embedded_css_rules": ""
                },
                {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "Réalisation du site",
-                  "id": "Y295b6c01d641946",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": "Title2",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p><span class=\"LrzXr\">Nom<br /></span></p>\r",
-                        "<p><span class=\"LrzXr\">Adresse</span></p>\r",
-                        "<p><span class=\"LrzXr\">Code Postal<br /></span></p>\r",
-                        "<p></p>"
-                       ]
-                      },
-                      "id": "Y335b6c01d641a45",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z1969cc2a4289cca",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z1969cc2a4289cca {\r\n\twidth: 33.2%;\r\n}\r"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Adrien Wintringer</p>\r",
-                        "<p>116 rue Yvonne de la Seigli&egrave;re</p>\r",
-                        "<p>33760 Baigneaux</p>"
-                       ]
-                      },
-                      "id": "Y1769cc2a428998b",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2069cc2a4289cd9",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ""
-                   }
-                  ],
-                  "id": "Z1869cc2a42899a5",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 1,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z2069cbca60cc779",
-                "properties": 8192,
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p></p>\r",
+                  "<p>Les donn&eacute;es &agrave; caract&egrave;re personnel trait&eacute;es par la mairie de <strong>BAIGNEAUX&nbsp;</strong>fait l&rsquo;objet d&rsquo;un traitement conforme aux dispositions issues du R&egrave;glement G&eacute;n&eacute;ral relatif &agrave; la Protection des Donn&eacute;es et de la loi du 6 janiver 1978 relative &agrave; l&rsquo;Informatique et aux libert&eacute;s</p>\r",
+                  "<p></p>\r",
+                  "<p>Vous &ecirc;tes notamment inform&eacute; que les informations que vous communiquez par vos r&eacute;ponses aux formulaires pr&eacute;sents sur le site sont n&eacute;cessaires au traitement de votre demande et sont destin&eacute;es &agrave; la mairie de <strong>BAIGNEAUX</strong>, responsable du traitement.&nbsp;</p>\r",
+                  "<p></p>\r",
+                  "<p>Vous disposez, conform&eacute;ment &agrave; la loi Informatique et libert&eacute;s, d&rsquo;un droit d&rsquo;acc&egrave;s et de rectification, de portabilit&eacute;, de limitation et d&rsquo;opposition portant sur les donn&eacute;es vous concernant.</p>\r",
+                  "<p>&nbsp;</p>\r",
+                  "<p>En cas de r&eacute;clamation, veuillez vous adresser &agrave;&nbsp;:</p>"
+                 ]
+                },
+                "id": "Y405b6c01d641c04",
+                "properties": 2048,
                 "owner": {
                  "$owner": "R"
                 },
                 "index": 4,
-                "user_style": "Subdivision",
+                "user_style": null,
                 "more_classes": "",
-                "embedded_css_rules": "",
-                "href": ""
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y405b6c01d641c04 {\r",
+                  "\tcolor: #555555;\r",
+                  "\tfont-size: 1.1em;\r",
+                  "}\r"
+                 ]
+                }
                },
                {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "HÉBERGEMENT DU SITE",
-                  "id": "Y345b6c01d641a84",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": "Title2",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Nom</p>\r",
-                        "<p>Adresse</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>&nbsp;</p>\r",
-                        "<p>Code Postal</p>\r",
-                        "<p>T&eacute;l&eacute;phone</p>"
-                       ]
-                      },
-                      "id": "Y1769cc2a9c9b6e1",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z1969cc2a9c9bb1d",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ""
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "value": {
-                       "$text": [
-                        "<p>Le Syndicat Mixte Gironde Num&eacute;rique</p>\r",
-                        "<p>Immeuble Gironde</p>\r",
-                        "<p>Rez de Dalle</p>\r",
-                        "<p>8 rue Corps Franc Pommi&egrave;s</p>\r",
-                        "<p>33000 Bordeaux</p>\r",
-                        "<p>05 35 54 08 84</p>\r",
-                        "<p></p>"
-                       ]
-                      },
-                      "id": "Y355b6c01d641ac3",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": ""
-                     }
-                    ],
-                    "id": "Z2069cc2a9c9bb30",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "r"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z2069cc2a9c9bb30 {\r\n\twidth: 66.6%;\r\n}\r"
-                   }
-                  ],
-                  "id": "Z1869cc2a9c9b701",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "r"
-                  },
-                  "index": 1,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": ""
-                 }
-                ],
-                "id": "Z2069cbcacec8ceb",
-                "properties": 8192,
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p>Mairie de Baigneaux</p>\r",
+                  "<p>116 rue Yvonne de la Seigli&egrave;re</p>\r",
+                  "<p>33760 Baigneaux</p>\r",
+                  "<p><span class=\"LrzXr zdqRlf kno-fv\"><span data-dtype=\"d3ifr\" data-local-attribute=\"d3ph\"><span>T&eacute;l&eacute;phone&nbsp;:&nbsp;</span></span></span><span style=\"font-size: 12.8px;\">05 56 23 97 50</span></p>\r",
+                  "<p>Mail&nbsp;: mairie@baigneaux.fr</p>"
+                 ]
+                },
+                "id": "Y415b6c01d641c54",
+                "properties": 2048,
                 "owner": {
                  "$owner": "R"
                 },
                 "index": 5,
-                "user_style": "Subdivision",
+                "user_style": null,
                 "more_classes": "",
-                "embedded_css_rules": "",
-                "href": ""
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y415b6c01d641c54 {\r",
+                  "\tcolor: #555555;\r",
+                  "\tfont-size: 1.1em;\r",
+                  "}\r"
+                 ]
+                }
                },
                {
-                "$class": "WsContainer",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "CONDITIONS GÉNÉRALES D'UTILISATION DU SITE",
-                  "id": "Y365b6c01d641b02",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": "Title2",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "Navigation",
-                  "id": "Y375b6c01d641b41",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 1,
-                  "user_style": "Title3",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": "<p>Le pr&eacute;sent site est accessible 24 heures sur 24 et 7 jours sur 7, &agrave; l'exception des cas de force majeure, difficult&eacute;s informatiques, difficult&eacute;s li&eacute;es &agrave; la structure des r&eacute;seaux de communications ou difficult&eacute;s techniques.</p>",
-                  "id": "Y385b6c01d641b80",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 2,
-                  "user_style": null,
-                  "more_classes": "",
-                  "embedded_css_rules": {
-                   "$text": [
-                    ".id_Y385b6c01d641b80 {\r",
-                    "\tcolor: #555555;\r",
-                    "\tfont-size: 1.1em;\r",
-                    "}\r"
-                   ]
-                  }
-                 },
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "Protection des données personnelles",
-                  "id": "Y395b6c01d641bbf",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 3,
-                  "user_style": "Title3",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": {
-                   "$text": [
-                    "<p></p>\r",
-                    "<p>Les donn&eacute;es &agrave; caract&egrave;re personnel trait&eacute;es par la mairie de <strong>BAIGNEAUX&nbsp;</strong>fait l&rsquo;objet d&rsquo;un traitement conforme aux dispositions issues du R&egrave;glement G&eacute;n&eacute;ral relatif &agrave; la Protection des Donn&eacute;es et de la loi du 6 janiver 1978 relative &agrave; l&rsquo;Informatique et aux libert&eacute;s</p>\r",
-                    "<p></p>\r",
-                    "<p>Vous &ecirc;tes notamment inform&eacute; que les informations que vous communiquez par vos r&eacute;ponses aux formulaires pr&eacute;sents sur le site sont n&eacute;cessaires au traitement de votre demande et sont destin&eacute;es &agrave; la mairie de <strong>BAIGNEAUX</strong>, responsable du traitement.&nbsp;</p>\r",
-                    "<p></p>\r",
-                    "<p>Vous disposez, conform&eacute;ment &agrave; la loi Informatique et libert&eacute;s, d&rsquo;un droit d&rsquo;acc&egrave;s et de rectification, de portabilit&eacute;, de limitation et d&rsquo;opposition portant sur les donn&eacute;es vous concernant.</p>\r",
-                    "<p>&nbsp;</p>\r",
-                    "<p>En cas de r&eacute;clamation, veuillez vous adresser &agrave;&nbsp;:</p>"
-                   ]
-                  },
-                  "id": "Y405b6c01d641c04",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 4,
-                  "user_style": null,
-                  "more_classes": "",
-                  "embedded_css_rules": {
-                   "$text": [
-                    ".id_Y405b6c01d641c04 {\r",
-                    "\tcolor: #555555;\r",
-                    "\tfont-size: 1.1em;\r",
-                    "}\r"
-                   ]
-                  }
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": {
-                   "$text": [
-                    "<p>Mairie de Baigneaux</p>\r",
-                    "<p>116 rue Yvonne de la Seigli&egrave;re</p>\r",
-                    "<p>33760 Baigneaux</p>\r",
-                    "<p><span class=\"LrzXr zdqRlf kno-fv\"><span data-dtype=\"d3ifr\" data-local-attribute=\"d3ph\"><span>T&eacute;l&eacute;phone&nbsp;:&nbsp;</span></span></span><span style=\"font-size: 12.8px;\">05 56 23 97 50</span></p>\r",
-                    "<p>Mail&nbsp;: mairie@baigneaux.fr</p>"
-                   ]
-                  },
-                  "id": "Y415b6c01d641c54",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 5,
-                  "user_style": null,
-                  "more_classes": "",
-                  "embedded_css_rules": {
-                   "$text": [
-                    ".id_Y415b6c01d641c54 {\r",
-                    "\tcolor: #555555;\r",
-                    "\tfont-size: 1.1em;\r",
-                    "}\r"
-                   ]
-                  }
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": {
-                   "$text": [
-                    "<p>Le D&eacute;l&eacute;gu&eacute; &agrave; la Protection des Donn&eacute;es est Adrien Wintringer.</p>\r",
-                    "<p>Il peut &ecirc;tre contact&eacute; via l'adresse mail&nbsp;:&nbsp;mairie@baigneaux.fr</p>"
-                   ]
-                  },
-                  "id": "Y425b6c01d641c94",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 6,
-                  "user_style": null,
-                  "more_classes": "",
-                  "embedded_css_rules": {
-                   "$text": [
-                    ".id_Y425b6c01d641c94 {\r",
-                    "\tcolor: #555555;\r",
-                    "\tfont-size: 1.1em;\r",
-                    "}\r"
-                   ]
-                  }
-                 },
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "Cookies",
-                  "id": "Y435b6c01d641cd3",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 7,
-                  "user_style": "Title3",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": "<p>Vous &ecirc;tes &eacute;galement inform&eacute;s que lors de vos visites sur le site, un cookie peut s&rsquo;installer automatiquement sur votre logiciel de navigation. Le cookie est un bloc de donn&eacute;es qui ne permet pas de vous identifier en tant qu&rsquo;utilisateur mais qui permet d&rsquo;enregistrer des informations relatives &agrave; votre navigation sur le site.</p>",
-                  "id": "Y445b6c01d641d12",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 8,
-                  "user_style": null,
-                  "more_classes": "",
-                  "embedded_css_rules": {
-                   "$text": [
-                    ".id_Y445b6c01d641d12 {\r",
-                    "\tcolor: #555555;\r",
-                    "\tfont-size: 1.1em;\r",
-                    "}\r"
-                   ]
-                  }
-                 },
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "Droits d'auteur",
-                  "id": "Y455b6c01d641d51",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 9,
-                  "user_style": "Title3",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": {
-                   "$text": [
-                    "<p></p>\r",
-                    "<p>Ce site rel&egrave;ve de la l&eacute;gislation fran&ccedil;aise et internationale sur le droit d&rsquo;auteur et la propri&eacute;t&eacute; intellectuelle.&nbsp;L'ensemble des textes, illustrations, photographies, plans, dessins, animations, vid&eacute;os, sons de ce site sont la propri&eacute;t&eacute; de la Mairie de <strong>BAIGNEAUX</strong>. Leur reproduction et utilisation par un tiers est interdite, sauf autorisation &eacute;crite de&nbsp;Sandrine ALLAIN, maire de la commune.</p>\r",
-                    "<p></p>"
-                   ]
-                  },
-                  "id": "Y465b6c01d641d95",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 10,
-                  "user_style": null,
-                  "more_classes": "",
-                  "embedded_css_rules": {
-                   "$text": [
-                    ".id_Y465b6c01d641d95 {\r",
-                    "\tcolor: #555555;\r",
-                    "\tfont-size: 1.1em;\r",
-                    "}\r"
-                   ]
-                  }
-                 },
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "Liens Hypertextes",
-                  "id": "Y475b6c01d641dda",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 11,
-                  "user_style": "Title3",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": {
-                   "$text": [
-                    "<p></p>\r",
-                    "<p>L'utilisation de liens pointant vers l'une des pages du site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a>&nbsp;m&ecirc;me partiellement, est soumise &agrave; certaines conditions.</p>\r",
-                    "<p></p>\r",
-                    "<p>Sont autoris&eacute;s sans formalit&eacute; pr&eacute;alable&nbsp;:</p>\r",
-                    "<p></p>\r",
-                    "<ul>\r",
-                    "<li>\r",
-                    "<p>Les liens hypertextes vers le site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a></p>\r",
-                    "</li>\r",
-                    "<li>\r",
-                    "<p>Les liens images vers le site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a></p>\r",
-                    "</li>\r",
-                    "</ul>\r",
-                    "<p></p>\r",
-                    "<p>N&eacute;cessitent une autorisation pr&eacute;alable de la part du responsable de la publication toute reproduction, repr&eacute;sentation, de tout ou partie du site&nbsp;; ainsi que&nbsp;:</p>\r",
-                    "<p></p>\r",
-                    "<ul>\r",
-                    "<li>\r",
-                    "<p>La pr&eacute;sentation d'une page du site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a>&nbsp;dans un cadre n'appartenant pas &agrave; celui-ci</p>\r",
-                    "</li>\r",
-                    "<li>\r",
-                    "<p>L'insertion d'une image appartenant au site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a>&nbsp;dans une page n'appartenant pas &agrave; celui-ci</p>\r",
-                    "</li>\r",
-                    "</ul>\r",
-                    "<p></p>\r",
-                    "<p></p>"
-                   ]
-                  },
-                  "id": "Y485b6c01d641e1a",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 12,
-                  "user_style": null,
-                  "more_classes": "",
-                  "embedded_css_rules": {
-                   "$text": [
-                    ".id_Y485b6c01d641e1a {\r",
-                    "\tcolor: #555555;\r",
-                    "\tfont-size: 1.1em;\r",
-                    "}\r"
-                   ]
-                  }
-                 },
-                 {
-                  "$class": "WssTitle",
-                  "level": "2",
-                  "href": "",
-                  "value": "Responsabilité",
-                  "id": "Y495b6c01d641e59",
-                  "properties": 1024,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 13,
-                  "user_style": "Title3",
-                  "more_classes": "",
-                  "embedded_css_rules": ""
-                 },
-                 {
-                  "$class": "WsTextarea",
-                  "value": {
-                   "$text": [
-                    "<p></p>\r",
-                    "<p>La Mairie de <strong>BAIGNEAUX&nbsp;</strong>attache une importance toute particuli&egrave;re &agrave; la v&eacute;rification des informations qu'il d&eacute;livre via le site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a></p>\r",
-                    "<p></p>\r",
-                    "<p>Toutefois, ces informations ne sauraient &ecirc;tre utilis&eacute;es sans v&eacute;rification pr&eacute;alable par le lecteur du site et de la Mairie de <strong>BAIGNEAUX&nbsp;</strong>ne pourra &ecirc;tre tenu pour responsable des cons&eacute;quences directes ou indirectes r&eacute;sultant de la consultation, l'utilisation ou l'interpr&eacute;tation des informations fournies.&nbsp;</p>\r",
-                    "<p></p>\r",
-                    "<p>Les liens pr&eacute;sents sur le site <a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a>&nbsp;peuvent orienter l'utilisateur sur des sites ext&eacute;rieurs dont le contenu ne peut en aucune mani&egrave;re engager la responsabilit&eacute; de la r&eacute;daction du site de la Mairie de <strong>BAIGNEAUX</strong>.&nbsp;</p>\r",
-                    "<p></p>\r",
-                    "<p>De m&ecirc;me, la simple mention de marque ou de nom de soci&eacute;t&eacute; n'engage pas la r&eacute;daction du site sur la qualit&eacute; r&eacute;elle ou suppos&eacute;e des produits ou des services rendus.&nbsp;</p>\r",
-                    "<p></p>\r",
-                    "<p>Les marques de la Mairie de <strong>BAIGNEAUX</strong> et de ses partenaires, ainsi que les logos figurant sur le site sont des marques d&eacute;pos&eacute;es.</p>\r",
-                    "<p></p>\r",
-                    "<p>Toute reproduction totale ou partielle de ces marques ou de ces logos, effectu&eacute;e &agrave; partir des &eacute;l&eacute;ments du site sans l'autorisation expresse de la Mairie de <strong>BAIGNEAUX</strong> est donc prohib&eacute;e, au sens de l'article L.713-2 du Code de la propri&eacute;t&eacute; intellectuelle.</p>\r",
-                    "<p></p>"
-                   ]
-                  },
-                  "id": "Y505b6c01d641e98",
-                  "properties": 2048,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 14,
-                  "user_style": null,
-                  "more_classes": "",
-                  "embedded_css_rules": {
-                   "$text": [
-                    ".id_Y505b6c01d641e98 {\r",
-                    "\tcolor: #555555;\r",
-                    "\tfont-size: 1.1em;\r",
-                    "}\r"
-                   ]
-                  }
-                 }
-                ],
-                "id": "Z2069cbcae27c61f",
-                "properties": 8192,
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p>Le D&eacute;l&eacute;gu&eacute; &agrave; la Protection des Donn&eacute;es est Adrien Wintringer.</p>\r",
+                  "<p>Il peut &ecirc;tre contact&eacute; via l'adresse mail&nbsp;:&nbsp;mairie@baigneaux.fr</p>"
+                 ]
+                },
+                "id": "Y425b6c01d641c94",
+                "properties": 2048,
                 "owner": {
                  "$owner": "R"
                 },
                 "index": 6,
-                "user_style": "Subdivision",
+                "user_style": null,
                 "more_classes": "",
-                "embedded_css_rules": "",
-                "href": ""
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y425b6c01d641c94 {\r",
+                  "\tcolor: #555555;\r",
+                  "\tfont-size: 1.1em;\r",
+                  "}\r"
+                 ]
+                }
+               },
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Cookies",
+                "id": "Y435b6c01d641cd3",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 7,
+                "user_style": "Title3",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsTextarea",
+                "value": "<p>Vous &ecirc;tes &eacute;galement inform&eacute;s que lors de vos visites sur le site, un cookie peut s&rsquo;installer automatiquement sur votre logiciel de navigation. Le cookie est un bloc de donn&eacute;es qui ne permet pas de vous identifier en tant qu&rsquo;utilisateur mais qui permet d&rsquo;enregistrer des informations relatives &agrave; votre navigation sur le site.</p>",
+                "id": "Y445b6c01d641d12",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 8,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y445b6c01d641d12 {\r",
+                  "\tcolor: #555555;\r",
+                  "\tfont-size: 1.1em;\r",
+                  "}\r"
+                 ]
+                }
+               },
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Droits d'auteur",
+                "id": "Y455b6c01d641d51",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 9,
+                "user_style": "Title3",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p></p>\r",
+                  "<p>Ce site rel&egrave;ve de la l&eacute;gislation fran&ccedil;aise et internationale sur le droit d&rsquo;auteur et la propri&eacute;t&eacute; intellectuelle.&nbsp;L'ensemble des textes, illustrations, photographies, plans, dessins, animations, vid&eacute;os, sons de ce site sont la propri&eacute;t&eacute; de la Mairie de <strong>BAIGNEAUX</strong>. Leur reproduction et utilisation par un tiers est interdite, sauf autorisation &eacute;crite de&nbsp;Sandrine ALLAIN, maire de la commune.</p>\r",
+                  "<p></p>"
+                 ]
+                },
+                "id": "Y465b6c01d641d95",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 10,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y465b6c01d641d95 {\r",
+                  "\tcolor: #555555;\r",
+                  "\tfont-size: 1.1em;\r",
+                  "}\r"
+                 ]
+                }
+               },
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Liens Hypertextes",
+                "id": "Y475b6c01d641dda",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 11,
+                "user_style": "Title3",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p></p>\r",
+                  "<p>L'utilisation de liens pointant vers l'une des pages du site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a>&nbsp;m&ecirc;me partiellement, est soumise &agrave; certaines conditions.</p>\r",
+                  "<p></p>\r",
+                  "<p>Sont autoris&eacute;s sans formalit&eacute; pr&eacute;alable&nbsp;:</p>\r",
+                  "<p></p>\r",
+                  "<ul>\r",
+                  "<li>\r",
+                  "<p>Les liens hypertextes vers le site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a></p>\r",
+                  "</li>\r",
+                  "<li>\r",
+                  "<p>Les liens images vers le site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a></p>\r",
+                  "</li>\r",
+                  "</ul>\r",
+                  "<p></p>\r",
+                  "<p>N&eacute;cessitent une autorisation pr&eacute;alable de la part du responsable de la publication toute reproduction, repr&eacute;sentation, de tout ou partie du site&nbsp;; ainsi que&nbsp;:</p>\r",
+                  "<p></p>\r",
+                  "<ul>\r",
+                  "<li>\r",
+                  "<p>La pr&eacute;sentation d'une page du site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a>&nbsp;dans un cadre n'appartenant pas &agrave; celui-ci</p>\r",
+                  "</li>\r",
+                  "<li>\r",
+                  "<p>L'insertion d'une image appartenant au site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a>&nbsp;dans une page n'appartenant pas &agrave; celui-ci</p>\r",
+                  "</li>\r",
+                  "</ul>\r",
+                  "<p></p>\r",
+                  "<p></p>"
+                 ]
+                },
+                "id": "Y485b6c01d641e1a",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 12,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y485b6c01d641e1a {\r",
+                  "\tcolor: #555555;\r",
+                  "\tfont-size: 1.1em;\r",
+                  "}\r"
+                 ]
+                }
+               },
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
+                "value": "Responsabilité",
+                "id": "Y495b6c01d641e59",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 13,
+                "user_style": "Title3",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p></p>\r",
+                  "<p>La Mairie de <strong>BAIGNEAUX&nbsp;</strong>attache une importance toute particuli&egrave;re &agrave; la v&eacute;rification des informations qu'il d&eacute;livre via le site&nbsp;<a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a></p>\r",
+                  "<p></p>\r",
+                  "<p>Toutefois, ces informations ne sauraient &ecirc;tre utilis&eacute;es sans v&eacute;rification pr&eacute;alable par le lecteur du site et de la Mairie de <strong>BAIGNEAUX&nbsp;</strong>ne pourra &ecirc;tre tenu pour responsable des cons&eacute;quences directes ou indirectes r&eacute;sultant de la consultation, l'utilisation ou l'interpr&eacute;tation des informations fournies.&nbsp;</p>\r",
+                  "<p></p>\r",
+                  "<p>Les liens pr&eacute;sents sur le site <a href=\"http://www.baigneaux.fr\" title=\"www.baigneaux.fr\"><span style=\"color: #444444; font-size: 12.8px;\">www.baigneaux</span><span style=\"color: #444444; font-size: 12.8px;\">.fr</span></a>&nbsp;peuvent orienter l'utilisateur sur des sites ext&eacute;rieurs dont le contenu ne peut en aucune mani&egrave;re engager la responsabilit&eacute; de la r&eacute;daction du site de la Mairie de <strong>BAIGNEAUX</strong>.&nbsp;</p>\r",
+                  "<p></p>\r",
+                  "<p>De m&ecirc;me, la simple mention de marque ou de nom de soci&eacute;t&eacute; n'engage pas la r&eacute;daction du site sur la qualit&eacute; r&eacute;elle ou suppos&eacute;e des produits ou des services rendus.&nbsp;</p>\r",
+                  "<p></p>\r",
+                  "<p>Les marques de la Mairie de <strong>BAIGNEAUX</strong> et de ses partenaires, ainsi que les logos figurant sur le site sont des marques d&eacute;pos&eacute;es.</p>\r",
+                  "<p></p>\r",
+                  "<p>Toute reproduction totale ou partielle de ces marques ou de ces logos, effectu&eacute;e &agrave; partir des &eacute;l&eacute;ments du site sans l'autorisation expresse de la Mairie de <strong>BAIGNEAUX</strong> est donc prohib&eacute;e, au sens de l'article L.713-2 du Code de la propri&eacute;t&eacute; intellectuelle.</p>\r",
+                  "<p></p>"
+                 ]
+                },
+                "id": "Y505b6c01d641e98",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 14,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y505b6c01d641e98 {\r",
+                  "\tcolor: #555555;\r",
+                  "\tfont-size: 1.1em;\r",
+                  "}\r"
+                 ]
+                }
                }
               ],
-              "id": "Z235b6c01d6417b5",
-              "properties": 270336,
+              "id": "Z2069cbcae27c61f",
+              "properties": 8192,
               "owner": {
                "$owner": "R"
               },
-              "index": 0,
+              "index": 6,
               "user_style": "Subdivision",
               "more_classes": "",
               "embedded_css_rules": "",
               "href": ""
              }
             ],
-            "id": "Z2269cbc9e30c584",
-            "properties": 8208,
+            "id": "Z235b6c01d6417b5",
+            "properties": 270336,
             "owner": {
-             "$owner": "r"
+             "$owner": "R"
             },
-            "index": 1,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ""
+            "index": 0,
+            "user_style": "Subdivision",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": ""
            }
           ],
-          "id": "Z2069cbc9e30bd09",
-          "properties": 8209,
+          "href": "",
+          "id": "Z1536ae37cce56e1d",
+          "properties": 8192,
           "owner": {
-           "$owner": "r"
+           "$owner": "R"
           },
-          "index": 0,
+          "index": 2,
           "user_style": 0,
-          "more_classes": null,
+          "more_classes": "contenu_page",
           "embedded_css_rules": ""
          }
         ],
