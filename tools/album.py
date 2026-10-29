@@ -33,6 +33,7 @@ NOW = int(time.time())
 
 # ---------------------------------------------------------------- utilitaires
 def slugify(s):
+    s = re.sub(r"['’]", ' ', s)                  # d’album -> d album
     s = s.replace('œ', 'oe').replace('Œ', 'Oe').replace('æ', 'ae').replace('Æ', 'Ae')
     s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
     return re.sub(r'[^a-z0-9]+', '-', s).strip('-')

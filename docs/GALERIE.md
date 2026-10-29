@@ -33,4 +33,4 @@ mois de la date (`galerie-fete-du-village-septembre-2027.html`). Un album déjà
 
 Dans l'éditeur WebSiCo : changer une photo, un texte alternatif, le titre ou le texte de la carte se fait
 normalement. Pour **ajouter** des photos à un album, le plus simple est d'en dupliquer une dans la grille
-de l'album puis de changer l'image (cocher « galerie »).
+de l'album puis de changer l'image (l'option « En galerie » reste cochée).
