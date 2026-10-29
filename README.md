@@ -22,7 +22,7 @@ site/
   data/ws_preferences.php préférences du site, mot de passe retiré (__WS_PWD__)
   layout.json             ordre des instructions du dump SQL
   zipmeta.json            métadonnées de l'archive d'origine (ordre, dates, empreintes)
-tools/                    outils (Python 3, aucune dépendance ; PHP pour check_dump.php)
+tools/                    outils (Python 3, aucune dépendance sauf Pillow pour album.py ; PHP pour check_dump.php)
 docs/                     audit, format des données
 ```
 
@@ -94,6 +94,7 @@ et le remplace par `__WS_PWD__` dans le dépôt. Le dépôt étant public, ce fi
 | `tools/local/responsive_check.js` | audit débordements / images cassées sur toutes les pages, 4 largeurs |
 | `tools/outline.py` | plan lisible d'une page (`--css` pour le CSS embarqué) |
 | `tools/audit.py` | audit statique (styles, CSS, liens, images) |
+| `tools/album.py` | ajoute un album photo à la galerie : vignettes, page de l'album, carte au sommaire (docs/GALERIE.md) |
 | `tools/check_dump.php` | vérifie un dump avec `unserialize()` de PHP |
 | `tools/wsdata.py`, `tools/codec.py` | bibliothèque : dump SQL, sérialisation PHP, codec JSON |
 

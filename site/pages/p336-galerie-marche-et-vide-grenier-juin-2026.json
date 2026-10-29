@@ -1,0 +1,1336 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "p336",
+  "fr",
+  "galerie-marche-et-vide-grenier-juin-2026",
+  "2026-10-29 13:17:24",
+  "Marché et vide-grenier baigneaudais",
+  "8201",
+  {
+   "$php": {
+    "$class": "WssPage",
+    "description": "Photos : March&eacute; des producteurs et vide-grenier baigneaudais &ndash; 7 juin 2026",
+    "title": "",
+    "url_id": "galerie-marche-et-vide-grenier-juin-2026",
+    "date": 1793276244,
+    "save_number": 1,
+    "name": "Marché et vide-grenier baigneaudais",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": 0,
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": 0,
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "Header2",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Baigneaux</a></p>",
+                  "id": "Y2586ae339546d179",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "retour_accueil",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY256a19b7672c6f8"
+                 }
+                ],
+                "id": "Z2576ae339546d0f0",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2576ae339546d0f0 {\r\n\twidth: 20%;\r\n}\r",
+                "name_in_model": "MZ26a19b6dd78037"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/mairie.html\">Ma Mairie</a></p>",
+                  "id": "Y2606ae339546d28c",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY146a19b6a4141de"
+                 }
+                ],
+                "id": "Z2596ae339546d203",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2596ae339546d203 {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ46a19b6f0a695f"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/vie-communale.html\">Ma Commune</a></p>",
+                  "id": "Y2626ae339546d39e",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY186a19b6e2dbe74"
+                 }
+                ],
+                "id": "Z2616ae339546d315",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2616ae339546d315 {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ66a19b7469847a"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+                  "id": "Y2646ae339546d4b0",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY206a19b70373d87"
+                 }
+                ],
+                "id": "Z2636ae339546d427",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2636ae339546d427 {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ86a19b752453f5"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/annuaire.html\">Services</a></p>",
+                  "id": "Y2666ae339546d5c2",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY226a19b74bd2ee5"
+                 }
+                ],
+                "id": "Z2656ae339546d539",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 4,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2656ae339546d539 {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ156a19b7dd3fe6e"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/formalites-administratives.html\">D&eacute;marches</a></p>",
+                  "id": "Y2686ae339546d6d4",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY296a19b7d2755a6"
+                 }
+                ],
+                "id": "Z2676ae339546d64b",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 5,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2676ae339546d64b {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ176a19b7dd3fe71"
+               }
+              ],
+              "id": "Z2566ae339546d067",
+              "properties": 8209,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": "",
+              "name_in_model": "MZ156a19b6a4141f9"
+             }
+            ],
+            "id": "Z2556ae339546cfde",
+            "properties": 270400,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "BodyHome",
+            "more_classes": " dontDisplayOnXS dontDisplayOnS",
+            "embedded_css_rules": "",
+            "href": "",
+            "name_in_model": "MZ869ccf3d56f152"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "MENU",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WssMenu",
+                          "category": "0",
+                          "depth": "1",
+                          "value": "vertical",
+                          "id": "Y2766ae339546db1d",
+                          "properties": 262144,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": "Main",
+                          "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                          "embedded_css_rules": "",
+                          "name_in_model": "MY55dc82a8b7b9e"
+                         }
+                        ],
+                        "id": "Z2756ae339546da94",
+                        "properties": 8208,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": 0,
+                        "more_classes": null,
+                        "embedded_css_rules": ".id_Z2756ae339546da94 {\r\n\twidth: 100%;\r\n}\r",
+                        "name_in_model": "MZ869ce9a560f24c"
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": "<p>Menu</p>",
+                          "id": "Y2786ae339546dc2f",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": "Essai",
+                          "more_classes": " dontDisplayOnM dontDisplayOnL",
+                          "embedded_css_rules": "",
+                          "name_in_model": "MY1869cea6e95b8ee"
+                         }
+                        ],
+                        "id": "Z2776ae339546dba6",
+                        "properties": 8208,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 1,
+                        "user_style": 0,
+                        "more_classes": null,
+                        "embedded_css_rules": ".id_Z2776ae339546dba6 {\r\n\twidth: 100%;\r\n}\r",
+                        "name_in_model": "MZ1069ce9a560f252"
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WsImage",
+                          "caption": "",
+                          "href": "",
+                          "tooltip": "Logo de Baigneaux",
+                          "original_name": "logosite.png",
+                          "in_gallery": "0",
+                          "uploaded_image": "logosite-4dcc.png",
+                          "keep_format": "0",
+                          "width": "50",
+                          "height": "50",
+                          "notFlexible": "0",
+                          "value": "logosite-11ba.png",
+                          "id": "Y2806ae339546dd41",
+                          "properties": 266240,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": null,
+                          "more_classes": " dontDisplayOnM dontDisplayOnL",
+                          "embedded_css_rules": {
+                           "$text": [
+                            ".id_Y2806ae339546dd41 {\r",
+                            "\tmargin-left: auto;\r",
+                            "\tmargin-right: auto;\r",
+                            "}\r"
+                           ]
+                          },
+                          "name_in_model": "MY1669cea66d3bc6f"
+                         }
+                        ],
+                        "id": "Z2796ae339546dcb8",
+                        "properties": 8208,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 2,
+                        "user_style": 0,
+                        "more_classes": null,
+                        "embedded_css_rules": ".id_Z2796ae339546dcb8 {\r\n\twidth: 25%;\r\n}\r",
+                        "name_in_model": "MZ1269cea67e092f5"
+                       }
+                      ],
+                      "id": "Z2746ae339546da0b",
+                      "properties": 8209,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": "",
+                      "name_in_model": "MZ1769cea66d3bc94"
+                     }
+                    ],
+                    "id": "Z2736ae339546d982",
+                    "properties": 270400,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Bloc_menu",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ5819e18fc9d3d",
+                    "href": ""
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "Path",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WsContainer",
+                          "valign": null,
+                          "model_id": "",
+                          "contents": [
+                           {
+                            "$class": "WsContainer",
+                            "valign": null,
+                            "model_id": "",
+                            "contents": [
+                             {
+                              "$class": "WsTextarea",
+                              "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                              "id": "Y2866ae339546e078",
+                              "properties": 264192,
+                              "owner": {
+                               "$owner": "R"
+                              },
+                              "index": 0,
+                              "user_style": "Path",
+                              "more_classes": "",
+                              "embedded_css_rules": "",
+                              "name_in_model": "MY557f20acc196b"
+                             }
+                            ],
+                            "id": "Z2856ae339546dfef",
+                            "properties": 8208,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 0,
+                            "user_style": 0,
+                            "more_classes": null,
+                            "embedded_css_rules": "",
+                            "name_in_model": "MZ595841f49586bf5"
+                           },
+                           {
+                            "$class": "WsContainer",
+                            "valign": null,
+                            "model_id": "",
+                            "contents": [
+                             {
+                              "$class": "WssPagePath",
+                              "value": 0,
+                              "id": "Y2886ae339546e18a",
+                              "properties": 262144,
+                              "owner": {
+                               "$owner": "R"
+                              },
+                              "index": 0,
+                              "user_style": "Path",
+                              "more_classes": "",
+                              "embedded_css_rules": "",
+                              "name_in_model": "MY557f20acc19db"
+                             }
+                            ],
+                            "id": "Z2876ae339546e101",
+                            "properties": 8208,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 1,
+                            "user_style": 0,
+                            "more_classes": null,
+                            "embedded_css_rules": ".id_Z2876ae339546e101 {\r\n\twidth: 89.8%;\r\n}\r",
+                            "name_in_model": "MZ605841f49586c54"
+                           }
+                          ],
+                          "id": "Z2846ae339546df66",
+                          "properties": 8209,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": 0,
+                          "more_classes": null,
+                          "embedded_css_rules": "",
+                          "name_in_model": "MZ585841f49586a24"
+                         }
+                        ],
+                        "id": "Z2836ae339546dedd",
+                        "properties": 270464,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": 0,
+                        "more_classes": "",
+                        "embedded_css_rules": {
+                         "$text": [
+                          ".id_Z2836ae339546dedd {\r",
+                          "\tpadding-bottom: 0px;\r",
+                          "\tpadding-left: 0px;\r",
+                          "\tborder-width: 0px;\r",
+                          "\tpadding-top: 10px;\r",
+                          "}\r"
+                         ]
+                        },
+                        "name_in_model": "MZ575841f4895c408",
+                        "href": ""
+                       }
+                      ],
+                      "id": "Z2826ae339546de54",
+                      "properties": 270336,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": "",
+                      "embedded_css_rules": ".id_Z2826ae339546de54 {\r\n\tborder-width: 0px;\r\n}\r",
+                      "name_in_model": "MZ3369cbea6206362",
+                      "href": ""
+                     }
+                    ],
+                    "id": "Z2816ae339546ddcb",
+                    "properties": 270400,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Path",
+                    "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                    "embedded_css_rules": "",
+                    "href": "",
+                    "name_in_model": "MZ557f20acc188b"
+                   }
+                  ],
+                  "id": "Z2726ae339546d8f9",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Subdivision",
+                  "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                  "embedded_css_rules": "",
+                  "href": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "menu_burger",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WssMenu",
+                        "category": "0",
+                        "depth": "0",
+                        "value": "0",
+                        "id": "Y2926ae339546e3af",
+                        "properties": 262144,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": "menu_burger",
+                        "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY236a1c1913916fa"
+                       }
+                      ],
+                      "id": "Z2916ae339546e325",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z2916ae339546e325 {\r\n\twidth: 25%;\r\n}\r",
+                      "name_in_model": "MZ476a1c19449ca9b"
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": "<p>Menu</p>",
+                        "id": "Y2946ae339546e4c1",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": {
+                         "$text": [
+                          ".id_Y2946ae339546e4c1 {\r",
+                          "\tfont-family: Playfair Display;\r",
+                          "\tfont-size: 2em;\r",
+                          "\ttext-align: center;\r",
+                          "\tpadding-top: 15px;\r",
+                          "\tfloat: left;\r",
+                          "}\r"
+                         ]
+                        },
+                        "name_in_model": "MY236a1c193a1e444"
+                       }
+                      ],
+                      "id": "Z2936ae339546e438",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z2936ae339546e438 {\r\n\twidth: 50%;\r\n}\r",
+                      "name_in_model": "MZ126a1c1982a9777"
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsImage",
+                        "caption": "",
+                        "href": "",
+                        "tooltip": "Armoiries de Baigneaux",
+                        "original_name": "armoiries.png",
+                        "in_gallery": "0",
+                        "uploaded_image": "armoiries.png",
+                        "keep_format": "0",
+                        "width": "55",
+                        "height": "60",
+                        "notFlexible": "0",
+                        "value": "armoiries-7e86.png",
+                        "id": "Y2966ae339546e5d3",
+                        "properties": 266240,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": {
+                         "$text": [
+                          ".id_Y2966ae339546e5d3 {\r",
+                          "\ttext-align: right;\r",
+                          "\tmargin-left: auto;\r",
+                          "\tmargin-right: 0;\r",
+                          "}\r"
+                         ]
+                        },
+                        "name_in_model": "MY296a1c197b650e8"
+                       }
+                      ],
+                      "id": "Z2956ae339546e54a",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 2,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z2956ae339546e54a {\r\n\twidth: 25%;\r\n}\r",
+                      "name_in_model": "MZ146a1c1982a977b"
+                     }
+                    ],
+                    "id": "Z2906ae339546e29c",
+                    "properties": 8209,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ246a1c193a1e463"
+                   }
+                  ],
+                  "id": "Z2896ae339546e213",
+                  "properties": 8256,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Subdivision",
+                  "more_classes": " dontDisplayOnM dontDisplayOnL",
+                  "embedded_css_rules": "",
+                  "href": "",
+                  "name_in_model": "MZ236a1c1919b626f"
+                 }
+                ],
+                "id": "Z2716ae339546d870",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Marché des producteurs et vide-grenier baigneaudais",
+                    "id": "Y2996ae339546e76e",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "id": "Z2986ae339546e6e5",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "href": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p><a href=\"galerie-evenements.html\">&larr; Toutes les galeries</a> <span class=\"album_infos\">&nbsp;&middot; 7 juin 2026 &middot; 12 photos</span></p>",
+                    "id": "Y2496ae339546cca8",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "album_nav",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>Cliquez sur une photo pour l&rsquo;agrandir, puis utilisez les fl&egrave;ches pour faire d&eacute;filer l&rsquo;album.</p>",
+                    "id": "Y2506ae339546cd31",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "album_aide",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 1",
+                      "original_name": "marche-et-vide-grenier-juin-2026-01.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-01.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-01-v.jpg",
+                      "id": "Y2366ae339546c5b1",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 2",
+                      "original_name": "marche-et-vide-grenier-juin-2026-02.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-02.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-02-v.jpg",
+                      "id": "Y2376ae339546c63b",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 3",
+                      "original_name": "marche-et-vide-grenier-juin-2026-03.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-03.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-03-v.jpg",
+                      "id": "Y2386ae339546c6c4",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 2,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 4",
+                      "original_name": "marche-et-vide-grenier-juin-2026-04.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-04.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-04-v.jpg",
+                      "id": "Y2396ae339546c74d",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 3,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 5",
+                      "original_name": "marche-et-vide-grenier-juin-2026-05.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-05.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-05-v.jpg",
+                      "id": "Y2406ae339546c7d6",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 4,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 6",
+                      "original_name": "marche-et-vide-grenier-juin-2026-06.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-06.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-06-v.jpg",
+                      "id": "Y2416ae339546c85f",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 5,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 7",
+                      "original_name": "marche-et-vide-grenier-juin-2026-07.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-07.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-07-v.jpg",
+                      "id": "Y2426ae339546c8e8",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 6,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 8",
+                      "original_name": "marche-et-vide-grenier-juin-2026-08.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-08.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-08-v.jpg",
+                      "id": "Y2436ae339546c971",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 7,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 9",
+                      "original_name": "marche-et-vide-grenier-juin-2026-09.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-09.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-09-v.jpg",
+                      "id": "Y2446ae339546c9fa",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 8,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 10",
+                      "original_name": "marche-et-vide-grenier-juin-2026-10.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-10.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-10-v.jpg",
+                      "id": "Y2456ae339546ca83",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 9,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 11",
+                      "original_name": "marche-et-vide-grenier-juin-2026-11.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-11.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-11-v.jpg",
+                      "id": "Y2466ae339546cb0c",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 10,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Marché des producteurs et vide-grenier baigneaudais – photo 12",
+                      "original_name": "marche-et-vide-grenier-juin-2026-12.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "marche-et-vide-grenier-juin-2026-12.jpg",
+                      "keep_format": "0",
+                      "width": "400",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "marche-et-vide-grenier-juin-2026-12-v.jpg",
+                      "id": "Y2476ae339546cb95",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 11,
+                      "user_style": null,
+                      "more_classes": "photo_album",
+                      "embedded_css_rules": ""
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z2486ae339546cc1f",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": "album_grille",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p><a href=\"galerie-evenements.html\">&larr; Toutes les galeries</a></p>",
+                    "id": "Y2516ae339546cdba",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 3,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "album_nav album_nav_bas",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z3146ae339546ef77",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Subdivision",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z2976ae339546e65c",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z2976ae339546e65c {\r\n\twidth: 75%;\r\n}\r"
+               }
+              ],
+              "id": "Z2706ae339546d7e7",
+              "properties": 8209,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ""
+             }
+            ],
+            "id": "Z2696ae339546d75d",
+            "properties": 8192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": "BodyHome",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": ""
+           }
+          ],
+          "id": "Z2546ae339546cf55",
+          "properties": 8208,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         },
+         {
+          "$class": "WsContainer",
+          "valign": "bottom",
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "Footer",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p>Mairie de Baigneaux -&nbsp;<span style=\"font-size: 12.8px;\">116 rue Yvonne de la Seigli&egrave;re -&nbsp;</span><span style=\"font-size: 12.8px;\">33760 Baigneaux</span></p>\r",
+                  "<p>T&eacute;l: <a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a>&nbsp;-&nbsp;E-Mail&nbsp;: <a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>\r",
+                  "<p>Suivez Baigneaux sur Facebook&nbsp;:&nbsp;<a href=\"https://www.facebook.com/lesbaignaudais/\">facebook.com/lesbaignaudais</a></p>\r",
+                  "<p><a href=\"mentions-legales.html\">Mentions L&eacute;gales</a> - <a href=\"https://www.baigneaux.fr/historique-modifications.html\">Historique des versions</a></p>"
+                 ]
+                },
+                "id": "Y3126ae339546ee64",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Texte-centre",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MY557f1c0abbc42"
+               },
+               {
+                "$class": "WssBadge",
+                "value": 0,
+                "id": "Y3136ae339546eeed",
+                "properties": 0,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y3136ae339546eeed {\r",
+                  "\tmargin-left: auto;\r",
+                  "\tmargin-right: auto;\r",
+                  "}\r"
+                 ]
+                },
+                "name_in_model": "MY1869cb06ae4d576"
+               }
+              ],
+              "id": "Z3116ae339546eddb",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": "",
+              "embedded_css_rules": {
+               "$text": [
+                ".id_Z3116ae339546eddb {\r",
+                "\tborder-color: #000091;\r",
+                "\tborder-width: 0px;\r",
+                "\tmax-width: 1178px;\r",
+                "}\r"
+               ]
+              },
+              "name_in_model": "MZ165f578e3250a9f",
+              "href": ""
+             }
+            ],
+            "id": "Z3106ae339546ed52",
+            "properties": 8256,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "fred1",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": "",
+            "name_in_model": "MZ557f17014423f"
+           }
+          ],
+          "id": "Z3096ae339546ecc9",
+          "properties": 8208,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 1,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         }
+        ],
+        "id": "Z2536ae339546cecc",
+        "properties": 8210,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": 0,
+        "more_classes": null,
+        "embedded_css_rules": ""
+       }
+      ],
+      "id": "Z2526ae339546ce43",
+      "properties": 8208,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": 0,
+      "more_classes": null,
+      "embedded_css_rules": ""
+     }
+    ],
+    "id": "p336",
+    "properties": 8201,
+    "owner": 0,
+    "index": 0,
+    "user_style": "Arriere_plan",
+    "more_classes": "",
+    "embedded_css_rules": "",
+    "lang": "fr",
+    "not_responsive": "0",
+    "no_robots": "0",
+    "redir_url": "",
+    "hdr_html": {
+     "$text": [
+      "<style>\r",
+      "/* Polices hébergées sur le site (data/fonts, licence SIL OFL) */\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 400; font-display: swap; src: url(data/fonts/inter-latin-400-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 500; font-display: swap; src: url(data/fonts/inter-latin-500-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 600; font-display: swap; src: url(data/fonts/inter-latin-600-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 700; font-display: swap; src: url(data/fonts/inter-latin-700-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 400; font-display: swap; src: url(data/fonts/manrope-latin-400-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 500; font-display: swap; src: url(data/fonts/manrope-latin-500-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 600; font-display: swap; src: url(data/fonts/manrope-latin-600-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 700; font-display: swap; src: url(data/fonts/manrope-latin-700-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Playfair Display'; font-style: normal; font-weight: 400; font-display: swap; src: url(data/fonts/playfair-display-latin-400-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Playfair Display'; font-style: normal; font-weight: 700; font-display: swap; src: url(data/fonts/playfair-display-latin-700-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Playfair Display'; font-style: italic; font-weight: 400; font-display: swap; src: url(data/fonts/playfair-display-latin-400-italic.woff2) format('woff2'); }\r",
+      "</style>"
+     ]
+    }
+   }
+  }
+ ]
+}

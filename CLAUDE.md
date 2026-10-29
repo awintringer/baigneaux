@@ -22,6 +22,8 @@ et docs/FORMAT.md). Langue de travail : français.
   doit renvoyer 0 cas (1366, 1024, 820, 390 px).
 - Accueil : cartes `carte_actu` (10 dernières, plus récente en premier) et `carte_evenement`
   (toutes, ordre chronologique) ; chaque actu a aussi sa fiche sur la page Actualités (ancre unique).
+- Galerie : un album = une page sous p325 ; en ajouter un avec `python3 tools/album.py DOSSIER --titre … --date …`
+  (voir docs/GALERIE.md), jamais en recopiant des images à la main dans le sommaire.
 - Textes alternatifs = champ `tooltip` des WsImage (sinon WebSiCo affiche le nom de fichier).
 - CSS : `python3 tools/check_css.py` doit passer (pas de commentaires, styles nommés simples,
   le reste en un bloc `@media` par règle) ; sinon l'éditeur WYSIWYG de WebSiCo est cassé.
