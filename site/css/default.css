@@ -419,10 +419,14 @@
 }
 .wscontainer_bloc_conseil_perso {
 	border-width: 1px;
-	border-radius: 5px/5px;
-	margin: 5px;
-	border-color: #2f5e3e;
-	box-shadow: 3px 3px 3px  #6baa7a;
+	border-style: solid;
+	border-radius: 14px/14px;
+	margin: 0px;
+	padding: 18px 10px 16px;
+	border-color: #cfe3d4;
+	background-color: #ffffff;
+	box-shadow: 0 3px 10px rgba(47, 94, 62, 0.12);
+	text-align: center;
 }
 .wscontainer_Subdivision {
 	border-width: 1px;
@@ -1023,17 +1027,107 @@ border-color: #000000;
 		font-size: 20px;
 	}
 }
-@media (max-width: 900px) {
-	.wssystemcontainer.H:has(> div > .wscontainer_bloc_conseil_perso) {
+@media all {
+	.wssystemcontainer.H:has(> div > .carte_elu) {
 		display: flex !important;
 		flex-wrap: wrap;
+		justify-content: center;
+		gap: 18px;
+		padding: 10px 6px 14px;
 	}
 }
-@media (max-width: 900px) {
-	.wssystemcontainer.H:has(> div > .wscontainer_bloc_conseil_perso) > div {
+@media all {
+	.wssystemcontainer.H:has(> div > .carte_elu) > div {
 		display: block !important;
-		flex: 1 1 240px;
+		flex: 0 1 172px;
 		width: auto !important;
+		min-width: 0;
+	}
+}
+@media all {
+	.wscontainer.carte_elu {
+		height: 100%;
+		box-sizing: border-box;
+		transition: box-shadow .2s ease, transform .2s ease;
+	}
+}
+@media (hover: hover) {
+	.wscontainer.carte_elu:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 8px 18px rgba(47, 94, 62, 0.18);
+	}
+}
+@media all {
+	.carte_elu .wsimage {
+		float: none !important;
+		width: 132px !important;
+		max-width: 100% !important;
+		margin: 0 auto 14px !important;
+	}
+}
+@media all {
+	.carte_elu .wsimage img {
+		display: block;
+		width: 100%;
+		height: auto;
+		aspect-ratio: 1 / 1;
+		object-fit: cover;
+		border-radius: 50%;
+		border: 3px solid #ffffff;
+		box-shadow: 0 0 0 2px #6baa7a;
+	}
+}
+@media all {
+	.carte_elu .wstextarea {
+		float: none;
+		font-size: 1.2em;
+		text-align: center;
+		line-height: 1.35;
+	}
+}
+@media all {
+	.carte_elu .wstextarea p {
+		margin: 0;
+	}
+}
+@media all {
+	.carte_elu .wstextarea strong {
+		font-family: Manrope, Arial, sans-serif;
+		font-weight: 700;
+		font-size: 1.08em;
+		color: #2f5e3e;
+		overflow-wrap: anywhere;
+	}
+}
+@media all {
+	.carte_elu .wstextarea p + p {
+		margin-top: 4px;
+		font-size: 0.95em;
+		color: #4d6b56;
+	}
+}
+@media all {
+	.wstextarea.conseil_voir_aussi {
+		float: none;
+		font-size: 1.05em;
+		text-align: center;
+		margin: 18px 10px 6px;
+	}
+}
+@media (max-width: 640px) {
+	.wssystemcontainer.H:has(> div > .carte_elu) {
+		gap: 12px;
+		padding: 8px 0 12px;
+	}
+}
+@media (max-width: 640px) {
+	.wssystemcontainer.H:has(> div > .carte_elu) > div {
+		flex: 0 1 calc(50% - 6px);
+	}
+}
+@media (max-width: 640px) {
+	.carte_elu .wsimage {
+		width: 108px !important;
 	}
 }
 @media (max-width: 640px) {
