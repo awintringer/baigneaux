@@ -252,6 +252,12 @@
   "file": "pages/p331-securite.json"
  },
  {
+  "file": "pages/p332-boite-a-idees.json"
+ },
+ {
+  "file": "pages/p333-boite-a-idees-merci.json"
+ },
+ {
   "file": "models/vignette_info.json"
  },
  {

@@ -1,0 +1,1003 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "p332",
+  "fr",
+  "boite-a-idees",
+  "2026-10-29 12:32:53",
+  "Boîte à idées",
+  "8202",
+  {
+   "$php": {
+    "$class": "WssPage",
+    "description": "",
+    "title": "",
+    "url_id": "boite-a-idees",
+    "date": 1793273573,
+    "save_number": 1,
+    "name": "",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": 0,
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "Header2",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsTextarea",
+                "value": "<p>Baigneaux</p>",
+                "id": "Y1056ae32ee5f0617",
+                "properties": 264192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y1056ae32ee5f0617 {\r",
+                  "\tfont-family: Playfair Display;\r",
+                  "\tletter-spacing: 0.07em;\r",
+                  "\tcolor: #000000;\r",
+                  "\tfont-size: 2.2em;\r",
+                  "\tpadding-left: 77px;\r",
+                  "\tfont-weight: bold;\r",
+                  "}\r"
+                 ]
+                },
+                "name_in_model": "MY256a19b7672c6f8"
+               }
+              ],
+              "id": "Z1046ae32ee5f058e",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": "",
+              "embedded_css_rules": {
+               "$text": [
+                ".id_Z1046ae32ee5f058e {\r",
+                "\tcolor: #ffffff;\r",
+                "\tborder-radius: 10px/10px;\r",
+                "\tborder-color: #2f5e3e;\r",
+                "\tbackground-image: url(data/images/background/1573_logosite.png);\r",
+                "\tbackground-position: 0% 50%;\r",
+                "\tbackground-size: contain;\r",
+                "\tbackground-repeat: no-repeat;\r",
+                "\tbackground-color: #FAD390;\r",
+                "}\r"
+               ]
+              },
+              "name_in_model": "MZ246a19b76036c27",
+              "href": ""
+             }
+            ],
+            "id": "Z1036ae32ee5f0504",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ".id_Z1036ae32ee5f0504 {\r\n\twidth: 20%;\r\n}\r",
+            "name_in_model": "MZ26a19b6dd78037"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/mairie.html\">Ma commune</a></p>",
+              "id": "Y1076ae32ee5f0729",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY146a19b6a4141de"
+             }
+            ],
+            "id": "Z1066ae32ee5f06a0",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "name_in_model": "MZ46a19b6f0a695f"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/vie-communale.html\">Vie Communale</a></p>",
+              "id": "Y1096ae32ee5f083b",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY186a19b6e2dbe74"
+             }
+            ],
+            "id": "Z1086ae32ee5f07b2",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 2,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "name_in_model": "MZ66a19b7469847a"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/associations.html\">Associations</a></p>",
+              "id": "Y1116ae32ee5f094d",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY206a19b70373d87"
+             }
+            ],
+            "id": "Z1106ae32ee5f08c4",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 3,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "name_in_model": "MZ86a19b752453f5"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/p321.html\">Services</a></p>",
+              "id": "Y1136ae32ee5f0a5f",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY226a19b74bd2ee5"
+             }
+            ],
+            "id": "Z1126ae32ee5f09d6",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 4,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "name_in_model": "MZ156a19b7dd3fe6e"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsTextarea",
+              "value": "<p><a href=\"https://www.baigneaux.fr/formalites-administratives.html\">D&eacute;marches</a></p>",
+              "id": "Y1156ae32ee5f0b72",
+              "properties": 264192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Lien_header",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "name_in_model": "MY296a19b7d2755a6"
+             }
+            ],
+            "id": "Z1146ae32ee5f0ae8",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 5,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "name_in_model": "MZ176a19b7dd3fe71"
+           }
+          ],
+          "id": "Z1026ae32ee5f047b",
+          "properties": 8209,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": "",
+          "name_in_model": "MZ156a19b6a4141f9"
+         }
+        ],
+        "id": "Z1016ae32ee5f03f2",
+        "properties": 270400,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": "BodyHome",
+        "more_classes": " dontDisplayOnXS dontDisplayOnS",
+        "embedded_css_rules": "",
+        "href": "",
+        "name_in_model": "MZ869ccf3d56f152"
+       },
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": 0,
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "MENU",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WssMenu",
+                      "category": "0",
+                      "depth": "1",
+                      "value": "vertical",
+                      "id": "Y1236ae32ee5f0fba",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Main",
+                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY55dc82a8b7b9e"
+                     }
+                    ],
+                    "id": "Z1226ae32ee5f0f31",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "r"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1226ae32ee5f0f31 {\r\n\twidth: 5%;\r\n}\r",
+                    "name_in_model": "MZ869ce9a560f24c"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>Menu</p>",
+                      "id": "Y1256ae32ee5f10cc",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Essai",
+                      "more_classes": " dontDisplayOnM dontDisplayOnL",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1869cea6e95b8ee"
+                     }
+                    ],
+                    "id": "Z1246ae32ee5f1043",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "r"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1246ae32ee5f1043 {\r\n\twidth: 0%;\r\n}\r",
+                    "name_in_model": "MZ1069ce9a560f252"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Logo de Baigneaux",
+                      "original_name": "logosite.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "logosite-4dcc.png",
+                      "keep_format": "0",
+                      "width": "50",
+                      "height": "50",
+                      "notFlexible": "0",
+                      "value": "logosite-11ba.png",
+                      "id": "Y1276ae32ee5f11df",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": " dontDisplayOnM dontDisplayOnL",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y1276ae32ee5f11df {\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: auto;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY1669cea66d3bc6f"
+                     }
+                    ],
+                    "id": "Z1266ae32ee5f1156",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "r"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1266ae32ee5f1156 {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ1269cea67e092f5"
+                   }
+                  ],
+                  "id": "Z1216ae32ee5f0ea8",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "r"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ1769cea66d3bc94"
+                 }
+                ],
+                "id": "Z1206ae32ee5f0e1f",
+                "properties": 270400,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Bloc_menu",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MZ5819e18fc9d3d",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "Path",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                          "id": "Y1336ae32ee5f1515",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": "Path",
+                          "more_classes": "",
+                          "embedded_css_rules": "",
+                          "name_in_model": "MY557f20acc196b"
+                         }
+                        ],
+                        "id": "Z1326ae32ee5f148c",
+                        "properties": 8208,
+                        "owner": {
+                         "$owner": "r"
+                        },
+                        "index": 0,
+                        "user_style": 0,
+                        "more_classes": null,
+                        "embedded_css_rules": "",
+                        "name_in_model": "MZ595841f49586bf5"
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": "",
+                        "contents": [
+                         {
+                          "$class": "WssPagePath",
+                          "value": 0,
+                          "id": "Y1356ae32ee5f1627",
+                          "properties": 262144,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": "Path",
+                          "more_classes": "",
+                          "embedded_css_rules": "",
+                          "name_in_model": "MY557f20acc19db"
+                         }
+                        ],
+                        "id": "Z1346ae32ee5f159e",
+                        "properties": 8208,
+                        "owner": {
+                         "$owner": "r"
+                        },
+                        "index": 1,
+                        "user_style": 0,
+                        "more_classes": null,
+                        "embedded_css_rules": ".id_Z1346ae32ee5f159e {\r\n\twidth: 89.8%;\r\n}\r",
+                        "name_in_model": "MZ605841f49586c54"
+                       }
+                      ],
+                      "id": "Z1316ae32ee5f1403",
+                      "properties": 8209,
+                      "owner": {
+                       "$owner": "r"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": "",
+                      "name_in_model": "MZ585841f49586a24"
+                     }
+                    ],
+                    "id": "Z1306ae32ee5f137a",
+                    "properties": 270464,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": "",
+                    "embedded_css_rules": {
+                     "$text": [
+                      ".id_Z1306ae32ee5f137a {\r",
+                      "\tpadding-bottom: 0px;\r",
+                      "\tpadding-left: 0px;\r",
+                      "\tborder-width: 0px;\r",
+                      "\tpadding-top: 10px;\r",
+                      "}\r"
+                     ]
+                    },
+                    "name_in_model": "MZ575841f4895c408",
+                    "href": ""
+                   }
+                  ],
+                  "id": "Z1296ae32ee5f12f1",
+                  "properties": 270336,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": "",
+                  "embedded_css_rules": ".id_Z1296ae32ee5f12f1 {\r\n\tborder-width: 0px;\r\n}\r",
+                  "name_in_model": "MZ3369cbea6206362",
+                  "href": ""
+                 }
+                ],
+                "id": "Z1286ae32ee5f1268",
+                "properties": 270400,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Path",
+                "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ557f20acc188b"
+               }
+              ],
+              "id": "Z1196ae32ee5f0d96",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             }
+            ],
+            "id": "Z1186ae32ee5f0d0d",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ""
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "id": "Z966ae32ee5f0145",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Bloc-titre",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": "",
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Boîte à idées",
+                  "id": "Y976ae32ee5f01ce",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Title",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ]
+               },
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p>Une id&eacute;e pour la commune, une remarque sur un service, un probl&egrave;me &agrave; signaler, ou simplement un remerciement ? &Eacute;crivez-nous : votre message est transmis directement &agrave; la mairie.</p>\r",
+                  "<p>Seuls la cat&eacute;gorie et le message sont obligatoires. Laissez votre adresse mail si vous souhaitez une r&eacute;ponse.</p>"
+                 ]
+                },
+                "id": "Y986ae32ee5f0257",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Texte_normal_align_gauche",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WssForm",
+                "destination": "mairie@baigneaux.fr, awintringer@gmail.com",
+                "return_url": "https://www.baigneaux.fr/boite-a-idees-merci.html",
+                "preamble": "",
+                "postamble": "",
+                "ccPrompt": "",
+                "valign": null,
+                "model_id": 0,
+                "id": "Z956ae32ee5f00bc",
+                "properties": 1056770,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": 0,
+                "more_classes": "boite_idees",
+                "embedded_css_rules": "",
+                "contents": [
+                 {
+                  "$class": "WssInputField",
+                  "type": "select",
+                  "required": {
+                   "$bool": true
+                  },
+                  "params": "Site internet\r\nÉvènements et activités\r\nServices\r\nPlaintes\r\nRemerciements\r\nAutre",
+                  "htmlName": "",
+                  "value": "Catégorie",
+                  "id": "Y906ae32ee5efe0e",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WssInputField",
+                  "type": "text",
+                  "required": {
+                   "$bool": true
+                  },
+                  "params": 8,
+                  "htmlName": "",
+                  "value": "Votre message",
+                  "id": "Y916ae32ee5efe97",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WssInputField",
+                  "type": "email",
+                  "required": {
+                   "$bool": false
+                  },
+                  "params": 0,
+                  "htmlName": "",
+                  "value": "Votre adresse mail (facultatif, pour que nous puissions vous répondre)",
+                  "id": "Y926ae32ee5eff20",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 2,
+                  "user_style": "",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WssInputField",
+                  "type": "captcha",
+                  "required": {
+                   "$bool": true
+                  },
+                  "params": 0,
+                  "htmlName": "",
+                  "value": "Recopiez les caractères de l’image",
+                  "id": "Y936ae32ee5effaa",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 3,
+                  "user_style": "",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WssInputField",
+                  "type": "submit",
+                  "required": {
+                   "$bool": false
+                  },
+                  "params": 0,
+                  "htmlName": "",
+                  "value": "Envoyer",
+                  "id": "Y946ae32ee5f0033",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 4,
+                  "user_style": "",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ]
+               },
+               {
+                "$class": "WsTextarea",
+                "value": "<p>Votre adresse mail sert uniquement &agrave; vous r&eacute;pondre ; elle n&rsquo;est ni publi&eacute;e ni transmise &agrave; des tiers, et votre message est conserv&eacute; le temps n&eacute;cessaire &agrave; son traitement. Pour exercer vos droits sur vos donn&eacute;es : mairie@baigneaux.fr (voir les <a href=\"https://www.baigneaux.fr/mentions-legales.html\">mentions l&eacute;gales</a>).</p>",
+                "id": "Y996ae32ee5f02e0",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": "Texte_normal_align_gauche",
+                "more_classes": "boite_idees_rgpd",
+                "embedded_css_rules": ""
+               }
+              ],
+              "id": "Z1376ae32ee5f173a",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "",
+              "embedded_css_rules": "",
+              "href": ""
+             }
+            ],
+            "id": "Z1366ae32ee5f16b0",
+            "properties": 8208,
+            "owner": {
+             "$owner": "r"
+            },
+            "index": 1,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": ""
+           }
+          ],
+          "id": "Z1176ae32ee5f0c84",
+          "properties": 8209,
+          "owner": {
+           "$owner": "r"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         }
+        ],
+        "id": "Z1166ae32ee5f0bfb",
+        "properties": 8192,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 1,
+        "user_style": "BodyHome",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "href": ""
+       }
+      ],
+      "id": "Z1006ae32ee5f0369",
+      "properties": 8208,
+      "owner": {
+       "$owner": "r"
+      },
+      "index": 0,
+      "user_style": 0,
+      "more_classes": null,
+      "embedded_css_rules": ""
+     },
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": 0,
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": "Footer",
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": "",
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": {
+             "$text": [
+              "<p>Mairie de Baigneaux -&nbsp;<span style=\"font-size: 12.8px;\">116 rue Yvonne-de-la-Seigli&egrave;re -&nbsp;</span><span style=\"font-size: 12.8px;\">33760 Baigneaux</span></p>\r",
+              "<p>T&eacute;l: <a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a>&nbsp;-&nbsp;E-Mail&nbsp;: <a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>\r",
+              "<p>Suivez Baigneaux sur Facebook&nbsp;:&nbsp;<a href=\"https://www.facebook.com/lesbaignaudais/\">facebook.com/lesbaignaudais</a></p>\r",
+              "<p><a href=\"mentions-legales.html\">Mentions L&eacute;gales</a> - <a href=\"https://www.baigneaux.fr/historique-modifications.html\">Historique des versions</a></p>"
+             ]
+            },
+            "id": "Y1826ae32ee5f2f53",
+            "properties": 2048,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "Texte-centre",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "name_in_model": "MY557f1c0abbc42"
+           },
+           {
+            "$class": "WssBadge",
+            "value": 0,
+            "id": "Y1836ae32ee5f2fdc",
+            "properties": 0,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": null,
+            "more_classes": "",
+            "embedded_css_rules": {
+             "$text": [
+              ".id_Y1836ae32ee5f2fdc {\r",
+              "\tmargin-left: auto;\r",
+              "\tmargin-right: auto;\r",
+              "}\r"
+             ]
+            },
+            "name_in_model": "MY1869cb06ae4d576"
+           }
+          ],
+          "id": "Z1816ae32ee5f2eca",
+          "properties": 270336,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": "",
+          "embedded_css_rules": {
+           "$text": [
+            ".id_Z1816ae32ee5f2eca {\r",
+            "\tborder-color: #000091;\r",
+            "\tborder-width: 0px;\r",
+            "\tmax-width: 1178px;\r",
+            "}\r"
+           ]
+          },
+          "name_in_model": "MZ165f578e3250a9f",
+          "href": ""
+         }
+        ],
+        "id": "Z1806ae32ee5f2e40",
+        "properties": 8256,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": "fred1",
+        "more_classes": "",
+        "embedded_css_rules": "",
+        "href": "",
+        "name_in_model": "MZ557f17014423f"
+       }
+      ],
+      "id": "Z1796ae32ee5f2db7",
+      "properties": 8208,
+      "owner": {
+       "$owner": "r"
+      },
+      "index": 1,
+      "user_style": 0,
+      "more_classes": null,
+      "embedded_css_rules": ""
+     }
+    ],
+    "id": "p332",
+    "properties": 8202,
+    "owner": 0,
+    "index": 0,
+    "user_style": "Arriere_plan",
+    "more_classes": "",
+    "embedded_css_rules": "",
+    "lang": "fr",
+    "not_responsive": "0",
+    "no_robots": "0",
+    "redir_url": "",
+    "hdr_html": {
+     "$text": [
+      "<style>\r",
+      "/* Polices hébergées sur le site (data/fonts, licence SIL OFL) */\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 400; font-display: swap; src: url(data/fonts/inter-latin-400-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 500; font-display: swap; src: url(data/fonts/inter-latin-500-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 600; font-display: swap; src: url(data/fonts/inter-latin-600-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 700; font-display: swap; src: url(data/fonts/inter-latin-700-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 400; font-display: swap; src: url(data/fonts/manrope-latin-400-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 500; font-display: swap; src: url(data/fonts/manrope-latin-500-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 600; font-display: swap; src: url(data/fonts/manrope-latin-600-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 700; font-display: swap; src: url(data/fonts/manrope-latin-700-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Playfair Display'; font-style: normal; font-weight: 400; font-display: swap; src: url(data/fonts/playfair-display-latin-400-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Playfair Display'; font-style: normal; font-weight: 700; font-display: swap; src: url(data/fonts/playfair-display-latin-700-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Playfair Display'; font-style: italic; font-weight: 400; font-display: swap; src: url(data/fonts/playfair-display-latin-400-italic.woff2) format('woff2'); }\r",
+      "</style>"
+     ]
+    }
+   }
+  }
+ ]
+}

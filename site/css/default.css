@@ -1317,3 +1317,113 @@ border-color: #000000;
 		padding: 14px 8px;
 	}
 }
+@media all {
+	.boite_idees {
+		background: #e7f1e8;
+		border: 1px solid #b9d5c0;
+		border-radius: 14px;
+		padding: 18px 22px 22px;
+		margin: 8px 0 16px;
+		box-sizing: border-box;
+	}
+}
+@media all {
+	.boite_idees .wsslabel {
+		margin-top: 6px;
+	}
+}
+@media all {
+	.boite_idees .wsslabel label {
+		font-family: 'Inter', sans-serif;
+		font-weight: 600;
+		font-size: 1rem;
+		color: #2f5e3e;
+	}
+}
+@media all {
+	.boite_idees .wsslabel span {
+		color: #9a3b3b;
+		font-size: 0.85em;
+	}
+}
+@media all {
+	.boite_idees .wssinput {
+		display: block;
+		width: 100%;
+		box-sizing: border-box;
+		font-family: 'Inter', sans-serif;
+		font-size: 1rem;
+		color: #1d2b21;
+		background: #ffffff;
+		border: 1px solid #9cbfa5;
+		border-radius: 8px;
+		padding: 10px 12px;
+		margin: 6px 0 14px;
+	}
+}
+@media all {
+	.boite_idees textarea.wssinput {
+		min-height: 11em;
+		resize: vertical;
+		line-height: 1.5;
+	}
+}
+@media all {
+	.boite_idees .wssinput:focus {
+		outline: 2px solid #2f5e3e;
+		outline-offset: 1px;
+		border-color: #2f5e3e;
+	}
+}
+@media all {
+	.boite_idees button.wssinput {
+		display: inline-block;
+		width: auto;
+		margin: 6px 0 0;
+		padding: 12px 34px;
+		background: #2f5e3e;
+		color: #ffffff;
+		border: none;
+		border-radius: 999px;
+		font-weight: 600;
+		letter-spacing: 0.02em;
+		cursor: pointer;
+	}
+}
+@media all {
+	.boite_idees button.wssinput:hover {
+		background: #23472f;
+	}
+}
+@media all {
+	.boite_idees .captchaImg {
+		border-radius: 6px;
+		border: 1px solid #b9d5c0;
+		vertical-align: middle;
+		cursor: pointer;
+	}
+}
+@media all {
+	.boite_idees .captchaRefresh {
+		background: #ffffff;
+		border: 1px solid #b9d5c0;
+		border-radius: 50%;
+		width: 36px;
+		height: 36px;
+		margin-left: 8px;
+		vertical-align: middle;
+		cursor: pointer;
+	}
+}
+@media all {
+	.boite_idees input[data-type="captcha"] {
+		max-width: 14em;
+	}
+}
+@media all {
+	.wstextarea.boite_idees_rgpd {
+		font-size: 0.85em;
+		color: #4a5a4f;
+		line-height: 1.5;
+	}
+}

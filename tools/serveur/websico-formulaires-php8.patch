@@ -1,0 +1,43 @@
+diff -ru a/ws_lib/third_party_includes/PHPMailer/PHPMailerAutoload.php b/ws_lib/third_party_includes/PHPMailer/PHPMailerAutoload.php
+--- a/ws_lib/third_party_includes/PHPMailer/PHPMailerAutoload.php
++++ b/ws_lib/third_party_includes/PHPMailer/PHPMailerAutoload.php
+@@ -30,20 +30,4 @@
+     }
+ }
+ 
+-if (version_compare(PHP_VERSION, '5.1.2', '>=')) {
+-    //SPL autoloading was introduced in PHP 5.1.2
+-    if (version_compare(PHP_VERSION, '5.3.0', '>=')) {
+-        spl_autoload_register('PHPMailerAutoload', true, true);
+-    } else {
+-        spl_autoload_register('PHPMailerAutoload');
+-    }
+-} else {
+-    /**
+-     * Fall back to traditional autoload for old PHP versions
+-     * @param string $classname The name of the class to load
+-     */
+-    function __autoload($classname)
+-    {
+-        PHPMailerAutoload($classname);
+-    }
+-}
++spl_autoload_register('PHPMailerAutoload', true, true);
+diff -ru a/ws_lib/ws_core/ws_standard_classes.php b/ws_lib/ws_core/ws_standard_classes.php
+--- a/ws_lib/ws_core/ws_standard_classes.php
++++ b/ws_lib/ws_core/ws_standard_classes.php
+@@ -626,8 +626,12 @@
+ 					$mailReplyTo = htmlspecialchars($value);	// Protection against XSS failure
+                 if ($field->type == "captcha"){
+ 					session_start();
+-					if($value != $_SESSION['captcha'][$htmlName]){
+-					var_dump($value); exit();
++					if(empty($_SESSION['captcha'][$htmlName]) || strcasecmp(trim($value), $_SESSION['captcha'][$htmlName]) != 0){
++					header('Content-Type: text/html; charset=utf-8');
++					echo '<!DOCTYPE html><meta charset="utf-8"><meta name="viewport" content="width=device-width">'
++						.'<p style="font:1.1em sans-serif;margin:2em">Le code de v&eacute;rification ne correspond pas.<br><br>'
++						.'<a href="javascript:history.back()">Revenir au formulaire</a> : votre texte y est normalement conserv&eacute;, il suffit de recopier &agrave; nouveau le code de l&rsquo;image.</p>';
++					exit();
+ 	    				$spam = 1;
+ 	    				break;
+ 					}
