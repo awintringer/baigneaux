@@ -1708,3 +1708,140 @@ border-color: #000000;
 		border-radius: 4px;
 	}
 }
+@media all {
+	.wscontainer.commissions_grille {
+		columns: 3 250px;
+		column-gap: 18px;
+		padding: 6px 6px 0;
+		margin: 0;
+		border-width: 0;
+	}
+}
+@media all {
+	.wscontainer.carte_commission {
+		display: block;
+		break-inside: avoid;
+		margin: 0 0 18px !important;
+		padding: 0 0 8px !important;
+		overflow: hidden;
+		background: #ffffff;
+		border: 1px solid #cfe3d4;
+		border-radius: 14px;
+		box-shadow: 0 3px 10px rgba(47, 94, 62, 0.12);
+	}
+}
+@media all {
+	.carte_commission .wsstitle {
+		margin: 0;
+		padding: 12px 16px;
+		background: #e7f1e8;
+		border: 0;
+		border-bottom: 1px solid #cfe3d4;
+		border-radius: 0;
+		box-shadow: none;
+		font-family: Manrope, Arial, sans-serif;
+		font-size: 1.15em;
+		font-weight: 700;
+		font-variant: normal;
+		text-transform: none;
+		letter-spacing: 0;
+		line-height: 1.3;
+		color: #2f5e3e;
+		text-align: left;
+	}
+}
+@media all {
+	.wscontainer.membres {
+		margin: 0;
+		padding: 6px 10px 0;
+		border-width: 0;
+	}
+}
+@media all {
+	.wscontainer.membre {
+		display: flex;
+		align-items: center;
+		margin: 0;
+		padding: 3px 6px;
+		border-width: 0;
+	}
+}
+@media all {
+	.membre .wsimage {
+		flex: 0 0 44px;
+		float: none !important;
+		width: 44px !important;
+		max-width: 44px !important;
+		margin: 0 !important;
+		padding: 0 !important;
+	}
+}
+@media all {
+	.membre .wsimage img {
+		display: block;
+		width: 44px;
+		height: 44px;
+		object-fit: cover;
+		border-radius: 50%;
+		border: 2px solid #ffffff;
+		box-shadow: 0 0 0 1px #6baa7a;
+	}
+}
+@media all {
+	.membre .wstextarea {
+		float: none;
+		margin: 0 0 0 12px;
+		padding: 0;
+		font-family: Inter, Arial, sans-serif;
+		font-size: 1.1em;
+		font-weight: 500;
+		color: #1d2b21;
+		text-align: left;
+	}
+}
+@media all {
+	.membre .wstextarea p {
+		margin: 0;
+	}
+}
+@media all {
+	.wstextarea.commissions_intro {
+		text-align: left;
+		line-height: 1.55;
+	}
+}
+@media all {
+	.wstextarea.commissions_intro p + p {
+		margin-top: 0.8em;
+	}
+}
+@media (max-width: 640px) {
+	.wssystemcontainer.H:has(> div > .commissions_intro) > div {
+		display: block !important;
+		width: 100% !important;
+	}
+}
+@media (max-width: 640px) {
+	.wssystemcontainer.H:has(> div > .commissions_intro) > div > .wsimage {
+		max-width: 200px !important;
+		margin: 0 auto 10px !important;
+	}
+}
+@media (max-width: 640px) {
+	.membre .wsimage {
+		flex-basis: 38px;
+		width: 38px !important;
+		max-width: 38px !important;
+	}
+}
+@media (max-width: 640px) {
+	.membre .wsimage img {
+		width: 38px;
+		height: 38px;
+	}
+}
+@media (max-width: 640px) {
+	.wscontainer.membres {
+		padding: 4px 6px 0;
+	}
+}
