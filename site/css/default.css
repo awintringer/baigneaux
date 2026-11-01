@@ -1,5 +1,5 @@
 .wsspage_Arriere_plan {
-	background-color: #D1FFE3;
+	background-color: #DCE7DF;
 	font-family: Inter, Arial, sans-serif;
 }
 .WS_PAGE_END {}
@@ -56,8 +56,8 @@
 	font-size: 4em;
 }
 .wscontainer_Path {
-	color: #000091;
-	border-color: #000091;
+	color: #2f5e3e;
+	border-color: #2f5e3e;
 	border-radius: 1px;
 	max-width: 1100px;
 	font-size: 0.75em;
@@ -82,24 +82,19 @@
 	font-family: Inter, Arial, sans-serif;
 }
 .wsspagepath_Path a {
-	background-image: url(data/images/background/1875_arrow.png);
-	background-repeat: no-repeat;
-	background-position: 0% 50%;
-	padding-left: 15px;
-	text-decoration: none;
+	padding-left: 4px;
+	text-decoration: underline;
 	font-family: Inter, Arial, sans-serif;
 	font-weight: normal;
 	font-size: 1.1em;
-	color: #000091;
+	color: #2f5e3e;
 }
 .wsspagepath_Path a:hover, .wsspagepath_Path a.hover {
-	background-position: 0% 50%;
-	background-repeat: no-repeat;
-	background-image: url(data/images/background/1875_arrow.png);
+	text-decoration: none;
 }
 .wsspagepath_Path {
 	margin-top: 0px;
-	color: #950000;
+	color: #5f6f64;
 	border-width: 0px;
 	text-align: left;
 	font-size: 1.5em;
@@ -733,7 +728,7 @@ border-color: #000000;
 	text-transform: uppercase;
 	font-variant: normal;
 	font-weight: bold;
-	color: #A36D00;
+	color: #a34700;
 	font-family: Manrope, Arial, sans-serif;
 	padding-left: 7px;
 }
@@ -772,7 +767,7 @@ border-color: #000000;
 	font-variant: normal;
 	font-weight: bold;
 	font-family: Manrope, Arial, sans-serif;
-	color: #007506;
+	color: #2f5e3e;
 	padding-left: 7px;
 }
 .wstextarea_bulle_actu_categorie_sante a {
@@ -791,7 +786,7 @@ border-color: #000000;
 	font-variant: normal;
 	font-weight: bold;
 	font-family: Manrope, Arial, sans-serif;
-	color: #00A86B;
+	color: #005fae;
 	padding-left: 7px;
 }
 .wstextarea_actus_sous_titre a {
@@ -875,7 +870,7 @@ border-color: #000000;
 	font-weight: bold;
 	font-family: Manrope, Arial, sans-serif;
 	padding-left: 7px;
-	color: #FF4DD5;
+	color: #a1307f;
 }
 @media all {
 	.wssystemcontainer.H:has(> div > .carte_actu),
