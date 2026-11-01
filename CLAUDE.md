@@ -28,6 +28,8 @@ et docs/FORMAT.md). Langue de travail : français.
   (toutes, ordre chronologique) ; chaque actu a aussi sa fiche sur la page Actualités (ancre unique).
 - Galerie : un album = une page sous p325 ; en ajouter un avec `python3 tools/album.py DOSSIER --titre … --date …`
   (voir docs/GALERIE.md), jamais en recopiant des images à la main dans le sommaire.
+- Images « En galerie » (`in_gallery` = 1, cliquables) : ne jamais changer leur forme en CSS (`object-fit`,
+  `aspect-ratio`, largeur + hauteur fixes) ni les recadrer, la visionneuse les déformerait (docs/GALERIE.md).
 - Textes alternatifs = champ `tooltip` des WsImage (sinon WebSiCo affiche le nom de fichier).
 - CSS : `python3 tools/check_css.py` doit passer (pas de commentaires, styles nommés simples,
   le reste en un bloc `@media` par règle) ; sinon l'éditeur WYSIWYG de WebSiCo est cassé.

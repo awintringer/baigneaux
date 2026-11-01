@@ -1308,6 +1308,10 @@ border-color: #000000;
 @media all {
 	.carte_evenement > .wsimage {
 		order: -1;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		height: 260px;
 		margin: 0 0 14px !important;
 		max-width: none !important;
 		width: 100%;
@@ -1321,9 +1325,10 @@ border-color: #000000;
 @media all {
 	.carte_evenement > .wsimage img {
 		display: block;
-		width: 100%;
-		height: 260px;
-		object-fit: contain;
+		width: auto;
+		height: auto;
+		max-width: 100%;
+		max-height: 260px;
 	}
 }
 @media all {
@@ -1612,8 +1617,10 @@ border-color: #000000;
 }
 @media all {
 	.wscontainer.album_grille {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: flex-start;
 		gap: 10px;
 		padding: 4px 6px 6px;
 		margin: 0;
@@ -1623,8 +1630,9 @@ border-color: #000000;
 @media all {
 	.album_grille .wsimage {
 		float: none !important;
-		width: 100% !important;
-		max-width: none !important;
+		flex: 0 0 auto;
+		width: auto !important;
+		max-width: 100% !important;
 		margin: 0 !important;
 		padding: 0 !important;
 	}
@@ -1632,10 +1640,9 @@ border-color: #000000;
 @media all {
 	.album_grille .wsimage img {
 		display: block;
-		width: 100%;
-		height: auto;
-		aspect-ratio: 1 / 1;
-		object-fit: cover;
+		width: auto;
+		max-width: 100%;
+		height: 190px;
 		border-radius: 8px;
 		transition: transform .2s ease, box-shadow .2s ease;
 	}
@@ -1699,12 +1706,12 @@ border-color: #000000;
 }
 @media (max-width: 640px) {
 	.wscontainer.album_grille {
-		grid-template-columns: repeat(3, 1fr);
 		gap: 6px;
 	}
 }
 @media (max-width: 640px) {
 	.album_grille .wsimage img {
+		height: 110px;
 		border-radius: 4px;
 	}
 }
