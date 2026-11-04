@@ -1454,12 +1454,184 @@
           "contents": [
            {
             "$class": "WsContainer",
-            "id": "Z996ae22ae396495",
+            "id": "Z1006aeb7780f2484",
             "properties": 8208,
             "owner": {
              "$owner": "R"
             },
             "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "id": "Z1016aeb7780f250d",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "carte_actu",
+              "embedded_css_rules": "",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsImage",
+                "id": "Y1026aeb7780f2596",
+                "properties": 4096,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y1026aeb7780f2596 {\r",
+                  "\tmargin-left: auto;\r",
+                  "\tmargin-right: auto;\r",
+                  "}\r"
+                 ]
+                },
+                "value": "vignette-marche-producteurs-sept2026.jpg",
+                "caption": "",
+                "href": "",
+                "tooltip": "Stand du marché des producteurs de Baigneaux",
+                "original_name": "vignette-marche-producteurs-sept2026.jpg",
+                "in_gallery": "0",
+                "uploaded_image": "vignette-marche-producteurs-sept2026.jpg",
+                "keep_format": "0",
+                "width": "200",
+                "height": "90",
+                "notFlexible": "0",
+                "name_in_model": "MY276a1ad396386f6"
+               },
+               {
+                "$class": "WsContainer",
+                "id": "Z1036aeb7780f261f",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "id": "Z1046aeb7780f26a8",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "id": "Y1056aeb7780f2731",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "bulle_actu_categorie_vie_communale",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "value": "<p>Vie communale</p>",
+                    "name_in_model": "MY236a1ea85d88b05"
+                   }
+                  ],
+                  "name_in_model": "MZ486a1ea85fc2a72"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "id": "Z1066aeb7780f27bb",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "id": "Y1076aeb7780f2844",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "bulle_actu_date",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "value": "<p>4 nov 2026</p>",
+                    "name_in_model": "MY236a1ea85fc04f7"
+                   }
+                  ],
+                  "name_in_model": "MZ496a1ea85fc2a83"
+                 }
+                ],
+                "name_in_model": "MZ246a1ea85fc052e"
+               },
+               {
+                "$class": "WsTextarea",
+                "id": "Y1086aeb7780f28cd",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "titre_bulle_actu",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "value": "<p>March&eacute; des producteurs ce dimanche</p>",
+                "name_in_model": "MY206a1eb25e2c20a"
+               },
+               {
+                "$class": "WsTextarea",
+                "id": "Y1096aeb7780f2956",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": "Texte_normal_align_gauche",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "value": "<p>Dimanche 8 novembre d&egrave;s 9h, et pour la premi&egrave;re fois un traiteur : Antonio et ses plats chauds !</p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"https://www.baigneaux.fr/actualites.html#marche08112026\">Lire la suite -&gt;</a></p>",
+                "name_in_model": "MY186a199894dc501"
+               }
+              ],
+              "href": "",
+              "name_in_model": "MZ276a1ad2da70980"
+             }
+            ]
+           },
+           {
+            "$class": "WsContainer",
+            "id": "Z996ae22ae396495",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -1635,7 +1807,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 1,
+            "index": 2,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -1813,7 +1985,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 2,
+            "index": 3,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -1995,7 +2167,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 3,
+            "index": 4,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2170,7 +2342,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 4,
+            "index": 5,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": null,
@@ -2352,7 +2524,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 5,
+            "index": 6,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2524,7 +2696,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 6,
+            "index": 7,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2696,7 +2868,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 7,
+            "index": 8,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2868,7 +3040,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 8,
+            "index": 9,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -3025,178 +3197,6 @@
                 "more_classes": "",
                 "embedded_css_rules": "",
                 "value": "<p>Passage en vigilance noire feux de for&ecirc;t : mesures de restriction et conseils face aux fum&eacute;es.</p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"https://www.baigneaux.fr/actualites.html#feux072026\">Lire la suite -&gt;</a></p>",
-                "name_in_model": "MY186a199894dc501"
-               }
-              ],
-              "href": "",
-              "name_in_model": "MZ276a1ad2da70980"
-             }
-            ]
-           },
-           {
-            "$class": "WsContainer",
-            "id": "Z1306ae215f801ca7",
-            "properties": 8208,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 9,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": "",
-            "valign": null,
-            "model_id": 0,
-            "contents": [
-             {
-              "$class": "WsContainer",
-              "id": "Z1316ae215f801d30",
-              "properties": 270336,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": "carte_actu",
-              "embedded_css_rules": "",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WsImage",
-                "id": "Y1326ae215f801dba",
-                "properties": 4096,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": null,
-                "more_classes": "",
-                "embedded_css_rules": {
-                 "$text": [
-                  ".id_Y1326ae215f801dba {\r",
-                  "\tmargin-left: auto;\r",
-                  "\tmargin-right: auto;\r",
-                  "}\r"
-                 ]
-                },
-                "value": "vignette-travaux-route-prieure-2026.jpg",
-                "caption": "",
-                "href": "",
-                "tooltip": "Travaux de caniveaux route du Prieuré",
-                "original_name": "vignette-travaux-route-prieure-2026.jpg",
-                "in_gallery": "0",
-                "uploaded_image": "vignette-travaux-route-prieure-2026.jpg",
-                "keep_format": "0",
-                "width": "200",
-                "height": "90",
-                "notFlexible": "0",
-                "name_in_model": "MY276a1ad396386f6"
-               },
-               {
-                "$class": "WsContainer",
-                "id": "Z1336ae215f801e43",
-                "properties": 8209,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": "",
-                "valign": null,
-                "model_id": "",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z1346ae215f801ecc",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "id": "Y1356ae215f801f55",
-                    "properties": 264192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "bulle_actu_categorie_mairie",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "value": "<p>Mairie</p>",
-                    "name_in_model": "MY236a1ea85d88b05"
-                   }
-                  ],
-                  "name_in_model": "MZ486a1ea85fc2a72"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z1366ae215f801fde",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 1,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "id": "Y1376ae215f802067",
-                    "properties": 264192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "bulle_actu_date",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "value": "<p>21 juil 2026</p>",
-                    "name_in_model": "MY236a1ea85fc04f7"
-                   }
-                  ],
-                  "name_in_model": "MZ496a1ea85fc2a83"
-                 }
-                ],
-                "name_in_model": "MZ246a1ea85fc052e"
-               },
-               {
-                "$class": "WsTextarea",
-                "id": "Y1386ae215f8020f0",
-                "properties": 2048,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 2,
-                "user_style": "titre_bulle_actu",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "value": "<p>Avancement des travaux route du Prieur&eacute;</p>",
-                "name_in_model": "MY206a1eb25e2c20a"
-               },
-               {
-                "$class": "WsTextarea",
-                "id": "Y1396ae215f802179",
-                "properties": 2048,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 3,
-                "user_style": "Texte_normal_align_gauche",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "value": "<p>La premi&egrave;re phase des travaux route du Prieur&eacute; est termin&eacute;e, avec l'installation des caniveaux.</p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"https://www.baigneaux.fr/actualites.html#prieure22026\">Lire la suite -&gt;</a></p>",
                 "name_in_model": "MY186a199894dc501"
                }
               ],
