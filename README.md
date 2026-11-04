@@ -23,7 +23,7 @@ site/
   layout.json             ordre des instructions du dump SQL
   zipmeta.json            métadonnées de l'archive d'origine (ordre, dates, empreintes)
 tools/                    outils (Python 3, aucune dépendance sauf Pillow pour album.py ; PHP pour check_dump.php)
-docs/                     audit, format des données
+docs/                     audit, format des données, revues (COULEURS, COHERENCE)
 ```
 
 ## Flux de travail
