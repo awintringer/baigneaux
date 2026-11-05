@@ -180,7 +180,7 @@
               "user_style": "Lien_header",
               "more_classes": "",
               "embedded_css_rules": "",
-              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
               "name_in_model": "MY206a19b70373d87"
              }
             ],
@@ -1122,32 +1122,8 @@
                     "user_style": "Texte_important_centre",
                     "more_classes": "",
                     "embedded_css_rules": "",
-                    "value": "<p></p>\r\n<p>Le 2 novembre &agrave; 18h30</p>\r\n<p></p>",
+                    "value": "<p></p>\r\n<p>Le 14 d&eacute;cembre &agrave; 18h30</p>\r\n<p></p>",
                     "name_in_model": "MY6056e9626f54075"
-                   },
-                   {
-                    "$class": "WssDownload",
-                    "id": "Y186a16f8fadff45",
-                    "properties": 16384,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 2,
-                    "user_style": "Telechargement",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "value": "Convocation",
-                    "data_filename": {
-                     "$arr": [
-                      [
-                       "5 octobre avis réunion panneau pocket.doc",
-                       "5-octobre-avis-r--union-panneau-pocket.doc"
-                      ]
-                     ]
-                    },
-                    "source_filename": 0,
-                    "variables": null,
-                    "decoded_value": "Convocation"
                    }
                   ]
                  }
@@ -1615,7 +1591,7 @@
                 "user_style": "Texte_normal_align_gauche",
                 "more_classes": "",
                 "embedded_css_rules": "",
-                "value": "<p>Dimanche 8 novembre d&egrave;s 9h, et pour la premi&egrave;re fois un traiteur : Antonio et ses plats chauds !</p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"https://www.baigneaux.fr/actualites.html#marche08112026\">Lire la suite -&gt;</a></p>",
+                "value": "<p>Dimanche 8 novembre d&egrave;s 9h, et pour la premi&egrave;re fois un traiteur : Jérôme (Antonio pour les intimes) et ses plats chauds !</p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"https://www.baigneaux.fr/actualites.html#marche08112026\">Lire la suite -&gt;</a></p>",
                 "name_in_model": "MY186a199894dc501"
                }
               ],
@@ -2131,7 +2107,7 @@
                 "user_style": "titre_bulle_actu",
                 "more_classes": "",
                 "embedded_css_rules": "",
-                "value": "<p>Evolution des tarifs de location de la SdF</p>",
+                "value": "<p>Evolution des tarifs de location de la salle des fêtes</p>",
                 "name_in_model": "MY206a1eb25e2c20a"
                },
                {
@@ -2503,7 +2479,7 @@
                 "embedded_css_rules": "",
                 "value": {
                  "$text": [
-                  "<p>Retour sur la ma&iuml;ade, ou nos &eacute;lus ont plant&eacute; un magnolia en compagnie des habitants.</p>\r",
+                  "<p>Retour sur la ma&iuml;ade, o&ugrave; nos &eacute;lus ont plant&eacute; un magnolia en compagnie des habitants.</p>\r",
                   "<p>&nbsp;</p>\r",
                   "<p><a href=\"https://www.baigneaux.fr/galerie-maiade-2026.html\">Lire la suite&nbsp;-&gt;</a></p>\r",
                   "<p></p>"

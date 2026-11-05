@@ -134,7 +134,7 @@
             "contents": [
              {
               "$class": "WsTextarea",
-              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
               "id": "Y96ad27220640c8",
               "properties": 264192,
               "owner": {
@@ -581,7 +581,7 @@
               "$class": "WssTitle",
               "level": "2",
               "href": "",
-              "value": "LES DIFFERENTES DEMANDES D'AUTORISATION D'URBANISME",
+              "value": "LES DIFFÉRENTES DEMANDES D'AUTORISATION D'URBANISME",
               "id": "Y155f5a324be19fd",
               "properties": 1024,
               "owner": {
@@ -609,7 +609,7 @@
               "$class": "WsImage",
               "caption": "",
               "href": "",
-              "tooltip": "Les differentes demandes d'autorisation d'urbanisme",
+              "tooltip": "Les différentes demandes d'autorisation d'urbanisme",
               "original_name": "Schéma-ADS-okjpg_LI.jpg",
               "in_gallery": "0",
               "uploaded_image": "sch--ma-ads-okjpg_li.jpg",

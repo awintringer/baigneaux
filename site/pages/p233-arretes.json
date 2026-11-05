@@ -134,7 +134,7 @@
             "contents": [
              {
               "$class": "WsTextarea",
-              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
               "id": "Y96a65c885f2350",
               "properties": 264192,
               "owner": {
@@ -406,7 +406,7 @@
               "$class": "WssTitle",
               "level": "2",
               "href": "",
-              "value": "Arrêtés en vigueur",
+              "value": "Arrêtés municipaux",
               "id": "Y426a65c7dc73ae1",
               "properties": 1024,
               "owner": {
@@ -421,7 +421,7 @@
               "$class": "WssTitle",
               "level": "2",
               "href": "",
-              "value": "Arrêté du 25 juillet 2026",
+              "value": "Arrêté du 25 juillet 2026 (terminé)",
               "id": "Y426a65c825da92d",
               "properties": 1024,
               "owner": {
@@ -436,7 +436,7 @@
               "$class": "WssTitle",
               "level": "2",
               "href": "",
-              "value": "Interdiction temporaire des activités de chasse sur le territoire de la commune de baigneaux en raison du risque exceptionnel d'incendie",
+              "value": "Interdiction temporaire des activités de chasse sur le territoire de la commune de Baigneaux en raison du risque exceptionnel d'incendie",
               "id": "Y426a65c7f4019e0",
               "properties": 1024,
               "owner": {
@@ -451,7 +451,7 @@
               "$class": "WsImage",
               "caption": "",
               "href": "",
-              "tooltip": "Interdiction temporaire des activités de chasse sur le territoire de la commune de baigneaux en raison du risque exceptionnel d'incendie",
+              "tooltip": "Interdiction temporaire des activités de chasse sur le territoire de la commune de Baigneaux en raison du risque exceptionnel d'incendie",
               "original_name": "arretechasse25072026.PNG",
               "in_gallery": "0",
               "uploaded_image": "arretechasse25072026.png",

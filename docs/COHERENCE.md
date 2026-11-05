@@ -79,3 +79,17 @@ pendant · « l'entreprise que nous avons choisi » → choisie · notemment · 
 « Nos bénévoles se sont arrêté » → arrêtés · « ont évoluées » → ont évolué · « rendre
 rendez-vous » → prendre · « 19èmet » · « Arreté » · « ou nos élus » → où · « les differentes
 demandes » · « SdF » (titre d'actu) → salle des fêtes.
+
+## Suite donnée le 05/11/2026 (choix d'Adrien, `tools/oneoff/2026-11-05_retours_adrien.py`)
+
+- Fait : prochain conseil le 14 décembre (convocation d'octobre retirée de l'accueil : ajouter un
+  élément « Téléchargement » avec la nouvelle) ; arrêtés échus gardés et marqués « terminé » ;
+  traiteur « Jérôme, Antonio pour les intimes » ; Baigneaudais / Baigneaudaises ; « Évènements »
+  partout ; orthographe (§5) ; Annuaire des services aux couleurs de la charte (noms vert
+  `#2f5e3e` en Manrope, intitulés `#4d6b56`, texte `#1f2937`) ; chevron sur les boutons à menu
+  déroulant (sous le libellé en dessous de 900 px).
+- Laissé tel quel : colonne de gauche et boutons sans panneau sur l'accueil, pages Hébergeurs et
+  Office de tourisme, médecins de garde (mis à jour à la main), Maïade (report canicule).
+- Reste ouvert : PV et délibérations, offre d'emploi échue, formalités (texte 2017), lien e-permis,
+  catégories d'actus, fil d'Ariane des mentions légales / historique, bannière bleue de l'annuaire
+  (image hors charte).

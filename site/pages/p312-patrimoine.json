@@ -593,7 +593,7 @@
                 "<p>Code Postal&nbsp;: 33760</p>\r",
                 "<p>Superficie&nbsp;: 792 hectares</p>\r",
                 "<p>Population 2023&nbsp;: 451 habitants</p>\r",
-                "<p>Habitants&nbsp;: les Baignaudais</p>\r",
+                "<p>Habitants&nbsp;: les Baigneaudais</p>\r",
                 "<p>Cours d'eau&nbsp;: la Rouille du Briot, l'Engranne et la Rouille de l'Ormi&egrave;re</p>\r",
                 "<p>Origine du nom&nbsp;: du latin balneare, &laquo; baigner &raquo;, peut-&ecirc;tre une r&eacute;f&eacute;rence aux thermes des villas gallo-romaines.</p>"
                ]
@@ -633,7 +633,7 @@
              },
              {
               "$class": "WsTextarea",
-              "value": "<p>Dominant la vall&eacute;e de l'Engranne, le territoire de Baigneaux est occup&eacute; d&egrave;s la p&eacute;riode gallo-romaine, ainsi qu'en t&eacute;moigne les vestiges des villas d&eacute;couverts au nord du bourg pr&egrave;s de la voie moderne qui relie Bordeaux &agrave; Mons&eacute;gur. La paroisse, cr&eacute;&eacute;e vers le XII&egrave;me si&egrave;cle est plac&eacute;e sous l'influence de l'Abbaye de la Sauve Majeure mais &eacute;galement des seigneurs de Benauges.</p>",
+              "value": "<p>Dominant la vall&eacute;e de l'Engranne, le territoire de Baigneaux est occup&eacute; d&egrave;s la p&eacute;riode gallo-romaine, ainsi qu'en t&eacute;moignent les vestiges des villas d&eacute;couverts au nord du bourg pr&egrave;s de la voie moderne qui relie Bordeaux &agrave; Mons&eacute;gur. La paroisse, cr&eacute;&eacute;e vers le XII&egrave;me si&egrave;cle est plac&eacute;e sous l'influence de l'Abbaye de la Sauve Majeure mais &eacute;galement des seigneurs de Benauges.</p>",
               "id": "Y2269e73dffe4723",
               "properties": 2048,
               "owner": {
