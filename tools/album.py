@@ -6,7 +6,8 @@
 
 Pour chaque photo du dossier (ordre alphabétique, donc chronologique pour les noms WhatsApp) :
   - grande version (1600 px max, rotation EXIF appliquée) : ouverte en plein écran au clic ;
-  - vignette carrée 400 px, affichée dans la grille de l'album.
+  - vignette de 400 px de haut, au format de la photo (jamais recadrée : la visionneuse de
+    WebSiCo reprend la forme de la vignette affichée pour agrandir la photo).
 Puis :
   - crée la page de l'album (copie de la structure de la galerie : en-tête, menu, fil
     d'Ariane, pied), rangée sous « Notre village en images » dans le plan du site (fil d'Ariane
@@ -14,7 +15,7 @@ Puis :
   - ajoute sa carte (couverture 4:3, titre, date, nombre de photos) au sommaire de la galerie,
     en tête par défaut (--position N pour l'insérer ailleurs, 0 = première).
 
-Les fichiers sont nommés d'après l'album : <slug>-01.jpg (grande), <slug>-01-v.jpg (vignette),
+Les fichiers sont nommés d'après l'album : <slug>-01.jpg (grande), <slug>-01-m.jpg (vignette),
 <slug>-couverture.jpg. Le script refuse un album dont la page existe déjà.
 Ensuite : vérification locale, build, import sur le dev (voir CLAUDE.md).
 """
@@ -26,7 +27,7 @@ from PIL import Image, ImageOps
 SOMMAIRE = 'p325-galerie-evenements'
 SOMMAIRE_URL = 'galerie-evenements.html'
 IMG = os.path.join(SITE, 'data', 'images')
-GRANDE, VIGNETTE, COUV = 1600, 400, (600, 450)
+GRANDE, VIGNETTE, COUV = 1600, 400, (600, 450)    # VIGNETTE : hauteur des vignettes d'album
 EXTS = ('.jpg', '.jpeg', '.png', '.webp')
 CR = '\r\n'
 NOW = int(time.time())
@@ -56,12 +57,18 @@ def _save(im, name, quality):
     im.save(os.path.join(IMG, name), 'JPEG', quality=quality, optimize=True, progressive=True)
     return name
 
+def make_thumb(src, base):
+    """Vignette d'album au format de la photo, VIGNETTE px de haut. Renvoie (nom, (l, h))."""
+    im = _load(src)
+    h = min(VIGNETTE, im.height); w = max(1, round(im.width * h / im.height))
+    return _save(im.resize((w, h), Image.LANCZOS), f'{base}-m.jpg', 80), (w, h)
+
 def make_images(src, base, n):
     im = _load(src)
     big = im.copy(); big.thumbnail((GRANDE, GRANDE), Image.LANCZOS)
     large = _save(big, f'{base}-{n:02d}.jpg', 82)
-    thumb = _save(_crop(im, 1).resize((VIGNETTE, VIGNETTE), Image.LANCZOS), f'{base}-{n:02d}-v.jpg', 78)
-    return large, thumb
+    thumb, size = make_thumb(os.path.join(IMG, large), f'{base}-{n:02d}')
+    return large, thumb, size
 
 def make_cover(src, base):
     return _save(_crop(_load(src), COUV[0] / COUV[1]).resize(COUV, Image.LANCZOS), f'{base}-couverture.jpg', 76)
@@ -157,7 +164,7 @@ def album_nodes(titre, date, photos):
     nb = len(photos)
     infos = ' &middot; '.join(x for x in (ent(date), f'{nb} photo{"s" if nb > 1 else ""}') if x)
     retour = f'<a href="{SOMMAIRE_URL}">&larr; {ent("Toutes les galeries")}</a>'
-    grille = container([image(v, g, alt, (VIGNETTE, VIGNETTE), classes='photo_album') for g, v, alt in photos],
+    grille = container([image(v, g, alt, size, classes='photo_album') for g, v, size, alt in photos],
                        classes='album_grille')
     return [textarea(f'<p>{retour} <span class="album_infos">&nbsp;&middot; {infos}</span></p>', classes='album_nav'),
             textarea(f'<p>{ent("Cliquez sur une photo pour l’agrandir, puis utilisez les flèches pour faire défiler l’album.")}</p>',
@@ -178,9 +185,9 @@ def ajouter_album(sources, titre, date='', couverture=None, position=0, slug=Non
         raise SystemExit(f'album déjà présent : galerie-{slug}')
     photos = []
     for i, src in enumerate(sources, 1):
-        large, thumb = make_images(src, slug, i)
+        large, thumb, size = make_images(src, slug, i)
         alt = alts[i - 1] if alts else f'{titre} – photo {i}'
-        photos.append((large, thumb, alt))
+        photos.append((large, thumb, size, alt))
     cover = make_cover(couverture or sources[0], slug)
     pid = next_page_id()
     path, url = make_album_page(pid, slug, titre, date, album_nodes(titre, date, photos), nom)
