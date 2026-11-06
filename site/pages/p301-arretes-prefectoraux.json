@@ -134,7 +134,7 @@
             "contents": [
              {
               "$class": "WsTextarea",
-              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
               "id": "Y96aba1e886b688",
               "properties": 264192,
               "owner": {
@@ -597,9 +597,9 @@
                },
                {
                 "$class": "WsImage",
-                "caption": "Arreté circulation 6 octobre 2026",
+                "caption": "Arrêté de circulation du 6 octobre 2026 (travaux du 8 octobre, terminé)",
                 "href": "",
-                "tooltip": "Arreté circulation 6 octobre 2026",
+                "tooltip": "Arrêté de circulation du 6 octobre 2026 (travaux du 8 octobre, terminé)",
                 "original_name": "arrete_circulation_20261006.png",
                 "in_gallery": "1",
                 "uploaded_image": "arrete_circulation_20261006.png",
@@ -660,8 +660,8 @@
                 },
                 "source_filename": 0,
                 "variables": null,
-                "decoded_value": "ARRETE DU CONSEIL DEPARTEMENTAL : Interdiction de circulation et de stationnement hors agglomération sur le tracé de la 19èmet et 20ème étape du Tour de France 2021",
-                "value": "ARRETE DU CONSEIL DEPARTEMENTAL : Interdiction de circulation et de stationnement hors agglomération sur le tracé de la 19èmet et 20ème étape du Tour de France 2021",
+                "decoded_value": "ARRÊTÉ DU CONSEIL DÉPARTEMENTAL (terminé) : interdiction de circulation et de stationnement hors agglomération sur le tracé de les 19e et 20e étapes du Tour de France 2021",
+                "value": "ARRÊTÉ DU CONSEIL DÉPARTEMENTAL (terminé) : interdiction de circulation et de stationnement hors agglomération sur le tracé de les 19e et 20e étapes du Tour de France 2021",
                 "id": "Y1660dae2d6e4b40",
                 "properties": 16384,
                 "owner": {

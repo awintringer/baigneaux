@@ -694,7 +694,16 @@
                 "required": {
                  "$bool": true
                 },
-                "params": "Site internet\r\nÉvènements et activités\r\nServices\r\nPlaintes\r\nRemerciements\r\nAutre",
+                "params": {
+                 "$text": [
+                  "Site internet\r",
+                  "Évènements et activités\r",
+                  "Services\r",
+                  "Plaintes\r",
+                  "Remerciements\r",
+                  "Autre"
+                 ]
+                },
                 "htmlName": "",
                 "value": "Catégorie",
                 "id": "Y906ae32ee5efe0e",

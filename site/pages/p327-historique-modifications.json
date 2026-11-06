@@ -134,7 +134,7 @@
             "contents": [
              {
               "$class": "WsTextarea",
-              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
               "id": "Y96ab27d0c57ba3",
               "properties": 264192,
               "owner": {
@@ -1582,7 +1582,7 @@
                     "contents": [
                      {
                       "$class": "WsTextarea",
-                      "value": "<p>- Refonte cat&eacute;gorie Sant&eacute; (ajout professionnels de sant&eacute; &agrave; proximit&eacute;s)</p>",
+                      "value": "<p>- Refonte cat&eacute;gorie Sant&eacute; (ajout professionnels de sant&eacute; &agrave; proximit&eacute;)</p>",
                       "id": "Y3969f48289d47a8",
                       "properties": 264192,
                       "owner": {

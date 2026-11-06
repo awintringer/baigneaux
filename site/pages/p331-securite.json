@@ -596,7 +596,7 @@
                 "contents": [
                  {
                   "$class": "WsTextarea",
-                  "value": "<p>Op&eacute;ration Tranquilit&eacute; vacances : pourquoi, comment?</p>",
+                  "value": "<p>Op&eacute;ration Tranquillit&eacute; vacances : pourquoi, comment?</p>",
                   "id": "Y266a199a16d15ef",
                   "properties": 2048,
                   "owner": {

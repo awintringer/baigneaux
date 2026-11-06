@@ -144,7 +144,7 @@
                 "contents": [
                  {
                   "$class": "WsTextarea",
-                  "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
                   "id": "Y96a60c15a95d7c",
                   "properties": 264192,
                   "owner": {

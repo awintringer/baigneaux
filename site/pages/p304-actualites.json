@@ -144,7 +144,7 @@
                 "contents": [
                  {
                   "$class": "WsTextarea",
-                  "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
                   "id": "Y96ad371c85a5f7",
                   "properties": 264192,
                   "owner": {
@@ -601,13 +601,195 @@
                 "$class": "WssTitle",
                 "level": "2",
                 "href": "",
+                "value": "Novembre 2026",
+                "id": "Y906aeb7780f1f29",
+                "properties": 1024,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Title3",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p id=\"marche08112026\">Vie communale</p>",
+                      "id": "Y946aeb7780f214d",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "titre_grosse_bulle_actu",
+                      "more_classes": "",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY426a204fe537a26"
+                     }
+                    ],
+                    "id": "Z936aeb7780f20c4",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z936aeb7780f20c4 {\r\n\twidth: 50%;\r\n}\r",
+                    "name_in_model": "MZ446a204fea047d5"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>4 novembre 2026</p>",
+                      "id": "Y966aeb7780f2260",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y966aeb7780f2260 {\r",
+                        "\tfont-family: Inter;\r",
+                        "\tfont-size: 2em;\r",
+                        "\ttext-align: right;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY426a204fea0433d"
+                     }
+                    ],
+                    "id": "Z956aeb7780f21d7",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z956aeb7780f21d7 {\r\n\twidth: 34.1%;\r\n}\r",
+                    "name_in_model": "MZ456a204fea047e6"
+                   }
+                  ],
+                  "id": "Z926aeb7780f203b",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ436a204fea04365"
+                 },
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Nouveauté au marché des producteurs",
+                  "id": "Y976aeb7780f22e9",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Title3",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY426a20518248234"
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p>🍽️ NOUVEAUT&Eacute; AU MARCH&Eacute; DES PRODUCTEURS DE BAIGNEAUX ! 🧺</p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p>Le march&eacute; des producteurs de Baigneaux revient bient&ocirc;t ! L'occasion de retrouver nos producteurs locaux, ou de d&eacute;couvrir leurs bons produits et de partager un moment convivial au c&oelig;ur de notre commune.</p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p>🌟 Et pour cette &eacute;dition, une nouveaut&eacute; de taille : nous accueillerons pour la toute premi&egrave;re fois un traiteur ! J&eacute;r&ocirc;me, Antonio pour les intimes, nous rejoint &agrave; partir de ce dimanche 😍</p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p>Au menu : des plats chauds, pr&eacute;par&eacute;s pour l'occasion, &agrave; d&eacute;guster sur place pour profiter pleinement du march&eacute; ou &agrave; emporter &agrave; la maison. 😋</p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p>Que vous veniez faire vos emplettes, d&eacute;couvrir les produits de nos producteurs ou simplement passer un bon moment entre habitants, nous vous attendons nombreux !</p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p>📍 <strong>Rendez-vous &agrave; Baigneaux ce dimanche 8 novembre &agrave; partir de 9h !</strong></p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p>N'h&eacute;sitez pas &agrave; partager l'information autour de vous et &agrave; venir accompagn&eacute;s !</p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p>&Agrave; tr&egrave;s bient&ocirc;t sur le march&eacute; ! 😊</p>"
+                   ]
+                  },
+                  "id": "Y986aeb7780f2372",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 2,
+                  "user_style": "Texte_normal_align_gauche",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY266a199a16d15ef"
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p>&nbsp;&nbsp;</p>",
+                  "id": "Y996aeb7780f23fb",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 3,
+                  "user_style": "Texte_normal_align_gauche",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY426a2051ced9f65"
+                 }
+                ],
+                "id": "Z916aeb7780f1fb2",
+                "properties": 270592,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ836a1999d0f1d07"
+               },
+               {
+                "$class": "WssTitle",
+                "level": "2",
+                "href": "",
                 "value": "Octobre 2026",
                 "id": "Y526ad3708ac9dc6",
                 "properties": 1024,
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 1,
+                "index": 3,
                 "user_style": "Title3",
                 "more_classes": "",
                 "embedded_css_rules": ""
@@ -762,7 +944,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 2,
+                "index": 4,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -886,7 +1068,7 @@
                     "<div>&nbsp;</div>\r",
                     "</div>\r",
                     "<div>\r",
-                    "<div><span>L'entreprise que nous avons choisi pour s'occuper de la plantation uniforme d'un gazon r&eacute;sistant &agrave; la s&eacute;cheresse est intervenue pour la premi&egrave;re &eacute;tape du chantier&nbsp;: le d&eacute;sherbage, qui se fera en 2 &eacute;tapes. La premi&egrave;re partie a &eacute;t&eacute; effectu&eacute;e cette semaine.</span></div>\r",
+                    "<div><span>L'entreprise que nous avons choisie pour s'occuper de la plantation uniforme d'un gazon r&eacute;sistant &agrave; la s&eacute;cheresse est intervenue pour la premi&egrave;re &eacute;tape du chantier&nbsp;: le d&eacute;sherbage, qui se fera en 2 &eacute;tapes. La premi&egrave;re partie a &eacute;t&eacute; effectu&eacute;e cette semaine.</span></div>\r",
                     "<div><span style=\"font-family: inherit;\">&nbsp;</span></div>\r",
                     "</div>\r",
                     "<div>\r",
@@ -894,7 +1076,7 @@
                     "<div>&nbsp;</div>\r",
                     "</div>\r",
                     "<div>\r",
-                    "<div>La derni&egrave;re &eacute;tape sera la cr&eacute;ation d'une all&eacute;e en dur de l'entr&eacute;e jusqu'au Monument aux Morts afin de faciliter l'acc&egrave;s notemment dans la mont&eacute;e du portail d'entr&eacute;e jusqu'&agrave; l'esplanade du monument.</div>\r",
+                    "<div>La derni&egrave;re &eacute;tape sera la cr&eacute;ation d'une all&eacute;e en dur de l'entr&eacute;e jusqu'au Monument aux Morts afin de faciliter l'acc&egrave;s notamment dans la mont&eacute;e du portail d'entr&eacute;e jusqu'&agrave; l'esplanade du monument.</div>\r",
                     "<div>&nbsp;</div>\r",
                     "</div>\r",
                     "<div>\r",
@@ -1169,7 +1351,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 3,
+                "index": 5,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1186,7 +1368,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 4,
+                "index": 6,
                 "user_style": "Title3",
                 "more_classes": "",
                 "embedded_css_rules": ""
@@ -1307,11 +1489,11 @@
                     "<div>&nbsp;</div>\r",
                     "<div>A cette occasion, la boulangerie du bosquet de Targon nous avait concoct&eacute; en partenariat avec Lucas Berthomieu, une baguette \"la Baigneaudaise\", fabriqu&eacute;e &agrave; 100% avec de la farine de bl&eacute; des parcelles de notre commune. Nous avons &eacute;t&eacute; d&eacute;valis&eacute;s !</div>\r",
                     "<div>&nbsp;</div>\r",
-                    "<div>Comme sur les deux premi&egrave;res &eacute;ditions, nous vous proposions des hu&icirc;tres, des miels de Faleyras, des vins de la cave de Rauzan, des fromages de ch&egrave;vre de la ferme Manieu No&euml;l de Courpiac, des laitages et des glaces de chez Pouly, des fromages de brebis de la bergerie de Daignac. Nous avait rejoint &agrave; partir de ce march&eacute; un stand d'olives et tapenades qui nous ont &eacute;galement r&eacute;gal&eacute;.</div>\r",
+                    "<div>Comme sur les deux premi&egrave;res &eacute;ditions, nous vous proposions des hu&icirc;tres, des miels de Faleyras, des vins de la cave de Rauzan, des fromages de ch&egrave;vre de la ferme Manieu No&euml;l de Courpiac, des laitages et des glaces de chez Pouly, des fromages de brebis de la bergerie de Daignac. Nous a rejoints &agrave; partir de ce march&eacute; un stand d'olives et tapenades, qui nous a &eacute;galement r&eacute;gal&eacute;s.</div>\r",
                     "<div>&nbsp;</div>\r",
                     "<div>Au programme pour octobre, bien entendu les m&ecirc;mes intervenants que pour septembre, mais nous serons &eacute;galement rejoints par un exposant de rhums arrang&eacute;s et liqueurs, ainsi qu'un r&ocirc;tisseur (poulet et jambons brais&eacute;s).</div>\r",
                     "<div>&nbsp;</div>\r",
-                    "<div>A partir de novembre, un traiteur vous proposera &eacute;galement des plats chaud, chipirons, encornets farcis, crevettes, boulettes de viandes ainsi que son tr&egrave;s demand&eacute; a&iuml;oli maison.</div>"
+                    "<div>A partir de novembre, un traiteur vous proposera &eacute;galement des plats chauds, chipirons, encornets farcis, crevettes, boulettes de viandes ainsi que son tr&egrave;s demand&eacute; a&iuml;oli maison.</div>"
                    ]
                   },
                   "id": "Y596ab25c232d3e1",
@@ -1479,7 +1661,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 5,
+                "index": 7,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1820,7 +2002,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 6,
+                "index": 8,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1837,7 +2019,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 7,
+                "index": 9,
                 "user_style": "Title3",
                 "more_classes": "",
                 "embedded_css_rules": ""
@@ -1965,17 +2147,17 @@
                     "<div>\r",
                     "<div>Nous avons pu couvrir quasiment toutes les demandes de la liste communiqu&eacute;e par la pr&eacute;fecture:</div>\r",
                     "<div>- V&ecirc;tements enfants et adultes</div>\r",
-                    "<div>- Couches, produits de soins b&eacute;b&eacute;s, brosses &agrave; dent enfants, cotons, s&eacute;rum physiologique</div>\r",
+                    "<div>- Couches, produits de soins b&eacute;b&eacute;s, brosses &agrave; dents enfants, cotons, s&eacute;rum physiologique</div>\r",
                     "<div>- Nourriture s&egrave;che et compotes</div>\r",
                     "<div>- Packs d'eau, de lait</div>\r",
                     "<div>- Draps, couvertures</div>\r",
                     "<div>- Serviettes &eacute;ponge et gants de toilette</div>\r",
-                    "<div>- Si&egrave;ges auto et r&eacute;hausseurs enfant</div>\r",
+                    "<div>- Si&egrave;ges auto et rehausseurs enfant</div>\r",
                     "<div>- Carnets de coloriage, crayons de couleur, magazines et livres</div>\r",
                     "<div>&nbsp;</div>\r",
                     "</div>\r",
                     "<div>\r",
-                    "<div>Nos b&eacute;n&eacute;voles se sont arr&ecirc;t&eacute; &agrave; Sauveterre de Guyenne et Targon, afin d'aider les pompiers &agrave; acheminer les fruits de leurs collectes vers le Parc des Expositions. Le camion de 16m3 est d&eacute;sormais rempli &agrave; ras bord.</div>\r",
+                    "<div>Nos b&eacute;n&eacute;voles se sont arr&ecirc;t&eacute;s &agrave; Sauveterre de Guyenne et Targon, afin d'aider les pompiers &agrave; acheminer les fruits de leurs collectes vers le Parc des Expositions. Le camion de 16m3 est d&eacute;sormais rempli &agrave; ras bord.</div>\r",
                     "<div><span class=\"html-span xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xm2jcoa x1mpyi22 xxymvpz xlup9mm x1kky2od\" style=\"text-align: inherit; padding-inline: 0px; margin-inline: 1px; overflow-wrap: break-word; display: inline-flex; vertical-align: middle; padding-bottom: 0px; width: 16px; margin-bottom: 0px; margin-top: 0px; padding-top: 0px; height: 16px; font-family: inherit;\">&nbsp;</span></div>\r",
                     "</div>\r",
                     "<div>\r",
@@ -2069,7 +2251,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 8,
+                "index": 10,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -2212,7 +2394,7 @@
                     "<div>\r",
                     "<div>&nbsp;</div>\r",
                     "</div>\r",
-                    "<div><span>Merci de votre compr&eacute;hension et bon courage &agrave; toutes et &agrave; tous pensant cette p&eacute;riode difficile.</span></div>\r",
+                    "<div><span>Merci de votre compr&eacute;hension et bon courage &agrave; toutes et &agrave; tous pendant cette p&eacute;riode difficile.</span></div>\r",
                     "<div><span>&nbsp;</span></div>\r",
                     "</div>"
                    ]
@@ -2284,7 +2466,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 9,
+                "index": 11,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -2714,7 +2896,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 10,
+                "index": 12,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -2731,7 +2913,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 11,
+                "index": 13,
                 "user_style": "Title3",
                 "more_classes": "",
                 "embedded_css_rules": ""
@@ -3085,7 +3267,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 12,
+                "index": 14,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -3219,7 +3401,7 @@
                         "<div>&nbsp;</div>\r",
                         "</div>\r",
                         "<div>\r",
-                        "<div>L'&eacute;v&egrave;nement se tiendra le 20 septembre, au m&ecirc;me emplacement. Toutes les informations (menus, programmes etc) vous serons communiqu&eacute;s au plus vite. Idem pour la ma&iuml;ade, l'arbre sera plant&eacute; lui aussi le 13 septembre.</div>\r",
+                        "<div>L'&eacute;v&egrave;nement se tiendra le 20 septembre, au m&ecirc;me emplacement. Toutes les informations (menus, programmes etc) vous seront communiqu&eacute;es au plus vite. Idem pour la ma&iuml;ade, l'arbre sera plant&eacute; lui aussi le 13 septembre.</div>\r",
                         "<div>&nbsp;</div>\r",
                         "</div>\r",
                         "<div>\r",
@@ -3336,7 +3518,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 13,
+                "index": 15,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -3558,7 +3740,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 14,
+                "index": 16,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -3813,7 +3995,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 15,
+                "index": 17,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -4125,7 +4307,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 16,
+                "index": 18,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -4504,7 +4686,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 17,
+                "index": 19,
                 "user_style": 0,
                 "more_classes": null,
                 "embedded_css_rules": ""
@@ -4615,7 +4797,7 @@
                       "$class": "WssTitle",
                       "level": "2",
                       "href": "",
-                      "value": "Opération Tranquilité vacances ",
+                      "value": "Opération Tranquillité vacances ",
                       "id": "Y586a2056024b5eb",
                       "properties": 1024,
                       "owner": {
@@ -4631,7 +4813,7 @@
                       "$class": "WsTextarea",
                       "value": {
                        "$text": [
-                        "<p id=\"OTV\">En cas d'absence prolong&eacute;e de votre domicile, la gendarmerie vous propose le dispositif \"Op&eacute;ration Tranquilit&eacute; Vacances\".</p>\r",
+                        "<p id=\"OTV\">En cas d'absence prolong&eacute;e de votre domicile, la gendarmerie vous propose le dispositif \"Op&eacute;ration Tranquillit&eacute; Vacances\".</p>\r",
                         "<p>&nbsp;</p>\r",
                         "<p>Les d&eacute;tails se trouvent dans l'infographie officielle ci-dessous.</p>\r",
                         "<p>&nbsp;</p>"
@@ -4909,7 +5091,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 18,
+                "index": 20,
                 "user_style": 0,
                 "more_classes": null,
                 "embedded_css_rules": ""

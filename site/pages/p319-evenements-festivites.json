@@ -5,7 +5,7 @@
   "fr",
   "evenements-festivites",
   "2026-09-22 13:00:05",
-  "Evenements de notre commune",
+  "Évènements de notre commune",
   "8201",
   {
    "$php": {
@@ -15,7 +15,7 @@
     "url_id": "evenements-festivites",
     "date": 1790074805,
     "save_number": 1380,
-    "name": "Evenements de notre commune",
+    "name": "Évènements de notre commune",
     "valign": null,
     "model_id": 0,
     "contents": [
@@ -144,7 +144,7 @@
                 "contents": [
                  {
                   "$class": "WsTextarea",
-                  "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
                   "id": "Y96ab25fb51ba34",
                   "properties": 264192,
                   "owner": {
@@ -671,11 +671,11 @@
                       "<p><span>- Oeufs</span></p>\r",
                       "<p><span>- Olives et tapenades</span></p>\r",
                       "<p>&nbsp;</p>\r",
-                      "<p>S'y ajouterons ...</p>\r",
+                      "<p>S'y ajouteront ...</p>\r",
                       "<p>- des rhums arrang&eacute;s et des liqueurs</p>\r",
                       "<p>- une r&ocirc;tisserie (poulet et jambons &agrave; la broche)</p>\r",
                       "<p>&nbsp;</p>\r",
-                      "<p>Nous rejoindra &eacute;galement notre traiteur J&eacute;r&ocirc;me, qui vous proposera encornets farcis, seiches et chipirons, poulets frits et son fameux a&iuml;oli maison.</p>\r",
+                      "<p>Nous rejoindra &eacute;galement notre traiteur J&eacute;r&ocirc;me (Antonio pour les intimes), qui vous proposera encornets farcis, seiches et chipirons, poulets frits et son fameux a&iuml;oli maison.</p>\r",
                       "<p>&nbsp;</p>\r",
                       "<p>Un caf&eacute; vous sera offert &agrave; votre arriv&eacute;e.</p>\r",
                       "<p>&nbsp;</p>\r",
@@ -841,7 +841,7 @@
                     "value": {
                      "$text": [
                       "<p>Un hommage sera rendu le mercredi 11 novembre 2026 &agrave; nos soldats morts pour la France.</p>\r",
-                      "<p>Le conseil municipal invite toutes les Baigneudaises et tous les Baigneudais &agrave; se rendre &agrave; 10h30 devant l'&eacute;cole, o&ugrave; un caf&eacute; sera offert, puis &agrave; 11h au monument aux morts.</p>\r",
+                      "<p>Le conseil municipal invite toutes les Baigneaudaises et tous les Baigneaudais &agrave; se rendre &agrave; 10h30 devant l'&eacute;cole, o&ugrave; un caf&eacute; sera offert, puis &agrave; 11h au monument aux morts.</p>\r",
                       "<p>Le Maire &eacute;noncera les noms des anciens combattants, une minute de silence sera respect&eacute;e et une gerbe sera d&eacute;pos&eacute;e, en pr&eacute;sence des pompiers de Targon et de la Gendarmerie de Cr&eacute;on.</p>\r",
                       "<p>Un verre de l'amiti&eacute; sera ensuite offert &agrave; la salle des f&ecirc;tes.</p>"
                      ]
@@ -1105,7 +1105,7 @@
                      "$text": [
                       "<p>La mairie vous propose un spectacle de No&euml;l, le 6 d&eacute;cembre 2026 &agrave; la Salle des F&ecirc;tes.</p>\r",
                       "<p>&nbsp;</p>\r",
-                      "<p>Les d&eacute;tails vous seront communiqu&eacute;s ult&egrave;rieurement.</p>"
+                      "<p>Les d&eacute;tails vous seront communiqu&eacute;s ult&eacute;rieurement.</p>"
                      ]
                     },
                     "id": "Y486a59f7abe6b1f",

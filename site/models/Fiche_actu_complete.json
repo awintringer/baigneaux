@@ -120,7 +120,7 @@
         "$class": "WssTitle",
         "level": "2",
         "href": "",
-        "value": "Opération Tranquilité vacances ",
+        "value": "Opération Tranquillité vacances ",
         "id": "Y446a2054d24664c",
         "properties": 1024,
         "owner": {
@@ -136,7 +136,7 @@
         "$class": "WsTextarea",
         "value": {
          "$text": [
-          "<p id=\"OTV\">En cas d'absence prolong&eacute;e de votre domicile, la gendarmerie vous propose le dispositif \"Op&eacute;ration Tranquilit&eacute; Vacances\".</p>\r",
+          "<p id=\"OTV\">En cas d'absence prolong&eacute;e de votre domicile, la gendarmerie vous propose le dispositif \"Op&eacute;ration Tranquillit&eacute; Vacances\".</p>\r",
           "<p>&nbsp;</p>\r",
           "<p>Les d&eacute;tails se trouvent dans l'infographie officielle ci-dessous.</p>\r",
           "<p>&nbsp;</p>"

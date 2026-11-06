@@ -134,7 +134,7 @@
             "contents": [
              {
               "$class": "WsTextarea",
-              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
               "id": "Y96a85589d72ee3",
               "properties": 264192,
               "owner": {
@@ -725,7 +725,12 @@
                    },
                    {
                     "$class": "WsTextarea",
-                    "value": "<p><strong>Sandrine ALLAIN</strong></p>\r\n<p>Maire depuis 2020</p>",
+                    "value": {
+                     "$text": [
+                      "<p><strong>Sandrine ALLAIN</strong></p>\r",
+                      "<p>Maire depuis 2020</p>"
+                     ]
+                    },
                     "id": "Y966ae33522256ba",
                     "properties": 264192,
                     "owner": {
@@ -794,7 +799,12 @@
                    },
                    {
                     "$class": "WsTextarea",
-                    "value": "<p><strong>Sophie BASSAN</strong></p>\r\n<p>1<sup>re</sup> adjointe</p>",
+                    "value": {
+                     "$text": [
+                      "<p><strong>Sophie BASSAN</strong></p>\r",
+                      "<p>1<sup>re</sup> adjointe</p>"
+                     ]
+                    },
                     "id": "Y1046ae3352225b03",
                     "properties": 264192,
                     "owner": {
@@ -863,7 +873,12 @@
                    },
                    {
                     "$class": "WsTextarea",
-                    "value": "<p><strong>Christophe GUILHON</strong></p>\r\n<p>2<sup>e</sup> adjoint</p>",
+                    "value": {
+                     "$text": [
+                      "<p><strong>Christophe GUILHON</strong></p>\r",
+                      "<p>2<sup>e</sup> adjoint</p>"
+                     ]
+                    },
                     "id": "Y1126ae3352225f4b",
                     "properties": 264192,
                     "owner": {

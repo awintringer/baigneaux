@@ -11,7 +11,7 @@
    "$php": {
     "$class": "WssPage",
     "description": "",
-    "title": "Tourisme",
+    "title": "",
     "url_id": "annuaire",
     "date": 1790082754,
     "save_number": 1205,
@@ -134,7 +134,7 @@
             "contents": [
              {
               "$class": "WsTextarea",
-              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Ev&egrave;nements</a></p>",
+              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
               "id": "Y96ab27ec200197",
               "properties": 264192,
               "owner": {
