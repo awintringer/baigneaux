@@ -28,25 +28,84 @@
         "model_id": "",
         "contents": [
          {
-          "$class": "WsTextarea",
-          "value": {
-           "$text": [
-            "<p>Mairie de Baigneaux -&nbsp;<span style=\"font-size: 12.8px;\">116 rue Yvonne de la Seigli&egrave;re -&nbsp;</span><span style=\"font-size: 12.8px;\">33760 Baigneaux</span></p>\r",
-            "<p>T&eacute;l: <a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a>&nbsp;-&nbsp;E-Mail&nbsp;: <a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>\r",
-            "<p>Suivez Baigneaux sur Facebook&nbsp;:&nbsp;<a href=\"https://www.facebook.com/lesbaignaudais/\">facebook.com/lesbaignaudais</a></p>\r",
-            "<p><a href=\"mentions-legales.html\">Mentions L&eacute;gales</a> - <a href=\"https://www.baigneaux.fr/historique-modifications.html\">Historique des versions</a></p>"
-           ]
-          },
-          "id": "Y276ab2777b8f658",
-          "properties": 2048,
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsTextarea",
+            "value": {
+             "$text": [
+              "<p><strong>Mairie de Baigneaux</strong></p>\r",
+              "<p>116 rue Yvonne de la Seigli&egrave;re<br />33760 Baigneaux</p>"
+             ]
+            },
+            "id": "Y926aee47222a53d",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": null,
+            "more_classes": "pied_mairie",
+            "embedded_css_rules": "",
+            "name_in_model": "MY926aee47222a53d"
+           },
+           {
+            "$class": "WsTextarea",
+            "value": {
+             "$text": [
+              "<p>Contact</p>\r",
+              "<p><a href=\"tel:+33556239750\">05 56 23 97 50</a></p>\r",
+              "<p><a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>\r",
+              "<p>Lundi et vendredi 13h-18h<br />Mercredi 8h30-11h30</p>"
+             ]
+            },
+            "id": "Y936aee47222a5c7",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": null,
+            "more_classes": "pied_col",
+            "embedded_css_rules": "",
+            "name_in_model": "MY936aee47222a5c7"
+           },
+           {
+            "$class": "WsTextarea",
+            "value": {
+             "$text": [
+              "<p>&Agrave; suivre</p>\r",
+              "<p><a href=\"https://www.facebook.com/lesbaignaudais/\">Facebook : Les Baignaudais</a></p>\r",
+              "<p><a href=\"https://www.baigneaux.fr/boite-a-idees.html\">Bo&icirc;te &agrave; id&eacute;es</a></p>\r",
+              "<p><a href=\"https://www.baigneaux.fr/mentions-legales.html\">Mentions l&eacute;gales</a></p>\r",
+              "<p><a href=\"https://www.baigneaux.fr/historique-modifications.html\">Historique des versions</a></p>"
+             ]
+            },
+            "id": "Y946aee47222a650",
+            "properties": 264192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 2,
+            "user_style": null,
+            "more_classes": "pied_col",
+            "embedded_css_rules": "",
+            "name_in_model": "MY946aee47222a650"
+           }
+          ],
+          "href": "",
+          "id": "Z956aee47222a6d9",
+          "properties": 8192,
           "owner": {
            "$owner": "R"
           },
           "index": 0,
-          "user_style": "Texte-centre",
-          "more_classes": "",
+          "user_style": 0,
+          "more_classes": "pied_colonnes",
           "embedded_css_rules": "",
-          "name_in_model": "MY557f1c0abbc42"
+          "name_in_model": "MZ956aee47222a6d9"
          },
          {
           "$class": "WssBadge",

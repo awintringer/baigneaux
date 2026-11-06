@@ -444,7 +444,7 @@
                   "contents": [
                    {
                     "$class": "WsTextarea",
-                    "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                    "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Accueil</a></p>",
                     "id": "Y276a1c1e23b1b49",
                     "properties": 264192,
                     "owner": {
@@ -580,18 +580,170 @@
                 "model_id": 0,
                 "contents": [
                  {
-                  "$class": "WssMenu",
-                  "category": "p210",
-                  "depth": "10",
-                  "value": "vertical",
-                  "id": "Y605b6af1a1dfe3e",
-                  "properties": 262144,
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Enfance et jeunesse",
+                    "id": "Y1916aee40172a4a5",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>De la petite enfance &agrave; l'adolescence : &eacute;coles, modes de garde et loisirs.</p>",
+                    "id": "Y1926aee40172a52e",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "rubrique_intro",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>&Eacute;coles (RPI)</strong></p>\r",
+                          "<p>Le regroupement p&eacute;dagogique de Frontenac et ses cinq communes.</p>"
+                         ]
+                        },
+                        "id": "Y1936aee40172a5b7",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/RPI.html",
+                      "id": "Z1946aee40172a640",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Petite enfance et p&eacute;riscolaire</strong></p>\r",
+                          "<p>Assistantes maternelles, relais petite enfance, multi-accueil et centres de loisirs.</p>"
+                         ]
+                        },
+                        "id": "Y1956aee40172a6c9",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/asmat.html",
+                      "id": "Z1966aee40172a753",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Jeunesse</strong></p>\r",
+                          "<p>Les espaces jeunes pour les 11-17 ans autour de Baigneaux.</p>"
+                         ]
+                        },
+                        "id": "Y1976aee40172a7dc",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/jeunesse.html",
+                      "id": "Z1986aee40172a865",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 2,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1996aee40172a8ee",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": "tuiles_rubrique",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z2006aee40172a977",
+                  "properties": 8192,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Sous-menus",
-                  "more_classes": "",
+                  "user_style": 0,
+                  "more_classes": "rubrique",
                   "embedded_css_rules": ""
                  }
                 ],

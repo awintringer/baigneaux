@@ -277,7 +277,7 @@
                   "contents": [
                    {
                     "$class": "WsTextarea",
-                    "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                    "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Accueil</a></p>",
                     "id": "Y276a1c1c8734026",
                     "properties": 264192,
                     "owner": {
@@ -563,18 +563,596 @@
                 "model_id": 0,
                 "contents": [
                  {
-                  "$class": "WssMenu",
-                  "category": "p207",
-                  "depth": "10",
-                  "value": "0",
-                  "id": "Y605b6af14484d3e",
-                  "properties": 262144,
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Ma mairie",
+                    "id": "Y1456aee401728c03",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>Le conseil municipal, ses d&eacute;cisions et vos d&eacute;marches aupr&egrave;s de la mairie.</p>",
+                    "id": "Y1466aee401728c8c",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "rubrique_intro",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": "<p>Vos &eacute;lus</p>",
+                        "id": "Y1646aee401729630",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "rubrique_soustitre",
+                        "embedded_css_rules": ""
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": 0,
+                        "contents": [
+                         {
+                          "$class": "WsContainer",
+                          "valign": null,
+                          "model_id": 0,
+                          "contents": [
+                           {
+                            "$class": "WsImage",
+                            "caption": "",
+                            "href": "",
+                            "tooltip": "Portrait de Sandrine Allain",
+                            "original_name": "whatsapp-image-2026-01-11-at-09-58-58--2-.jpg",
+                            "in_gallery": "0",
+                            "uploaded_image": "whatsapp-image-2026-01-11-at-09-58-58--2-.jpg",
+                            "keep_format": "0",
+                            "width": "200",
+                            "height": "200",
+                            "notFlexible": "0",
+                            "value": "portrait-sandrine-allain.jpg",
+                            "id": "Y1666aee401729742",
+                            "properties": 266240,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 0,
+                            "user_style": null,
+                            "more_classes": "",
+                            "embedded_css_rules": ""
+                           },
+                           {
+                            "$class": "WsTextarea",
+                            "value": {
+                             "$text": [
+                              "<p><strong>Sandrine ALLAIN</strong></p>\r",
+                              "<p>Maire depuis 2020</p>"
+                             ]
+                            },
+                            "id": "Y1676aee4017297cb",
+                            "properties": 264192,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 1,
+                            "user_style": "Texte_normal_align_gauche",
+                            "more_classes": "",
+                            "embedded_css_rules": ""
+                           }
+                          ],
+                          "id": "Z1656aee4017296b9",
+                          "properties": 8192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": "bloc_conseil_perso",
+                          "more_classes": "carte_elu",
+                          "embedded_css_rules": "",
+                          "href": ""
+                         },
+                         {
+                          "$class": "WsContainer",
+                          "valign": null,
+                          "model_id": 0,
+                          "contents": [
+                           {
+                            "$class": "WsImage",
+                            "caption": "",
+                            "href": "",
+                            "tooltip": "Portrait de Sophie Bassan",
+                            "original_name": "whatsapp-image-2026-01-11-at-09-58-57--2-.jpg",
+                            "in_gallery": "0",
+                            "uploaded_image": "whatsapp-image-2026-01-11-at-09-58-57--2-.jpg",
+                            "keep_format": "0",
+                            "width": "200",
+                            "height": "200",
+                            "notFlexible": "0",
+                            "value": "portrait-sophie-bassan.jpg",
+                            "id": "Y1696aee4017298dd",
+                            "properties": 266240,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 0,
+                            "user_style": null,
+                            "more_classes": "",
+                            "embedded_css_rules": ""
+                           },
+                           {
+                            "$class": "WsTextarea",
+                            "value": {
+                             "$text": [
+                              "<p><strong>Sophie BASSAN</strong></p>\r",
+                              "<p>1<sup>re</sup> adjointe</p>"
+                             ]
+                            },
+                            "id": "Y1706aee401729966",
+                            "properties": 264192,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 1,
+                            "user_style": "Texte_normal_align_gauche",
+                            "more_classes": "",
+                            "embedded_css_rules": ""
+                           }
+                          ],
+                          "id": "Z1686aee401729854",
+                          "properties": 8192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 1,
+                          "user_style": "bloc_conseil_perso",
+                          "more_classes": "carte_elu",
+                          "embedded_css_rules": "",
+                          "href": ""
+                         },
+                         {
+                          "$class": "WsContainer",
+                          "valign": null,
+                          "model_id": 0,
+                          "contents": [
+                           {
+                            "$class": "WsImage",
+                            "caption": "",
+                            "href": "",
+                            "tooltip": "Portrait de Christophe Guilhon",
+                            "original_name": "cg.png",
+                            "in_gallery": "0",
+                            "uploaded_image": "cg.png",
+                            "keep_format": "0",
+                            "width": "200",
+                            "height": "200",
+                            "notFlexible": "0",
+                            "value": "portrait-christophe-guilhon.jpg",
+                            "id": "Y1726aee401729a78",
+                            "properties": 266240,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 0,
+                            "user_style": null,
+                            "more_classes": "",
+                            "embedded_css_rules": ""
+                           },
+                           {
+                            "$class": "WsTextarea",
+                            "value": {
+                             "$text": [
+                              "<p><strong>Christophe GUILHON</strong></p>\r",
+                              "<p>2<sup>e</sup> adjoint</p>"
+                             ]
+                            },
+                            "id": "Y1736aee401729b01",
+                            "properties": 264192,
+                            "owner": {
+                             "$owner": "R"
+                            },
+                            "index": 1,
+                            "user_style": "Texte_normal_align_gauche",
+                            "more_classes": "",
+                            "embedded_css_rules": ""
+                           }
+                          ],
+                          "id": "Z1716aee4017299ef",
+                          "properties": 8192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 2,
+                          "user_style": "bloc_conseil_perso",
+                          "more_classes": "carte_elu",
+                          "embedded_css_rules": "",
+                          "href": ""
+                         }
+                        ],
+                        "href": "",
+                        "id": "Z1746aee401729b8b",
+                        "properties": 8192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 1,
+                        "user_style": 0,
+                        "more_classes": "apercu_elus",
+                        "embedded_css_rules": ""
+                       },
+                       {
+                        "$class": "WsTextarea",
+                        "value": "<p><a href=\"https://www.baigneaux.fr/conseil-municipal.html\">Tout le conseil &rarr;</a></p>",
+                        "id": "Y1756aee401729c14",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 2,
+                        "user_style": "liens_page_principale",
+                        "more_classes": "rubrique_bouton",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "",
+                      "id": "Z906aee47222a42b",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": "colonne_elus",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": 0,
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": {
+                           "$text": [
+                            "<p><strong>Conseil municipal</strong></p>\r",
+                            "<p>Le maire, les adjoints et les conseillers municipaux.</p>"
+                           ]
+                          },
+                          "id": "Y1476aee401728d15",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": null,
+                          "more_classes": "",
+                          "embedded_css_rules": ""
+                         }
+                        ],
+                        "href": "https://www.baigneaux.fr/conseil-municipal.html",
+                        "id": "Z1486aee401728d9e",
+                        "properties": 8192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": 0,
+                        "more_classes": "tuile_rubrique",
+                        "embedded_css_rules": ""
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": 0,
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": {
+                           "$text": [
+                            "<p><strong>Commissions communales</strong></p>\r",
+                            "<p>Les commissions de travail du conseil et leurs membres.</p>"
+                           ]
+                          },
+                          "id": "Y1496aee401728e27",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": null,
+                          "more_classes": "",
+                          "embedded_css_rules": ""
+                         }
+                        ],
+                        "href": "https://www.baigneaux.fr/commissions.html",
+                        "id": "Z1506aee401728eb0",
+                        "properties": 8192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 1,
+                        "user_style": 0,
+                        "more_classes": "tuile_rubrique",
+                        "embedded_css_rules": ""
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": 0,
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": {
+                           "$text": [
+                            "<p><strong>Proc&egrave;s-verbaux des conseils</strong></p>\r",
+                            "<p>Le compte rendu de chaque s&eacute;ance du conseil municipal.</p>"
+                           ]
+                          },
+                          "id": "Y1516aee401728f39",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": null,
+                          "more_classes": "",
+                          "embedded_css_rules": ""
+                         }
+                        ],
+                        "href": "https://www.baigneaux.fr/pv-conseil.html",
+                        "id": "Z1526aee401728fc3",
+                        "properties": 8192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 2,
+                        "user_style": 0,
+                        "more_classes": "tuile_rubrique",
+                        "embedded_css_rules": ""
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": 0,
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": {
+                           "$text": [
+                            "<p><strong>D&eacute;lib&eacute;rations</strong></p>\r",
+                            "<p>Les d&eacute;cisions adopt&eacute;es par le conseil, class&eacute;es par ann&eacute;e.</p>"
+                           ]
+                          },
+                          "id": "Y1536aee40172904c",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": null,
+                          "more_classes": "",
+                          "embedded_css_rules": ""
+                         }
+                        ],
+                        "href": "https://www.baigneaux.fr/deliberations.html",
+                        "id": "Z1546aee4017290d5",
+                        "properties": 8192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 3,
+                        "user_style": 0,
+                        "more_classes": "tuile_rubrique",
+                        "embedded_css_rules": ""
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": 0,
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": {
+                           "$text": [
+                            "<p><strong>Arr&ecirc;t&eacute;s municipaux</strong></p>\r",
+                            "<p>Les arr&ecirc;t&eacute;s du maire : circulation, s&eacute;curit&eacute;, chasse&hellip;</p>"
+                           ]
+                          },
+                          "id": "Y1556aee40172915e",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": null,
+                          "more_classes": "",
+                          "embedded_css_rules": ""
+                         }
+                        ],
+                        "href": "https://www.baigneaux.fr/arretes.html",
+                        "id": "Z1566aee4017291e7",
+                        "properties": 8192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 4,
+                        "user_style": 0,
+                        "more_classes": "tuile_rubrique",
+                        "embedded_css_rules": ""
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": 0,
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": {
+                           "$text": [
+                            "<p><strong>Arr&ecirc;t&eacute;s pr&eacute;fectoraux</strong></p>\r",
+                            "<p>Les arr&ecirc;t&eacute;s du pr&eacute;fet qui concernent la commune.</p>"
+                           ]
+                          },
+                          "id": "Y1576aee401729270",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": null,
+                          "more_classes": "",
+                          "embedded_css_rules": ""
+                         }
+                        ],
+                        "href": "https://www.baigneaux.fr/arretes-prefectoraux.html",
+                        "id": "Z1586aee4017292f9",
+                        "properties": 8192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 5,
+                        "user_style": 0,
+                        "more_classes": "tuile_rubrique",
+                        "embedded_css_rules": ""
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": 0,
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": {
+                           "$text": [
+                            "<p><strong>Formalit&eacute;s administratives</strong></p>\r",
+                            "<p>Carte d'identit&eacute;, passeport, &eacute;lections, recensement militaire&hellip;</p>"
+                           ]
+                          },
+                          "id": "Y1596aee401729382",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": null,
+                          "more_classes": "",
+                          "embedded_css_rules": ""
+                         }
+                        ],
+                        "href": "https://www.baigneaux.fr/formalites-administratives.html",
+                        "id": "Z1606aee40172940b",
+                        "properties": 8192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 6,
+                        "user_style": 0,
+                        "more_classes": "tuile_rubrique",
+                        "embedded_css_rules": ""
+                       },
+                       {
+                        "$class": "WsContainer",
+                        "valign": null,
+                        "model_id": 0,
+                        "contents": [
+                         {
+                          "$class": "WsTextarea",
+                          "value": {
+                           "$text": [
+                            "<p><strong>Bo&icirc;te &agrave; id&eacute;es</strong></p>\r",
+                            "<p>Une id&eacute;e, une remarque, un probl&egrave;me &agrave; signaler ? &Eacute;crivez &agrave; la mairie.</p>"
+                           ]
+                          },
+                          "id": "Y1616aee401729494",
+                          "properties": 264192,
+                          "owner": {
+                           "$owner": "R"
+                          },
+                          "index": 0,
+                          "user_style": null,
+                          "more_classes": "",
+                          "embedded_css_rules": ""
+                         }
+                        ],
+                        "href": "https://www.baigneaux.fr/boite-a-idees.html",
+                        "id": "Z1626aee40172951d",
+                        "properties": 8192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 7,
+                        "user_style": 0,
+                        "more_classes": "tuile_rubrique",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "",
+                      "id": "Z1636aee4017295a7",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": "tuiles_rubrique",
+                      "embedded_css_rules": ""
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z916aee47222a4b4",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": "mairie_corps",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z1766aee401729c9d",
+                  "properties": 8192,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Sous-menus",
-                  "more_classes": "",
+                  "user_style": 0,
+                  "more_classes": "rubrique",
                   "embedded_css_rules": ""
                  }
                 ],

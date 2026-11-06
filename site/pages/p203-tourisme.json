@@ -444,7 +444,7 @@
                   "contents": [
                    {
                     "$class": "WsTextarea",
-                    "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                    "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Accueil</a></p>",
                     "id": "Y276a1c1f390dbe1",
                     "properties": 264192,
                     "owner": {
@@ -580,18 +580,170 @@
                 "model_id": 0,
                 "contents": [
                  {
-                  "$class": "WssMenu",
-                  "category": "p203",
-                  "depth": "10",
-                  "value": "0",
-                  "id": "Y605b6af162f2907",
-                  "properties": 262144,
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Tourisme",
+                    "id": "Y2296aee40172b8ff",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>D&eacute;couvrir Baigneaux et l'Entre-Deux-Mers.</p>",
+                    "id": "Y2306aee40172b988",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "rubrique_intro",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>H&eacute;bergeurs</strong></p>\r",
+                          "<p>O&ugrave; dormir &agrave; Baigneaux et aux alentours.</p>"
+                         ]
+                        },
+                        "id": "Y2316aee40172ba11",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/Domaines.html",
+                      "id": "Z2326aee40172ba9a",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Chemins de randonn&eacute;e</strong></p>\r",
+                          "<p>Des boucles &agrave; pied autour du village et dans l'Entre-Deux-Mers.</p>"
+                         ]
+                        },
+                        "id": "Y2336aee40172bb23",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/chemins-randonnees.html",
+                      "id": "Z2346aee40172bbac",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Office de tourisme</strong></p>\r",
+                          "<p>L'office de tourisme pour pr&eacute;parer votre visite.</p>"
+                         ]
+                        },
+                        "id": "Y2356aee40172bc35",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/p314.html",
+                      "id": "Z2366aee40172bcbe",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 2,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z2376aee40172bd47",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": "tuiles_rubrique",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z2386aee40172bdd0",
+                  "properties": 8192,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Sous-menus",
-                  "more_classes": "",
+                  "user_style": 0,
+                  "more_classes": "rubrique",
                   "embedded_css_rules": ""
                  }
                 ],

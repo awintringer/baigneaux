@@ -277,7 +277,7 @@
                   "contents": [
                    {
                     "$class": "WsTextarea",
-                    "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                    "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Accueil</a></p>",
                     "id": "Y276a1ebd6fee56f",
                     "properties": 264192,
                     "owner": {
@@ -571,18 +571,240 @@
                 "model_id": 0,
                 "contents": [
                  {
-                  "$class": "WssMenu",
-                  "category": "p220",
-                  "depth": "10",
-                  "value": "0",
-                  "id": "Y605b6af1d04d1b8",
-                  "properties": 262144,
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Vie communale",
+                    "id": "Y1776aee401729d26",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>Les lieux, les &eacute;quipements et les souvenirs partag&eacute;s du village.</p>",
+                    "id": "Y1786aee401729daf",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "rubrique_intro",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Notre village en images</strong></p>\r",
+                          "<p>Les albums photo des f&ecirc;tes et des rendez-vous du village.</p>"
+                         ]
+                        },
+                        "id": "Y1796aee401729e38",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/galerie-evenements.html",
+                      "id": "Z1806aee401729ec1",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Salle des f&ecirc;tes</strong></p>\r",
+                          "<p>Tarifs et conditions de location de la salle des f&ecirc;tes.</p>"
+                         ]
+                        },
+                        "id": "Y1816aee401729f4a",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/salle-fetes.html",
+                      "id": "Z1826aee401729fd3",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Aire de jeux et city stade</strong></p>\r",
+                          "<p>City stade, terrain de p&eacute;tanque et jeux d'enfants, dans le bourg.</p>"
+                         ]
+                        },
+                        "id": "Y1836aee40172a05c",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/aire-jeux.html",
+                      "id": "Z1846aee40172a0e5",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 2,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Patrimoine</strong></p>\r",
+                          "<p>Histoire, chiffres cl&eacute;s et patrimoine de la commune.</p>"
+                         ]
+                        },
+                        "id": "Y1856aee40172a16f",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/patrimoine.html",
+                      "id": "Z1866aee40172a1f8",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 3,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Plateforme d&eacute;chets verts</strong></p>\r",
+                          "<p>Le d&eacute;p&ocirc;t de d&eacute;chets verts de l'impasse de Racaud, ouvert 24 h/24.</p>"
+                         ]
+                        },
+                        "id": "Y1876aee40172a281",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/p320.html",
+                      "id": "Z1886aee40172a30a",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 4,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1896aee40172a393",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": "tuiles_rubrique",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z1906aee40172a41c",
+                  "properties": 8192,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Sous-menus",
-                  "more_classes": "",
+                  "user_style": 0,
+                  "more_classes": "rubrique",
                   "embedded_css_rules": ""
                  }
                 ],

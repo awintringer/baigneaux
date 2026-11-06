@@ -56,17 +56,19 @@
 	line-height: 1.1em;
 }
 .wscontainer_Path {
-	color: #2f5e3e;
 	border-color: #2f5e3e;
 	border-radius: 1px;
 	max-width: 1100px;
-	font-size: 0.75em;
 	border-width: 0px;
 	padding: 0px;
+	font-size: 14px;
+	color: #5F6B60;
 }
 .wstextarea_Path a {
-	text-decoration: none;
 	font-family: Inter, Arial, sans-serif;
+	color: #2F5E3E;
+	text-decoration: none;
+	font-weight: 500;
 }
 .wstextarea_Path {
 	white-space: nowrap;
@@ -75,30 +77,30 @@
 	padding-top: 0px;
 	margin-top: 0px;
 	border-width: 0px;
-	font-size: 1.5em;
 	font-variant: normal;
 	text-transform: none;
-	font-weight: bold;
 	font-family: Inter, Arial, sans-serif;
+	font-size: 1em;
+	font-weight: 500;
 }
 .wsspagepath_Path a {
-	padding-left: 4px;
-	text-decoration: underline;
 	font-family: Inter, Arial, sans-serif;
-	font-weight: normal;
-	font-size: 1.1em;
-	color: #2f5e3e;
+	font-size: 14px;
+	text-decoration: none;
+	padding-left: 0px;
+	color: #2F5E3E;
+	font-weight: 500;
 }
 .wsspagepath_Path a:hover, .wsspagepath_Path a.hover {
-	text-decoration: none;
+	text-decoration: underline;
 }
 .wsspagepath_Path {
 	margin-top: 0px;
-	color: #5f6f64;
 	border-width: 0px;
 	text-align: left;
-	font-size: 1.5em;
 	padding-top: 0px;
+	font-size: 0px;
+	color: #5F6B60;
 }
 .wssmenu_Main .submenu a {
 	font-family: Inter, Arial, sans-serif;
@@ -155,12 +157,18 @@
 }
 .wscontainer_fred1 {
 	margin: 0px;
-	color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 0px;
-	max-width: 1178px;
-	border-width: 0px;
+	color: #1F2A23;
+	max-width: 1168px;
+	margin-top: 28px;
+	margin-bottom: 18px;
+	background-color: #FFFFFF;
+	border: 1px solid #DDE2D9;
+	border-radius: 14px;
+	border-width: 1px;
+	padding: 26px 30px 14px;
+	box-sizing: border-box;
 }
 .wssmenu_Main .button {
 	clear: both;
@@ -409,7 +417,7 @@
 	border-width: 0px;
 }
 .wssmenu_Main a.hover {
-	background-color: #f5f5fe;
+	background-color: #E6EEE6;
 }
 .wscontainer_bloc_conseil_perso {
 	border-width: 1px;
@@ -553,10 +561,10 @@ border-color: #000000;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
 	color: #2f5e3e;
-	margin-top: 5px;
 	font-size: 1em;
 	gap: 6px;
 	font-family: Inter, Arial, sans-serif;
+	margin-top: 0px;
 }
 .wstextarea_liens_page_principale {
 	display: grid;
@@ -584,6 +592,8 @@ border-color: #000000;
 	background: transparent;
 	border: 0px;
 	box-shadow: none;
+	min-height: 56px;
+	line-height: 1;
 }
 .wstextarea_retour_accueil a:hover, .wstextarea_retour_accueil a.hover {
 	color: #2f5e3e;
@@ -642,7 +652,6 @@ border-color: #000000;
 	margin-top: 5px;
 	margin-bottom: 5px;
 	border-color: #2f5e3e;
-	background-image: url(data/images/background/1442_banner.png);
 	margin-left: auto;
 	margin-right: auto;
 	border-width: 0px;
@@ -653,8 +662,10 @@ border-color: #000000;
 	background-repeat: no-repeat;
 	max-width: 1168px;
 	box-sizing: border-box;
-	background-position: 30% 92px;
-	background-size: auto calc(100% - 92px);
+	background-image: url(data/images/background/1442_banner.png);
+	background-position: 30% 84px;
+	background-size: auto calc(100% - 84px);
+	min-height: 410px;
 }
 .wstextarea_retour_accueil {
 	font-family: "Playfair Display", Georgia, serif;
@@ -663,10 +674,12 @@ border-color: #000000;
 	background-repeat: no-repeat;
 	font-size: 3em;
 	padding-left: 70px;
-	padding-top: 5px;
 	font-weight: bold;
 	background-image: url(data/images/background/1231_logositepetit.png);
 	letter-spacing: 0em;
+	padding-top: 0px;
+	margin-top: 0px;
+	line-height: 1;
 }
 .wstextarea_bulle_agenda {
 	padding-right: 10px;
@@ -1296,60 +1309,10 @@ border-color: #000000;
 	}
 }
 @media all {
-	.carte_evenement > .wsimage {
-		order: -1;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		height: 260px;
-		margin: 0 0 14px !important;
-		max-width: none !important;
-		width: 100%;
-		padding: 0;
-		box-sizing: border-box;
-		background: #e8efe9;
-		border-radius: 10px;
-		overflow: hidden;
-	}
-}
-@media all {
-	.carte_evenement > .wsimage img {
-		display: block;
-		width: auto;
-		height: auto;
-		max-width: 100%;
-		max-height: 260px;
-	}
-}
-@media all {
-	.carte_evenement > .wscontainer {
-		flex: 1 1 auto;
-		width: 100%;
-		padding: 0 !important;
-		margin: 0 !important;
-		box-sizing: border-box;
-	}
-}
-@media all {
-	.carte_evenement .wssystemcontainer.H {
-		display: flex !important;
-		align-items: flex-start;
-		gap: 14px;
-		width: 100%;
-		padding: 0 !important;
-		margin: 0 !important;
-	}
-}
-@media all {
 	.carte_evenement .wssystemcontainer.H > div {
 		display: block !important;
 		width: auto !important;
 		min-width: 0;
-	}
-}
-@media all {
-	.carte_evenement .wssystemcontainer.H > div:first-child {
-		flex: 0 0 74px;
 	}
 }
 @media all {
@@ -2076,11 +2039,6 @@ border-color: #000000;
 	}
 }
 @media all {
-	.wscontainer_Path {
-		margin: 6px 14px 0;
-	}
-}
-@media all {
 	.wscontainer.contenu_page {
 		margin: 0;
 		padding: 0;
@@ -2256,13 +2214,6 @@ border-color: #000000;
 		box-sizing: border-box;
 	}
 }
-@media all {
-	.wscontainer_Banniere > .wssystemcontainer.H:first-child {
-		border-bottom: 1px solid #DDE2D9;
-		padding-bottom: 6px;
-		margin-bottom: 4px;
-	}
-}
 @media (max-width: 900px) {
 	.wstextarea_retour_accueil {
 		padding-left: 54px;
@@ -2390,5 +2341,610 @@ border-color: #000000;
 		padding-left: 5px !important;
 		padding-right: 5px !important;
 		box-sizing: border-box;
+	}
+}
+@media all {
+	.wscontainer_Banniere > .wscontainer_BodyHome {
+		margin: 0;
+		padding: 0 0 6px;
+		border: 0;
+		border-bottom: 1px solid #DDE2D9;
+		border-radius: 0;
+		background-color: transparent;
+		max-width: none;
+	}
+}
+@media (min-width: 641px) {
+	.wssystemcontainer.H:has(> div > .wstextarea_retour_accueil) {
+		display: flex !important;
+		align-items: center;
+		justify-content: space-between;
+	}
+}
+@media (min-width: 641px) {
+	.wssystemcontainer.H:has(> div > .wstextarea_retour_accueil) > div {
+		display: block !important;
+		flex: 0 1 auto;
+		width: auto !important;
+	}
+}
+@media (min-width: 641px) {
+	.wssmenu_Main ul.submenu {
+		background-color: #FFFFFF;
+		border: 1px solid #DDE2D9;
+		border-radius: 12px;
+		box-shadow: 0 10px 28px rgba(31, 42, 35, 0.18), 0 2px 6px rgba(31, 42, 35, 0.08);
+		padding: 6px !important;
+		margin-left: 6px;
+		overflow: hidden;
+	}
+}
+@media (min-width: 641px) {
+	.wssmenu_Main ul.submenu a {
+		margin: 0 !important;
+		border-radius: 8px;
+		background-color: transparent !important;
+		padding: 9px 14px !important;
+		font-size: 0.95em;
+	}
+}
+@media (min-width: 641px) {
+	.wssmenu_Main ul.submenu a:hover,
+	.wssmenu_Main ul.submenu a:focus-visible {
+		background-color: #E6EEE6 !important;
+		color: #2F5E3E !important;
+		transform: none;
+	}
+}
+@media (min-width: 641px) {
+	.wssmenu_Main ul.submenu a::after {
+		display: none;
+	}
+}
+@media all {
+	.wscontainer_Banniere {
+		position: relative;
+	}
+}
+@media (min-width: 641px) {
+	.wscontainer_Banniere > .wsimage.badge_ambassadeur {
+		position: absolute;
+		right: 22px;
+		bottom: 20px;
+		z-index: 2;
+	}
+}
+@media all {
+	.wsimage.badge_ambassadeur {
+		background-color: #FFFFFF;
+		border-radius: 12px;
+		padding: 6px 8px;
+		max-width: none !important;
+		box-shadow: 0 6px 18px rgba(31, 42, 35, 0.22);
+		margin: 0;
+		line-height: 0;
+	}
+}
+@media all {
+	.wsimage.badge_ambassadeur img {
+		width: 170px;
+		height: auto;
+		display: block;
+	}
+}
+@media all {
+	.wscontainer_Path {
+		display: inline-block;
+		width: auto !important;
+		margin: 10px 14px 2px;
+		padding: 7px 16px 7px 12px;
+		background-color: #FFFFFF;
+		border: 1px solid #DDE2D9;
+		border-radius: 999px;
+		box-sizing: border-box;
+	}
+}
+@media all {
+	.wscontainer_Path .wscontainer {
+		padding: 0 !important;
+		margin: 0 !important;
+		border-width: 0 !important;
+	}
+}
+@media all {
+	.wscontainer_Path .wssystemcontainer.H {
+		align-items: center !important;
+		gap: 0 !important;
+	}
+}
+@media all {
+	.wscontainer_Path .wssystemcontainer.H > div,
+	.wsspagepath_Path {
+		display: flex !important;
+		align-items: center;
+		height: 20px;
+	}
+}
+@media all {
+	.wscontainer_Path .wstextarea_Path,
+	.wstextarea_Path p,
+	.wsspagepath_Path {
+		margin: 0 !important;
+		padding: 0 !important;
+		line-height: 20px;
+	}
+}
+@media all {
+	.wstextarea_Path a::before {
+		content: "";
+		display: inline-block;
+		width: 17px;
+		height: 17px;
+		margin-right: 6px;
+		vertical-align: -3px;
+		background-image: url(data/images/background/icone-maison.svg);
+		background-size: 17px 17px;
+	}
+}
+@media all {
+	.wstextarea_Path p::after,
+	.wsspagepath_Path a + a::before {
+		content: "";
+		display: inline-block;
+		width: 6px;
+		height: 6px;
+		margin: 0 12px 0 10px;
+		border-right: 1.6px solid #5F6B60;
+		border-top: 1.6px solid #5F6B60;
+		transform: rotate(45deg);
+		vertical-align: 2px;
+	}
+}
+@media all {
+	.wsspagepath_Path a:last-child {
+		color: #1F2A23;
+		font-weight: 600;
+		pointer-events: none;
+	}
+}
+@media all {
+	.wscontainer.rubrique {
+		margin: 0;
+		padding: 6px 10px 18px;
+		border-width: 0;
+	}
+}
+@media all {
+	.wscontainer.rubrique > .wsstitle_Title {
+		padding: 14px 8px 4px;
+		margin: 0;
+	}
+}
+@media all {
+	.wstextarea.rubrique_intro {
+		float: none;
+		font-size: 1.15em;
+		color: #3c4a41;
+		margin: 0 8px 20px;
+		padding: 0;
+	}
+}
+@media all {
+	.wscontainer.tuiles_rubrique {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+		gap: 14px;
+		margin: 0;
+		padding: 0 8px;
+		border-width: 0;
+	}
+}
+@media all {
+	.wscontainer.tuile_rubrique {
+		display: block;
+		position: relative;
+		box-sizing: border-box;
+		height: 100%;
+		margin: 0 !important;
+		padding: 16px 40px 16px 18px !important;
+		background: #F6F8F4;
+		border: 1px solid #DDE2D9;
+		border-radius: 14px;
+		color: inherit;
+		text-decoration: none;
+		font-weight: 400;
+		transition: border-color .2s ease, box-shadow .2s ease, transform .2s ease;
+	}
+}
+@media all {
+	.wscontainer.tuile_rubrique::after {
+		content: "";
+		position: absolute;
+		right: 18px;
+		top: 50%;
+		width: 8px;
+		height: 8px;
+		margin-top: -5px;
+		border-right: 2px solid #2F5E3E;
+		border-top: 2px solid #2F5E3E;
+		transform: rotate(45deg);
+		transition: right .2s ease;
+	}
+}
+@media all {
+	.wscontainer.tuile_rubrique:hover,
+	.wscontainer.tuile_rubrique:focus-visible {
+		background: #FFFFFF;
+		border-color: #2F5E3E;
+		box-shadow: 0 8px 20px rgba(31, 42, 35, 0.12);
+		transform: translateY(-2px);
+	}
+}
+@media all {
+	.wscontainer.tuile_rubrique:hover::after {
+		right: 14px;
+	}
+}
+@media all {
+	.tuile_rubrique .wstextarea {
+		float: none;
+		margin: 0;
+		padding: 0;
+		font-size: 1em;
+		line-height: 1.4;
+		text-align: left;
+	}
+}
+@media all {
+	.tuile_rubrique .wstextarea p {
+		margin: 0;
+	}
+}
+@media all {
+	.tuile_rubrique .wstextarea strong {
+		display: block;
+		margin-bottom: 4px;
+		font-family: Manrope, Arial, sans-serif;
+		font-size: 1.12em;
+		font-weight: 700;
+		color: #2F5E3E;
+	}
+}
+@media all {
+	.tuile_rubrique .wstextarea p + p {
+		font-size: 0.92em;
+		color: #4A5A4F;
+	}
+}
+@media all {
+	.wstextarea.rubrique_soustitre {
+		float: none;
+		margin: 30px 8px 12px;
+		padding: 0;
+		font-family: "Playfair Display", Georgia, serif;
+		font-size: 1.7em;
+		font-weight: 700;
+		color: #1F2A23;
+	}
+}
+@media all {
+	.wscontainer.apercu_elus {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 14px;
+		margin: 0;
+		padding: 0 8px;
+		border-width: 0;
+	}
+}
+@media all {
+	.apercu_elus > .wscontainer.carte_elu {
+		flex: 0 1 200px;
+		min-width: 0;
+		margin: 0 !important;
+	}
+}
+@media all {
+	.wstextarea.rubrique_bouton {
+		display: block;
+		margin: 18px 8px 0;
+		max-width: 300px;
+	}
+}
+@media all {
+	.wstextarea.rubrique_bouton p {
+		margin: 0;
+	}
+}
+@media (min-width: 641px) {
+	.wscontainer.mairie_corps {
+		display: grid;
+		grid-template-columns: 230px minmax(0, 1fr);
+		gap: 18px;
+		align-items: start;
+		margin: 0;
+		padding: 0;
+		border-width: 0;
+	}
+}
+@media all {
+	.wscontainer.colonne_elus {
+		margin: 0 0 0 8px;
+		padding: 14px 14px 16px;
+		background: #F6F8F4;
+		border: 1px solid #DDE2D9;
+		border-radius: 14px;
+		box-sizing: border-box;
+	}
+}
+@media all {
+	.colonne_elus > .wstextarea.rubrique_soustitre {
+		margin: 0 0 10px;
+		font-size: 1.35em;
+	}
+}
+@media all {
+	.colonne_elus > .wscontainer.apercu_elus {
+		display: flex;
+		flex-direction: column;
+		gap: 8px;
+		padding: 0;
+	}
+}
+@media all {
+	.colonne_elus .apercu_elus > .wscontainer.carte_elu {
+		flex: none;
+		display: flex;
+		align-items: center;
+		gap: 12px;
+		padding: 8px 10px !important;
+		text-align: left;
+		box-shadow: none;
+		border-radius: 12px;
+	}
+}
+@media all {
+	.colonne_elus .carte_elu .wsimage {
+		width: 58px !important;
+		flex: 0 0 58px;
+		margin: 0 !important;
+	}
+}
+@media all {
+	.colonne_elus .carte_elu .wstextarea {
+		font-size: 0.95em;
+		text-align: left;
+		margin: 0;
+		padding: 0;
+		min-width: 0;
+	}
+}
+@media all {
+	.colonne_elus > .wstextarea.rubrique_bouton {
+		margin: 14px 0 0;
+		max-width: none;
+	}
+}
+@media all {
+	.colonne_elus .rubrique_bouton a {
+		font-size: 15px !important;
+		padding: 8px 12px !important;
+	}
+}
+@media (max-width: 640px) {
+	.wscontainer.colonne_elus {
+		margin: 0 8px 18px;
+	}
+}
+@media all {
+	.wssystemcontainer.H > div > .wscontainer.carte_evenement {
+		position: relative;
+		padding: 0 !important;
+		overflow: hidden;
+	}
+}
+@media all {
+	.carte_evenement > .wsimage {
+		order: -1;
+		width: 100% !important;
+		max-width: none !important;
+		height: 170px;
+		margin: 0 !important;
+		padding: 0 !important;
+		background: #E6EEE6;
+		overflow: hidden;
+	}
+}
+@media all {
+	.carte_evenement > .wsimage img {
+		display: block;
+		width: 100% !important;
+		height: 100% !important;
+		max-width: none;
+		object-fit: cover;
+		object-position: center 22%;
+	}
+}
+@media all {
+	.carte_evenement > .wscontainer {
+		flex: 1 1 auto;
+		width: auto;
+		padding: 14px 16px 16px !important;
+		margin: 0 !important;
+		box-sizing: border-box;
+		border-width: 0 !important;
+	}
+}
+@media all {
+	.carte_evenement .wssystemcontainer.H {
+		display: block !important;
+		width: 100%;
+		padding: 0 !important;
+		margin: 0 !important;
+	}
+}
+@media all {
+	.carte_evenement .wssystemcontainer.H > div:first-child {
+		position: absolute;
+		top: 12px;
+		left: 12px;
+		z-index: 2;
+		width: auto !important;
+	}
+}
+@media all {
+	.carte_evenement .wstextarea_bulle_agenda {
+		min-width: 52px;
+		padding: 6px 8px 7px;
+		margin: 0;
+		background-color: #FFFFFF;
+		color: #2F5E3E;
+		border-radius: 10px;
+		box-shadow: 0 4px 12px rgba(31, 42, 35, 0.25);
+		line-height: 1.05;
+		font-family: Manrope, Arial, sans-serif;
+		text-align: center;
+	}
+}
+@media all {
+	.carte_evenement .wstextarea_bulle_agenda p {
+		margin: 0;
+	}
+}
+@media all {
+	.carte_evenement .wstextarea_bulle_agenda span {
+		font-size: inherit !important;
+	}
+}
+@media all {
+	.carte_evenement .wstextarea_bulle_agenda p:first-child {
+		font-size: 24px;
+		font-weight: 800;
+	}
+}
+@media all {
+	.carte_evenement .wstextarea_bulle_agenda p + p {
+		font-size: 12px;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+	}
+}
+@media all {
+	.carte_evenement .wstextarea_Texte_normal_align_gauche {
+		float: none;
+		font-size: 15px;
+		line-height: 1.45;
+		color: #3C4A41;
+		margin: 0;
+		padding: 0;
+	}
+}
+@media all {
+	.carte_evenement .wstextarea_Texte_normal_align_gauche p {
+		margin: 0 0 3px;
+	}
+}
+@media all {
+	.carte_evenement .wstextarea_Texte_normal_align_gauche p:first-child strong {
+		display: block;
+		margin-bottom: 8px;
+		font-family: "Playfair Display", Georgia, serif;
+		font-size: 1.45em;
+		line-height: 1.2;
+		color: #1F2A23;
+	}
+}
+@media all {
+	.carte_evenement .wstextarea_Texte_normal_align_gauche p:nth-child(2) {
+		display: none;
+	}
+}
+@media all {
+	.wscontainer.pied_colonnes {
+		display: grid;
+		grid-template-columns: 1.3fr 1fr 1fr;
+		gap: 28px;
+		margin: 0;
+		padding: 0 0 18px;
+		border-width: 0;
+		border-bottom: 1px solid #DDE2D9;
+	}
+}
+@media (max-width: 640px) {
+	.wscontainer.pied_colonnes {
+		grid-template-columns: 1fr;
+		gap: 18px;
+	}
+}
+@media (max-width: 640px) {
+	.wscontainer_fred1 {
+		margin-left: 8px;
+		margin-right: 8px;
+		padding: 20px 18px 12px;
+	}
+}
+@media all {
+	.pied_colonnes .wstextarea {
+		float: none;
+		margin: 0;
+		padding: 0;
+		font-family: Inter, Arial, sans-serif;
+		font-size: 14px;
+		line-height: 1.55;
+		color: #3C4A41;
+		text-align: left;
+	}
+}
+@media all {
+	.pied_colonnes .wstextarea p {
+		margin: 0 0 4px;
+	}
+}
+@media all {
+	.wstextarea.pied_mairie {
+		padding-left: 64px !important;
+		min-height: 54px;
+		background-image: url(data/images/background/1231_logositepetit.png);
+		background-repeat: no-repeat;
+		background-position: 0 2px;
+		background-size: 52px auto;
+	}
+}
+@media all {
+	.wstextarea.pied_mairie strong {
+		font-family: "Playfair Display", Georgia, serif;
+		font-size: 1.45em;
+		color: #2F5E3E;
+	}
+}
+@media all {
+	.wstextarea.pied_col p:first-child {
+		margin-bottom: 8px;
+		font-family: Manrope, Arial, sans-serif;
+		font-size: 0.85em;
+		font-weight: 700;
+		letter-spacing: 0.06em;
+		text-transform: uppercase;
+		color: #2F5E3E;
+	}
+}
+@media all {
+	.pied_colonnes .wstextarea a {
+		color: #2F5E3E;
+		text-decoration: none;
+		font-weight: 500;
+	}
+}
+@media all {
+	.pied_colonnes .wstextarea a:hover,
+	.pied_colonnes .wstextarea a:focus-visible {
+		text-decoration: underline;
+	}
+}
+@media all {
+	.wscontainer_fred1 .wssbadge {
+		margin: 12px auto 0;
+		opacity: 0.75;
 	}
 }

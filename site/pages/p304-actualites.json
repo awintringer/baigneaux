@@ -462,7 +462,7 @@
                       "contents": [
                        {
                         "$class": "WsTextarea",
-                        "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                        "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Accueil</a></p>",
                         "id": "Y276ad371c85bd8d",
                         "properties": 264192,
                         "owner": {
@@ -775,7 +775,14 @@
                       "index": 0,
                       "user_style": null,
                       "more_classes": "",
-                      "embedded_css_rules": ".id_Y1016aede6295dcb0 {\r\n\tmargin-left: auto;\r\n\tmargin-right: auto;\r\n}\r",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y1016aede6295dcb0 {\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: auto;\r",
+                        "}\r"
+                       ]
+                      },
                       "name_in_model": "MY846a1999d0f1d0a"
                      }
                     ],
@@ -815,7 +822,14 @@
                       "index": 0,
                       "user_style": null,
                       "more_classes": "",
-                      "embedded_css_rules": ".id_Y1036aede6295ddc2 {\r\n\tmargin-left: auto;\r\n\tmargin-right: auto;\r\n}\r"
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y1036aede6295ddc2 {\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: auto;\r",
+                        "}\r"
+                       ]
+                      }
                      }
                     ],
                     "id": "Z1026aede6295dd39",
@@ -854,7 +868,14 @@
                       "index": 0,
                       "user_style": null,
                       "more_classes": "",
-                      "embedded_css_rules": ".id_Y1056aede6295ded4 {\r\n\tmargin-left: auto;\r\n\tmargin-right: auto;\r\n}\r"
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y1056aede6295ded4 {\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: auto;\r",
+                        "}\r"
+                       ]
+                      }
                      }
                     ],
                     "id": "Z1046aede6295de4b",

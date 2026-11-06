@@ -50,206 +50,898 @@
         "contents": [
          {
           "$class": "WsContainer",
-          "id": "Z386a1aea33e942f",
-          "properties": 8209,
-          "owner": {
-           "$owner": "R"
-          },
-          "index": 0,
-          "user_style": 0,
-          "more_classes": null,
-          "embedded_css_rules": "",
           "valign": null,
-          "model_id": "",
+          "model_id": "Header2",
           "contents": [
            {
             "$class": "WsContainer",
-            "id": "Z396a1aea33e9430",
-            "properties": 8208,
+            "valign": null,
+            "model_id": "",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsTextarea",
+                "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Baigneaux</a></p>",
+                "id": "Y936aee40172702a",
+                "properties": 264192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "retour_accueil",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MY256a19b7672c6f8"
+               }
+              ],
+              "id": "Z926aee401726fa1",
+              "properties": 8208,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z926aee401726fa1 {\r\n\twidth: 20%;\r\n}\r",
+              "name_in_model": "MZ26a19b6dd78037"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/mairie.html\">Ma Mairie</a></p>",
+                  "id": "Y966aee4017271c5",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY146a19b6a4141de"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WssMenu",
+                      "category": "p207",
+                      "depth": "0",
+                      "value": "vertical",
+                      "id": "Y996aee401727361",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_menu",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY906ae37cce54c60"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z986aee4017272d8",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ916ae37cce54ce9"
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z976aee40172724f",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": "nav_panneau",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ926ae37cce54d72"
+                 }
+                ],
+                "href": "",
+                "id": "Z956aee40172713c",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": "nav_rubrique",
+                "embedded_css_rules": "",
+                "name_in_model": "MZ936ae37cce54dfb"
+               }
+              ],
+              "id": "Z946aee4017270b3",
+              "properties": 8208,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 1,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z946aee4017270b3 {\r\n\twidth: 16%;\r\n}\r",
+              "name_in_model": "MZ46a19b6f0a695f"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/vie-communale.html\">Ma Commune</a></p>",
+                  "id": "Y1026aee4017274fc",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY186a19b6e2dbe74"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p><a href=\"https://www.baigneaux.fr/vie-communale.html\">Vie communale</a></p>",
+                      "id": "Y1056aee401727697",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_titre",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY946ae37cce54e84"
+                     },
+                     {
+                      "$class": "WssMenu",
+                      "category": "p220",
+                      "depth": "0",
+                      "value": "vertical",
+                      "id": "Y1066aee401727720",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "nav_menu",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY956ae37cce54f0e"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1046aee40172760e",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ966ae37cce54f97"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p><a href=\"https://www.baigneaux.fr/tourisme.html\">Tourisme</a></p>",
+                      "id": "Y1086aee401727833",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_titre",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY976ae37cce55020"
+                     },
+                     {
+                      "$class": "WssMenu",
+                      "category": "p203",
+                      "depth": "0",
+                      "value": "vertical",
+                      "id": "Y1096aee4017278bc",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "nav_menu",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY986ae37cce550a9"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1076aee4017277a9",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ996ae37cce55132"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>Se rep&eacute;rer</p>",
+                      "id": "Y1116aee4017279ce",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_titre",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1006ae37cce551bb"
+                     },
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p><a href=\"https://www.baigneaux.fr/carte-de-la-commune.html\">Plan et acc&egrave;s</a></p>",
+                      "id": "Y1126aee401727a57",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "nav_liens",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1016ae37cce55244"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1106aee401727945",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ1026ae37cce552cd"
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z1036aee401727585",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": "nav_panneau nav_large",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ1036ae37cce55356"
+                 }
+                ],
+                "href": "",
+                "id": "Z1016aee401727473",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": "nav_rubrique",
+                "embedded_css_rules": "",
+                "name_in_model": "MZ1046ae37cce553df"
+               }
+              ],
+              "id": "Z1006aee4017273ea",
+              "properties": 8208,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 2,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z1006aee4017273ea {\r\n\twidth: 16%;\r\n}\r",
+              "name_in_model": "MZ66a19b7469847a"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
+                  "id": "Y1156aee401727bf2",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY206a19b70373d87"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">Agenda des &eacute;v&egrave;nements</a></p><p><a href=\"https://www.baigneaux.fr/actualites.html\">Actualit&eacute;s</a></p><p><a href=\"https://www.baigneaux.fr/galerie-evenements.html\">Notre village en images</a></p>",
+                      "id": "Y1186aee401727d8d",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_liens",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1056ae37cce55468"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1176aee401727d04",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ1066ae37cce554f2"
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z1166aee401727c7b",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": "nav_panneau",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ1076ae37cce5557b"
+                 }
+                ],
+                "href": "",
+                "id": "Z1146aee401727b69",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": "nav_rubrique",
+                "embedded_css_rules": "",
+                "name_in_model": "MZ1086ae37cce55604"
+               }
+              ],
+              "id": "Z1136aee401727ae0",
+              "properties": 8208,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 3,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z1136aee401727ae0 {\r\n\twidth: 16%;\r\n}\r",
+              "name_in_model": "MZ86a19b752453f5"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/annuaire.html\">Services</a></p>",
+                  "id": "Y1216aee401727f29",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY226a19b74bd2ee5"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p><a href=\"https://www.baigneaux.fr/enfance-jeunesse.html\">Enfance et jeunesse</a></p>",
+                      "id": "Y1246aee4017280c4",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_titre",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1096ae37cce5568d"
+                     },
+                     {
+                      "$class": "WssMenu",
+                      "category": "p210",
+                      "depth": "0",
+                      "value": "vertical",
+                      "id": "Y1256aee40172814d",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "nav_menu",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1106ae37cce55716"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1236aee40172803b",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ1116ae37cce5579f"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p><a href=\"https://www.baigneaux.fr/p328.html\">Sant&eacute;</a></p>",
+                      "id": "Y1276aee40172825f",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_titre",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1126ae37cce55828"
+                     },
+                     {
+                      "$class": "WssMenu",
+                      "category": "p328",
+                      "depth": "0",
+                      "value": "vertical",
+                      "id": "Y1286aee4017282e8",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "nav_menu",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1136ae37cce558b1"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1266aee4017281d6",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ1146ae37cce5593a"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p><a href=\"https://www.baigneaux.fr/annuaire.html\">Assos, commerces et services</a></p>",
+                      "id": "Y1306aee4017283fb",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_titre",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1156ae37cce559c3"
+                     },
+                     {
+                      "$class": "WssMenu",
+                      "category": "p321",
+                      "depth": "0",
+                      "value": "vertical",
+                      "id": "Y1316aee401728484",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "nav_menu",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1166ae37cce55a4c"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1296aee401728371",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ1176ae37cce55ad6"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p><a href=\"https://www.baigneaux.fr/intercommunalite.html\">Intercommunalit&eacute;</a></p>",
+                      "id": "Y1336aee401728596",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_titre",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1186ae37cce55b5f"
+                     },
+                     {
+                      "$class": "WssMenu",
+                      "category": "p315",
+                      "depth": "0",
+                      "value": "vertical",
+                      "id": "Y1346aee40172861f",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "nav_menu",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1196ae37cce55be8"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1326aee40172850d",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 3,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ1206ae37cce55c71"
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z1226aee401727fb2",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": "nav_panneau nav_large nav_droite",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ1216ae37cce55cfa"
+                 }
+                ],
+                "href": "",
+                "id": "Z1206aee401727ea0",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": "nav_rubrique",
+                "embedded_css_rules": "",
+                "name_in_model": "MZ1226ae37cce55d83"
+               }
+              ],
+              "id": "Z1196aee401727e17",
+              "properties": 8208,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 4,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z1196aee401727e17 {\r\n\twidth: 16%;\r\n}\r",
+              "name_in_model": "MZ156a19b7dd3fe6e"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/formalites-administratives.html\">D&eacute;marches</a></p>",
+                  "id": "Y1376aee4017287ba",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY296a19b7d2755a6"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>Formalit&eacute;s</p>",
+                      "id": "Y1406aee401728955",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_titre",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1236ae37cce55e0c"
+                     },
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p><a href=\"https://www.baigneaux.fr/formalites-administratives.html\">Formalit&eacute;s administratives</a></p><p><a href=\"https://www.baigneaux.fr/boite-a-idees.html\">Bo&icirc;te &agrave; id&eacute;es</a></p>",
+                      "id": "Y1416aee4017289df",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "nav_liens",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1246ae37cce55e95"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1396aee4017288cc",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ1256ae37cce55f1e"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p><a href=\"https://www.baigneaux.fr/urbanisme.html\">Urbanisme</a></p>",
+                      "id": "Y1436aee401728af1",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "nav_titre",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1266ae37cce55fa7"
+                     },
+                     {
+                      "$class": "WssMenu",
+                      "category": "p286",
+                      "depth": "0",
+                      "value": "vertical",
+                      "id": "Y1446aee401728b7a",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": null,
+                      "more_classes": "nav_menu",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY1276ae37cce56030"
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z1426aee401728a68",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": "nav_groupe",
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ1286ae37cce560ba"
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z1386aee401728843",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": "nav_panneau nav_droite",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ1296ae37cce56143"
+                 }
+                ],
+                "href": "",
+                "id": "Z1366aee401728731",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": "nav_rubrique",
+                "embedded_css_rules": "",
+                "name_in_model": "MZ1306ae37cce561cc"
+               }
+              ],
+              "id": "Z1356aee4017286a8",
+              "properties": 8208,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 5,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": ".id_Z1356aee4017286a8 {\r\n\twidth: 16%;\r\n}\r",
+              "name_in_model": "MZ176a19b7dd3fe71"
+             }
+            ],
+            "id": "Z916aee401726f18",
+            "properties": 8209,
             "owner": {
              "$owner": "R"
             },
             "index": 0,
             "user_style": 0,
             "more_classes": null,
-            "embedded_css_rules": ".id_Z396a1aea33e9430 {\r\n\twidth: 20%;\r\n}\r",
-            "valign": null,
-            "model_id": "",
-            "contents": [
-             {
-              "$class": "WsTextarea",
-              "id": "Y406a1aea33e9434",
-              "properties": 264192,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "retour_accueil",
-              "more_classes": "",
-              "embedded_css_rules": "",
-              "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Baigneaux</a></p>",
-              "name_in_model": "MY256a19b7672c6f8"
-             }
-            ],
-            "name_in_model": "MZ26a19b6dd78037"
-           },
-           {
-            "$class": "WsContainer",
-            "id": "Z416a1aea33e9436",
-            "properties": 8208,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 1,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ".id_Z416a1aea33e9436 {\r\n\twidth: 16%;\r\n}\r",
-            "valign": null,
-            "model_id": "",
-            "contents": [
-             {
-              "$class": "WsTextarea",
-              "id": "Y426a1aea33e9438",
-              "properties": 264192,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Lien_header",
-              "more_classes": "",
-              "embedded_css_rules": "",
-              "value": "<p><a href=\"https://www.baigneaux.fr/mairie.html\">Ma Mairie</a></p>",
-              "name_in_model": "MY146a19b6a4141de"
-             }
-            ],
-            "name_in_model": "MZ46a19b6f0a695f"
-           },
-           {
-            "$class": "WsContainer",
-            "id": "Z436a1aea33e943a",
-            "properties": 8208,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 2,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ".id_Z436a1aea33e943a {\r\n\twidth: 16%;\r\n}\r",
-            "valign": null,
-            "model_id": "",
-            "contents": [
-             {
-              "$class": "WsTextarea",
-              "id": "Y446a1aea33e943c",
-              "properties": 264192,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Lien_header",
-              "more_classes": "",
-              "embedded_css_rules": "",
-              "value": "<p><a href=\"https://www.baigneaux.fr/vie-communale.html\">Ma Commune</a></p>",
-              "name_in_model": "MY186a19b6e2dbe74"
-             }
-            ],
-            "name_in_model": "MZ66a19b7469847a"
-           },
-           {
-            "$class": "WsContainer",
-            "id": "Z456a1aea33e943e",
-            "properties": 8208,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 3,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ".id_Z456a1aea33e943e {\r\n\twidth: 16%;\r\n}\r",
-            "valign": null,
-            "model_id": "",
-            "contents": [
-             {
-              "$class": "WsTextarea",
-              "id": "Y466a1aea33e943f",
-              "properties": 264192,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Lien_header",
-              "more_classes": "",
-              "embedded_css_rules": "",
-              "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
-              "name_in_model": "MY206a19b70373d87"
-             }
-            ],
-            "name_in_model": "MZ86a19b752453f5"
-           },
-           {
-            "$class": "WsContainer",
-            "id": "Z476a1aea33e9441",
-            "properties": 8208,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 4,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ".id_Z476a1aea33e9441 {\r\n\twidth: 16%;\r\n}\r",
-            "valign": null,
-            "model_id": "",
-            "contents": [
-             {
-              "$class": "WsTextarea",
-              "id": "Y486a1aea33e9443",
-              "properties": 264192,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Lien_header",
-              "more_classes": "",
-              "embedded_css_rules": "",
-              "value": "<p><a href=\"https://www.baigneaux.fr/annuaire.html\">Services</a></p>",
-              "name_in_model": "MY226a19b74bd2ee5"
-             }
-            ],
-            "name_in_model": "MZ156a19b7dd3fe6e"
-           },
-           {
-            "$class": "WsContainer",
-            "id": "Z496a1aea33e9444",
-            "properties": 8208,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 5,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": ".id_Z496a1aea33e9444 {\r\n\twidth: 16%;\r\n}\r",
-            "valign": null,
-            "model_id": "",
-            "contents": [
-             {
-              "$class": "WsTextarea",
-              "id": "Y506a1aea33e9446",
-              "properties": 264192,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Lien_header",
-              "more_classes": "",
-              "embedded_css_rules": "",
-              "value": "<p><a href=\"https://www.baigneaux.fr/formalites-administratives.html\">D&eacute;marches</a></p>",
-              "name_in_model": "MY296a19b7d2755a6"
-             }
-            ],
-            "name_in_model": "MZ176a19b7dd3fe71"
+            "embedded_css_rules": "",
+            "name_in_model": "MZ156a19b6a4141f9"
            }
           ],
-          "name_in_model": "MZ156a19b6a4141f9"
+          "id": "Z906aee401726e8f",
+          "properties": 270400,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": "BodyHome",
+          "more_classes": " dontDisplayOnXS dontDisplayOnS",
+          "embedded_css_rules": "",
+          "href": "",
+          "name_in_model": "MZ869ccf3d56f152"
          },
          {
           "$class": "WsTextarea",
@@ -293,15 +985,8 @@
           },
           "index": 3,
           "user_style": null,
-          "more_classes": "",
-          "embedded_css_rules": {
-           "$text": [
-            ".id_Y296ab51e1227921 {\r",
-            "\tpadding: 0px;\r",
-            "\tpadding-left: 40px;\r",
-            "}\r"
-           ]
-          },
+          "more_classes": "badge_ambassadeur",
+          "embedded_css_rules": "",
           "value": "village-ambassadeur-50da.png",
           "caption": "",
           "href": "",

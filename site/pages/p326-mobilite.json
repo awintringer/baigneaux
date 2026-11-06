@@ -454,7 +454,7 @@
                       "contents": [
                        {
                         "$class": "WsTextarea",
-                        "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                        "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Accueil</a></p>",
                         "id": "Y276a1c1eda57c91",
                         "properties": 264192,
                         "owner": {
