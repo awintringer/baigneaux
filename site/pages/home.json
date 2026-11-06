@@ -822,7 +822,6 @@
                     "embedded_css_rules": "",
                     "value": {
                      "$text": [
-                      "<p></p>\r",
                       "<p>Lundi&nbsp;: de 13h &agrave; 18h</p>\r",
                       "<p>Mercredi&nbsp;: de 8h30 &agrave; 11h30</p>\r",
                       "<p>Vendredi&nbsp;: de 13h &agrave; 18h</p>"
@@ -955,14 +954,7 @@
                     "user_style": "Texte_important_centre",
                     "more_classes": "",
                     "embedded_css_rules": "",
-                    "value": {
-                     "$text": [
-                      "<p>&nbsp;</p>\r",
-                      "<p>Par t&eacute;l&eacute;phone&nbsp;:&nbsp;<a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a></p>\r",
-                      "<p>&nbsp;</p>\r",
-                      "<p></p>"
-                     ]
-                    }
+                    "value": "<p>Par t&eacute;l&eacute;phone&nbsp;:&nbsp;<a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a></p>"
                    },
                    {
                     "$class": "WsTextarea",
@@ -988,12 +980,7 @@
                     "user_style": "Texte_important_centre",
                     "more_classes": " dontDisplayOnXS dontDisplayOnS",
                     "embedded_css_rules": "",
-                    "value": {
-                     "$text": [
-                      "<p></p>\r",
-                      "<p>Par mail: <a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>"
-                     ]
-                    }
+                    "value": "<p>Par mail: <a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>"
                    }
                   ]
                  }
@@ -1122,13 +1109,7 @@
                     "user_style": "Texte_important_centre",
                     "more_classes": "",
                     "embedded_css_rules": "",
-                    "value": {
-                     "$text": [
-                      "<p></p>\r",
-                      "<p>Le 14 d&eacute;cembre &agrave; 18h30</p>\r",
-                      "<p></p>"
-                     ]
-                    },
+                    "value": "<p>Le 14 d&eacute;cembre &agrave; 18h30</p>",
                     "name_in_model": "MY6056e9626f54075"
                    }
                   ]
@@ -1258,15 +1239,7 @@
                     "user_style": "Texte_important_centre",
                     "more_classes": "",
                     "embedded_css_rules": "",
-                    "value": {
-                     "$text": [
-                      "<p>&nbsp;</p>\r",
-                      "<p>La mairie poss&egrave;de un lecteur de puce &eacute;lectronique</p>\r",
-                      "<p></p>\r",
-                      "<p></p>\r",
-                      "<p></p>"
-                     ]
-                    },
+                    "value": "<p>La mairie poss&egrave;de un lecteur de puce &eacute;lectronique</p>",
                     "name_in_model": "MY6256e96272ae27d"
                    }
                   ]
