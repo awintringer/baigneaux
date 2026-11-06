@@ -629,6 +629,299 @@
                     "contents": [
                      {
                       "$class": "WsTextarea",
+                      "value": "<p id=\"travaux06112026\">Mairie</p>",
+                      "id": "Y936aede6295d867",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "titre_grosse_bulle_actu",
+                      "more_classes": "",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY426a204fe537a26"
+                     }
+                    ],
+                    "id": "Z926aede6295d7de",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z926aede6295d7de {\r\n\twidth: 50%;\r\n}\r",
+                    "name_in_model": "MZ446a204fea047d5"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>6 novembre 2026</p>",
+                      "id": "Y956aede6295d979",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y956aede6295d979 {\r",
+                        "\tfont-family: Inter;\r",
+                        "\tfont-size: 2em;\r",
+                        "\ttext-align: right;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY426a204fea0433d"
+                     }
+                    ],
+                    "id": "Z946aede6295d8f0",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z946aede6295d8f0 {\r\n\twidth: 34.1%;\r\n}\r",
+                    "name_in_model": "MZ456a204fea047e6"
+                   }
+                  ],
+                  "id": "Z916aede6295d755",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ436a204fea04365"
+                 },
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Travaux et entretien de notre commune",
+                  "id": "Y966aede6295da02",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Title3",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY426a20518248234"
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": {
+                   "$text": [
+                    "<p>Le point sur les interventions r&eacute;alis&eacute;es ou en cours dans la commune&nbsp;:</p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p><strong>Ancienne salle des f&ecirc;tes</strong>&nbsp;: une poutre descell&eacute;e est en cours de r&eacute;paration par l'EURL Bois &agrave; Vivre.</p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p><strong>Cimeti&egrave;re</strong>&nbsp;: la 2e phase de d&eacute;sherbage a &eacute;t&eacute; effectu&eacute;e. L'ensemencement aura lieu jeudi 12 novembre.</p>\r",
+                    "<p>&nbsp;</p>\r",
+                    "<p><strong>City stade</strong>&nbsp;: les montants rouill&eacute;s ont &eacute;t&eacute; repeints et le jeu pour enfants endommag&eacute; (poign&eacute;e disparue) a &eacute;t&eacute; r&eacute;par&eacute;. La pelouse a &eacute;t&eacute; tondue et les haies qui entourent le city stade sont en cours d'&eacute;lagage.</p>"
+                   ]
+                  },
+                  "id": "Y976aede6295da8b",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 2,
+                  "user_style": "Texte_normal_align_gauche",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY266a199a16d15ef"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Poutre descellée de l'ancienne salle des fêtes",
+                      "original_name": "travaux-novembre-2026-01.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "travaux-novembre-2026-01.jpg",
+                      "keep_format": "0",
+                      "width": "300",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "travaux-novembre-2026-01-m.jpg",
+                      "id": "Y1016aede6295dcb0",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": ".id_Y1016aede6295dcb0 {\r\n\tmargin-left: auto;\r\n\tmargin-right: auto;\r\n}\r",
+                      "name_in_model": "MY846a1999d0f1d0a"
+                     }
+                    ],
+                    "id": "Z1006aede6295dc27",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1006aede6295dc27 {\r\n\twidth: 33.3%;\r\n}\r"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Désherbage des allées du cimetière",
+                      "original_name": "travaux-novembre-2026-02.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "travaux-novembre-2026-02.jpg",
+                      "keep_format": "0",
+                      "width": "300",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "travaux-novembre-2026-02-m.jpg",
+                      "id": "Y1036aede6295ddc2",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": ".id_Y1036aede6295ddc2 {\r\n\tmargin-left: auto;\r\n\tmargin-right: auto;\r\n}\r"
+                     }
+                    ],
+                    "id": "Z1026aede6295dd39",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1026aede6295dd39 {\r\n\twidth: 33.3%;\r\n}\r"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Jeu pour enfants du city stade après réparation",
+                      "original_name": "travaux-novembre-2026-03.jpg",
+                      "in_gallery": "1",
+                      "uploaded_image": "travaux-novembre-2026-03.jpg",
+                      "keep_format": "0",
+                      "width": "300",
+                      "height": "400",
+                      "notFlexible": "0",
+                      "value": "travaux-novembre-2026-03-m.jpg",
+                      "id": "Y1056aede6295ded4",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": ".id_Y1056aede6295ded4 {\r\n\tmargin-left: auto;\r\n\tmargin-right: auto;\r\n}\r"
+                     }
+                    ],
+                    "id": "Z1046aede6295de4b",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1046aede6295de4b {\r\n\twidth: 33.3%;\r\n}\r"
+                   }
+                  ],
+                  "id": "Z996aede6295db9e",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 3,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": null
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p>&nbsp;&nbsp;</p>",
+                  "id": "Y986aede6295db14",
+                  "properties": 2048,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 4,
+                  "user_style": "Texte_normal_align_gauche",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY426a2051ced9f65"
+                 }
+                ],
+                "id": "Z906aede6295d6cc",
+                "properties": 270592,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ836a1999d0f1d07"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
                       "value": "<p id=\"marche08112026\">Vie communale</p>",
                       "id": "Y946aeb7780f214d",
                       "properties": 264192,
@@ -772,7 +1065,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 2,
+                "index": 3,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -789,7 +1082,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 3,
+                "index": 4,
                 "user_style": "Title3",
                 "more_classes": "",
                 "embedded_css_rules": ""
@@ -944,7 +1237,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 4,
+                "index": 5,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1351,7 +1644,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 5,
+                "index": 6,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1368,7 +1661,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 6,
+                "index": 7,
                 "user_style": "Title3",
                 "more_classes": "",
                 "embedded_css_rules": ""
@@ -1661,7 +1954,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 7,
+                "index": 8,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -2002,7 +2295,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 8,
+                "index": 9,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -2019,7 +2312,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 9,
+                "index": 10,
                 "user_style": "Title3",
                 "more_classes": "",
                 "embedded_css_rules": ""
@@ -2251,7 +2544,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 10,
+                "index": 11,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -2466,7 +2759,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 11,
+                "index": 12,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -2896,7 +3189,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 12,
+                "index": 13,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -2913,7 +3206,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 13,
+                "index": 14,
                 "user_style": "Title3",
                 "more_classes": "",
                 "embedded_css_rules": ""
@@ -3267,7 +3560,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 14,
+                "index": 15,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -3518,7 +3811,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 15,
+                "index": 16,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -3740,7 +4033,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 16,
+                "index": 17,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -3995,7 +4288,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 17,
+                "index": 18,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -4307,7 +4600,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 18,
+                "index": 19,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -4686,7 +4979,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 19,
+                "index": 20,
                 "user_style": 0,
                 "more_classes": null,
                 "embedded_css_rules": ""
@@ -5091,7 +5384,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 20,
+                "index": 21,
                 "user_style": 0,
                 "more_classes": null,
                 "embedded_css_rules": ""

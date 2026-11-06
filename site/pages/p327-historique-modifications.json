@@ -690,6 +690,141 @@
                   "$class": "WssTitle",
                   "level": "2",
                   "href": "",
+                  "value": "6 novembre 2026",
+                  "id": "Y1216aede6295e766",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "FORMALITES",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY9069ea07f4dabcc"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Logo de Baigneaux",
+                      "original_name": "logosite.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "logosite.png",
+                      "keep_format": "0",
+                      "width": "143",
+                      "height": "143",
+                      "notFlexible": "0",
+                      "value": "logosite-9436.png",
+                      "id": "Y1246aede6295e901",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y1246aede6295e901 {\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: auto;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY9369ea07f4dabcf"
+                     }
+                    ],
+                    "id": "Z1236aede6295e878",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ9269ea07f4dabce"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": {
+                       "$text": [
+                        "<p>- Actualit&eacute;s&nbsp;: travaux et entretien de notre commune (poutre de l'ancienne salle des f&ecirc;tes, cimeti&egrave;re, city stade)</p>\r",
+                        "<p>- Mise &agrave; jour des m&eacute;decins de garde (novembre 2026)</p>"
+                       ]
+                      },
+                      "id": "Y1266aede6295ea13",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Texte_normal_align_gauche",
+                      "more_classes": "",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY9569ea07f4dabd1"
+                     }
+                    ],
+                    "id": "Z1256aede6295e98a",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1256aede6295e98a {\r\n\twidth: 75%;\r\n}\r",
+                    "name_in_model": "MZ9469ea07f4dabd0"
+                   }
+                  ],
+                  "id": "Z1226aede6295e7ef",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ9169ea07f4dabcd"
+                 }
+                ],
+                "id": "Z1206aede6295e6dc",
+                "properties": 8448,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ8969ea07f4dabcb"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
                   "value": "28 octobre 2026",
                   "id": "Y916ae22fc220cb9",
                   "properties": 1024,
@@ -816,7 +951,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 1,
+                "index": 2,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -952,7 +1087,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 2,
+                "index": 3,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1087,7 +1222,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 3,
+                "index": 4,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1223,7 +1358,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 4,
+                "index": 5,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1359,7 +1494,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 5,
+                "index": 6,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1494,7 +1629,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 6,
+                "index": 7,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1624,7 +1759,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 7,
+                "index": 8,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1762,7 +1897,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 8,
+                "index": 9,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1902,7 +2037,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 9,
+                "index": 10,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",

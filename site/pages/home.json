@@ -1436,12 +1436,190 @@
           "contents": [
            {
             "$class": "WsContainer",
-            "id": "Z1006aeb7780f2484",
+            "id": "Z1106aede6295e182",
             "properties": 8208,
             "owner": {
              "$owner": "R"
             },
             "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "id": "Z1116aede6295e20b",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "carte_actu",
+              "embedded_css_rules": "",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsImage",
+                "id": "Y1126aede6295e294",
+                "properties": 4096,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y1126aede6295e294 {\r",
+                  "\tmargin-left: auto;\r",
+                  "\tmargin-right: auto;\r",
+                  "}\r"
+                 ]
+                },
+                "value": "vignette-travaux-novembre-2026.jpg",
+                "caption": "",
+                "href": "",
+                "tooltip": "Désherbage des allées du cimetière",
+                "original_name": "vignette-travaux-novembre-2026.jpg",
+                "in_gallery": "0",
+                "uploaded_image": "vignette-travaux-novembre-2026.jpg",
+                "keep_format": "0",
+                "width": "200",
+                "height": "90",
+                "notFlexible": "0",
+                "name_in_model": "MY276a1ad396386f6"
+               },
+               {
+                "$class": "WsContainer",
+                "id": "Z1136aede6295e31d",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "id": "Z1146aede6295e3a6",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "id": "Y1156aede6295e42f",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "bulle_actu_categorie_mairie",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "value": "<p>Mairie</p>",
+                    "name_in_model": "MY236a1ea85d88b05"
+                   }
+                  ],
+                  "name_in_model": "MZ486a1ea85fc2a72"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "id": "Z1166aede6295e4b8",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "id": "Y1176aede6295e541",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "bulle_actu_date",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "value": "<p>6 nov 2026</p>",
+                    "name_in_model": "MY236a1ea85fc04f7"
+                   }
+                  ],
+                  "name_in_model": "MZ496a1ea85fc2a83"
+                 }
+                ],
+                "name_in_model": "MZ246a1ea85fc052e"
+               },
+               {
+                "$class": "WsTextarea",
+                "id": "Y1186aede6295e5ca",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "titre_bulle_actu",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "value": "<p>Travaux et entretien de notre commune</p>",
+                "name_in_model": "MY206a1eb25e2c20a"
+               },
+               {
+                "$class": "WsTextarea",
+                "id": "Y1196aede6295e653",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": "Texte_normal_align_gauche",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "value": {
+                 "$text": [
+                  "<p>Poutre de l'ancienne salle des f&ecirc;tes en cours de r&eacute;paration, d&eacute;sherbage du cimeti&egrave;re, entretien du city stade&nbsp;: le point sur les travaux.</p>\r",
+                  "<p>&nbsp;</p>\r",
+                  "<p><a href=\"https://www.baigneaux.fr/actualites.html#travaux06112026\">Lire la suite -&gt;</a></p>"
+                 ]
+                },
+                "name_in_model": "MY186a199894dc501"
+               }
+              ],
+              "href": "",
+              "name_in_model": "MZ276a1ad2da70980"
+             }
+            ]
+           },
+           {
+            "$class": "WsContainer",
+            "id": "Z1006aeb7780f2484",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -1619,7 +1797,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 1,
+            "index": 2,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -1801,7 +1979,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 2,
+            "index": 3,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -1979,7 +2157,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 3,
+            "index": 4,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2161,7 +2339,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 4,
+            "index": 5,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2336,7 +2514,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 5,
+            "index": 6,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": null,
@@ -2518,7 +2696,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 6,
+            "index": 7,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2696,7 +2874,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 7,
+            "index": 8,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2874,7 +3052,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 8,
+            "index": 9,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -3035,184 +3213,6 @@
                   "<p>Notre collecte pour les &eacute;vacu&eacute;s des incendies de l'ouest de la Gironde est termin&eacute;e : merci &agrave; tous !</p>\r",
                   "<p>&nbsp;</p>\r",
                   "<p><a href=\"https://www.baigneaux.fr/actualites.html#donsincendies2026\">Lire la suite -&gt;</a></p>"
-                 ]
-                },
-                "name_in_model": "MY186a199894dc501"
-               }
-              ],
-              "href": "",
-              "name_in_model": "MZ276a1ad2da70980"
-             }
-            ]
-           },
-           {
-            "$class": "WsContainer",
-            "id": "Z1206ae215f80174c",
-            "properties": 8208,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 9,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": "",
-            "valign": null,
-            "model_id": 0,
-            "contents": [
-             {
-              "$class": "WsContainer",
-              "id": "Z1216ae215f8017d6",
-              "properties": 270336,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": "carte_actu",
-              "embedded_css_rules": "",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WsImage",
-                "id": "Y1226ae215f80185f",
-                "properties": 4096,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": null,
-                "more_classes": "",
-                "embedded_css_rules": {
-                 "$text": [
-                  ".id_Y1226ae215f80185f {\r",
-                  "\tmargin-left: auto;\r",
-                  "\tmargin-right: auto;\r",
-                  "}\r"
-                 ]
-                },
-                "value": "vignette-feux-foret-juillet-2026.jpg",
-                "caption": "",
-                "href": "",
-                "tooltip": "Arrêté de vigilance noire feux de forêt",
-                "original_name": "vignette-feux-foret-juillet-2026.jpg",
-                "in_gallery": "0",
-                "uploaded_image": "vignette-feux-foret-juillet-2026.jpg",
-                "keep_format": "0",
-                "width": "200",
-                "height": "90",
-                "notFlexible": "0",
-                "name_in_model": "MY276a1ad396386f6"
-               },
-               {
-                "$class": "WsContainer",
-                "id": "Z1236ae215f8018e8",
-                "properties": 8209,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": "",
-                "valign": null,
-                "model_id": "",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z1246ae215f801971",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "id": "Y1256ae215f8019fa",
-                    "properties": 264192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "bulle_actu_categorie_sante",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "value": "<p>Sant&eacute;</p>",
-                    "name_in_model": "MY236a1ea85d88b05"
-                   }
-                  ],
-                  "name_in_model": "MZ486a1ea85fc2a72"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z1266ae215f801a83",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 1,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "id": "Y1276ae215f801b0c",
-                    "properties": 264192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "bulle_actu_date",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "value": "<p>25 juil 2026</p>",
-                    "name_in_model": "MY236a1ea85fc04f7"
-                   }
-                  ],
-                  "name_in_model": "MZ496a1ea85fc2a83"
-                 }
-                ],
-                "name_in_model": "MZ246a1ea85fc052e"
-               },
-               {
-                "$class": "WsTextarea",
-                "id": "Y1286ae215f801b95",
-                "properties": 2048,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 2,
-                "user_style": "titre_bulle_actu",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "value": "<p>Feux de for&ecirc;t en Gironde</p>",
-                "name_in_model": "MY206a1eb25e2c20a"
-               },
-               {
-                "$class": "WsTextarea",
-                "id": "Y1296ae215f801c1e",
-                "properties": 2048,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 3,
-                "user_style": "Texte_normal_align_gauche",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "value": {
-                 "$text": [
-                  "<p>Passage en vigilance noire feux de for&ecirc;t : mesures de restriction et conseils face aux fum&eacute;es.</p>\r",
-                  "<p>&nbsp;</p>\r",
-                  "<p><a href=\"https://www.baigneaux.fr/actualites.html#feux072026\">Lire la suite -&gt;</a></p>"
                  ]
                 },
                 "name_in_model": "MY186a199894dc501"
