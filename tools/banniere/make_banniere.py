@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Bannière illustrée NON RETENUE (06/11/2026, Adrien) : conservée pour mémoire.
 """Bannière d'accueil en illustration vectorielle façon affiche (en attendant une photo HD).
 
 Motif : la tour ronde de Baigneaux sur sa colline, le grand arbre, le chemin et les rangs de vigne

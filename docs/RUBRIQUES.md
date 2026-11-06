@@ -4,13 +4,13 @@ Les 8 pages d'entrée de rubrique (Mairie, Vie communale, Enfance et jeunesse, S
 Assos commerces et services, Tourisme, Urbanisme, Intercommunalité) ne sont plus un simple menu :
 depuis le 06/11/2026 elles affichent un titre, une phrase d'introduction et une **tuile cliquable
 par page de la rubrique** (titre + une phrase de description). La page Mairie montre en plus
-le maire et les adjoints (copie des cartes de la page Conseil municipal) et un bouton vers le
-conseil complet.
+le maire et les adjoints en colonne à gauche des tuiles (copie des cartes de la page Conseil
+municipal) et un bouton vers le conseil complet.
 
 Structure (dans le bloc `contenu_page`) : conteneur `rubrique` > titre (`Title`), texte
 `rubrique_intro`, conteneur `tuiles_rubrique` > conteneurs-liens `tuile_rubrique` (un texte :
-`<p><strong>Titre</strong></p><p>Description</p>`). Mairie : `rubrique_soustitre`, `apercu_elus`,
-`rubrique_bouton`.
+`<p><strong>Titre</strong></p><p>Description</p>`). Mairie : conteneur `mairie_corps` > `colonne_elus`
+(`rubrique_soustitre`, `apercu_elus`, `rubrique_bouton`) + `tuiles_rubrique`.
 
 ## Ajouter une page dans une rubrique
 

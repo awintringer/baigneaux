@@ -764,7 +764,11 @@
                       "$class": "WsTextarea",
                       "value": {
                        "$text": [
-                        "<p>- Actualit&eacute;s&nbsp;: travaux et entretien de notre commune (poutre de l'ancienne salle des f&ecirc;tes, cimeti&egrave;re, city stade)</p>\r",
+                        "<p>- Nouvelle pr&eacute;sentation : design plus clair et plus actuel, menu en haut de page avec panneaux d&eacute;roulants, aussi sur l'accueil</p>\r",
+                        "<p>- Pages de rubrique (Ma mairie, Vie communale, Sant&eacute;&hellip;) : une tuile par page avec sa description, les &eacute;lus sur la page Mairie</p>\r",
+                        "<p>- Accueil : nouvelles cartes d'&eacute;v&egrave;nements, sous-menus plus lisibles, badge &laquo; Village ambassadeur du don d'organes &raquo; repositionn&eacute;</p>\r",
+                        "<p>- Nouveau fil d'Ariane et nouveau pied de page</p>\r",
+                        "<p>- Actualit&eacute;s : travaux et entretien de notre commune (poutre de l'ancienne salle des f&ecirc;tes, cimeti&egrave;re, city stade)</p>\r",
                         "<p>- Mise &agrave; jour des m&eacute;decins de garde (novembre 2026)</p>"
                        ]
                       },
@@ -810,6 +814,414 @@
                  "$owner": "R"
                 },
                 "index": 1,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ8969ea07f4dabcb"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "4 et 5 novembre 2026",
+                  "id": "Y976aee47222a7eb",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "FORMALITES",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY9069ea07f4dabcc"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Logo de Baigneaux",
+                      "original_name": "logosite.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "logosite.png",
+                      "keep_format": "0",
+                      "width": "143",
+                      "height": "143",
+                      "notFlexible": "0",
+                      "value": "logosite-9436.png",
+                      "id": "Y1006aee47222a986",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y1006aee47222a986 {\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: auto;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY9369ea07f4dabcf"
+                     }
+                    ],
+                    "id": "Z996aee47222a8fd",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ9269ea07f4dabce"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": {
+                       "$text": [
+                        "<p>- Actualit&eacute; : un traiteur au march&eacute; des producteurs du 8 novembre</p>\r",
+                        "<p>- Relecture compl&egrave;te du site : prochain conseil municipal (14 d&eacute;cembre), arr&ecirc;t&eacute;s termin&eacute;s signal&eacute;s, orthographe harmonis&eacute;e</p>\r",
+                        "<p>- Titres d'onglet des pages, liens mail et menus d&eacute;roulants corrig&eacute;s</p>"
+                       ]
+                      },
+                      "id": "Y1026aee47222aa98",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Texte_normal_align_gauche",
+                      "more_classes": "",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY9569ea07f4dabd1"
+                     }
+                    ],
+                    "id": "Z1016aee47222aa0f",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1016aee47222aa0f {\r\n\twidth: 75%;\r\n}\r",
+                    "name_in_model": "MZ9469ea07f4dabd0"
+                   }
+                  ],
+                  "id": "Z986aee47222a874",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ9169ea07f4dabcd"
+                 }
+                ],
+                "id": "Z966aee47222a762",
+                "properties": 8448,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ8969ea07f4dabcb"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "1er novembre 2026",
+                  "id": "Y1046aee47222abab",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "FORMALITES",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY9069ea07f4dabcc"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Logo de Baigneaux",
+                      "original_name": "logosite.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "logosite.png",
+                      "keep_format": "0",
+                      "width": "143",
+                      "height": "143",
+                      "notFlexible": "0",
+                      "value": "logosite-9436.png",
+                      "id": "Y1076aee47222ad46",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y1076aee47222ad46 {\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: auto;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY9369ea07f4dabcf"
+                     }
+                    ],
+                    "id": "Z1066aee47222acbd",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ9269ea07f4dabce"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": {
+                       "$text": [
+                        "<p>- Galeries photos : photos non d&eacute;form&eacute;es dans la visionneuse, vignettes au format d'origine</p>\r",
+                        "<p>- Couleurs des &eacute;tiquettes de cat&eacute;gorie plus contrast&eacute;es, lisibles aussi par les personnes daltoniennes</p>"
+                       ]
+                      },
+                      "id": "Y1096aee47222ae58",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Texte_normal_align_gauche",
+                      "more_classes": "",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY9569ea07f4dabd1"
+                     }
+                    ],
+                    "id": "Z1086aee47222adcf",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1086aee47222adcf {\r\n\twidth: 75%;\r\n}\r",
+                    "name_in_model": "MZ9469ea07f4dabd0"
+                   }
+                  ],
+                  "id": "Z1056aee47222ac34",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ9169ea07f4dabcd"
+                 }
+                ],
+                "id": "Z1036aee47222ab21",
+                "properties": 8448,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ8969ea07f4dabcb"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "29 octobre 2026",
+                  "id": "Y1116aee47222af6a",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "FORMALITES",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY9069ea07f4dabcc"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Logo de Baigneaux",
+                      "original_name": "logosite.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "logosite.png",
+                      "keep_format": "0",
+                      "width": "143",
+                      "height": "143",
+                      "notFlexible": "0",
+                      "value": "logosite-9436.png",
+                      "id": "Y1146aee47222b105",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y1146aee47222b105 {\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: auto;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY9369ea07f4dabcf"
+                     }
+                    ],
+                    "id": "Z1136aee47222b07c",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ9269ea07f4dabce"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": {
+                       "$text": [
+                        "<p>- Menu horizontal &agrave; 5 rubriques (Ma mairie, Ma commune, &Eacute;v&egrave;nements, Services, D&eacute;marches)</p>\r",
+                        "<p>- Galerie &laquo; Notre village en images &raquo; : un album par &eacute;v&egrave;nement</p>\r",
+                        "<p>- Conseil municipal : trombinoscope ; commissions communales : cartes avec les portraits des membres</p>\r",
+                        "<p>- Bo&icirc;te &agrave; id&eacute;es : formulaire pour &eacute;crire directement &agrave; la mairie</p>"
+                       ]
+                      },
+                      "id": "Y1166aee47222b218",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "Texte_normal_align_gauche",
+                      "more_classes": "",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY9569ea07f4dabd1"
+                     }
+                    ],
+                    "id": "Z1156aee47222b18f",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1156aee47222b18f {\r\n\twidth: 75%;\r\n}\r",
+                    "name_in_model": "MZ9469ea07f4dabd0"
+                   }
+                  ],
+                  "id": "Z1126aee47222aff3",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ9169ea07f4dabcd"
+                 }
+                ],
+                "id": "Z1106aee47222aee1",
+                "properties": 8448,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 4,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -951,7 +1363,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 2,
+                "index": 5,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1087,7 +1499,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 3,
+                "index": 6,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1222,7 +1634,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 4,
+                "index": 7,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1358,7 +1770,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 5,
+                "index": 8,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1494,7 +1906,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 6,
+                "index": 9,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1629,7 +2041,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 7,
+                "index": 10,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1759,7 +2171,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 8,
+                "index": 11,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -1897,7 +2309,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 9,
+                "index": 12,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
@@ -2037,7 +2449,7 @@
                 "owner": {
                  "$owner": "R"
                 },
-                "index": 10,
+                "index": 13,
                 "user_style": "Subdivision",
                 "more_classes": "",
                 "embedded_css_rules": "",
