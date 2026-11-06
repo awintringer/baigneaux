@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Génère les icônes vectorielles des tuiles de l'accueil (site/data/images/icone-*.svg).
-Libellés en Manrope 600 convertis en tracés (rendu identique partout, sans police installée).
+"""Génère les icônes vectorielles des blocs d'information de l'accueil (site/data/images/icone-*.svg).
+Depuis le 06/11/2026 : pictogramme seul sur un disque vert sauge (le titre du bloc, à côté, sert de libellé).
+L'ancien rendu (tuile encadrée + libellé en Manrope 600 converti en tracés) reste disponible avec --tuile.
 usage: python3 tools/icons/make_icons.py   (requiert fonttools + brotli)"""
 import os
 from fontTools.ttLib import TTFont
@@ -11,7 +12,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 FONT = TTFont(os.path.join(ROOT, 'site', 'data', 'fonts', 'manrope-latin-600-normal.woff2'))
 GS, CMAP, UPM = FONT.getGlyphSet(), FONT.getBestCmap(), FONT['head'].unitsPerEm
 HMTX = FONT['hmtx']
-GREEN, DARK, BG, BORDER = '#2f5e3e', '#1f2937', '#ffffff', '#d6e6d9'
+GREEN, DARK, BG, BORDER, SAUGE = '#2f5e3e', '#1f2937', '#ffffff', '#d6e6d9', '#e6eee6'
 
 def text_path(s, size, cx, baseline):
     scale = size / UPM
@@ -53,7 +54,15 @@ def svg(name, lines, body):
             f'<rect x="2" y="2" width="156" height="156" rx="22" fill="{BG}" stroke="{BORDER}" stroke-width="2"/>'
             f'<g class="ico">{body}</g><g class="label">{labels}</g></svg>\n')
 
+def disque(name, lines, body):
+    title = ' '.join(lines).replace('’', "'")
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" role="img" aria-label="{title}">'
+            f'<title>{title}</title>'
+            f'<circle cx="80" cy="80" r="74" fill="{SAUGE}"/>'
+            f'<g transform="translate(80 80) scale(1.25) translate(-80 -59)">{body}</g></svg>\n')
+
 for name, (lines, body) in ICONS.items():
     out = os.path.join(ROOT, 'site', 'data', 'images', f'icone-{name}.svg')
-    open(out, 'w', encoding='utf-8').write(svg(name, lines, body))
+    rendu = svg if '--tuile' in __import__('sys').argv else disque
+    open(out, 'w', encoding='utf-8').write(rendu(name, lines, body))
     print(out, os.path.getsize(out), 'octets')

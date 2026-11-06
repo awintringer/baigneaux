@@ -674,7 +674,7 @@
               "$class": "WssTitle",
               "level": "2",
               "href": "",
-              "value": "IDENTIFICATION",
+              "value": "Identification",
               "id": "Y265b6c01d641889",
               "properties": 1024,
               "owner": {
@@ -938,7 +938,7 @@
                 "$class": "WssTitle",
                 "level": "2",
                 "href": "",
-                "value": "HÉBERGEMENT DU SITE",
+                "value": "Hébergement du site",
                 "id": "Y345b6c01d641a84",
                 "properties": 1024,
                 "owner": {
@@ -1063,7 +1063,7 @@
                 "$class": "WssTitle",
                 "level": "2",
                 "href": "",
-                "value": "CONDITIONS GÉNÉRALES D'UTILISATION DU SITE",
+                "value": "Conditions générales d'utilisation du site",
                 "id": "Y365b6c01d641b02",
                 "properties": 1024,
                 "owner": {

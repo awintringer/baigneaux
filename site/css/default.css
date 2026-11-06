@@ -1,6 +1,7 @@
 .wsspage_Arriere_plan {
-	background-color: #DCE7DF;
 	font-family: Inter, Arial, sans-serif;
+	background-color: #F1F3EE;
+	color: #1F2A23;
 }
 .WS_PAGE_END {}
 .wssmenu_Main a {
@@ -9,19 +10,18 @@
 	color: #2f5e3e;
 	font-weight: 600;
 	text-decoration: none;
-	padding: 18px 14px;
 	transition: color .25s ease,transform .25s ease;
+	font-variant: normal;
+	padding: 12px 14px;
 }
 .wssmenu_Main {
-	background: rgba(255,255,255,0.96);
-	backdrop-filter: blur(10px);
-	-webkit-backdrop-filter: blur(10px);
 	border-radius: 18px;
-	margin: 15px auto;
-	box-shadow: 0 4px 12px rgba(0,0,0,.05),0 12px 30px rgba(0,0,0,.06);
-	border: 1px solid rgba(0,0,0,.05);
-	padding: 0 20px;
 	font-size: 1.5em;
+	background: transparent;
+	box-shadow: none;
+	border: 0px;
+	margin: 0px;
+	padding: 4px 6px;
 }
 .wsstitle_Title2 {
 	letter-spacing: 0em;
@@ -29,31 +29,31 @@
 	margin: 5px;
 	float: none;
 	text-align: center;
-	font-variant: small-caps;
 	text-transform: none;
-	color: #000000;
 	font-weight: bold;
 	font-family: "Playfair Display", Georgia, serif;
-	font-size: 2em;
+	font-variant: normal;
+	color: #1F2A23;
+	font-size: 1.8em;
 }
 .wsstitle_Title {
 	border-width: 0px;
 	text-decoration: none;
-	border-bottom-width: 2px;
-	border-radius: 11px/11px;
 	margin: 2px;
 	clear: none;
 	float: none;
 	margin-bottom: 10px;
-	letter-spacing: 0em;
 	font-family: "Playfair Display", Georgia, serif;
-	text-transform: lowercase;
-	font-variant: small-caps;
 	font-weight: bold;
-	color: #000000;
 	text-align: left;
-	padding: 30px;
-	font-size: 4em;
+	text-transform: none;
+	font-variant: normal;
+	border-bottom-width: 0px;
+	font-size: 3.2em;
+	padding: 24px 30px;
+	letter-spacing: -0.01em;
+	color: #1F2A23;
+	line-height: 1.1em;
 }
 .wscontainer_Path {
 	color: #2f5e3e;
@@ -101,9 +101,9 @@
 	padding-top: 0px;
 }
 .wssmenu_Main .submenu a {
-	font-weight: normal;
-	text-transform: uppercase;
 	font-family: Inter, Arial, sans-serif;
+	text-transform: none;
+	font-weight: 500;
 }
 .wssmenu_Main .submenu a:hover, .wssmenu_Main .submenu a.hover {
 	color: #3FA66B;
@@ -117,14 +117,13 @@
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 1178px;
-	border-width: 1px;
-	margin-top: 5px;
-	margin-bottom: 5px;
-	padding: 8px;
-	background-color: #E7F1E8;
 	border-color: #2f5e3e;
-	box-shadow: 5px 5px 5px  #6Baa7a;
-	border-radius: 10px/10px;
+	border-width: 0px;
+	box-shadow: none;
+	background-color: transparent;
+	padding: 8px;
+	margin-top: 8px;
+	margin-bottom: 8px;
 }
 .wsstitle_Title3 {
 	font-variant: normal;
@@ -132,12 +131,12 @@
 	border-width: 0px;
 	margin: 5px;
 	text-align: left;
-	text-transform: uppercase;
 	font-family: "Playfair Display", Georgia, serif;
-	font-size: 2em;
-	color: #000000;
 	font-weight: bold;
 	line-height: 1.2em;
+	text-transform: none;
+	color: #1F2A23;
+	font-size: 2.1em;
 }
 .wssmenu_Main a:hover, .wssmenu_Main a.hover {
 	background: rgba(30,77,140,.05);
@@ -188,10 +187,10 @@
 	font-family: Inter, Arial, sans-serif;
 	color: #000000;
 	font-variant: normal;
-	text-transform: uppercase;
 	font-size: .8em;
 	padding-top: 0px;
 	padding-bottom: 0px;
+	text-transform: none;
 }
 .wstextarea_Essai {
 	font-style: normal;
@@ -313,19 +312,16 @@
 	font-family: Inter, Arial, sans-serif;
 }
 .wssmenu_Sous-menus .submenu a:hover, .wssmenu_Sous-menus .submenu a.hover {
-	color: #3FA66B;
 	background-color: #e7f1e8;
-	transform: translateY(-2px);
+	color: #2F5E3E;
 }
 .wssmenu_Sous-menus .submenu {
-	background: rgba(255,255,255,0.96);
-	backdrop-filter: blur(10px);
-	-webkit-backdrop-filter: blur(10px);
 	border-radius: 18px;
 	margin: 15px auto;
-	box-shadow: 0 4px 12px rgba(0,0,0,.05),0 12px 30px rgba(0,0,0,.06);
-	border: 1px solid rgba(0,0,0,.05);
 	padding: 0 20px;
+	background: transparent;
+	box-shadow: none;
+	border: 0px;
 }
 .wssmenu_Sous-menus .button {
 	background-color: #e7f1e8;
@@ -336,31 +332,28 @@
 	color: #FFFFFF;
 }
 .wssmenu_Sous-menus a {
-	background-color: #f7f7f4;
 	position: relative;
 	color: #2f5e3e;
 	font-weight: 600;
 	text-decoration: none;
 	padding: 18px 14px;
 	transition: color .25s ease,transform .25s ease;
-	border-radius: 18px;
+	background-color: transparent;
+	border-radius: 10px;
 }
 .wssmenu_Sous-menus a:hover, .wssmenu_Sous-menus a.hover {
-	color: #3FA66B;
 	background-color: #e7f1e8;
-	transform: translateY(-2px);
+	color: #2F5E3E;
 }
 .wssmenu_Sous-menus {
-	background: #f7f7f4;
-	backdrop-filter: blur(10px);
-	-webkit-backdrop-filter: blur(10px);
-	border-radius: 18px;
 	margin: 15px auto;
-	box-shadow: 0 4px 12px rgba(0,0,0,.05),0 12px 30px rgba(0,0,0,.06);
-	border: 1px solid rgba(0,0,0,.05);
 	padding: 0 20px;
 	font-family: Inter, Arial, sans-serif;
 	font-size: 1.8em;
+	background: #FFFFFF;
+	box-shadow: none;
+	border: 1px solid #DDE2D9;
+	border-radius: 14px;
 }
 .wscontainer_Bloc-titre {
 	border-width: 0px;
@@ -386,35 +379,34 @@
 	text-align: right;
 }
 .wsstitle_FORMALITES {
-	border-bottom-right-radius: 15px;
-	border-bottom-width: 5px;
 	float: none;
-	padding: 5px;
-	margin: 5px;
-	text-align: center;
-	font-variant: small-caps;
-	font-weight: normal;
 	text-transform: none;
+	font-variant: normal;
+	font-family: "Playfair Display", Georgia, serif;
+	font-weight: bold;
 	font-size: 2em;
-	letter-spacing: 0.02em;
-	font-family: Inter, Arial, sans-serif;
-	color: #000000;
-	border-color: #2f5e3e;
+	text-align: left;
+	letter-spacing: 0em;
+	border-bottom-width: 1px;
+	border-color: #DDE2D9;
+	color: #1F2A23;
+	padding: 6px 10px 10px;
+	margin: 6px 10px 10px;
 }
 .wsstitle_COMMISSIONS {
 	letter-spacing: 0em;
 	font-size: 1.8em;
 	margin: 5px;
-	font-variant: small-caps;
 	text-transform: none;
 	border-radius: 5px/5px;
-	border-width: 1px;
 	float: none;
 	text-align: center;
 	font-family: "Playfair Display", Georgia, serif;
 	color: #000000;
 	font-weight: bold;
-	box-shadow: 5px 5px 5px  #d9b26f;
+	font-variant: normal;
+	box-shadow: none;
+	border-width: 0px;
 }
 .wssmenu_Main a.hover {
 	background-color: #f5f5fe;
@@ -431,12 +423,12 @@
 	text-align: center;
 }
 .wscontainer_Subdivision {
-	border-width: 1px;
-	border-radius: 10px/10px;
-	border-color: #2f5e3e;
 	opacity: 1;
-	box-shadow: 5px 5px 5px -2px #6Baa7a;
-	background-color: #F7F7F4;
+	border-width: 1px;
+	border-color: #DDE2D9;
+	border-radius: 14px;
+	box-shadow: none;
+	background-color: #FFFFFF;
 }
 .wstextarea_Texte_normal_align_gauche {
 	font-size: 1.4em;
@@ -537,34 +529,34 @@ border-color: #000000;
 	width: 70%;
 }
 .wstextarea_Titre_accueil {
-	font-size: 4em;
-	padding-top: 61px;
 	text-align: left;
 	font-family: "Playfair Display", Georgia, serif;
 	font-weight: bold;
-	color: #000000;
-	text-shadow: 0px 2px 2px  #6baa7a;
 	font-variant: normal;
 	text-transform: none;
 	text-decoration: none;
-	letter-spacing: 0.05em;
 	padding-left: 40px;
-	line-height: 1.2em;
+	letter-spacing: -0.01em;
+	color: #1F2A23;
+	padding-top: 48px;
+	line-height: 1.05em;
+	font-size: 4.6em;
 }
 .wstextarea_Sous_titre_accueil {
-	font-family: "Playfair Display", Georgia, serif;
-	font-size: 2em;
 	opacity: 1;
 	padding-left: 40px;
+	font-family: Inter, Arial, sans-serif;
+	font-size: 1.6em;
+	color: #3c4a41;
 }
 .wstextarea_Lien_header {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-	gap: 16px;
 	color: #2f5e3e;
 	margin-top: 5px;
 	font-size: 1em;
-	font-family: "Playfair Display", Georgia, serif;
+	gap: 6px;
+	font-family: Inter, Arial, sans-serif;
 }
 .wstextarea_liens_page_principale {
 	display: grid;
@@ -572,8 +564,8 @@ border-color: #000000;
 	gap: 16px;
 	color: #2f5e3e;
 	font-size: 1em;
-	font-family: "Playfair Display", Georgia, serif;
 	margin-top: 45px;
+	font-family: Inter, Arial, sans-serif;
 }
 .wstextarea_retour_accueil a {
 	font-size: 25px;
@@ -583,90 +575,86 @@ border-color: #000000;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	background: #ffffff;
 	border-radius: 16px;
 	text-decoration: none;
 	color: #2f5e3e;
-	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 	transition: all 0.25s ease;
-	border: 1px solid #eef2f6;
+	background: transparent;
+	border: 0px;
+	box-shadow: none;
 }
 .wstextarea_retour_accueil a:hover, .wstextarea_retour_accueil a.hover {
-	transform: translateY(-4px);
-	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
-	border-color: #2f5e3e;
-	background: #f7f9fc;
 	color: #2f5e3e;
+	box-shadow: none;
+	border-color: transparent;
+	background: transparent;
 }
 .wstextarea_liens_page_principale a {
-	font-size: 20px;
-	font-weight: 500;
 	text-align: center;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	padding: 18px 12px;
-	background: #ffffff;
-	border-radius: 16px;
 	text-decoration: none;
 	color: #2f5e3e;
-	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 	transition: all 0.25s ease;
-	border: 1px solid #eef2f6;
+	background: transparent;
+	border: 1.5px solid #2F5E3E;
+	border-radius: 999px;
+	box-shadow: none;
+	font-size: 16px;
+	font-weight: 600;
+	padding: 10px 18px;
 }
 .wstextarea_Lien_header a {
-	font-size: 20px;
-	font-weight: 500;
 	text-align: center;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	padding: 18px 12px;
-	background: #ffffff;
-	border-radius: 16px;
 	text-decoration: none;
 	color: #2f5e3e;
-	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 	transition: all 0.25s ease;
-	border: 1px solid #eef2f6;
+	background: transparent;
+	border: 1px solid transparent;
+	box-shadow: none;
+	border-radius: 10px;
+	font-size: 17px;
+	font-weight: 600;
+	padding: 14px 10px;
 }
 .wstextarea_Lien_header a:hover, .wstextarea_Lien_header a.hover {
-	transform: translateY(-4px);
-	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
-	border-color: #2f5e3e;
-	background: #f7f9fc;
 	color: #2f5e3e;
+	box-shadow: none;
+	border-color: transparent;
+	background: #E6EEE6;
 }
 .wstextarea_liens_page_principale a:hover, .wstextarea_liens_page_principale a.hover {
-	transform: translateY(-4px);
-	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
-	border-color: #2f5e3e;
-	background: #f7f9fc;
 	color: #2f5e3e;
+	box-shadow: none;
+	background: #E6EEE6;
+	border-color: #2F5E3E;
 }
 .wscontainer_Banniere {
 	margin: 0px;
 	max-width: 1178px;
-	border-width: 1px;
 	margin-top: 5px;
 	margin-bottom: 5px;
-	padding: 8px;
-	border-radius: 10px/10px;
-	background-color: #E7F1E8;
 	border-color: #2f5e3e;
 	background-image: url(data/images/background/1442_banner.png);
-	box-shadow: 5px 5px 5px  #6Baa7a;
 	margin-left: auto;
 	margin-right: auto;
-	background-repeat: repeat-x;
-	background-size: cover;
-	background-position: 50% 50%;
+	border-width: 0px;
+	box-shadow: none;
+	border-radius: 18px;
+	background-color: #FFFFFF;
+	padding: 10px;
+	background-size: auto 100%;
+	background-position: 100% 50%;
+	background-repeat: no-repeat;
 }
 .wstextarea_retour_accueil {
 	font-family: "Playfair Display", Georgia, serif;
-	letter-spacing: 0.07em;
 	color: #000000;
 	background-position: 0% 50%;
 	background-repeat: no-repeat;
@@ -675,17 +663,18 @@ border-color: #000000;
 	padding-top: 5px;
 	font-weight: bold;
 	background-image: url(data/images/background/1231_logositepetit.png);
+	letter-spacing: 0em;
 }
 .wstextarea_bulle_agenda {
 	padding-right: 10px;
 	padding-left: 10px;
-	border-radius: 10px/10px;
 	font-family: Inter, Arial, sans-serif;
 	font-size: 2.8em;
 	text-align: center;
-	background-color: #2f5e3e;
-	color: #e7f1e8;
 	line-height: 1.4em;
+	background-color: #2F5E3E;
+	color: #FFFFFF;
+	border-radius: 12px;
 }
 .wssmenu_menu_burger {
 	font-family: Manrope, Arial, sans-serif;
@@ -714,11 +703,12 @@ border-color: #000000;
 }
 .wstextarea_bulle_actu_date {
 	text-align: right;
-	font-family: Manrope, Arial, sans-serif;
-	font-size: 1.2em;
-	font-weight: bold;
 	text-transform: none;
-	font-variant: small-caps;
+	font-variant: normal;
+	font-family: Inter, Arial, sans-serif;
+	font-weight: 500;
+	font-size: 1.05em;
+	color: #7A6F5F;
 }
 .wstextarea_bulle_actu_categorie_securite a {
 	color: #1f2937;
@@ -731,13 +721,12 @@ border-color: #000000;
 .wstextarea_bulle_actu_categorie_securite {
 	float: left;
 	text-align: left;
-	font-size: 1.2em;
-	text-transform: uppercase;
 	font-variant: normal;
-	font-weight: bold;
+	text-transform: none;
+	font-family: Inter, Arial, sans-serif;
+	font-size: 1.05em;
+	font-weight: 600;
 	color: #a34700;
-	font-family: Manrope, Arial, sans-serif;
-	padding-left: 7px;
 }
 .wstextarea_bulle_actu_categorie_emploi a {
 	color: #1f2937;
@@ -750,13 +739,12 @@ border-color: #000000;
 .wstextarea_bulle_actu_categorie_emploi {
 	float: left;
 	text-align: left;
-	font-size: 1.2em;
-	text-transform: uppercase;
 	font-variant: normal;
-	font-weight: bold;
-	font-family: Manrope, Arial, sans-serif;
+	text-transform: none;
+	font-family: Inter, Arial, sans-serif;
+	font-size: 1.05em;
+	font-weight: 600;
 	color: #4A00B3;
-	padding-left: 7px;
 }
 .wstextarea_bulle_actu_categorie_mairie a {
 	color: #1f2937;
@@ -769,13 +757,12 @@ border-color: #000000;
 .wstextarea_bulle_actu_categorie_mairie {
 	float: left;
 	text-align: left;
-	font-size: 1.2em;
-	text-transform: uppercase;
 	font-variant: normal;
-	font-weight: bold;
-	font-family: Manrope, Arial, sans-serif;
-	color: #2f5e3e;
-	padding-left: 7px;
+	text-transform: none;
+	font-family: Inter, Arial, sans-serif;
+	font-size: 1.05em;
+	font-weight: 600;
+	color: #2F5E3E;
 }
 .wstextarea_bulle_actu_categorie_sante a {
 	color: #1f2937;
@@ -788,13 +775,12 @@ border-color: #000000;
 .wstextarea_bulle_actu_categorie_sante {
 	float: left;
 	text-align: left;
-	font-size: 1.2em;
-	text-transform: uppercase;
 	font-variant: normal;
-	font-weight: bold;
-	font-family: Manrope, Arial, sans-serif;
+	text-transform: none;
+	font-family: Inter, Arial, sans-serif;
+	font-size: 1.05em;
+	font-weight: 600;
 	color: #005fae;
-	padding-left: 7px;
 }
 .wstextarea_actus_sous_titre a {
 	color: #1f2937;
@@ -805,19 +791,17 @@ border-color: #000000;
 	font-weight: bold;
 }
 .wstextarea_actus_sous_titre {
-	font-size: 1.4em;
 	font-family: Inter, Arial, sans-serif;
-	color: #000000;
 	border-style: solid;
 	border-width: 0px;
-	border-bottom-width: 2px;
 	border-right-width: 0px;
 	margin-bottom: 15px;
 	padding-left: 0px;
 	margin-left: 30px;
-	border-radius: 10px/0px;
-	border-bottom-right-radius: 10px;
 	float: none;
+	border-bottom-width: 0px;
+	color: #3c4a41;
+	font-size: 1.35em;
 }
 .wsstitle_Titre_main_page_sub a {
 	color: #1f2937;
@@ -829,36 +813,37 @@ border-color: #000000;
 }
 .wsstitle_Titre_main_page_sub {
 	text-decoration: none;
-	border-radius: 11px/11px;
 	margin: 2px;
 	clear: none;
 	float: none;
-	letter-spacing: 0em;
 	font-family: "Playfair Display", Georgia, serif;
-	text-transform: lowercase;
-	font-variant: small-caps;
 	font-weight: bold;
-	color: #000000;
 	text-align: left;
-	font-size: 4em;
 	border-width: 0px;
 	margin-bottom: 0px;
 	padding: 0px;
 	padding-top: 10px;
 	padding-left: 30px;
+	text-transform: none;
+	font-variant: normal;
+	font-size: 3em;
+	color: #1F2A23;
+	letter-spacing: -0.01em;
 }
 .wstextarea_titre_bulle_actu {
 	font-weight: bold;
-	font-family: Inter, Arial, sans-serif;
-	font-size: 1.6em;
 	text-align: left;
+	font-family: "Playfair Display", Georgia, serif;
+	font-size: 1.75em;
+	line-height: 1.2em;
+	color: #1F2A23;
 }
 .wstextarea_titre_grosse_bulle_actu {
 	font-family: Inter, Arial, sans-serif;
-	font-size: 2em;
-	font-weight: bold;
-	border-bottom-right-radius: 10px;
-	border-bottom-width: 2px;
+	border-bottom-width: 0px;
+	font-size: 1.3em;
+	font-weight: 600;
+	color: #2F5E3E;
 }
 .wstextarea_bulle_actu_categorie_vie_communale a {
 	color: #1f2937;
@@ -871,12 +856,11 @@ border-color: #000000;
 .wstextarea_bulle_actu_categorie_vie_communale {
 	float: left;
 	text-align: left;
-	font-size: 1.2em;
-	text-transform: uppercase;
 	font-variant: normal;
-	font-weight: bold;
-	font-family: Manrope, Arial, sans-serif;
-	padding-left: 7px;
+	text-transform: none;
+	font-family: Inter, Arial, sans-serif;
+	font-size: 1.05em;
+	font-weight: 600;
 	color: #a1307f;
 }
 @media all {
@@ -2141,8 +2125,9 @@ border-color: #000000;
 }
 @media all {
 	.nav_rubrique:has(a.selected) > .wstextarea_Lien_header a {
-		border-color: #2f5e3e;
-		box-shadow: inset 0 -3px 0 #6baa7a;
+		border-color: transparent;
+		box-shadow: inset 0 -2px 0 #2F5E3E;
+		border-radius: 10px 10px 2px 2px;
 	}
 }
 @media all {
@@ -2156,5 +2141,114 @@ border-color: #000000;
 		position: relative;
 		z-index: 40;
 		overflow: visible;
+	}
+}
+@media all {
+	.wscontainer_BodyHome:has(.nav_rubrique) {
+		background-color: #FFFFFF;
+		border: 1px solid #DDE2D9;
+		border-radius: 14px;
+		padding: 6px 10px;
+	}
+}
+@media all {
+	.wssmenu_Sous-menus a {
+		font-variant: normal;
+		text-transform: none;
+	}
+}
+@media all {
+	.wstextarea_bulle_actu_categorie_mairie p {
+		display: inline-block;
+		margin: 0;
+		padding: 3px 10px;
+		border-radius: 999px;
+		background-color: color-mix(in srgb, #2F5E3E 12%, white);
+	}
+}
+@media all {
+	.wstextarea_bulle_actu_categorie_vie_communale p {
+		display: inline-block;
+		margin: 0;
+		padding: 3px 10px;
+		border-radius: 999px;
+		background-color: color-mix(in srgb, #a1307f 12%, white);
+	}
+}
+@media all {
+	.wstextarea_bulle_actu_categorie_securite p {
+		display: inline-block;
+		margin: 0;
+		padding: 3px 10px;
+		border-radius: 999px;
+		background-color: color-mix(in srgb, #a34700 12%, white);
+	}
+}
+@media all {
+	.wstextarea_bulle_actu_categorie_sante p {
+		display: inline-block;
+		margin: 0;
+		padding: 3px 10px;
+		border-radius: 999px;
+		background-color: color-mix(in srgb, #005fae 12%, white);
+	}
+}
+@media all {
+	.wstextarea_bulle_actu_categorie_emploi p {
+		display: inline-block;
+		margin: 0;
+		padding: 3px 10px;
+		border-radius: 999px;
+		background-color: color-mix(in srgb, #4A00B3 12%, white);
+	}
+}
+@media all {
+	.wscontainer.carte_actu {
+		padding: 0 !important;
+		overflow: hidden;
+	}
+}
+@media all {
+	.carte_actu > .wsimage {
+		margin: 0 0 6px !important;
+		width: 100% !important;
+		max-width: none !important;
+		height: 150px;
+		padding: 0 !important;
+	}
+}
+@media all {
+	.carte_actu > .wsimage img {
+		display: block;
+		width: 100% !important;
+		height: 100% !important;
+		object-fit: cover;
+	}
+}
+@media all {
+	.carte_actu > .wssystemcontainer,
+	.carte_actu > .wstextarea {
+		margin-left: 12px !important;
+		margin-right: 12px !important;
+	}
+}
+@media all {
+	.wscontainer:has(> .wsstitle_Titre_main_page_sub),
+	.wscontainer:has(> .wstextarea_actus_sous_titre),
+	.wscontainer:has(> .wstextarea_liens_page_principale) {
+		border-width: 0 !important;
+		background: transparent !important;
+		box-shadow: none !important;
+	}
+}
+@media all {
+	.wsimage:has(> img[src*="icone-"]) {
+		background-color: transparent !important;
+	}
+}
+@media all {
+	.carte_actu > .wssystemcontainer {
+		width: auto !important;
+		box-sizing: border-box;
 	}
 }

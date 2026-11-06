@@ -613,7 +613,7 @@
                   "$class": "WssTitle",
                   "level": "2",
                   "href": "",
-                  "value": "chemins de randonnées",
+                  "value": "Chemins de randonnées",
                   "id": "Y515b6ad00616de6",
                   "properties": 1024,
                   "owner": {
@@ -961,7 +961,7 @@
             "$class": "WssTitle",
             "level": "2",
             "href": "",
-            "value": "boucles dans l'entre-deux-mers",
+            "value": "Boucles dans l'Entre-deux-Mers",
             "id": "Y575b6ad12a7e08a",
             "properties": 1024,
             "owner": {
@@ -1093,7 +1093,7 @@
             "$class": "WssTitle",
             "level": "2",
             "href": "",
-            "value": "les randonnées partout en France",
+            "value": "Les randonnées partout en France",
             "id": "Y575b6ad12d6daae",
             "properties": 1024,
             "owner": {

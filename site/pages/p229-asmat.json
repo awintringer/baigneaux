@@ -1373,7 +1373,7 @@
             "$class": "WssTitle",
             "level": "2",
             "href": "",
-            "value": "RELAIS DE LA PETITE ENFANCE",
+            "value": "Relais de la petite enfance",
             "id": "Y425e9eeb8aa8411",
             "properties": 1024,
             "owner": {
@@ -1543,7 +1543,7 @@
             "$class": "WssTitle",
             "level": "2",
             "href": "",
-            "value": "MULTI ACCUEIL 0 A 3 ANS",
+            "value": "Multi-accueil (0 à 3 ans)",
             "id": "Y785e9ee7de81609",
             "properties": 1024,
             "owner": {
@@ -1838,7 +1838,7 @@
             "$class": "WssTitle",
             "level": "2",
             "href": "",
-            "value": "LES ACCUEILS DE LOISIRS SANS HEBERGEMENT 3 A 11 ANS",
+            "value": "Les accueils de loisirs sans hébergement (3 à 11 ans)",
             "id": "Y485e9eeece53e0e",
             "properties": 263168,
             "owner": {

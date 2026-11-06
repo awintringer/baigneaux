@@ -581,7 +581,7 @@
               "$class": "WssTitle",
               "level": "2",
               "href": "",
-              "value": "LES DIFFÉRENTES DEMANDES D'AUTORISATION D'URBANISME",
+              "value": "Les différentes demandes d'autorisation d'urbanisme",
               "id": "Y155f5a324be19fd",
               "properties": 1024,
               "owner": {
@@ -1228,7 +1228,7 @@
             "$class": "WssTitle",
             "level": "2",
             "href": "",
-            "value": "notre pôle ADS",
+            "value": "Notre pôle ADS",
             "id": "Y155f5a371856628",
             "properties": 1024,
             "owner": {
