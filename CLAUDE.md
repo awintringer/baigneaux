@@ -24,6 +24,9 @@ et docs/FORMAT.md). Langue de travail : français.
   limités à une rubrique du plan du site) ; seul l'accueil garde la colonne de menu (modèle `MENU`).
   Les autres pages : en-tête mobile (`menu_burger`), fil d'Ariane (`Path`), puis le contenu dans un bloc
   `contenu_page` (indispensable : la règle CSS associée garde le bon affichage mobile).
+- Accueil : l'en-tête de la bannière est une instance du modèle `Header2` (comme les autres pages) ; image de
+  bannière = illustration SVG générée par `tools/banniere/make_banniere.py`. Pages de rubrique (mairie.html…) :
+  tuiles vers chaque page, à compléter à la main quand une page est ajoutée (docs/RUBRIQUES.md).
 - Accueil : cartes `carte_actu` (10 dernières, plus récente en premier) et `carte_evenement`
   (toutes, ordre chronologique) ; chaque actu a aussi sa fiche sur la page Actualités (ancre unique).
 - Galerie : un album = une page sous p325 ; en ajouter un avec `python3 tools/album.py DOSSIER --titre … --date …`

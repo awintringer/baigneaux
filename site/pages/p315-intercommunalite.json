@@ -287,7 +287,7 @@
                       "contents": [
                        {
                         "$class": "WsTextarea",
-                        "value": "<p>Vous &ecirc;tes ici&nbsp;:</p>",
+                        "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Accueil</a></p>",
                         "id": "Y276a1c1fad007f4",
                         "properties": 264192,
                         "owner": {
@@ -563,18 +563,135 @@
                 "model_id": 0,
                 "contents": [
                  {
-                  "$class": "WssMenu",
-                  "category": "p315",
-                  "depth": "10",
-                  "value": "0",
-                  "id": "Y2069cbd0c6e0677",
-                  "properties": 262144,
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WssTitle",
+                    "level": "2",
+                    "href": "",
+                    "value": "Intercommunalité",
+                    "id": "Y2476aee40172c2a2",
+                    "properties": 1024,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "Title",
+                    "more_classes": "",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsTextarea",
+                    "value": "<p>Les services que Baigneaux partage avec les communes voisines.</p>",
+                    "id": "Y2486aee40172c32b",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": "Texte_normal_align_gauche",
+                    "more_classes": "rubrique_intro",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Communaut&eacute; de communes</strong></p>\r",
+                          "<p>La Communaut&eacute; de communes rurales de l'Entre-Deux-Mers et ses comp&eacute;tences.</p>"
+                         ]
+                        },
+                        "id": "Y2496aee40172c3b4",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/CDC.html",
+                      "id": "Z2506aee40172c43d",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": 0,
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": {
+                         "$text": [
+                          "<p><strong>Espace France Services</strong></p>\r",
+                          "<p>Des permanences &agrave; Targon pour vous aider dans vos d&eacute;marches.</p>"
+                         ]
+                        },
+                        "id": "Y2516aee40172c4c7",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": null,
+                        "more_classes": "",
+                        "embedded_css_rules": ""
+                       }
+                      ],
+                      "href": "https://www.baigneaux.fr/p317.html",
+                      "id": "Z2526aee40172c550",
+                      "properties": 8192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": "tuile_rubrique",
+                      "embedded_css_rules": ""
+                     }
+                    ],
+                    "href": "",
+                    "id": "Z2536aee40172c5d9",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": "tuiles_rubrique",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z2546aee40172c662",
+                  "properties": 8192,
                   "owner": {
                    "$owner": "R"
                   },
                   "index": 0,
-                  "user_style": "Sous-menus",
-                  "more_classes": "",
+                  "user_style": 0,
+                  "more_classes": "rubrique",
                   "embedded_css_rules": ""
                  }
                 ],
