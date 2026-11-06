@@ -630,7 +630,7 @@
                       "$class": "WssTitle",
                       "level": "2",
                       "href": "",
-                      "value": "Médecins de garde - septembre 2026",
+                      "value": "Médecins de garde - novembre 2026",
                       "id": "Y8869d0d6b8899ff",
                       "properties": 263168,
                       "owner": {
@@ -672,22 +672,22 @@
                     "$class": "WsTextarea",
                     "value": {
                      "$text": [
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">M&eacute;decins de garde pour le mois d'Octobre</span></p>\r",
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">M&eacute;decins de garde pour le mois de Novembre</span></p>\r",
                       "<p><span style=\"font-size: 12.8px;\">&nbsp;</span></p>\r",
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">💊 Week end du 3 octobre :</span></p>\r",
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">Docteur Germain LASSALLE - Sauveterre de Guyenne - 05.56.71.01.27</span></p>\r",
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">💊 Week-end du 7 novembre :</span></p>\r",
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">Docteur Maud D'OLIVO - Sauveterre de Guyenne - 05.56.71.01.27</span></p>\r",
                       "<p><span style=\"font-size: 12.8px;\">&nbsp;</span></p>\r",
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">🚑 Week end du 10 octobre:</span></p>\r",
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">Docteur Marie GOUTTIERE - Rauzan - 05.33.03.00.33</span></p>\r",
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">🚑 Mercredi 11 novembre :</span></p>\r",
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">Docteur Lisa PARRET - Rauzan - 05.33.03.00.33</span></p>\r",
                       "<p><span style=\"font-size: 12.8px;\">&nbsp;</span></p>\r",
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">💉 Week end du 17 octobre :</span></p>\r",
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">Docteur Sabine GUILHON-PENAUD - Targon - 05.56.23.90.17</span></p>\r",
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">💉 Week-end du 14 novembre :</span></p>\r",
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">Docteur Alexia RENAUD - Frontenac - 05.56.23.54.93</span></p>\r",
                       "<p><span style=\"font-size: 12.8px;\">&nbsp;</span></p>\r",
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">🚒 Week end du 24 octobre :</span></p>\r",
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">Docteur Vincent FEUGA - Targon - 05.56.23.90.17</span></p>\r",
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">🚒 Week-end du 21 novembre :</span></p>\r",
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">Docteur Nicolas GOUJON - Targon - 05.56.23.90.17</span></p>\r",
                       "<p><span style=\"font-size: 12.8px;\">&nbsp;</span></p>\r",
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">🩺 Week end du 31 octobre :</span></p>\r",
-                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">Docteur Fanny RABBE - Targon - 05.56.23.90.17</span></p>"
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">🩺 Week-end du 28 novembre :</span></p>\r",
+                      "<p id=\"medgard\"><span style=\"font-size: 12.8px;\">Docteur Emilie PALLUD - Rauzan - 05.33.03.00.33</span></p>"
                      ]
                     },
                     "id": "Y2669d53304e454f",
