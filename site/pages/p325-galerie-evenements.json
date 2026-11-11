@@ -646,6 +646,64 @@
                       "$class": "WsImage",
                       "caption": "",
                       "href": "",
+                      "tooltip": "Cérémonie du 11 novembre : photo de couverture",
+                      "original_name": "ceremonie-du-11-novembre-novembre-2026-couverture.jpg",
+                      "in_gallery": "0",
+                      "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-couverture.jpg",
+                      "keep_format": "0",
+                      "width": "600",
+                      "height": "450",
+                      "notFlexible": "0",
+                      "value": "ceremonie-du-11-novembre-novembre-2026-couverture.jpg",
+                      "id": "Y1796af47a06670d1",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": ""
+                     },
+                     {
+                      "$class": "WsTextarea",
+                      "value": {
+                       "$text": [
+                        "<p><strong>C&eacute;r&eacute;monie du 11 novembre</strong></p>\r",
+                        "<p>11 novembre 2026 &middot; 14 photos</p>"
+                       ]
+                      },
+                      "id": "Y1806af47a066715a",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": "Texte_normal_align_gauche",
+                      "more_classes": "",
+                      "embedded_css_rules": ""
+                     }
+                    ],
+                    "href": "galerie-ceremonie-du-11-novembre-novembre-2026.html",
+                    "id": "Z1816af47a06671e3",
+                    "properties": 8192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": "carte_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": 0,
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
                       "tooltip": "Fête du village : photo de couverture",
                       "original_name": "fete-du-village-septembre-2026-couverture.jpg",
                       "in_gallery": "0",
@@ -690,7 +748,7 @@
                     "owner": {
                      "$owner": "R"
                     },
-                    "index": 0,
+                    "index": 1,
                     "user_style": 0,
                     "more_classes": "carte_album",
                     "embedded_css_rules": ""
@@ -743,7 +801,7 @@
                     "owner": {
                      "$owner": "R"
                     },
-                    "index": 1,
+                    "index": 2,
                     "user_style": 0,
                     "more_classes": "carte_album",
                     "embedded_css_rules": ""
@@ -801,7 +859,7 @@
                     "owner": {
                      "$owner": "R"
                     },
-                    "index": 2,
+                    "index": 3,
                     "user_style": 0,
                     "more_classes": "carte_album",
                     "embedded_css_rules": ""
@@ -859,7 +917,7 @@
                     "owner": {
                      "$owner": "R"
                     },
-                    "index": 3,
+                    "index": 4,
                     "user_style": 0,
                     "more_classes": "carte_album",
                     "embedded_css_rules": ""
@@ -917,7 +975,7 @@
                     "owner": {
                      "$owner": "R"
                     },
-                    "index": 4,
+                    "index": 5,
                     "user_style": 0,
                     "more_classes": "carte_album",
                     "embedded_css_rules": ""
@@ -975,7 +1033,7 @@
                     "owner": {
                      "$owner": "R"
                     },
-                    "index": 5,
+                    "index": 6,
                     "user_style": 0,
                     "more_classes": "carte_album",
                     "embedded_css_rules": ""
@@ -1033,7 +1091,7 @@
                     "owner": {
                      "$owner": "R"
                     },
-                    "index": 6,
+                    "index": 7,
                     "user_style": 0,
                     "more_classes": "carte_album",
                     "embedded_css_rules": ""
@@ -1091,7 +1149,7 @@
                     "owner": {
                      "$owner": "R"
                     },
-                    "index": 7,
+                    "index": 8,
                     "user_style": 0,
                     "more_classes": "carte_album",
                     "embedded_css_rules": ""
