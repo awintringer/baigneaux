@@ -1,0 +1,1434 @@
+{
+ "table": "ws_tlc",
+ "row": [
+  "p342",
+  "fr",
+  "galerie-ceremonie-du-11-novembre-novembre-2026",
+  "2026-11-11 17:15:50",
+  "Cérémonie du 11 novembre",
+  "8201",
+  {
+   "$php": {
+    "$class": "WssPage",
+    "description": "Photos : C&eacute;r&eacute;monie du 11 novembre &ndash; 11 novembre 2026",
+    "title": "",
+    "url_id": "galerie-ceremonie-du-11-novembre-novembre-2026",
+    "date": 1794413750,
+    "save_number": 1,
+    "name": "Cérémonie du 11 novembre",
+    "valign": null,
+    "model_id": 0,
+    "contents": [
+     {
+      "$class": "WsContainer",
+      "valign": null,
+      "model_id": 0,
+      "contents": [
+       {
+        "$class": "WsContainer",
+        "valign": null,
+        "model_id": 0,
+        "contents": [
+         {
+          "$class": "WsContainer",
+          "valign": null,
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "Header2",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Baigneaux</a></p>",
+                  "id": "Y1146af494b61f73f",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "retour_accueil",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY256a19b7672c6f8"
+                 }
+                ],
+                "id": "Z1136af494b61f6b6",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z1136af494b61f6b6 {\r\n\twidth: 20%;\r\n}\r",
+                "name_in_model": "MZ26a19b6dd78037"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/mairie.html\">Ma Mairie</a></p>",
+                  "id": "Y1166af494b61f852",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY146a19b6a4141de"
+                 }
+                ],
+                "id": "Z1156af494b61f7c8",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z1156af494b61f7c8 {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ46a19b6f0a695f"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/vie-communale.html\">Ma Commune</a></p>",
+                  "id": "Y1186af494b61f964",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY186a19b6e2dbe74"
+                 }
+                ],
+                "id": "Z1176af494b61f8db",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z1176af494b61f8db {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ66a19b7469847a"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/evenements-festivites.html\">&Eacute;v&egrave;nements</a></p>",
+                  "id": "Y1206af494b61fa76",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY206a19b70373d87"
+                 }
+                ],
+                "id": "Z1196af494b61f9ed",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z1196af494b61f9ed {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ86a19b752453f5"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/annuaire.html\">Services</a></p>",
+                  "id": "Y1226af494b61fb88",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY226a19b74bd2ee5"
+                 }
+                ],
+                "id": "Z1216af494b61faff",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 4,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z1216af494b61faff {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ156a19b7dd3fe6e"
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"https://www.baigneaux.fr/formalites-administratives.html\">D&eacute;marches</a></p>",
+                  "id": "Y1246af494b61fc9a",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Lien_header",
+                  "more_classes": "",
+                  "embedded_css_rules": "",
+                  "name_in_model": "MY296a19b7d2755a6"
+                 }
+                ],
+                "id": "Z1236af494b61fc11",
+                "properties": 8208,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 5,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": ".id_Z1236af494b61fc11 {\r\n\twidth: 16%;\r\n}\r",
+                "name_in_model": "MZ176a19b7dd3fe71"
+               }
+              ],
+              "id": "Z1126af494b61f62d",
+              "properties": 8209,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": null,
+              "embedded_css_rules": "",
+              "name_in_model": "MZ156a19b6a4141f9"
+             }
+            ],
+            "id": "Z1116af494b61f5a4",
+            "properties": 270400,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "BodyHome",
+            "more_classes": " dontDisplayOnXS dontDisplayOnS",
+            "embedded_css_rules": "",
+            "href": "",
+            "name_in_model": "MZ869ccf3d56f152"
+           },
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "menu_burger",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WssMenu",
+                      "category": "0",
+                      "depth": "0",
+                      "value": "0",
+                      "id": "Y1306af494b61ffd1",
+                      "properties": 262144,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": "menu_burger",
+                      "more_classes": " dontDisplayOnXS dontDisplayOnS",
+                      "embedded_css_rules": "",
+                      "name_in_model": "MY236a1c1913916fa"
+                     }
+                    ],
+                    "id": "Z1296af494b61ff48",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1296af494b61ff48 {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ476a1c19449ca9b"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsTextarea",
+                      "value": "<p>Menu</p>",
+                      "id": "Y1326af494b6200e3",
+                      "properties": 264192,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y1326af494b6200e3 {\r",
+                        "\tfont-family: Playfair Display;\r",
+                        "\tfont-size: 2em;\r",
+                        "\ttext-align: center;\r",
+                        "\tpadding-top: 15px;\r",
+                        "\tfloat: left;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY236a1c193a1e444"
+                     }
+                    ],
+                    "id": "Z1316af494b62005a",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1316af494b62005a {\r\n\twidth: 50%;\r\n}\r",
+                    "name_in_model": "MZ126a1c1982a9777"
+                   },
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsImage",
+                      "caption": "",
+                      "href": "",
+                      "tooltip": "Armoiries de Baigneaux",
+                      "original_name": "armoiries.png",
+                      "in_gallery": "0",
+                      "uploaded_image": "armoiries.png",
+                      "keep_format": "0",
+                      "width": "55",
+                      "height": "60",
+                      "notFlexible": "0",
+                      "value": "armoiries-7e86.png",
+                      "id": "Y1346af494b6201f5",
+                      "properties": 266240,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": null,
+                      "more_classes": "",
+                      "embedded_css_rules": {
+                       "$text": [
+                        ".id_Y1346af494b6201f5 {\r",
+                        "\ttext-align: right;\r",
+                        "\tmargin-left: auto;\r",
+                        "\tmargin-right: 0;\r",
+                        "}\r"
+                       ]
+                      },
+                      "name_in_model": "MY296a1c197b650e8"
+                     }
+                    ],
+                    "id": "Z1336af494b62016c",
+                    "properties": 8208,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": ".id_Z1336af494b62016c {\r\n\twidth: 25%;\r\n}\r",
+                    "name_in_model": "MZ146a1c1982a977b"
+                   }
+                  ],
+                  "id": "Z1286af494b61febf",
+                  "properties": 8209,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "name_in_model": "MZ246a1c193a1e463"
+                 }
+                ],
+                "id": "Z1276af494b61fe36",
+                "properties": 8256,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Subdivision",
+                "more_classes": " dontDisplayOnM dontDisplayOnL",
+                "embedded_css_rules": "",
+                "href": "",
+                "name_in_model": "MZ236a1c1919b626f"
+               }
+              ],
+              "href": "",
+              "id": "Z1266af494b61fdac",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": "contenu_page",
+              "embedded_css_rules": ""
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "Path",
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsContainer",
+                    "valign": null,
+                    "model_id": "",
+                    "contents": [
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WsTextarea",
+                        "value": "<p><a href=\"https://www.baigneaux.fr/home.html\">Accueil</a></p>",
+                        "id": "Y1406af494b62052c",
+                        "properties": 264192,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": "Path",
+                        "more_classes": "",
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY557f20acc196b"
+                       }
+                      ],
+                      "id": "Z1396af494b6204a3",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 0,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": "",
+                      "name_in_model": "MZ595841f49586bf5"
+                     },
+                     {
+                      "$class": "WsContainer",
+                      "valign": null,
+                      "model_id": "",
+                      "contents": [
+                       {
+                        "$class": "WssPagePath",
+                        "value": 0,
+                        "id": "Y1426af494b62063e",
+                        "properties": 262144,
+                        "owner": {
+                         "$owner": "R"
+                        },
+                        "index": 0,
+                        "user_style": "Path",
+                        "more_classes": "",
+                        "embedded_css_rules": "",
+                        "name_in_model": "MY557f20acc19db"
+                       }
+                      ],
+                      "id": "Z1416af494b6205b5",
+                      "properties": 8208,
+                      "owner": {
+                       "$owner": "R"
+                      },
+                      "index": 1,
+                      "user_style": 0,
+                      "more_classes": null,
+                      "embedded_css_rules": ".id_Z1416af494b6205b5 {\r\n\twidth: 89.8%;\r\n}\r",
+                      "name_in_model": "MZ605841f49586c54"
+                     }
+                    ],
+                    "id": "Z1386af494b62041a",
+                    "properties": 8209,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": 0,
+                    "more_classes": null,
+                    "embedded_css_rules": "",
+                    "name_in_model": "MZ585841f49586a24"
+                   }
+                  ],
+                  "id": "Z1376af494b620390",
+                  "properties": 270464,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": "",
+                  "embedded_css_rules": {
+                   "$text": [
+                    ".id_Z1376af494b620390 {\r",
+                    "\tpadding-bottom: 0px;\r",
+                    "\tpadding-left: 0px;\r",
+                    "\tborder-width: 0px;\r",
+                    "\tpadding-top: 10px;\r",
+                    "}\r"
+                   ]
+                  },
+                  "name_in_model": "MZ575841f4895c408",
+                  "href": ""
+                 }
+                ],
+                "id": "Z1366af494b620307",
+                "properties": 270336,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": 0,
+                "more_classes": "",
+                "embedded_css_rules": ".id_Z1366af494b620307 {\r\n\tborder-width: 0px;\r\n}\r",
+                "name_in_model": "MZ3369cbea6206362",
+                "href": ""
+               }
+              ],
+              "id": "Z1356af494b62027e",
+              "properties": 270400,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 1,
+              "user_style": "Path",
+              "more_classes": " dontDisplayOnXS dontDisplayOnS",
+              "embedded_css_rules": "",
+              "href": "",
+              "name_in_model": "MZ557f20acc188b"
+             },
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WssTitle",
+                  "level": "2",
+                  "href": "",
+                  "value": "Cérémonie du 11 novembre",
+                  "id": "Y1456af494b6207d9",
+                  "properties": 1024,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Title",
+                  "more_classes": "",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "id": "Z1446af494b620750",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "href": ""
+               },
+               {
+                "$class": "WsContainer",
+                "valign": null,
+                "model_id": 0,
+                "contents": [
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"galerie-evenements.html\">&larr; Toutes les galeries</a> <span class=\"album_infos\">&nbsp;&middot; 11 novembre 2026 &middot; 24 photos</span></p>",
+                  "id": "Y1056af494b61f26e",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": "Texte_normal_align_gauche",
+                  "more_classes": "album_nav",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p>Cliquez sur une photo pour l&rsquo;agrandir, puis utilisez les fl&egrave;ches pour faire d&eacute;filer l&rsquo;album.</p>",
+                  "id": "Y1066af494b61f2f7",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": "Texte_normal_align_gauche",
+                  "more_classes": "album_aide",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "valign": null,
+                  "model_id": 0,
+                  "contents": [
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 1",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-01.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-01.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-01-v.jpg",
+                    "id": "Y906af494b61ea65",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 2",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-02.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-02.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-02-v.jpg",
+                    "id": "Y916af494b61eaee",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 1,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 3",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-03.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-03.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-03-v.jpg",
+                    "id": "Y926af494b61eb77",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 2,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 4",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-04.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-04.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-04-v.jpg",
+                    "id": "Y936af494b61ec00",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 3,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 5",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-05.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-05.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-05-v.jpg",
+                    "id": "Y946af494b61ec8a",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 4,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 6",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-06.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-06.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-06-v.jpg",
+                    "id": "Y956af494b61ed13",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 5,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 7",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-07.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-07.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-07-v.jpg",
+                    "id": "Y966af494b61ed9c",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 6,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 8",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-08.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-08.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-08-v.jpg",
+                    "id": "Y976af494b61ee25",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 7,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 9",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-09.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-09.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-09-v.jpg",
+                    "id": "Y986af494b61eeae",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 8,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 10",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-10.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-10.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-10-v.jpg",
+                    "id": "Y996af494b61ef37",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 9,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 11",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-11.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-11.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-11-v.jpg",
+                    "id": "Y1006af494b61efc0",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 10,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 12",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-12.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-12.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-12-v.jpg",
+                    "id": "Y1016af494b61f049",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 11,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 13",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-13.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-13.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-13-v.jpg",
+                    "id": "Y1026af494b61f0d2",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 12,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 14",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-14.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-14.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-14-v.jpg",
+                    "id": "Y1036af494b61f15b",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 13,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 15",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-15.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-15.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-15-v.jpg",
+                    "id": "Y906af494b980cac",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 14,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 16",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-16.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-16.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-16-v.jpg",
+                    "id": "Y916af494b980d35",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 15,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 17",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-17.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-17.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-17-v.jpg",
+                    "id": "Y926af494b980dbe",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 16,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 18",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-18.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-18.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-18-v.jpg",
+                    "id": "Y936af494b980e47",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 17,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 19",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-19.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-19.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-19-v.jpg",
+                    "id": "Y946af494b980ed0",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 18,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 20",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-20.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-20.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-20-v.jpg",
+                    "id": "Y956af494b980f59",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 19,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 21",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-21.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-21.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-21-v.jpg",
+                    "id": "Y966af494b980fe2",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 20,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 22",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-22.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-22.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-22-v.jpg",
+                    "id": "Y976af494b98106b",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 21,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 23",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-23.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-23.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-23-v.jpg",
+                    "id": "Y986af494b9810f5",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 22,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   },
+                   {
+                    "$class": "WsImage",
+                    "caption": "",
+                    "href": "",
+                    "tooltip": "Cérémonie du 11 novembre – photo 24",
+                    "original_name": "ceremonie-du-11-novembre-novembre-2026-24.jpg",
+                    "in_gallery": "1",
+                    "uploaded_image": "ceremonie-du-11-novembre-novembre-2026-24.jpg",
+                    "keep_format": "0",
+                    "width": "400",
+                    "height": "400",
+                    "notFlexible": "0",
+                    "value": "ceremonie-du-11-novembre-novembre-2026-24-v.jpg",
+                    "id": "Y996af494b98117e",
+                    "properties": 266240,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 23,
+                    "user_style": null,
+                    "more_classes": "photo_album",
+                    "embedded_css_rules": ""
+                   }
+                  ],
+                  "href": "",
+                  "id": "Z1046af494b61f1e4",
+                  "properties": 8192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 2,
+                  "user_style": 0,
+                  "more_classes": "album_grille",
+                  "embedded_css_rules": ""
+                 },
+                 {
+                  "$class": "WsTextarea",
+                  "value": "<p><a href=\"galerie-evenements.html\">&larr; Toutes les galeries</a></p>",
+                  "id": "Y1076af494b61f380",
+                  "properties": 264192,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 3,
+                  "user_style": "Texte_normal_align_gauche",
+                  "more_classes": "album_nav album_nav_bas",
+                  "embedded_css_rules": ""
+                 }
+                ],
+                "href": "",
+                "id": "Z1786af494b621985",
+                "properties": 8192,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": "Subdivision",
+                "more_classes": "",
+                "embedded_css_rules": ""
+               }
+              ],
+              "href": "",
+              "id": "Z1436af494b6206c7",
+              "properties": 8192,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 2,
+              "user_style": 0,
+              "more_classes": "contenu_page",
+              "embedded_css_rules": ""
+             }
+            ],
+            "id": "Z1256af494b61fd23",
+            "properties": 8192,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
+            "user_style": "BodyHome",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": ""
+           }
+          ],
+          "id": "Z1106af494b61f51b",
+          "properties": 8208,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 0,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         },
+         {
+          "$class": "WsContainer",
+          "valign": "bottom",
+          "model_id": 0,
+          "contents": [
+           {
+            "$class": "WsContainer",
+            "valign": null,
+            "model_id": "Footer",
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "valign": null,
+              "model_id": "",
+              "contents": [
+               {
+                "$class": "WsTextarea",
+                "value": {
+                 "$text": [
+                  "<p>Mairie de Baigneaux -&nbsp;<span style=\"font-size: 12.8px;\">116 rue Yvonne de la Seigli&egrave;re -&nbsp;</span><span style=\"font-size: 12.8px;\">33760 Baigneaux</span></p>\r",
+                  "<p>T&eacute;l: <a href=\"tel:05 56 23 97 50\" target=\"_blank\">05 56 23 97 50</a>&nbsp;-&nbsp;E-Mail&nbsp;: <a href=\"mailto:mairie@baigneaux.fr\">mairie@baigneaux.fr</a></p>\r",
+                  "<p>Suivez Baigneaux sur Facebook&nbsp;:&nbsp;<a href=\"https://www.facebook.com/lesbaignaudais/\">facebook.com/lesbaignaudais</a></p>\r",
+                  "<p><a href=\"mentions-legales.html\">Mentions L&eacute;gales</a> - <a href=\"https://www.baigneaux.fr/historique-modifications.html\">Historique des versions</a></p>"
+                 ]
+                },
+                "id": "Y1766af494b621873",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": "Texte-centre",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "name_in_model": "MY557f1c0abbc42"
+               },
+               {
+                "$class": "WssBadge",
+                "value": 0,
+                "id": "Y1776af494b6218fc",
+                "properties": 0,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y1776af494b6218fc {\r",
+                  "\tmargin-left: auto;\r",
+                  "\tmargin-right: auto;\r",
+                  "}\r"
+                 ]
+                },
+                "name_in_model": "MY1869cb06ae4d576"
+               }
+              ],
+              "id": "Z1756af494b6217ea",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": 0,
+              "more_classes": "",
+              "embedded_css_rules": {
+               "$text": [
+                ".id_Z1756af494b6217ea {\r",
+                "\tborder-color: #000091;\r",
+                "\tborder-width: 0px;\r",
+                "\tmax-width: 1178px;\r",
+                "}\r"
+               ]
+              },
+              "name_in_model": "MZ165f578e3250a9f",
+              "href": ""
+             }
+            ],
+            "id": "Z1746af494b621761",
+            "properties": 8256,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 0,
+            "user_style": "fred1",
+            "more_classes": "",
+            "embedded_css_rules": "",
+            "href": "",
+            "name_in_model": "MZ557f17014423f"
+           }
+          ],
+          "id": "Z1736af494b6216d8",
+          "properties": 8208,
+          "owner": {
+           "$owner": "R"
+          },
+          "index": 1,
+          "user_style": 0,
+          "more_classes": null,
+          "embedded_css_rules": ""
+         }
+        ],
+        "id": "Z1096af494b61f492",
+        "properties": 8210,
+        "owner": {
+         "$owner": "R"
+        },
+        "index": 0,
+        "user_style": 0,
+        "more_classes": null,
+        "embedded_css_rules": ""
+       }
+      ],
+      "id": "Z1086af494b61f409",
+      "properties": 8208,
+      "owner": {
+       "$owner": "R"
+      },
+      "index": 0,
+      "user_style": 0,
+      "more_classes": null,
+      "embedded_css_rules": ""
+     }
+    ],
+    "id": "p342",
+    "properties": 8201,
+    "owner": 0,
+    "index": 0,
+    "user_style": "Arriere_plan",
+    "more_classes": "",
+    "embedded_css_rules": "",
+    "lang": "fr",
+    "not_responsive": "0",
+    "no_robots": "0",
+    "redir_url": "",
+    "hdr_html": {
+     "$text": [
+      "<style>\r",
+      "/* Polices hébergées sur le site (data/fonts, licence SIL OFL) */\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 400; font-display: swap; src: url(data/fonts/inter-latin-400-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 500; font-display: swap; src: url(data/fonts/inter-latin-500-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 600; font-display: swap; src: url(data/fonts/inter-latin-600-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Inter'; font-style: normal; font-weight: 700; font-display: swap; src: url(data/fonts/inter-latin-700-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 400; font-display: swap; src: url(data/fonts/manrope-latin-400-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 500; font-display: swap; src: url(data/fonts/manrope-latin-500-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 600; font-display: swap; src: url(data/fonts/manrope-latin-600-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Manrope'; font-style: normal; font-weight: 700; font-display: swap; src: url(data/fonts/manrope-latin-700-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Playfair Display'; font-style: normal; font-weight: 400; font-display: swap; src: url(data/fonts/playfair-display-latin-400-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Playfair Display'; font-style: normal; font-weight: 700; font-display: swap; src: url(data/fonts/playfair-display-latin-700-normal.woff2) format('woff2'); }\r",
+      "@font-face { font-family: 'Playfair Display'; font-style: italic; font-weight: 400; font-display: swap; src: url(data/fonts/playfair-display-latin-400-italic.woff2) format('woff2'); }\r",
+      "</style>"
+     ]
+    }
+   }
+  }
+ ]
+}

@@ -2094,12 +2094,190 @@
           "contents": [
            {
             "$class": "WsContainer",
-            "id": "Z1106aede6295e182",
+            "id": "Z906af494ba7170b",
             "properties": 8208,
             "owner": {
              "$owner": "R"
             },
             "index": 0,
+            "user_style": 0,
+            "more_classes": null,
+            "embedded_css_rules": "",
+            "valign": null,
+            "model_id": 0,
+            "contents": [
+             {
+              "$class": "WsContainer",
+              "id": "Z916af494ba71794",
+              "properties": 270336,
+              "owner": {
+               "$owner": "R"
+              },
+              "index": 0,
+              "user_style": "Subdivision",
+              "more_classes": "carte_actu",
+              "embedded_css_rules": "",
+              "valign": null,
+              "model_id": 0,
+              "contents": [
+               {
+                "$class": "WsImage",
+                "id": "Y926af494ba7181d",
+                "properties": 4096,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 0,
+                "user_style": null,
+                "more_classes": "",
+                "embedded_css_rules": {
+                 "$text": [
+                  ".id_Y926af494ba7181d {\r",
+                  "\tmargin-left: auto;\r",
+                  "\tmargin-right: auto;\r",
+                  "}\r"
+                 ]
+                },
+                "value": "vignette-ceremonie-11-novembre-2026.jpg",
+                "caption": "",
+                "href": "",
+                "tooltip": "Cérémonie du 11 novembre devant le monument aux morts",
+                "original_name": "vignette-ceremonie-11-novembre-2026.jpg",
+                "in_gallery": "0",
+                "uploaded_image": "vignette-ceremonie-11-novembre-2026.jpg",
+                "keep_format": "0",
+                "width": "200",
+                "height": "90",
+                "notFlexible": "0",
+                "name_in_model": "MY276a1ad396386f6"
+               },
+               {
+                "$class": "WsContainer",
+                "id": "Z936af494ba718a6",
+                "properties": 8209,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 1,
+                "user_style": 0,
+                "more_classes": null,
+                "embedded_css_rules": "",
+                "valign": null,
+                "model_id": "",
+                "contents": [
+                 {
+                  "$class": "WsContainer",
+                  "id": "Z946af494ba7192f",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 0,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "id": "Y956af494ba719b9",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "bulle_actu_categorie_vie_communale",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "value": "<p>Vie communale</p>",
+                    "name_in_model": "MY236a1ea85d88b05"
+                   }
+                  ],
+                  "name_in_model": "MZ486a1ea85fc2a72"
+                 },
+                 {
+                  "$class": "WsContainer",
+                  "id": "Z966af494ba71a42",
+                  "properties": 8208,
+                  "owner": {
+                   "$owner": "R"
+                  },
+                  "index": 1,
+                  "user_style": 0,
+                  "more_classes": null,
+                  "embedded_css_rules": "",
+                  "valign": null,
+                  "model_id": "",
+                  "contents": [
+                   {
+                    "$class": "WsTextarea",
+                    "id": "Y976af494ba71acb",
+                    "properties": 264192,
+                    "owner": {
+                     "$owner": "R"
+                    },
+                    "index": 0,
+                    "user_style": "bulle_actu_date",
+                    "more_classes": "",
+                    "embedded_css_rules": "",
+                    "value": "<p>11 nov 2026</p>",
+                    "name_in_model": "MY236a1ea85fc04f7"
+                   }
+                  ],
+                  "name_in_model": "MZ496a1ea85fc2a83"
+                 }
+                ],
+                "name_in_model": "MZ246a1ea85fc052e"
+               },
+               {
+                "$class": "WsTextarea",
+                "id": "Y986af494ba71b54",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 2,
+                "user_style": "titre_bulle_actu",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "value": "<p>C&eacute;r&eacute;monie du 11 novembre</p>",
+                "name_in_model": "MY206a1eb25e2c20a"
+               },
+               {
+                "$class": "WsTextarea",
+                "id": "Y996af494ba71bdd",
+                "properties": 2048,
+                "owner": {
+                 "$owner": "R"
+                },
+                "index": 3,
+                "user_style": "Texte_normal_align_gauche",
+                "more_classes": "",
+                "embedded_css_rules": "",
+                "value": {
+                 "$text": [
+                  "<p>Retrouvez les photos de la c&eacute;r&eacute;monie de comm&eacute;moration de l'Armistice.</p>\r",
+                  "<p>&nbsp;</p>\r",
+                  "<p><a href=\"https://www.baigneaux.fr/galerie-ceremonie-du-11-novembre-novembre-2026.html\">Lire la suite&nbsp;-&gt;</a></p>"
+                 ]
+                },
+                "name_in_model": "MY186a199894dc501"
+               }
+              ],
+              "href": "",
+              "name_in_model": "MZ276a1ad2da70980"
+             }
+            ]
+           },
+           {
+            "$class": "WsContainer",
+            "id": "Z1106aede6295e182",
+            "properties": 8208,
+            "owner": {
+             "$owner": "R"
+            },
+            "index": 1,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2277,7 +2455,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 1,
+            "index": 2,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2455,7 +2633,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 2,
+            "index": 3,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2633,7 +2811,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 3,
+            "index": 4,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2811,7 +2989,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 4,
+            "index": 5,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -2989,7 +3167,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 5,
+            "index": 6,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -3160,7 +3338,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 6,
+            "index": 7,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": null,
@@ -3338,7 +3516,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 7,
+            "index": 8,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -3516,7 +3694,7 @@
             "owner": {
              "$owner": "R"
             },
-            "index": 8,
+            "index": 9,
             "user_style": 0,
             "more_classes": null,
             "embedded_css_rules": "",
@@ -3686,184 +3864,6 @@
               "name_in_model": "MZ276a1ad2da70980"
              }
             ]
-           },
-           {
-            "$class": "WsContainer",
-            "id": "Z1106ae215f8011f2",
-            "properties": 8208,
-            "owner": {
-             "$owner": "R"
-            },
-            "index": 9,
-            "user_style": 0,
-            "more_classes": null,
-            "embedded_css_rules": "",
-            "valign": null,
-            "model_id": 0,
-            "contents": [
-             {
-              "$class": "WsContainer",
-              "id": "Z1116ae215f80127b",
-              "properties": 270336,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": "carte_actu",
-              "embedded_css_rules": "",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WsImage",
-                "id": "Y1126ae215f801304",
-                "properties": 4096,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": null,
-                "more_classes": "",
-                "embedded_css_rules": {
-                 "$text": [
-                  ".id_Y1126ae215f801304 {\r",
-                  "\tmargin-left: auto;\r",
-                  "\tmargin-right: auto;\r",
-                  "}\r"
-                 ]
-                },
-                "value": "vignette-collecte-dons-incendies-2026.jpg",
-                "caption": "",
-                "href": "",
-                "tooltip": "Dons collectés à la salle des fêtes",
-                "original_name": "vignette-collecte-dons-incendies-2026.jpg",
-                "in_gallery": "0",
-                "uploaded_image": "vignette-collecte-dons-incendies-2026.jpg",
-                "keep_format": "0",
-                "width": "200",
-                "height": "90",
-                "notFlexible": "0",
-                "name_in_model": "MY276a1ad396386f6"
-               },
-               {
-                "$class": "WsContainer",
-                "id": "Z1136ae215f80138d",
-                "properties": 8209,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": 0,
-                "more_classes": null,
-                "embedded_css_rules": "",
-                "valign": null,
-                "model_id": "",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z1146ae215f801416",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "id": "Y1156ae215f80149f",
-                    "properties": 264192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "bulle_actu_categorie_vie_communale",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "value": "<p>Vie communale</p>",
-                    "name_in_model": "MY236a1ea85d88b05"
-                   }
-                  ],
-                  "name_in_model": "MZ486a1ea85fc2a72"
-                 },
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z1166ae215f801528",
-                  "properties": 8208,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 1,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsTextarea",
-                    "id": "Y1176ae215f8015b1",
-                    "properties": 264192,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": "bulle_actu_date",
-                    "more_classes": "",
-                    "embedded_css_rules": "",
-                    "value": "<p>27 juil 2026</p>",
-                    "name_in_model": "MY236a1ea85fc04f7"
-                   }
-                  ],
-                  "name_in_model": "MZ496a1ea85fc2a83"
-                 }
-                ],
-                "name_in_model": "MZ246a1ea85fc052e"
-               },
-               {
-                "$class": "WsTextarea",
-                "id": "Y1186ae215f80163a",
-                "properties": 2048,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 2,
-                "user_style": "titre_bulle_actu",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "value": "<p>Collecte de dons pour les &eacute;vacu&eacute;s des incendies</p>",
-                "name_in_model": "MY206a1eb25e2c20a"
-               },
-               {
-                "$class": "WsTextarea",
-                "id": "Y1196ae215f8016c3",
-                "properties": 2048,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 3,
-                "user_style": "Texte_normal_align_gauche",
-                "more_classes": "",
-                "embedded_css_rules": "",
-                "value": {
-                 "$text": [
-                  "<p>Notre collecte pour les &eacute;vacu&eacute;s des incendies de l'ouest de la Gironde est termin&eacute;e : merci &agrave; tous !</p>\r",
-                  "<p>&nbsp;</p>\r",
-                  "<p><a href=\"https://www.baigneaux.fr/actualites.html#donsincendies2026\">Lire la suite -&gt;</a></p>"
-                 ]
-                },
-                "name_in_model": "MY186a199894dc501"
-               }
-              ],
-              "href": "",
-              "name_in_model": "MZ276a1ad2da70980"
-             }
-            ]
            }
           ]
          },
@@ -4016,159 +4016,7 @@
             "embedded_css_rules": "",
             "valign": null,
             "model_id": 0,
-            "contents": [
-             {
-              "$class": "WsContainer",
-              "id": "Z276a1ae2a6afd3b",
-              "properties": 270336,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": "carte_evenement",
-              "embedded_css_rules": "",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WsContainer",
-                "id": "Z276a1ae3b679a1c",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": 0,
-                "more_classes": "",
-                "embedded_css_rules": ".id_Z276a1ae3b679a1c {\r\n\tborder-width: 0px;\r\n}\r",
-                "valign": null,
-                "model_id": 0,
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z276a1ae3c389ab4",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": 0,
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "id": "Z556a1ae3c38af17",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z556a1ae3c38af17 {\r\n\twidth: 25%;\r\n}\r",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "id": "Y276a1ae2a433ca1",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "bulle_agenda",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "value": {
-                       "$text": [
-                        "<p><span style=\"font-size: 35px;\">8</span></p>\r",
-                        "<p><span style=\"font-size: 25px;\">NOV</span></p>"
-                       ]
-                      }
-                     }
-                    ]
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "id": "Z566a1ae3c38af22",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": "",
-                    "valign": null,
-                    "model_id": 0,
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "id": "Y276a1ae2d07266d",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "value": {
-                       "$text": [
-                        "<p><strong>March&eacute; des producteurs</strong></p>\r",
-                        "<p><strong>&nbsp;</strong></p>\r",
-                        "<p>🕒 9h - 13h</p>\r",
-                        "<p>&nbsp;📍 Salle des F&ecirc;tes</p>"
-                       ]
-                      }
-                     }
-                    ]
-                   }
-                  ]
-                 }
-                ],
-                "href": ""
-               },
-               {
-                "$class": "WsImage",
-                "id": "Y276a1ae31e828cb",
-                "properties": 4096,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": null,
-                "more_classes": "",
-                "embedded_css_rules": {
-                 "$text": [
-                  ".id_Y276a1ae31e828cb {\r",
-                  "\tmargin-left: auto;\r",
-                  "\tmargin-right: auto;\r",
-                  "\tpadding: 0px;\r",
-                  "}\r"
-                 ]
-                },
-                "value": "805936917_1685057420290196_4756351671686396280_n-e8f7.jpg",
-                "caption": "",
-                "href": "",
-                "tooltip": "Marché des producteurs devant la salle des fêtes",
-                "original_name": "805936917_1685057420290196_4756351671686396280_n.jpg",
-                "in_gallery": "0",
-                "uploaded_image": "805936917_1685057420290196_4756351671686396280_n-d618.jpg",
-                "keep_format": "0",
-                "width": "328",
-                "height": "236",
-                "notFlexible": "0"
-               }
-              ],
-              "href": ""
-             }
-            ]
+            "contents": []
            },
            {
             "$class": "WsContainer",
@@ -4183,168 +4031,7 @@
             "embedded_css_rules": "",
             "valign": null,
             "model_id": 0,
-            "contents": [
-             {
-              "$class": "WsContainer",
-              "id": "Z1516ae215f8027e6",
-              "properties": 270592,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": "carte_evenement",
-              "embedded_css_rules": "",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WsContainer",
-                "id": "Z1526ae215f80286f",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": 0,
-                "more_classes": "",
-                "embedded_css_rules": ".id_Z1526ae215f80286f {\r\n\tborder-width: 0px;\r\n}\r",
-                "valign": null,
-                "model_id": "",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z1536ae215f8028f8",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "id": "Z1546ae215f802982",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": "",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "id": "Y1556ae215f802a0b",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "bulle_agenda",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "value": {
-                       "$text": [
-                        "<p><span style=\"font-size: 35px;\">8</span></p>\r",
-                        "<p><span style=\"font-size: 25px;\">NOV</span></p>"
-                       ]
-                      },
-                      "name_in_model": "MY276a1adf2be1eb0"
-                     }
-                    ],
-                    "name_in_model": "MZ556a1ae3d022fc5"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "id": "Z1566ae215f802a94",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z1566ae215f802a94 {\r\n\twidth: 75%;\r\n}\r",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "id": "Y1576ae215f802b1d",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "value": {
-                       "$text": [
-                        "<p><strong>B&eacute;n&eacute;diction des tombes</strong></p>\r",
-                        "<p><span>&nbsp;</span></p>\r",
-                        "<p><span>🕒 14h30</span></p>\r",
-                        "<p><span>&nbsp;📍&nbsp;Cimeti&egrave;re, suivi d&rsquo;un caf&eacute;</span></p>"
-                       ]
-                      },
-                      "name_in_model": "MY2969cbcd658e93b"
-                     }
-                    ],
-                    "name_in_model": "MZ566a1ae3d022fd5"
-                   }
-                  ],
-                  "name_in_model": "MZ276a1ae3d020fec"
-                 }
-                ],
-                "name_in_model": "MZ276a1ae3cddfc85",
-                "href": ""
-               },
-               {
-                "$class": "WsImage",
-                "id": "Y1586ae215f802ba6",
-                "properties": 4096,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": null,
-                "more_classes": "",
-                "embedded_css_rules": {
-                 "$text": [
-                  ".id_Y1586ae215f802ba6 {\r",
-                  "\topacity: 0.97;\r",
-                  "\tmargin-left: auto;\r",
-                  "\tmargin-right: auto;\r",
-                  "\tpadding: 0px;\r",
-                  "}\r"
-                 ]
-                },
-                "value": "benediction-tombes-2026-6315.jpg",
-                "caption": "",
-                "href": "",
-                "tooltip": "Affiche de la bénédiction des tombes du 8 novembre 2026",
-                "original_name": "benediction-tombes-2026.jpg",
-                "in_gallery": "1",
-                "uploaded_image": "benediction-tombes-2026.jpg",
-                "keep_format": "0",
-                "width": "166",
-                "height": "249",
-                "notFlexible": "0",
-                "name_in_model": "MY2969cbce2d7ec49"
-               }
-              ],
-              "href": "",
-              "name_in_model": "MZ2969cbcd685cee6"
-             }
-            ]
+            "contents": []
            },
            {
             "$class": "WsContainer",
@@ -4359,168 +4046,7 @@
             "embedded_css_rules": "",
             "valign": null,
             "model_id": 0,
-            "contents": [
-             {
-              "$class": "WsContainer",
-              "id": "Z1606ae215f802cb8",
-              "properties": 270592,
-              "owner": {
-               "$owner": "R"
-              },
-              "index": 0,
-              "user_style": "Subdivision",
-              "more_classes": "carte_evenement",
-              "embedded_css_rules": "",
-              "valign": null,
-              "model_id": 0,
-              "contents": [
-               {
-                "$class": "WsContainer",
-                "id": "Z1616ae215f802d41",
-                "properties": 8192,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 0,
-                "user_style": 0,
-                "more_classes": "",
-                "embedded_css_rules": ".id_Z1616ae215f802d41 {\r\n\tborder-width: 0px;\r\n}\r",
-                "valign": null,
-                "model_id": "",
-                "contents": [
-                 {
-                  "$class": "WsContainer",
-                  "id": "Z1626ae215f802dca",
-                  "properties": 8209,
-                  "owner": {
-                   "$owner": "R"
-                  },
-                  "index": 0,
-                  "user_style": 0,
-                  "more_classes": null,
-                  "embedded_css_rules": "",
-                  "valign": null,
-                  "model_id": "",
-                  "contents": [
-                   {
-                    "$class": "WsContainer",
-                    "id": "Z1636ae215f802e53",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 0,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": "",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "id": "Y1646ae215f802edc",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "bulle_agenda",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "value": {
-                       "$text": [
-                        "<p><span style=\"font-size: 35px;\">11</span></p>\r",
-                        "<p><span style=\"font-size: 25px;\">NOV</span></p>"
-                       ]
-                      },
-                      "name_in_model": "MY276a1adf2be1eb0"
-                     }
-                    ],
-                    "name_in_model": "MZ556a1ae3d022fc5"
-                   },
-                   {
-                    "$class": "WsContainer",
-                    "id": "Z1656ae215f802f66",
-                    "properties": 8208,
-                    "owner": {
-                     "$owner": "R"
-                    },
-                    "index": 1,
-                    "user_style": 0,
-                    "more_classes": null,
-                    "embedded_css_rules": ".id_Z1656ae215f802f66 {\r\n\twidth: 75%;\r\n}\r",
-                    "valign": null,
-                    "model_id": "",
-                    "contents": [
-                     {
-                      "$class": "WsTextarea",
-                      "id": "Y1666ae215f802fef",
-                      "properties": 264192,
-                      "owner": {
-                       "$owner": "R"
-                      },
-                      "index": 0,
-                      "user_style": "Texte_normal_align_gauche",
-                      "more_classes": "",
-                      "embedded_css_rules": "",
-                      "value": {
-                       "$text": [
-                        "<p><strong>Comm&eacute;moration du 11 novembre</strong></p>\r",
-                        "<p><span>&nbsp;</span></p>\r",
-                        "<p><span>🕒 10h30 devant l&rsquo;&eacute;cole</span></p>\r",
-                        "<p><span>&nbsp;📍&nbsp;11h au monument aux morts</span></p>"
-                       ]
-                      },
-                      "name_in_model": "MY2969cbcd658e93b"
-                     }
-                    ],
-                    "name_in_model": "MZ566a1ae3d022fd5"
-                   }
-                  ],
-                  "name_in_model": "MZ276a1ae3d020fec"
-                 }
-                ],
-                "name_in_model": "MZ276a1ae3cddfc85",
-                "href": ""
-               },
-               {
-                "$class": "WsImage",
-                "id": "Y1676ae215f803078",
-                "properties": 4096,
-                "owner": {
-                 "$owner": "R"
-                },
-                "index": 1,
-                "user_style": null,
-                "more_classes": "",
-                "embedded_css_rules": {
-                 "$text": [
-                  ".id_Y1676ae215f803078 {\r",
-                  "\topacity: 0.97;\r",
-                  "\tmargin-left: auto;\r",
-                  "\tmargin-right: auto;\r",
-                  "\tpadding: 0px;\r",
-                  "}\r"
-                 ]
-                },
-                "value": "armistice-11-novembre-2026-67c8.jpg",
-                "caption": "",
-                "href": "",
-                "tooltip": "Invitation à la commémoration de l’Armistice du 11 novembre 2026",
-                "original_name": "armistice-11-novembre-2026.jpg",
-                "in_gallery": "1",
-                "uploaded_image": "armistice-11-novembre-2026.jpg",
-                "keep_format": "0",
-                "width": "166",
-                "height": "224",
-                "notFlexible": "0",
-                "name_in_model": "MY2969cbce2d7ec49"
-               }
-              ],
-              "href": "",
-              "name_in_model": "MZ2969cbcd685cee6"
-             }
-            ]
+            "contents": []
            },
            {
             "$class": "WsContainer",
