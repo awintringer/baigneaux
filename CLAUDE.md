@@ -5,6 +5,8 @@ et docs/FORMAT.md). Langue de travail : français.
 
 - Toujours partir d'un export frais : `python3 tools/unpack.py imports/<export>.ws_data`, puis
   commit « Export du … » avant toute modification. Une archive remplace TOUTE la base à l'import.
+- Branches : `main` est la référence (dev = `main` importé). Une modification = un commit sur `main` après export frais ;
+  les branches de travail se fusionnent sur `main` et se suppriment.
 - Ne jamais committer `secrets/` ni un `ws_preferences.php` contenant un hash (dépôt public).
   `site/data/ws_preferences.php` doit contenir `__WS_PWD__`.
 - Après modification : vérifier en local (`tools/local/setup.sh` si l'instance n'existe pas,
@@ -30,8 +32,10 @@ et docs/FORMAT.md). Langue de travail : français.
   tuiles vers chaque page, à compléter à la main quand une page est ajoutée (docs/RUBRIQUES.md).
 - Accueil : cartes `carte_actu` (10 dernières, plus récente en premier) et `carte_evenement`
   (toutes, ordre chronologique) ; chaque actu a aussi sa fiche sur la page Actualités (ancre unique).
-- Galerie : un album = une page sous p325 ; en ajouter un avec `python3 tools/album.py DOSSIER --titre … --date …`
-  (voir docs/GALERIE.md), jamais en recopiant des images à la main dans le sommaire.
+- Galerie : un album = une page sous p325 ; en ajouter un avec `python3 tools/album.py DOSSIER --titre … --date …`,
+  y ajouter des photos avec `--completer SLUG` (voir docs/GALERIE.md), jamais en recopiant des images à la main dans le sommaire.
+- Images « En galerie » (`in_gallery` = 1, cliquables) : ne jamais changer leur forme en CSS (`object-fit`,
+  `aspect-ratio`, largeur + hauteur fixes) ni les recadrer, la visionneuse les déformerait (docs/GALERIE.md).
 - Textes alternatifs = champ `tooltip` des WsImage (sinon WebSiCo affiche le nom de fichier).
 - CSS : `python3 tools/check_css.py` doit passer (pas de commentaires, styles nommés simples,
   le reste en un bloc `@media` par règle) ; sinon l'éditeur WYSIWYG de WebSiCo est cassé.

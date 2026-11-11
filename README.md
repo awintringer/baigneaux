@@ -23,7 +23,7 @@ site/
   layout.json             ordre des instructions du dump SQL
   zipmeta.json            métadonnées de l'archive d'origine (ordre, dates, empreintes)
 tools/                    outils (Python 3, aucune dépendance sauf Pillow pour album.py ; PHP pour check_dump.php)
-docs/                     audit, format des données
+docs/                     audit, format des données, revues (COULEURS, COHERENCE), rubriques, galerie
 ```
 
 ## Flux de travail
@@ -94,6 +94,7 @@ et le remplace par `__WS_PWD__` dans le dépôt. Le dépôt étant public, ce fi
 | `tools/local/responsive_check.js` | audit débordements / images cassées sur toutes les pages, 4 largeurs |
 | `tools/outline.py` | plan lisible d'une page (`--css` pour le CSS embarqué) |
 | `tools/audit.py` | audit statique (styles, CSS, liens, images) |
+| `docs/DIAPORAMA_ACCUEIL.md` | étude : diaporama dans le cadre « Bienvenue » de l'accueil |
 | `tools/album.py` | ajoute un album photo à la galerie : vignettes, page de l'album, carte au sommaire (docs/GALERIE.md) |
 | `tools/check_dump.php` | vérifie un dump avec `unserialize()` de PHP |
 | `tools/wsdata.py`, `tools/codec.py` | bibliothèque : dump SQL, sérialisation PHP, codec JSON |

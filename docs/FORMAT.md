@@ -55,6 +55,9 @@ Propriétés utiles : `id`, `user_style` (→ classe CSS `<classe>_<style>`, ex.
 - **Modèles** : un conteneur avec `model_id` est **remplacé au chargement** par le contenu du
   modèle (`ApplyModel`). Les copies d'en-tête/pied dans chaque page sont donc des caches : pour
   changer l'en-tête partout, on modifie le modèle.
+  **Constaté le 04/11/2026** : à l'affichage public, c'est la copie stockée dans la page qui est
+  rendue (la page Patrimoine affichait un fil d'Ariane périmé). Après modification d'un modèle,
+  mettre aussi à jour ses copies dans les pages (cf. `tools/oneoff/2026-10-29_menu_horizontal.py`).
 - **Rendu** : une rangée horizontale est un `div.wssystemcontainer.H.hDepthN` dont les enfants
   `div` sont les colonnes ; la classe utilisateur (`user_style`, `more_classes`) est portée par le
   `WsContainer` englobant. C'est l'accroche pour du CSS sur mesure (ex. défilement horizontal).

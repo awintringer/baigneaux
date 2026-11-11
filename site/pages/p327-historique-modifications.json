@@ -348,15 +348,15 @@
                   "$class": "WsImage",
                   "caption": "",
                   "href": "",
-                  "tooltip": "Armoiries de Baigneaux",
-                  "original_name": "armoiries.png",
+                  "tooltip": "Logo de Baigneaux",
+                  "original_name": "logo-baigneaux-mobile.png",
                   "in_gallery": "0",
-                  "uploaded_image": "armoiries.png",
+                  "uploaded_image": "logo-baigneaux-mobile.png",
                   "keep_format": "0",
-                  "width": "55",
+                  "width": "57",
                   "height": "60",
                   "notFlexible": "0",
-                  "value": "armoiries-7e86.png",
+                  "value": "logo-baigneaux-mobile.png",
                   "id": "Y2486ae37cce5a0fc",
                   "properties": 266240,
                   "owner": {
@@ -765,7 +765,8 @@
                       "value": {
                        "$text": [
                         "<p>- Galerie&nbsp;: nouvel album &laquo;&nbsp;C&eacute;r&eacute;monie du 11 novembre&nbsp;&raquo; (24 photos) et actualit&eacute; correspondante sur l'accueil</p>\r",
-                        "<p>- &Eacute;v&egrave;nements&nbsp;: retrait des &eacute;v&egrave;nements pass&eacute;s du 8 et du 11 novembre</p>"
+                        "<p>- &Eacute;v&egrave;nements&nbsp;: retrait des &eacute;v&egrave;nements pass&eacute;s du 8 et du 11 novembre</p>\r",
+                        "<p>- Vue mobile&nbsp;: le logo de Baigneaux remplace l'ancien blason dans l'en-t&ecirc;te</p>"
                        ]
                       },
                       "id": "Y1066af494ba71f9d",
