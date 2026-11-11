@@ -3,6 +3,7 @@
 
     python3 tools/album.py DOSSIER --titre "Fête du village" --date "20 septembre 2026"
                            [--couverture IMG_1234.jpg] [--position 0]
+    python3 tools/album.py DOSSIER --completer SLUG     (ajoute des photos à un album existant)
 
 Pour chaque photo du dossier (ordre alphabétique, donc chronologique pour les noms WhatsApp) :
   - grande version (1600 px max, rotation EXIF appliquée) : ouverte en plein écran au clic ;
@@ -20,7 +21,7 @@ Ensuite : vérification locale, build, import sur le dev (voir CLAUDE.md).
 """
 import sys, os, re, json, glob, copy, time, unicodedata, argparse
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from sitelib import Page, new_id, set_text, ent, SITE
+from sitelib import Page, new_id, set_text, ent, T, SITE
 from PIL import Image, ImageOps
 
 SOMMAIRE = 'p325-galerie-evenements'
@@ -190,14 +191,48 @@ def ajouter_album(sources, titre, date='', couverture=None, position=0, slug=Non
     som.save()
     return pid, url
 
+def completer_album(slug, sources, alts=None):
+    """Ajoute des photos (fin de l'album) à un album existant : grille de l'album, compteurs de
+    la page et de la carte du sommaire. Renvoie le nombre total de photos."""
+    cands = glob.glob(f'{SITE}/pages/p*-galerie-{slug}.json')
+    if not cands: raise SystemExit(f'album introuvable : galerie-{slug}')
+    page = Page(os.path.basename(cands[0])[:-5])
+    grille = next(n for n in page.find(lambda n: 'album_grille' in (n.get('more_classes') or '')))
+    titre = next(n for n in page.find(lambda n: n.get('$class') == 'WssTitle' and n.get('user_style') == 'Title'))['value']
+    deja = len(grille['contents'])
+    for i, src in enumerate(sources, deja + 1):
+        large, thumb = make_images(src, slug, i)
+        alt = alts[i - deja - 1] if alts else f'{titre} – photo {i}'
+        grille['contents'].append(image(thumb, large, alt, (VIGNETTE, VIGNETTE), classes='photo_album'))
+    Page.reindex(grille)
+    total = len(grille['contents'])
+    def maj(node):
+        v = T(node.get('value')); nv = re.sub(r'\d+ photos?', f'{total} photo{"s" if total > 1 else ""}', v)
+        if nv != v: set_text(node, 'value', nv)
+    for n in page.find(lambda n: 'album_nav' in (n.get('more_classes') or '')): maj(n)
+    page.save()
+    som = Page(SOMMAIRE); url = f'galerie-{slug}.html'
+    carte_ = next(n for n in som.find(lambda n: 'carte_album' in (n.get('more_classes') or '') and n.get('href', '').endswith(url)))
+    for n, _ in Page._walk_static(carte_):
+        if n.get('$class') == 'WsTextarea': maj(n)
+    som.save()
+    return total
+
 # ---------------------------------------------------------------- CLI
 if __name__ == '__main__':
     ap = argparse.ArgumentParser(description=__doc__.split('\n')[0])
-    ap.add_argument('dossier'); ap.add_argument('--titre', required=True); ap.add_argument('--date', default='')
+    ap.add_argument('dossier'); ap.add_argument('--completer', metavar='SLUG',
+                    help='ajoute les photos du dossier à l’album existant galerie-SLUG (pas de --titre)')
+    ap.add_argument('--titre'); ap.add_argument('--date', default='')
     ap.add_argument('--couverture', help='nom du fichier de couverture (défaut : la première photo)')
     ap.add_argument('--position', type=int, default=0, help='place de la carte dans le sommaire (0 = première)')
     ap.add_argument('--nom', help='nom court de la page (fil d’Ariane, 45 caractères max ; défaut : le titre)')
     a = ap.parse_args()
+    if a.completer:
+        srcs = sorted(f for f in glob.glob(os.path.join(a.dossier, '*')) if f.lower().endswith(EXTS))
+        if not srcs: raise SystemExit('aucune photo dans ' + a.dossier)
+        print(f'{a.completer} : +{len(srcs)} photos, {completer_album(a.completer, srcs)} au total'); raise SystemExit
+    if not a.titre: ap.error('--titre est requis')
     srcs = sorted(f for f in glob.glob(os.path.join(a.dossier, '*')) if f.lower().endswith(EXTS))
     if not srcs: raise SystemExit('aucune photo dans ' + a.dossier)
     cov = os.path.join(a.dossier, a.couverture) if a.couverture else None

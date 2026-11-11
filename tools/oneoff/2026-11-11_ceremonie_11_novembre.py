@@ -3,7 +3,7 @@
 
   - album photo : créé avant ce script avec
       python3 tools/album.py PHOTOS --titre "Cérémonie du 11 novembre" --date "11 novembre 2026" \
-          --couverture IMG_20261111_111152.jpg      (page p342, 14 photos)
+          --couverture IMG_20261111_111152.jpg      (page p342, 14 photos, puis 10 ajoutées avec album.py --completer)
   - accueil : nouvelle carte d'actu en tête (Vie communale, lien direct vers l'album, comme les
     actus « Fête du village » et « Maïade » : pas de fiche sur la page Actualités) ; la plus ancienne
     carte (27 juil., collecte de dons) sort des « 10 dernières », sa fiche reste sur Actualités ;
@@ -79,7 +79,7 @@ nouveau = v.clone(bloc)
 nt = next(n for n, _ in v.walk(nouveau) if n.get('$class') == 'WssTitle'); nt['value'] = '11 novembre 2026'
 nx = next(n for n, _ in v.walk(nouveau) if n.get('$class') == 'WsTextarea')
 set_text(nx, 'value', CR.join([
-    '<p>- Galerie&nbsp;: nouvel album &laquo;&nbsp;C&eacute;r&eacute;monie du 11 novembre&nbsp;&raquo; (14 photos) et actualit&eacute; correspondante sur l\'accueil</p>',
+    '<p>- Galerie&nbsp;: nouvel album &laquo;&nbsp;C&eacute;r&eacute;monie du 11 novembre&nbsp;&raquo; (24 photos) et actualit&eacute; correspondante sur l\'accueil</p>',
     '<p>- &Eacute;v&egrave;nements&nbsp;: retrait des &eacute;v&egrave;nements pass&eacute;s du 8 et du 11 novembre</p>']))
 par = v.parents(bloc)[-1]
 v.insert(par, nouveau, par['contents'].index(bloc))
